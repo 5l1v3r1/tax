@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-9"?>
+<kodlar>
+<!--
+	Ref : GTIP		GTIPKodlari/data/kod
+	Ref : IST		istisnaKodlari/data/kod
+	Ref : IND		indirimKodlari/data/kod
+	Ref : TUT		tutunOranlari/tutunOrani/kod
+-->
+<GTIPKodlari>
+<data>
+	<kod>2402.10.00.00.00</kod>
+	<malAdi>Tütün içeren purolar, uçları açık purolar ve sigarillolar</malAdi>
+</data>
+<data>
+	<kod>2402.20</kod>
+	<malAdi>Tütün içeren sigaralar</malAdi>
+</data>
+<data>
+	<kod>2402.90.00.00.00</kod>
+	<malAdi>Diğerleri (Tütün yerine geçen maddelerden yapılmış purolar, uçları açık purolar, sigarillolar ve sigaralar)</malAdi>
+</data>
+<data>
+	<kod>2403.10</kod>
+	<malAdi>İçilen tütün (Herhangi bir oranda tütün yerine geçen maddeleri içersin içermesin) (2403.10.10.00.19 ve 2403.10.90.00.19 hariç)
+</malAdi>
+</data>
+<data>
+	<kod>2403.10.10.00.19</kod>
+	<malAdi>Diğerleri (Net muhtevası 500 gramı geçmeyen ambalajlarda)</malAdi>
+</data>
+<data>
+	<kod>2403.10.90.00.19</kod>
+	<malAdi>Diğerleri (Net muhtevası 500 gramı geçen ambalajlarda)</malAdi>
+</data>
+<data>
+	<kod>2403.99.10.00.00</kod>
+	<malAdi>Enfiye ve çiğnemeye mahsus tütün</malAdi>
+</data>
+</GTIPKodlari>
+<istisnaKodlari>
+	<data>
+		<kod>101</kod>
+		<ad>İhracat İstisnası</ad>
+	</data>
+	<data>
+		<kod>102</kod>
+		<ad>Diplomatik İstisna</ad>
+	</data>
+	<data>
+		<kod>105</kod>
+		<ad>Uluslararası Anlaşmadan Doğan İstisna</ad>
+	</data>
+</istisnaKodlari>
+<indirimKodlari>
+	<data>
+		<kod>301</kod>
+		<ad>Satıştan İade</ad>
+	</data>
+	<data>
+		<kod>302</kod>
+		<ad>İşlemi Gerçekleşmeyen</ad>
+	</data>
+	<data>
+		<kod>303</kod>
+		<ad>Aynı Listedeki Malın İmalatta Kullanılması</ad>
+	</data>
+</indirimKodlari>
+<tutunOranlari>
+<tutunOrani>
+	<kod>1</kod>
+	<aciklama>1.Grup(0-%33)</aciklama>
+</tutunOrani>
+<tutunOrani>
+	<kod>2</kod>
+	<aciklama>2.Grup(%34-%66)</aciklama>
+</tutunOrani>
+<tutunOrani>
+	<kod>3</kod>
+	<aciklama>3.Grup(%67-%100)</aciklama>
+</tutunOrani>
+</tutunOranlari>
+</kodlar>

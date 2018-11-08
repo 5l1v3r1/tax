@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-9"?>
+<kodlar>
+<!--
+	Ref : GTIP		GTIPKodlari/data/kod
+	Ref : IST		istisnaKodlari/data/kod
+	Ref : IND		indirimKodlari/data/kod
+-->
+<GTIPKodlari>
+	<data>
+		<kod>2202.10.00.00.13</kod>
+		<malAdi>Kolalı gazozlar</malAdi>
+	</data>
+</GTIPKodlari>
+<istisnaKodlari>
+	<data>
+		<kod>101</kod>
+		<ad>İhracat İstisnası</ad>
+	</data>
+	<data>
+		<kod>102</kod>
+		<ad>Diplomatik İstisna</ad>
+	</data>
+	<data>
+		<kod>105</kod>
+		<ad>Uluslararası Anlaşmadan Doğan İstisna</ad>
+	</data>
+</istisnaKodlari>
+<indirimKodlari>
+	<data>
+		<kod>301</kod>
+		<ad>Satıştan İade</ad>
+	</data>
+	<data>
+		<kod>302</kod>
+		<ad>İşlemi Gerçekleşmeyen</ad>
+	</data>
+	<data>
+		<kod>303</kod>
+		<ad>Aynı Listedeki Malın İmalatta Kullanılması</ad>
+	</data>
+</indirimKodlari>
+</kodlar>

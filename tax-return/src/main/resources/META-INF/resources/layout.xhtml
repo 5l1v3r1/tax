@@ -1,0 +1,98 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:pe="http://primefaces.org/ui/extensions"
+	xmlns:p="http://primefaces.org/ui">
+
+<h:head>
+	<h:outputStylesheet library="css" name="style.css" />
+	<h:outputStylesheet name="layout-dark-blue.css"
+		library="barcelona-layout/css" />
+	<f:facet name="first">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport"
+			content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+	</f:facet>
+
+	<h:outputScript name="js/nanoscroller.js" library="barcelona-layout" />
+	<h:outputScript name="js/layout.js" library="barcelona-layout" />
+	<h:outputScript name="js/ripple.js" library="barcelona-layout" />
+
+	<style>
+.error {
+	padding: 15px;
+	margin-bottom: 20px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	color: #a94442;
+	background-color: #f2dede;
+	border-color: #ebccd1;
+}
+
+.msg {
+	padding: 15px;
+	margin-bottom: 20px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	color: #31708f;
+	background-color: #d9edf7;
+	border-color: #bce8f1;
+}
+
+#login-box {
+	width: 300px;
+	padding: 20px;
+	margin: 100px auto;
+	background: #fff;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border: 1px solid #000;
+}
+</style>
+
+	<ui:insert name="head" />
+</h:head>
+
+<h:body styleClass="main-body">
+	<div class="layout-wrapper">
+		<div id="header">
+			<ui:insert name="header">
+				<ui:include src="header.xhtml" />
+			</ui:insert>
+		</div>
+
+		<div id="container">
+			<div id="menu">
+				<ui:insert name="menu">
+					<ui:include src="menu.xhtml" />
+				</ui:insert>
+			</div>
+
+			<div id="mainContainer">
+				<div>
+					<p:growl id="msg" showDetail="true" escape="false" />
+				</div>
+				<div>
+					<ui:insert name="content" />
+				</div>
+			</div>
+		</div>
+
+		<div id="footer">
+			<ui:insert name="footer">
+				<ui:include src="footer.xhtml" />
+			</ui:insert>
+		</div>
+	</div>
+
+	<h:outputStylesheet name="css/nanoscroller.css"
+		library="barcelona-layout" />
+	<h:outputStylesheet name="css/animate.css" library="barcelona-layout" />
+	<h:outputStylesheet name="css/ripple.css" library="barcelona-layout" />
+	<h:outputStylesheet name="layout-dark-blue.css"
+		library="barcelona-layout/css" />
+</h:body>
+</html>

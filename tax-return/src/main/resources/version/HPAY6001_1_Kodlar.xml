@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-9"?>
+<kodlar>
+	<aracSiniflari>
+		<aracSinifi>
+			<kod>1</kod>
+			<ad>1. Sınıf</ad>
+		</aracSinifi>
+		<aracsinifi>
+			<kod>2</kod>
+			<ad>2. Sınıf</ad>
+		</aracsinifi>
+		<aracsinifi>
+			<kod>3</kod>
+			<ad>3. Sınıf</ad>
+		</aracsinifi>
+		<aracsinifi>
+			<kod>4</kod>
+			<ad>4. Sınıf</ad>
+		</aracsinifi>
+		<aracsinifi>
+			<kod>5</kod>
+			<ad>5. Sınıf</ad>
+		</aracsinifi>
+		<aracsinifi>
+			<kod>6</kod>
+			<ad>6. Sınıf</ad>
+		</aracsinifi>
+	</aracSiniflari>
+</kodlar>

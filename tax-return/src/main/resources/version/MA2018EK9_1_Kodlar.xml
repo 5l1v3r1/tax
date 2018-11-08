@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<asgariMatrahlar>
+		<data><yil>2013</yil><asgariMatrah>9048.00</asgariMatrah><oran1>6</oran1><oran2>15</oran2></data>
+		<data><yil>2014</yil><asgariMatrah>9578.00</asgariMatrah><oran1>5</oran1><oran2>15</oran2></data>
+		<data><yil>2015</yil><asgariMatrah>10172.00</asgariMatrah><oran1>4</oran1><oran2>15</oran2></data>
+		<data><yil>2016</yil><asgariMatrah>10818.00</asgariMatrah><oran1>3</oran1><oran2>15</oran2></data>
+		<data><yil>2017</yil><asgariMatrah>12263.00</asgariMatrah><oran1>2</oran1><oran2>15</oran2></data>
+	</asgariMatrahlar>
+</kodlar>

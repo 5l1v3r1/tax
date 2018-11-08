@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<mukellefiyetTurleri>
+		<mukellefiyetTuru>
+			<kod>101</kod>
+			<aciklama>Ticari veya Zirai Kazancı Bilanço Esasına Göre Tespit Edilen Gelir Vergisi Mükellefiyim. (Beyana tabi diğer gelir unsurları bulunanlar dahil)</aciklama>
+			<kisaltma>Bilanço</kisaltma>
+			<asgariMatrah2013>18095.00</asgariMatrah2013>
+			<asgariMatrah2014>19155.00</asgariMatrah2014>
+			<asgariMatrah2015>20344.00</asgariMatrah2015>
+			<asgariMatrah2016>21636.00</asgariMatrah2016>
+			<asgariMatrah2017>24525.00</asgariMatrah2017>
+		</mukellefiyetTuru>
+		<mukellefiyetTuru>
+			<kod>102</kod>
+			<aciklama>Ticari veya Zirai Kazancı İşletme Hesabı Esasına Göre Tespit Edilen Gelir Vergisi Mükellefiyim.(Beyana tabi diğer gelir unsurları bulunanlar dahil)</aciklama>
+			<kisaltma>İşl. Hes.</kisaltma>
+			<asgariMatrah2013>12279.00</asgariMatrah2013>
+			<asgariMatrah2014>12783.00</asgariMatrah2014>
+			<asgariMatrah2015>13558.00</asgariMatrah2015>
+			<asgariMatrah2016>14424.00</asgariMatrah2016>
+			<asgariMatrah2017>16350.00</asgariMatrah2017>
+		</mukellefiyetTuru>
+		<mukellefiyetTuru>
+			<kod>103</kod>
+			<aciklama>Serbest Meslek Erbabıyım.(Beyana tabi diğer gelir unsurları bulunanlar dahil)</aciklama>
+			<kisaltma>Serb. Mesl.</kisaltma>
+			<asgariMatrah2013>18095.00</asgariMatrah2013>
+			<asgariMatrah2014>19155.00</asgariMatrah2014>
+			<asgariMatrah2015>20344.00</asgariMatrah2015>
+			<asgariMatrah2016>21636.00</asgariMatrah2016>
+			<asgariMatrah2017>24525.00</asgariMatrah2017>
+		</mukellefiyetTuru>
+		<mukellefiyetTuru>
+			<kod>104</kod>
+			<aciklama>Geliri Sadece Basit Usulde Tespit Edilen Ticari Kazançtan İbaret Olan Gelir Vergisi Mükellefiyim.</aciklama>
+			<kisaltma>Basit Usl</kisaltma>
+			<asgariMatrah2013>1810.00</asgariMatrah2013>
+			<asgariMatrah2014>1916.00</asgariMatrah2014>
+			<asgariMatrah2015>2034.00</asgariMatrah2015>
+			<asgariMatrah2016>2164.00</asgariMatrah2016>
+			<asgariMatrah2017>2453.00</asgariMatrah2017>
+		</mukellefiyetTuru>
+		<mukellefiyetTuru>
+			<kod>105</kod>
+			<aciklama>Geliri Sadece GMSİ'dan Oluşan Gelir Vergisi Mükellefiyim.</aciklama>
+			<kisaltma>GMSİ</kisaltma>
+			<asgariMatrah2013>3619.00</asgariMatrah2013>
+			<asgariMatrah2014>3831.00</asgariMatrah2014>
+			<asgariMatrah2015>4069.00</asgariMatrah2015>
+			<asgariMatrah2016>4327.00</asgariMatrah2016>
+			<asgariMatrah2017>4905.00</asgariMatrah2017>
+		</mukellefiyetTuru>
+		<mukellefiyetTuru>
+			<kod>106</kod>
+			<aciklama>Diğer Gelir Unsurlarının Biri veya Birkaçı Nedeniyle Beyanname Veren Gelir Vergisi Mükellefiyim. (Diğer Gelir Unsurları İle Birlikte Basit Usulde Ticari Kazanç veya GMSİ Elde Eden Mükellefler Dahil)</aciklama>
+			<kisaltma>Diğer</kisaltma>
+			<asgariMatrah2013>12279.00</asgariMatrah2013>
+			<asgariMatrah2014>12783.00</asgariMatrah2014>
+			<asgariMatrah2015>13558.00</asgariMatrah2015>
+			<asgariMatrah2016>14424.00</asgariMatrah2016>
+			<asgariMatrah2017>16350.00</asgariMatrah2017>
+		</mukellefiyetTuru>
+	</mukellefiyetTurleri>
+	<artirimOranlari>
+            <artirimOrani><yil>2013</yil><oran>35</oran></artirimOrani>
+            <artirimOrani><yil>2014</yil><oran>30</oran></artirimOrani>
+            <artirimOrani><yil>2015</yil><oran>25</oran></artirimOrani>
+            <artirimOrani><yil>2016</yil><oran>20</oran></artirimOrani>
+            <artirimOrani><yil>2017</yil><oran>15</oran></artirimOrani>
+	</artirimOranlari>
+
+	<vergiOranlari>
+		<vergiOrani><oran>20</oran></vergiOrani>
+		<vergiOrani><oran>15</oran></vergiOrani>
+	</vergiOranlari>
+</kodlar>

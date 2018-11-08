@@ -1,0 +1,32 @@
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:c="http://java.sun.com/jsp/jstl/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:p="http://primefaces.org/ui"
+	xmlns:fn="http://java.sun.com/jsp/jstl/functions"
+	xmlns:rf="http://com.softactive.faces.util/functions"
+	xmlns:pa="http://primefaces.org/barcelona">
+
+	<h:form>
+		<p:menu toggleable="true">
+			<p:menuitem value="Ana Sayfa" action="home.xhtml?faces_redirect=true"
+				icon="ui-icon-home" />
+
+			<p:submenu label="Düzenle">
+				<p:menuitem value="Firmalar"
+					action="company.xhtml?faces_redirect=true"
+					icon="ui-icon-arrowrefresh-1-w" />
+				<p:menuitem value="Geçerli Beyannameler"
+					action="subject_version.xhtml?faces_redirect=true" icon="ui-icon-disk" />
+				<p:menuitem value="Risk Factor"
+					action="risk_factor.xhtml?faces_redirect=true" ajax="false"
+					icon="ui-icon-arrowrefresh-1-w" />
+			</p:submenu>
+			<p:submenu label="Beyan">
+				<p:menuitem value="Ekle" action="data.xhtml?faces_redirect=true"
+					ajax="false" icon="ui-icon-arrowrefresh-1-w" />
+			</p:submenu>
+		</p:menu>
+	</h:form>
+</ui:composition>

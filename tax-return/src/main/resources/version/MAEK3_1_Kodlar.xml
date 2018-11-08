@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<artirimOranlari>
+		<data><yil>2006</yil><oran>30</oran></data>
+		<data><yil>2007</yil><oran>25</oran></data>
+		<data><yil>2008</yil><oran>20</oran></data>
+	</artirimOranlari>
+	<asgariMatrahlar>
+		<data><yil>2006</yil><asgariMatrah>9555.00</asgariMatrah></data>
+		<data><yil>2007</yil><asgariMatrah>10325.00</asgariMatrah></data>
+		<data><yil>2008</yil><asgariMatrah>11220.00</asgariMatrah></data>
+	</asgariMatrahlar>
+</kodlar>

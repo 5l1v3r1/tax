@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: YO_OT odemeTurleri/odemeTuru/kod
+-->
+<odemeTurleri>
+	<odemeTuru><kod>4063</kod><aciklama>4063 Harç</aciklama></odemeTuru>
+	<odemeTuru><kod>1049</kod><aciklama>1049 Noterler Tarafından Tahsil Edilen Damga Vergisi</aciklama></odemeTuru>
+	<odemeTuru><kod>9070</kod><aciklama>9070 Değerli Kağıt Bedeli</aciklama></odemeTuru>
+	<odemeTuru><kod>9146</kod><aciklama>9146 Motorlu Araç Trafik Belgesi Bedeli(*)</aciklama></odemeTuru>
+	<odemeTuru><kod>9147</kod><aciklama>9147 Motorlu Araç Tescil Belgesi Bedeli(*)</aciklama></odemeTuru>
+</odemeTurleri>
+
+<turKodlari>
+	<turKodu>
+		<kod>101</kod>
+		<grup>Belli parayı ihtiva eden kağıtlar</grup>
+		<aciklama>Mukavelenameler</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>102</kod>
+		<grup>Belli parayı ihtiva eden kağıtlar</grup>
+		<aciklama>Taahhütnameler</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>103</kod>
+		<grup>Belli parayı ihtiva eden kağıtlar</grup>
+		<aciklama>Temliknameler</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>104</kod>
+		<grup>Belli parayı ihtiva eden kağıtlar</grup>
+		<aciklama>Kira mukavelenameleri (Mukavele süresine göre kira bedeli üzerinden)</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>105</kod>
+		<grup>Belli parayı ihtiva eden kağıtlar</grup>
+		<aciklama>Kefalet senetleri</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>106</kod>
+		<grup>Belli parayı ihtiva eden kağıtlar</grup>
+		<aciklama>Teminat senetleri</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>107</kod>
+		<grup>Belli parayı ihtiva eden kağıtlar</grup>
+		<aciklama>Rehin senetleri</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>108</kod>
+		<grup>Belli parayı ihtiva eden kağıtlar</grup>
+		<aciklama>Tahkimnameler</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>109</kod>
+		<grup>Belli parayı ihtiva eden kağıtlar</grup>
+		<aciklama>Sulhnameler</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>110</kod>
+		<grup>Belli parayı ihtiva eden kağıtlar</grup>
+		<aciklama>Fesihnameler (Belli parayı ihtiva eden bir kağıda taalluk edenler dahil)</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>111</kod>
+		<grup>Belli parayı ihtiva eden kağıtlar</grup>
+		<aciklama>Karayolları Trafik Kanunu uyarınca kayıt ve tescil edilmiş ikinci el araçların satış ve devrine ilişkin sözleşmeler</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>120</kod>
+		<grup>Belli parayı ihtiva etmeyen kağıtlar</grup>
+		<aciklama>Tahkimnameler</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>121</kod>
+		<grup>Belli parayı ihtiva etmeyen kağıtlar</grup>
+		<aciklama>Sulhnameler</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>122</kod>
+		<grup>Belli parayı ihtiva etmeyen kağıtlar</grup>
+		<aciklama>Turizm işlet. ile Sey. Acente. aralarında düz. kontenjan sözleş (Belli parayı ihtiva edenler dahil)</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>201</kod>
+		<grup>Kararlar ve mazbatalar</grup>
+		<aciklama>Belli parayı ihtiva eden meclislerden, resmi heyetlerden ve idari davalarla ilgili olmayarak Danıştaydan verilen mazbata, ilam ve kararlarla hakem kararları</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>202</kod>
+		<grup>Kararlar ve mazbatalar</grup>
+		<aciklama>Belli parayı ihtiva etmeyen meclislerden, resmi heyetlerden ve idari davalarla ilgili olmayarak Danıştaydan verilen mazbata, ilam ve kararlarla hakem kararları</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>203</kod>
+		<grup>Kararlar ve mazbatalar</grup>
+		<aciklama>İhale kanunlarına tabi olan veya olmayan resmi daire ve kamu tüzel kişiliğini haiz kurumların her türlü ihale kararları</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>310</kod>
+		<grup>Ticari ve mütedavil senetler</grup>
+		<aciklama>Makbuz senedi (Resepise)</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>311</kod>
+		<grup>Ticari ve mütedavil senetler</grup>
+		<aciklama>Rehin senedi (Varant)</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>312</kod>
+		<grup>Ticari ve mütedavil senetler</grup>
+		<aciklama>İyda senedi</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>313</kod>
+		<grup>Ticari ve mütedavil senetler</grup>
+		<aciklama>Taşıma senedi</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>314</kod>
+		<grup>Ticari ve mütedavil senetler</grup>
+		<aciklama>Konşimentolar</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>315</kod>
+		<grup>Ticari ve mütedavil senetler</grup>
+		<aciklama>Deniz ödüncü senedi</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>316</kod>
+		<grup>Ticari ve mütedavil senetler</grup>
+		<aciklama>İpotekli borç senedi</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>317</kod>
+		<grup>Ticari ve mütedavil senetler</grup>
+		<aciklama>İrat senedi</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>320</kod>
+		<grup>Ticari belgeler</grup>
+		<aciklama>Menşe ve Mahreç şahadetnameleri</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>321</kod>
+		<grup>Ticari belgeler</grup>
+		<aciklama>Resmi dairelere ve bankalara ibraz edilen bilançolar</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>322</kod>
+		<grup>Ticari belgeler</grup>
+		<aciklama>Resmi dairelere ve bankalara ibraz edilen Gelir Tabloları</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>323</kod>
+		<grup>Ticari belgeler</grup>
+		<aciklama>Resmi dairelere ve bankalara ibraz edilen İşletme hesabı özetleri</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>324</kod>
+		<grup>Ticari belgeler</grup>
+		<aciklama>Barnameler</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>325</kod>
+		<grup>Ticari belgeler</grup>
+		<aciklama>Tasdikli manifesto nüshaları</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>326</kod>
+		<grup>Ticari belgeler</grup>
+		<aciklama>Ordinolar</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>327</kod>
+		<grup>Ticari belgeler</grup>
+		<aciklama>Gümrük idarelerine verilen özet beyan formları</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>405</kod>
+		<grup>Makbuzlar</grup>
+		<aciklama>Ödünç alınan paralar için verilen makbuzlar veya bu mahiyetteki senetler</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>410</kod>
+		<grup>Beyannameler</grup>
+		<aciklama>Yabancı memleketlerden gelen posta gönd. gümrüklenmesi için postanelerce gümrüklere verilen liste beyannamelerde yazılı her gönderi maddesi</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>411</kod>
+		<grup>Beyannameler</grup>
+		<aciklama>Gümrük idarelerine verilen beyannameler</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>412</kod>
+		<grup>Beyannameler</grup>
+		<aciklama>Belediye ve il özel idarelerine verilen beyannameler</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>413</kod>
+		<grup>Beyannameler</grup>
+		<aciklama>Sosyal güvenlik kurumlarına verilen sigorta prim bildirgeleri</aciklama>
+	</turKodu>
+	<turKodu>
+		<kod>420</kod>
+		<grup>Beyannameler</grup>
+		<aciklama>Tabloda yazılı kağıtlar aslı 1,00 liradan fazla maktu ve nispi ver. tabi olanların resmi dairelere ibraz edilecek özet, suret ve tercümeleri.</aciklama>
+	</turKodu>
+</turKodlari>
+</kodlar>

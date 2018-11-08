@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: BMVB_APT bankaMuameleleri/paraTuru/kod
+-->
+<islemTipleri>
+	<islemTipi>
+		<kod>101</kod>
+		<aciklama>Bilirkişi Ücret Odemesi</aciklama>
+	</islemTipi>
+	<islemTipi>
+		<kod>102</kod>
+		<aciklama>R.D. Namına Damga Vergisi Kesintisi</aciklama>
+	</islemTipi>
+</islemTipleri> 
+
+<dosyaTurleri>
+	<dosyaTuru>
+		<kod>0</kod>
+		<aciklama>Yok</aciklama>
+	</dosyaTuru>
+	<dosyaTuru>
+		<kod>1</kod>
+		<aciklama>İflas</aciklama>
+	</dosyaTuru>
+	<dosyaTuru>
+		<kod>2</kod>
+		<aciklama>Esas</aciklama>
+	</dosyaTuru>
+	<dosyaTuru>
+		<kod>3</kod>
+		<aciklama>Talimat</aciklama>
+	</dosyaTuru>
+	<dosyaTuru>
+		<kod>4</kod>
+		<aciklama>Satış</aciklama>
+	</dosyaTuru>
+</dosyaTurleri>
+</kodlar>

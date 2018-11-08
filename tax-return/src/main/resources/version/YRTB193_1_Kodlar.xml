@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: BMVB_APT bankaMuameleleri/paraTuru/kod
+-->
+<dovizCinsleri>
+	<dovizCinsi>
+		<kod>101</kod>
+		<aciklama>Amerikan Doları</aciklama>
+	</dovizCinsi>
+	<dovizCinsi>
+		<kod>102</kod>
+		<aciklama>Avrupa Para Birimi</aciklama>
+	</dovizCinsi>
+	<dovizCinsi>
+		<kod>103</kod>
+		<aciklama>İsviçre Frangı</aciklama>
+	</dovizCinsi>
+	<dovizCinsi>
+		<kod>104</kod>
+		<aciklama>İngiliz Sterlini</aciklama>
+	</dovizCinsi>
+	<dovizCinsi>
+		<kod>105</kod>
+		<aciklama>Japon Yeni</aciklama>
+	</dovizCinsi>
+	<dovizCinsi>
+		<kod>106</kod>
+		<aciklama>S.Arabistan Riyali</aciklama>
+	</dovizCinsi>
+	<dovizCinsi>
+		<kod>107</kod>
+		<aciklama>Avustralya Doları</aciklama>
+	</dovizCinsi>
+	<dovizCinsi>
+		<kod>108</kod>
+		<aciklama>Kanada Doları</aciklama>
+	</dovizCinsi>
+	<dovizCinsi>
+		<kod>109</kod>
+		<aciklama>Diğer</aciklama>
+	</dovizCinsi>
+</dovizCinsleri>
+<altinlar>
+	<altin>
+		<kod>201</kod>
+		<aciklama>Külçe Altın</aciklama>
+	</altin>
+	<altin>
+		<kod>202</kod>
+		<aciklama>İşlenmiş Altın</aciklama>
+	</altin>
+</altinlar>
+<menkulKiymetlerVeDiger>
+	<menkulKiymet>
+		<kod>301</kod>
+		<aciklama>Hisse Senetleri</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>302</kod>
+		<aciklama>Tahviller ve Bonolar</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>303</kod>
+		<aciklama>Diğer Menkul Kıymetler</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>304</kod>
+		<aciklama>Diğer Sermaye Piyasası Araçları</aciklama>
+	</menkulKiymet>
+</menkulKiymetlerVeDiger>
+<tasinmazlar>
+	<tasinmaz>
+		<kod>401</kod>
+		<aciklama>Arsa</aciklama>
+	</tasinmaz>
+	<tasinmaz>
+		<kod>402</kod>
+		<aciklama>Arazi</aciklama>
+	</tasinmaz>
+	<tasinmaz>
+		<kod>403</kod>
+		<aciklama>Bina</aciklama>
+	</tasinmaz>
+	<tasinmaz>
+		<kod>405</kod>
+		<aciklama>Diğer</aciklama>
+	</tasinmaz>
+</tasinmazlar>
+</kodlar>

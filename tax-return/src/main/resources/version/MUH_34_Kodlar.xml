@@ -1,0 +1,4253 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<!--
+	Ref:	BKBIIB_TKI	tesvikKapsamindakiIller/data/kod
+	Ref:	OAB_OTK	odemeturkodlari/odemekurkodu/turkodu
+	Ref:	TETIB_IT	isyeriTurleri/isyeriTuru/kod
+	Ref: TSVK_TEB_TIP tesvikTebligTipleri/tebligTip/kod
+	Ref: BKBIIB_TKI_2 tesvikKapsamindakiIllerTeblig2/data/kod
+	Ref: BKBIIB_TKI_4 tesvikKapsamindakiIllerTeblig4/data/kod
+	Ref: AYLAR gvk70MahsupAylar/ay/kod
+	Ref: EK_TEB_TIP ekTesvikTebligTipleri/tebligTip/kod
+	Ref: TYKV kaldirilanVergiler/vergi/vergiKodu
+
+-->
+<kodlar>
+	<tesvikKapsamindakiIller>
+	<data>
+		<ad>ADIYAMAN</ad>
+		<kod>00200</kod>
+	</data>
+	<data>
+		<ad>AFYON</ad>
+		<kod>00300</kod>
+	</data>
+	<data>
+		<ad>AĞRI</ad>
+		<kod>00400</kod>
+	</data>
+	<data>
+		<ad>AKSARAY</ad>
+		<kod>06800</kod>
+	</data>
+	<data>
+		<ad>AMASYA</ad>
+		<kod>00500</kod>
+	</data>
+	<data>
+		<ad>ARDAHAN</ad>
+		<kod>07500</kod>
+	</data>
+	<data>
+		<ad>ARTVİN</ad>
+		<kod>00800</kod>
+	</data>
+	<data>
+		<ad>BARTIN</ad>
+		<kod>07400</kod>
+	</data>
+	<data>
+		<ad>BATMAN</ad>
+		<kod>07200</kod>
+	</data>
+	<data>
+		<ad>BAYBURT</ad>
+		<kod>06900</kod>
+	</data>
+	<data>
+		<ad>BİNGÖL</ad>
+		<kod>01200</kod>
+	</data>
+	<data>
+		<ad>BİTLİS</ad>
+		<kod>01300</kod>
+	</data>
+	<data>
+		<ad>ÇANAKKALE-BOZCAADA</ad>
+		<kod>01704</kod>
+	</data>
+	<data>
+		<ad>ÇANAKKALE-GÖKÇEADA</ad>
+		<kod>01709</kod>
+	</data>
+	<data>
+		<ad>ÇANKIRI</ad>
+		<kod>01800</kod>
+	</data>
+	<data>
+		<ad>ÇORUM</ad>
+		<kod>01900</kod>
+	</data>
+	<data>
+		<ad>DİYARBAKIR</ad>
+		<kod>02100</kod>
+	</data>
+	<data>
+		<ad>DÜZCE</ad>
+		<kod>08100</kod>
+	</data>
+	<data>
+		<ad>ELAZIĞ</ad>
+		<kod>02300</kod>
+	</data>
+	<data>
+		<ad>ERZİNCAN</ad>
+		<kod>02400</kod>
+	</data>
+	<data>
+		<ad>ERZURUM</ad>
+		<kod>02500</kod>
+	</data>
+	<data>
+		<ad>GİRESUN</ad>
+		<kod>02800</kod>
+	</data>
+	<data>
+		<ad>GÜMÜŞHANE</ad>
+		<kod>02900</kod>
+	</data>
+	<data>
+		<ad>HAKKARİ</ad>
+		<kod>03000</kod>
+	</data>
+	<data>
+		<ad>IĞDIR</ad>
+		<kod>07600</kod>
+	</data>
+	<data>
+		<ad>KAHRAMANMARAŞ</ad>
+		<kod>04600</kod>
+	</data>
+	<data>
+		<ad>KARAMAN</ad>
+		<kod>07000</kod>
+	</data>
+	<data>
+		<ad>KARS</ad>
+		<kod>03600</kod>
+	</data>
+	<data>
+		<ad>KASTAMONU</ad>
+		<kod>03700</kod>
+	</data>
+	<data>
+		<ad>KIRŞEHİR</ad>
+		<kod>04000</kod>
+	</data>
+	<data>
+		<ad>KİLİS</ad>
+		<kod>07900</kod>
+	</data>
+	<data>
+		<ad>KÜTAHYA</ad>
+		<kod>04300</kod>
+	</data>
+	<data>
+		<ad>MALATYA</ad>
+		<kod>04400</kod>
+	</data>
+	<data>
+		<ad>MARDİN</ad>
+		<kod>04700</kod>
+	</data>
+	<data>
+		<ad>MUŞ</ad>
+		<kod>04900</kod>
+	</data>
+	<data>
+		<ad>NEVŞEHİR</ad>
+		<kod>05000</kod>
+	</data>
+	<data>
+		<ad>NİĞDE</ad>
+		<kod>05100</kod>
+	</data>
+	<data>
+		<ad>ORDU</ad>
+		<kod>05200</kod>
+	</data>
+	<data>
+		<ad>OSMANİYE</ad>
+		<kod>08000</kod>
+	</data>
+	<data>
+		<ad>RİZE</ad>
+		<kod>05300</kod>
+	</data>
+	<data>
+		<ad>SİİRT</ad>
+		<kod>05600</kod>
+	</data>
+	<data>
+		<ad>SİNOP</ad>
+		<kod>05700</kod>
+	</data>
+	<data>
+		<ad>ŞIRNAK</ad>
+		<kod>07300</kod>
+	</data>
+	<data>
+		<ad>SİVAS</ad>
+		<kod>05800</kod>
+	</data>
+	<data>
+		<ad>ŞANLIURFA</ad>
+		<kod>06300</kod>
+	</data>
+	<data>
+		<ad>TOKAT</ad>
+		<kod>06000</kod>
+	</data>
+	<data>
+		<ad>TRABZON</ad>
+		<kod>06100</kod>
+	</data>
+	<data>
+		<ad>TUNCELİ</ad>
+		<kod>06200</kod>
+	</data>
+	<data>
+		<ad>UŞAK</ad>
+		<kod>06400</kod>
+	</data>
+	<data>
+		<ad>VAN</ad>
+		<kod>06500</kod>
+	</data>
+	<data>
+		<ad>YOZGAT</ad>
+		<kod>06600</kod>
+	</data>
+	</tesvikKapsamindakiIller>
+	<tesvikKapsamindakiIllerTeblig2>
+		<data>
+			<ad>ARTVİN</ad>
+			<kod>00800</kod>
+		</data>
+	<data>
+		<ad>ÇORUM</ad>
+		<kod>01900</kod>
+	</data>
+	<data>
+		<ad>ELAZIĞ</ad>
+		<kod>02300</kod>
+	</data>
+	<data>
+		<ad>KAHRAMANMARAŞ</ad>
+		<kod>04600</kod>
+	</data>
+	<data>
+		<ad>KARAMAN</ad>
+		<kod>07000</kod>
+	</data>
+	<data>
+		<ad>KASTAMONU</ad>
+		<kod>03700</kod>
+	</data>
+	<data>
+		<ad>KİLİS</ad>
+		<kod>07900</kod>
+	</data>
+	<data>
+		<ad>KÜTAHYA</ad>
+		<kod>04300</kod>
+	</data>
+	<data>
+		<ad>NEVŞEHİR</ad>
+		<kod>05000</kod>
+	</data>
+	<data>
+		<ad>NİĞDE</ad>
+		<kod>05100</kod>
+	</data>
+	<data>
+		<ad>RİZE</ad>
+		<kod>05300</kod>
+	</data>
+	<data>
+		<ad>TRABZON</ad>
+		<kod>06100</kod>
+	</data>
+	<data>
+		<ad>TUNCELİ</ad>
+		<kod>06200</kod>
+	</data>
+	</tesvikKapsamindakiIllerTeblig2>
+	<tesvikKapsamindakiIllerTeblig4>
+		<data>
+			<ad>ARTVİN</ad>
+			<kod>00800</kod>
+		</data>
+	<data>
+		<ad>ÇANAKKALE-BOZCAADA</ad>
+		<kod>01704</kod>
+	</data>
+	<data>
+		<ad>ÇANAKKALE-GÖKÇEADA</ad>
+		<kod>01709</kod>
+	</data>
+
+	<data>
+		<ad>ÇORUM</ad>
+		<kod>01900</kod>
+	</data>
+	<data>
+		<ad>ELAZIĞ</ad>
+		<kod>02300</kod>
+	</data>
+	<data>
+		<ad>KAHRAMANMARAŞ</ad>
+		<kod>04600</kod>
+	</data>
+	<data>
+		<ad>KARAMAN</ad>
+		<kod>07000</kod>
+	</data>
+	<data>
+		<ad>KASTAMONU</ad>
+		<kod>03700</kod>
+	</data>
+	<data>
+		<ad>KİLİS</ad>
+		<kod>07900</kod>
+	</data>
+	<data>
+		<ad>KÜTAHYA</ad>
+		<kod>04300</kod>
+	</data>
+	<data>
+		<ad>NEVŞEHİR</ad>
+		<kod>05000</kod>
+	</data>
+	<data>
+		<ad>NİĞDE</ad>
+		<kod>05100</kod>
+	</data>
+	<data>
+		<ad>RİZE</ad>
+		<kod>05300</kod>
+	</data>
+	<data>
+		<ad>TRABZON</ad>
+		<kod>06100</kod>
+	</data>
+	<data>
+		<ad>TUNCELİ</ad>
+		<kod>06200</kod>
+	</data>
+	</tesvikKapsamindakiIllerTeblig4>
+	<odemeturkodlari>
+		<odemeturkodu>
+			<turkodu>011</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>Asgari Ücretli (GVK Md. 94/1)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>012</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>Diğer Ücretler ile Ücret Sayılan Ödemeler (GVK Md. 94/1)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>013</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>Kıdem Tazminatı</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>014</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>Huzur Hakkı</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>015</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>İhbar Tazminatı</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>016</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>Yeraltı Maden İşçileri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>017</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>4691 Sayılı Kanun Kapsamı</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>018</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>Döner Sermaye/Performans/Ek Ders Odemesi/Ek ödeme/Kayyum-Bilirkişi ödemesi/Diğer</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>019</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>Gemi Çalışanları/Dar Mükellef Kurumların İrtibat Buroları/Apartman Kapıcıları</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>020</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>4691 sayılı kanun kapsamında çalışan işverenler/Muhtarlar/Elçiliklerde Çalışan Personel/GVK23/11 Kapsamında Çalışanlar/Diğer</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>021</turkodu>
+			<grup>Serbest Meslek</grup>
+			<aciklama>18 inci Madde Kapsamına Giren Ödemeler (GVK Md. 94/2-a)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>022</turkodu>
+			<grup>Serbest Meslek</grup>
+			<aciklama>Diğer Serbest Meslek Kazancı Ödemeleri (GVK Md. 94/2-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>023</turkodu>
+			<grup>Serbest Meslek</grup>
+			<aciklama>Sinai Mülkiyet Hakkı (KVK Md.5/b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>031</turkodu>
+			<grup>Yıllara Yaygın İnşaat</grup>
+			<aciklama>Birden Fazla Takvim Yılına Yaygın İnşaat ve Onarım İşleri Dolayısıyla Yapılan Hakediş Ödemeleri (GVK Md. 94/3)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>032</turkodu>
+			<grup>Yıllara Yaygın İnşaat</grup>
+			<aciklama>Birden Fazla Takvim Yılına Yaygın İnşaat ve Onarım İşleri İle Uğraşan Kurumlara Yapılan Hakediş Ödemeleri (KVK Md. 15/1-a)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>041</turkodu>
+			<grup>Kira</grup>
+			<aciklama>70 inci Maddede Yazılı Mal ve Hakların Kiralanması Karşılığı Yapılan Ödemeler (GVK Md. 94/5)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>042</turkodu>
+			<grup>Kira</grup>
+			<aciklama>Kooperatiflere Ait Taşınmazların Kiralanması Karşılığı Yapılan Ödemeler (KVK Md. 15/1-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>043</turkodu>
+			<grup>Kira</grup>
+			<aciklama>Sinai Mülkiyet Hakkı (KVK Md .5/b) kiralaması</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>052</turkodu>
+			<grup>Yatırım Fonu veya Ort. Kazançları</grup>
+			<aciklama>Men. Kıy. Yatırım Fonu ile Ort. Portföy Kazançları (GVK Geç. Md. 67/8)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>053</turkodu>
+			<grup>Yatırım Fonu veya Ort. Kazançları</grup>
+			<aciklama>Altın ve Kıymetli Madenlere Dayalı Yatırım Fonu veya Ort. Portföy Kazançları (KVK Md. 15/3)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>054</turkodu>
+			<grup>Yatırım Fonu veya Ort. Kazançları</grup>
+			<aciklama>Girişim Sermayesi Yatırım Fonu veya Ort. Kazançları (KVK Md. 15/3)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>055</turkodu>
+			<grup>Yatırım Fonu veya Ort. Kazançları</grup>
+			<aciklama>Gayrimenkul Yatırım Fonu veya Ort. Kazançları (KVK Md. 15/3)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>056</turkodu>
+			<grup>Yatırım Fonu veya Ort. KazançlarıYatırım Fonu veya Ort. Kazançları</grup>
+			<aciklama>Konut Finansmanı Fonu ile Varlık Finansmanı Fonu Kazançları (GVK Geç. Md. 67/8)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>061</turkodu>
+			<grup>Kurumların Dağıttıkları Kar Payları</grup>
+			<aciklama>Tam Mükellef Kurumlar Tarafından, Tam Mükellef Gerçek Kişilere, Gelir ve Kurumlar Vergisi Mükellefi Olmayanlara ve Gelir Vergisinden Muaf Olanlara Dağıtılan 75 inci Maddenin (1), (2) ve (3) Numaralı Bentlerinde Sayılan Kar Payları (GVK Md. 94/6-b-i)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>062</turkodu>
+			<grup>Kurumların Dağıttıkları Kar Payları</grup>
+			<aciklama>Tam Mükellef Kurumlar Tarafından Dar Mükellef Gerçek Kişilere ve Gelir Vergisinden Muaf Olan Dar Mükelleflere Dağıtılan 75 inci Maddenin (1), (2) ve (3) Numaralı Bentlerinde Sayılan Kar Payları (GVK Md. 94/6-b-ii)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>065</turkodu>
+			<grup>Kurumların Dağıttıkları Kar Payları</grup>
+			<aciklama>Vergiden Muaf Olan Kurumlara Dağıtılan 75 inci Maddenin (1), (2) ve (3) Numaralı Bentlerinde Sayılan Kar Payları (KVK Md. 15/2)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>071</turkodu>
+			<grup>Yatırım İndirimi</grup>
+			<aciklama>Yatırım İndiriminden Yararlanan Kazançlar (GVK Geç. Md. 61)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>081</turkodu>
+			<grup>Her Nevi Tahvil Faizleri</grup>
+			<aciklama>Her Nevi Tahvil ve Hazine Bonosu Faizleri ile Toplu Konut İdaresi ve Kamu Ortaklığı İdaresi ile Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerden Sağlanan Gelirler (GVK Md. 94/7)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>082</turkodu>
+			<grup>Her Nevi Tahvil Faizleri</grup>
+			<aciklama>Her Nevi Tahvil ve Hazine Bonosu Faizleri ile Toplu Konut İdaresi ve Kamu Ortaklığı İdaresi ile Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerden Sağlanan Gelirler (GVK Geç. Md. 67/2)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>083</turkodu>
+			<grup>Her Nevi Tahvil Faizleri</grup>
+			<aciklama>Her Nevi Tahvil ve Hazine Bonosu Faizleri ile Toplu Konut İdaresi ve Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerden Sağlanan Gelirler (KVK Md.15/1-c)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>091</turkodu>
+			<grup>Zirai Mahsuller ve Hizmetler</grup>
+			<aciklama>Ticaret Borsalarında Tescil Ettirilerek Satın Alınan Hayvanlar ve Bunların Mahsulleri ile Kara ve Su Avcılığı Mahsulleri İçin Yapılan Ödemeler (GVK Md. 94/11-a-i)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>092</turkodu>
+			<grup>Zirai Mahsuller ve Hizmetler</grup>
+			<aciklama>Ticaret Borsalarında Tescil Ettirilmeksizin Satın Alınan Hayvanlar ve Bunların Mahsulleri ile Kara ve Su Avcılığı Mahsulleri İçin Yapılan Ödemeler (GVK Md. 94/11-a-ii)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>093</turkodu>
+			<grup>Zirai Mahsuller ve Hizmetler</grup>
+			<aciklama>Ticaret Borsalarında Tescil Ettirilerek SatınAlınan Diğer Zirai Mahsuller İçin Yapılan Ödemeler (GVK Md. 94/11-b-i) (**)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>094</turkodu>
+			<grup>Zirai Mahsuller ve Hizmetler</grup>
+			<aciklama>Ticaret Borsalarında Tescil Ettirilmeksizin Satın Alınan Diğer Zirai Mahsuller İçin Yapılan Ödemeler (GVK Md. 94/11-b-ii)  (***)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>095</turkodu>
+			<grup>Zirai Mahsuller ve Hizmetler</grup>
+			<aciklama>Zirai Faaliyet Kapsamında İfa Edilen Orman İdaresine veya Orman İdaresine Karşı Taahütte Bulunan Kurumlara Yapılan Ödemeler (GVK Md. 94/11-c-i)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>096</turkodu>
+			<grup>Zirai Mahsuller ve Hizmetler</grup>
+			<aciklama>Zirai Faaliyet Kapsamında İfa Edilen Diğer Hizmetler İçin Yapılan Ödemeler (GVK Md. 94/11-c-ii)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>097</turkodu>
+			<grup>Zirai Mahsuller ve Hizmetler</grup>
+			<aciklama>Destek Ödemeleri (GVK Md.94/11-aii; bii)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>101</turkodu>
+			<grup>Mevduat Faizleri</grup>
+			<aciklama>TL Mevduat Hesaplarına Yürütülen Faizler (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>102</turkodu>
+			<grup>Mevduat Faizleri</grup>
+			<aciklama>Döviz Tevdiat Hesaplarına Yürütülen Faizler ile Katılım Bankalarınca Döviz Katılma Hesaplarına Ödenen Kar Payları (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>103</turkodu>
+			<grup>Mevduat Faizleri</grup>
+			<aciklama>Aralık Ayında Tahakkuk Ettirilen Mevduat Faizleri (GVK Geçici Md. 67/4 ve Md. 98)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>111</turkodu>
+			<grup>Faizsiz Olarak Kredi Verenlere Ödenen Kar Payları</grup>
+			<aciklama>Faizsiz Olarak Kredi Verenlere Ödenen Kar Payları ile Kar ve Zarar Ortaklığı Belgesi ve Katılım Bankalarınca Kar ve Zarara Katılma Hesabı Karşılığında Ödenen Kar Payları (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>121</turkodu>
+			<grup>Repo</grup>
+			<aciklama>Repo Gelirleri (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>131</turkodu>
+			<grup>Bireysel Emeklilik Sistemi ve Diğer Şahıs Sigorta Şirketleri Tarafından Yapılan Ödemeler</grup>
+			<aciklama>GVK' nın 75/15 inci Maddesinin (a) Alt Bendinde Yer Alan Ödemeler (GVK Md. 94/15-a)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>132</turkodu>
+			<grup>Bireysel Emeklilik Sistemi ve Diğer Şahıs Sigorta Şirketleri Tarafından Yapılan Ödemeler</grup>
+			<aciklama>GVK' nın 75/15 inci Maddesinin (b) Alt Bendinde Yer Alan Ödemeler (GVK Md. 94/15-b</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>134</turkodu>
+			<grup>Bireysel Emeklilik Sistemi ve Diğer Şahıs Sigorta Şirketleri Tarafından Yapılan Ödemeler</grup>
+			<aciklama>GVK' nın 75/16 inci Maddesinin (a) Alt Bendinde Yer Alan Ödemeler (GVK Md. 94/16-a)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>135</turkodu>
+			<grup>Bireysel Emeklilik Sistemi ve Diğer Şahıs Sigorta Şirketleri Tarafından Yapılan Ödemeler</grup>
+			<aciklama>GVK' nın 75/16 inci Maddesinin (b) Alt Bendinde Yer Alan Ödemeler (GVK Md. 94/16-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>136</turkodu>
+			<grup>Bireysel Emeklilik Sistemi ve Diğer Şahıs Sigorta Şirketleri Tarafından Yapılan Ödemeler</grup>
+			<aciklama>GVK' nın 75/16 inci Maddesinin (c) Alt Bendinde Yer Alan Ödemeler (GVK Md. 94/16-c)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>141</turkodu>
+			<grup>Diğer Ödemeler</grup>
+			<aciklama>Telif ve Patent Hakları Satışı Dolayısıyla Dar Mükellefiyete Tabi Olanlara Yapılan Ödemeler (GVK Md. 94/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>142</turkodu>
+			<grup>Diğer Ödemeler</grup>
+			<aciklama>Milli Piyango İdaresince Çıkarılan Biletleri Satanlar İle Diğer Kişilerce Çıkartılan Bu Nitelikteki Biletleri Satanlara Yapılan Komisyon, Prim vb. Ödemeler (GVK Md. 94/10-a)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>143</turkodu>
+			<grup>Diğer Ödemeler</grup>
+			<aciklama>4077 s. Kanuna Göre Kapı Kapı Dolaşmak Suretiyle Tüketiciye Satanlara Yapılan Komisyon, Prim vb. Ödemeler (GVK Md. 94/10-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>144</turkodu>
+			<grup>Diğer Ödemeler</grup>
+			<aciklama>PTT Acenteliği Yapanlara Bu Faaliyetleri Nedeniyle Ödenen Komisyon Bedeli (GVK Md. 94/12)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>145</turkodu>
+			<grup>Diğer Ödemeler</grup>
+			<aciklama>Esnaf Muaflığından Yararlananlara Mal ve Hizmet Alımları Karşılığında Yapılan Ödemeler (GVK Md. 94-13/a,c,d)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>146</turkodu>
+			<grup>Diğer Ödemeler</grup>
+			<aciklama>Esnaf Muaflığından Yararlananlara Hurda Mal Alımları Karşılığında Yapılan Ödemeler (GVK Md. 94/13-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>151</turkodu>
+			<grup></grup>
+			<aciklama>Diğerleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>221</turkodu>
+			<grup>KVK 30 ÖDM -Yıllara Yaygın İnşaat</grup>
+			<aciklama>Dar Mükellef Kurumlara Birden Fazla Takvim Yılına Yaygın İnşaat ve Onarım İşleri İle İlgili Olarak Yapılan Hakediş Ödemeleri (KVK Md. 30/1-a)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>231</turkodu>
+			<grup>KVK 30 ÖDM - Serbest Meslek</grup>
+			<aciklama>Petrol Arama Faaliyetleri İçin Yapılan Serbest Meslek Kazancı Ödemeleri (KVK Md. 30/1-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>232</turkodu>
+			<grup>KVK 30 ÖDM - Serbest Meslek</grup>
+			<aciklama>Diğer Serbest Meslek Kazancı Ödemeleri (KVK Md. 30/1-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>233</turkodu>
+			<grup>KVK 30 ÖDM - Serbest Meslek</grup>
+			<aciklama>KVK 30 /smk Sinai Mülkiyet Hakkı (KVK Md.5/b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>241</turkodu>
+			<grup>KVK 30 ÖDM - Gayrimenkul Sermaye İratları</grup>
+			<aciklama>Finansal Kiralama Kapsamındaki Gayrimenkul Sermaye İratları (KVK Md. 30/1-c)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>242</turkodu>
+			<grup>KVK 30 ÖDM - Gayrimenkul Sermaye İratları</grup>
+			<aciklama>Diğer Gayrimenkul Sermaye İratları (KVK Md. 30/1-c)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>243</turkodu>
+			<grup>KVK 30 ÖDM - Gayrimenkul Sermaye İratları</grup>
+			<aciklama>KVK 30 /  Sinai Mülkiyet Hakkı (KVK Md.5/b) kiralaması</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>251</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Her Nevi Tahvil ve Hazine Bonosu Faizleri ile Toplu Konut İdaresi ve Kamu Ortaklığı İdaresi ile Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerden Sağlanan Gelirler (GVK Geç. Md. 67/2)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>252</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Her Nevi Tahvil ve Hazine Bonosu Faizleri ile Toplu Konut İdaresi ve Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerden Sağlanan Gelirler (KVK  Md. 30/1-ç)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>253</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Mevduat Faizleri (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>254</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Faizsiz Olarak Kredi Verenlere Ödenen Kar Payları ile Kar ve Zarar Ortaklığı Belgesi ve Katılım Bankalarınca Kar ve Zarara Katılma Hesabı Karşılığında Ödenen Kar Payları (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>256</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>GVK' nun 75/10 uncu Maddesinde Yazılı Menkul Sermaye İratları (KVK Md. 30/1-ç)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>257</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Repo Gelirleri (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>258</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Diğer Menkul Sermaye İratları</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>262</turkodu>
+			<grup>Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>2009/14593 Sayılı Bakanlar Kurulu Kararı Madde 1/(5-a)' ya Göre Ödenecek Alacak Faizleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>263</turkodu>
+			<grup>Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>2009/14593 Sayılı Bakanlar Kurulu Kararı Madde 1/(5-b)' ye Göre Ödenecek Alacak Faizleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>264</turkodu>
+			<grup>Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>2009/14593 Sayılı Bakanlar Kurulu Kararı Madde 1/(5-c)' ye Göre Ödenecek Vade Farkları</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>265</turkodu>
+			<grup>Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>2009/14593 Sayılı Bakanlar Kurulu Kararı Madde 1/(5/ç)' ye Göre Ödenecek Diğer Alacak Faizleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>271</turkodu>
+			<grup>KVK 30 ÖDM - Kurumların Dağıttıkları Kar Payları</grup>
+			<aciklama>Tam Mükellef Kurumlar Tarafından, Dar Mükellef Kurumlara veya Kurumlar Vergisinden Muaf Olan Dar Mükelleflere Dağıtılan GVK' nun 75 inci Maddesinin (1), (2) ve (3) Numaralı Bentlerinde Sayılan Kar Payları (KVK Md. 30/3)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>272</turkodu>
+			<grup>KVK 30 ÖDM - Kurumların Dağıttıkları Kar Payları</grup>
+			<aciklama>Dar Mükellef Kurumlarca Ana Merkeze Aktarılan Tutarlar (KVK Md. 30/6) </aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>281</turkodu>
+			<grup>KVK 30 ÖDM - Diğer Ödemeler</grup>
+			<aciklama>Gayrimaddi Hakların Satışı, Devir ve Temliki Karşılığında Ödenen Bedeller (KVK Md. 30/2)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>282</turkodu>
+			<grup>KVK 30 ÖDM - Diğer Ödemeler</grup>
+			<aciklama>Yetkili Makamların İzni İle Açılan Sergi ve Panayırlarda Yapılan Ticari Faaliyetlerden Elde Edilen Kazançlar (KVK Md. 30/5)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>283</turkodu>
+			<grup>KVK 30 ÖDM - Diğer Ödemeler</grup>
+			<aciklama>Bakanlar Kurulunca İlan Edilen Ülkelerde Yerleşik Olanlara Veya Faaliyet Gösterenlere Yapılan Ödemeler (KVK Md. 30/7)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>284</turkodu>
+			<grup></grup>
+			<aciklama>Diğerleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>301</turkodu>
+			<grup>Damga Vergisi Kanununa göre yapılan ödemelerle ilgili kağıtlar</grup>
+			<aciklama>Resmi daireler tarafından yapılan mal ve hizmet alımlarına ilişkin ödemeler (avans olarak yapılanlar dahil) nedeniyle, kişiler tarafından resmi dairelere verilen ve belli parayı ihtiva eden makbuz ve ibra senetleri ile bu ödemelerin resmi daireler nam ve hesabına, kişiler adına açılmış veya açılacak hesaplara nakledilmesini veya emir ve havalelerine tediyesini temin eden kağıtlar</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>302</turkodu>
+			<grup>Damga Vergisi Kanununa göre yapılan ödemelerle ilgili kağıtlar</grup>
+			<aciklama>Maaş, ücret, gündelik, huzur hakkı, aidat, ihtisas zammı, ikramiye, yemek ve mesken bedeli, harcırah, tazminat ve benzeri her ne adla olursa olsun hizmet karşılığı alınan paralar (avans olarak ödenenler dahil) için verilen makbuzlar ile bu paraların nakden ödenmeyerek kişiler adına açılmış veya açılacak cari hesaplara nakledildiği veya emir ve havalelerine tediye olunduğu takdirde nakli veya tediyeyi temin eden kağıtlar</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>303</turkodu>
+			<grup>Damga Vergisi Kanununa göre yapılan ödemelerle ilgili kağıtlar</grup>
+			<aciklama>Ödünç alınan paralar için verilen makbuzlar veya bu mahiyetteki senetler</aciklama>
+		</odemeturkodu>
+	</odemeturkodlari>
+	<odemeBelgeTurKodlari>
+		<odemeBelgeTurKodu>
+			<kod>0</kod>
+			<aciklama>Yok</aciklama>
+		</odemeBelgeTurKodu>
+		<odemeBelgeTurKodu>
+			<kod>1</kod>
+			<aciklama>S.M. Makbuz</aciklama>
+		</odemeBelgeTurKodu>
+		<odemeBelgeTurKodu>
+			<kod>2</kod>
+			<aciklama>M. Makbuz</aciklama>
+		</odemeBelgeTurKodu>
+		<odemeBelgeTurKodu>
+			<kod>3</kod>
+			<aciklama>Gider Pusulası</aciklama>
+		</odemeBelgeTurKodu>
+		<odemeBelgeTurKodu>
+			<kod>4</kod>
+			<aciklama>Fatura</aciklama>
+		</odemeBelgeTurKodu>
+		<odemeBelgeTurKodu>
+			<kod>5</kod>
+			<aciklama>Diğer</aciklama>
+		</odemeBelgeTurKodu>
+	</odemeBelgeTurKodlari>
+	<isyeriTurleri>
+		<isyeriTuru>
+			<kod>1</kod>
+			<ad>Org. San. ve End. Böl.</ad>
+		</isyeriTuru>
+		<isyeriTuru>
+			<kod>2</kod>
+			<ad>Diğer</ad>
+		</isyeriTuru>
+	</isyeriTurleri>
+	<tesvikTebligTipleri>
+		<tebligTip>
+			<kod>0</kod>
+			<aciklama>Yok</aciklama>
+		</tebligTip>
+		<tebligTip>
+			<kod>1</kod>
+			<aciklama>I Seri No'lu Tebliğ Kapsamında Teşvik</aciklama>
+		</tebligTip>
+		<tebligTip>
+			<kod>4</kod>
+			<aciklama>IV Seri No'lu Tebliğ Kapsamında Teşvik</aciklama>
+		</tebligTip>
+	</tesvikTebligTipleri>
+	<tesvikTebligTarihleri>
+		<tesvikTarihi>
+			<kod>0</kod>
+			<aciklama>Yok</aciklama>
+		</tesvikTarihi>
+		<tesvikTarihi>
+			<kod>1</kod>
+			<aciklama>06.06.2008'den Önce</aciklama>
+		</tesvikTarihi>
+		<tesvikTarihi>
+			<kod>2</kod>
+			<aciklama>06.06.2008'den Sonra</aciklama>
+		</tesvikTarihi>
+		<tesvikTarihi>
+			<kod>3</kod>
+			<aciklama>06.06.2008'den Önce ve Sonra</aciklama>
+		</tesvikTarihi>
+	</tesvikTebligTarihleri>
+	<gvk70MahsupAylar>
+		<ay>
+			<kod>1</kod>
+			<ad>Ocak</ad>
+		</ay>
+		<ay>
+			<kod>2</kod>
+			<ad>Şubat</ad>
+		</ay>
+		<ay>
+			<kod>3</kod>
+			<ad>Mart</ad>
+		</ay>
+		<ay>
+			<kod>4</kod>
+			<ad>Nisan</ad>
+		</ay>
+		<ay>
+			<kod>5</kod>
+			<ad>Mayıs</ad>
+		</ay>
+		<ay>
+			<kod>6</kod>
+			<ad>Haziran</ad>
+		</ay>
+		<ay>
+			<kod>7</kod>
+			<ad>Temmuz</ad>
+		</ay>
+	</gvk70MahsupAylar>
+	<ekTesvikTebligTipleri>
+		<tebligTip>
+			<kod>1</kod>
+			<aciklama>I Seri No'lu Tebliğ</aciklama>
+		</tebligTip>
+		<tebligTip>
+			<kod>4</kod>
+			<aciklama>IV Seri No'lu Tebliğ</aciklama>
+		</tebligTip>
+	</ekTesvikTebligTipleri>
+	<isverenTipleri>
+		<isverenTip>
+			<kod>1</kod>
+			<aciklama>Alt Yüklenici</aciklama>
+		</isverenTip>
+		<isverenTip>
+			<kod>2</kod>
+			<aciklama>Asıl İşveren</aciklama>
+		</isverenTip>
+	</isverenTipleri>
+	<kaldirilanVergiler>
+		<vergi>
+			<vergiKodu>4003</vergiKodu>
+			<aciklama>013 Ek Ücret Gelir Vergisi</aciklama>
+		</vergi>
+		<vergi>
+			<vergiKodu>1042</vergiKodu>
+			<aciklama>066 Eğitime Katkı Payı</aciklama>
+		</vergi>
+		<vergi>
+			<vergiKodu>1043</vergiKodu>
+			<aciklama>301 Özel İşlem Vergisi</aciklama>
+		</vergi>
+		<vergi>
+			<vergiKodu>4006</vergiKodu>
+			<aciklama>401 Faiz Vergisi</aciklama>
+		</vergi>
+		<vergi>
+			<vergiKodu>4007</vergiKodu>
+			<aciklama>501 Ek Emlak Vergisi</aciklama>
+		</vergi>
+	</kaldirilanVergiler>
+	<argeIsciTurleri>
+		<data>
+			<kod>1</kod>
+			<aciklama>Doktoralı Olanlar ile Temel Bilimler (****)</aciklama>
+		</data>
+		<data>
+			<kod>3</kod>
+			<aciklama>Yüksek Lisanslı Olanlar ile Temel Bilimler (*****)</aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>Diğerleri</aciklama>
+		</data>
+	</argeIsciTurleri>
+	<kulturYatirimAsamasi>
+		<data>
+			<kod>1</kod>
+			<aciklama>Kültür Yatırımı Belgeli</aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>Kültür Girişimi Belgeli</aciklama>
+		</data>
+	</kulturYatirimAsamasi>
+	  <serbestBolgeler>
+		<serbestBolge>
+				<kod>10001</kod>
+				<aciklama>ADANA-YUMURTALIK SERBEST BÖLGE MÜDÜRLÜĞÜ</aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10002</kod>
+				<aciklama>ANTALYA SERBEST BÖLGE MÜDÜRLÜĞÜ </aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10003</kod>
+				<aciklama>AVRUPA SERBEST BÖLGE MÜDÜRLÜĞÜ</aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10004</kod>
+				<aciklama>BURSA SERBEST BÖLGE MÜDÜRLÜĞÜ </aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10005</kod>
+				<aciklama>DENİZLİ SERBEST BÖLGE MÜDÜRLÜĞÜ</aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10006</kod>
+				<aciklama>DOĞU ANADOLU SERBEST BÖLGE MÜDÜRLÜĞÜ</aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10007</kod>
+				<aciklama>EGE SERBEST BÖLGE MÜDÜRLÜĞÜ </aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10008</kod>
+				<aciklama>GAZİANTEP SERBEST BÖLGE MÜDÜRLÜĞÜ</aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10009</kod>
+				<aciklama>İSTANBUL ATATÜRK HAVALİMANI SERBEST BÖLGE MÜDÜRLÜĞÜ</aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10010</kod>
+				<aciklama>İSTANBUL DERİ VE ENDÜSTRİ SERBEST BÖLGE MÜDÜRLÜĞÜ</aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10011</kod>
+				<aciklama>İSTANBUL TRAKYA SERBEST BÖLGE MÜDÜRLÜĞÜ</aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10012</kod>
+				<aciklama>İZMİR MENEMEN DERİ SERBEST BÖLGE MÜDÜRLÜĞÜ</aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10013</kod>
+				<aciklama>KAYSERİ SERBEST BÖLGE MÜDÜRLÜĞÜ</aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10014</kod>
+				<aciklama>KOCAELİ SERBEST BÖLGE MÜDÜRLÜĞÜ </aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10015</kod>
+				<aciklama>MARDİN SERBEST BÖLGE MÜDÜRLÜĞÜ</aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10016</kod>
+				<aciklama>MERSİN SERBEST BÖLGE MÜDÜRLÜĞÜ</aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10017</kod>
+				<aciklama>RİZE SERBEST BÖLGE MÜDÜRLÜĞÜ</aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10018</kod>
+				<aciklama>SAMSUN SERBEST BÖLGE MÜDÜRLÜĞÜ</aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10019</kod>
+				<aciklama>TRABZON SERBEST BÖLGE MÜDÜRLÜĞÜ</aciklama>
+		</serbestBolge>
+		<serbestBolge>
+				<kod>10020</kod>
+				<aciklama>TÜBİTAK MAM TEKNOLOJİ SERBEST BÖLGE MÜDÜRLÜĞÜ</aciklama>
+		</serbestBolge>
+	</serbestBolgeler>
+	<beyanimVarYok>
+		<data>
+			<kod>1</kod>
+			<aciklama>Var</aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>Yok</aciklama>
+		</data>
+	</beyanimVarYok>
+	<kulturTesvikineKonuBelgeTuru>
+		<tebligTip>
+			<kod>1</kod>
+			<aciklama>Kültür Yatırımı Belgesi</aciklama>
+		</tebligTip>
+		<tebligTip>
+			<kod>2</kod>
+			<aciklama>Kültür Girişimi Belgesi</aciklama>
+		</tebligTip>
+	</kulturTesvikineKonuBelgeTuru>
+	<kdvTevkifatlari>
+		<kdvTevkifati>
+			<kod>0</kod>
+			<ad>0- Yok</ad>
+		</kdvTevkifati>
+		<kdvTevkifati>
+			<kod>1</kod>
+			<ad>1- Faaliyetlerinin arızi olması nedeniyle KDV'ye tabi olmadığından tevkifat yapılmadı.</ad>
+		</kdvTevkifati>
+		<kdvTevkifati>
+			<kod>2</kod>
+			<ad>2- KDV kendileri tarafından mükellef sıfatıyla beyan edileceğinden KDV tevkifatı yapılmadı.</ad>
+		</kdvTevkifati>
+		<kdvTevkifati>
+			<kod>3</kod>
+			<ad>3- KDV tevkifatı yapıldı.</ad>
+		</kdvTevkifati>
+	</kdvTevkifatlari>
+	<ilIlceBolge6>
+		<data>
+			<ad>AĞRI</ad>
+			<kod>00400</kod>
+		</data>
+		<data>
+			<ad>ADIYAMAN</ad>
+			<kod>00200</kod>
+		</data>		
+		<data>
+			<ad>AFYONKARAHİSAR</ad>
+			<kod>00300</kod>
+		</data>
+		<data>
+			<ad>AKSARAY</ad>
+			<kod>06800</kod>
+		</data>
+		<data>
+			<ad>AMASYA</ad>
+			<kod>00500</kod>
+		</data>
+		<data>
+			<ad>ARDAHAN</ad>
+			<kod>07500</kod>
+		</data>
+		<data>
+			<ad>ARTVİN</ad>
+			<kod>00800</kod>
+		</data>
+		<data>
+			<ad>BARTIN</ad>
+			<kod>07400</kod>
+		</data>
+		<data>
+			<ad>BATMAN</ad>
+			<kod>07200</kod>
+		</data>
+		<data>
+			<ad>BAYBURT</ad>
+			<kod>06900</kod>
+		</data>
+		<data>
+			<ad>BİNGÖL</ad>
+			<kod>01200</kod>
+		</data>
+		<data>
+			<ad>BİTLİS</ad>
+			<kod>01300</kod>
+		</data>
+		<data>
+			<ad>ÇANAKKALE-BOZCAADA</ad>
+			<kod>01704</kod>
+		</data>
+		<data>
+			<ad>ÇANAKKALE-GÖKÇEADA</ad>
+			<kod>01709</kod>
+		</data>
+		<data>
+			<ad>ÇANKIRI</ad>
+			<kod>01800</kod>
+		</data>
+		<data>
+			<ad>ÇORUM</ad>
+			<kod>01900</kod>
+		</data>
+		<data>
+			<ad>DİYARBAKIR</ad>
+			<kod>02100</kod>
+		</data>
+		<data>
+			<ad>DÜZCE</ad>
+			<kod>08100</kod>
+		</data>
+		<data>
+			<ad>ELAZIĞ</ad>
+			<kod>02300</kod>
+		</data>
+		<data>
+			<ad>ERZİNCAN</ad>
+			<kod>02400</kod>
+		</data>
+		<data>
+			<ad>ERZURUM</ad>
+			<kod>02500</kod>
+		</data>
+		<data>
+			<ad>GİRESUN</ad>
+			<kod>02800</kod>
+		</data>
+		<data>
+			<ad>GÜMÜŞHANE</ad>
+			<kod>02900</kod>
+		</data>
+		<data>
+			<ad>HAKKARİ</ad>
+			<kod>03000</kod>
+		</data>
+		<data>
+			<ad>HATAY</ad>
+			<kod>03100</kod>
+		</data>
+		<data>
+			<ad>IĞDIR</ad>
+			<kod>07600</kod>
+		</data>
+		<data>
+			<ad>KAHRAMANMARAŞ</ad>
+			<kod>04600</kod>
+		</data>
+		<data>
+			<ad>KARS</ad>
+			<kod>03600</kod>
+		</data>
+		<data>
+			<ad>KASTAMONU</ad>
+			<kod>03700</kod>
+		</data>
+		<data>
+			<ad>KIRIKKALE</ad>
+			<kod>07100</kod>
+		</data>
+		<data>
+			<ad>KIRŞEHİR</ad>
+			<kod>04000</kod>
+		</data>
+		<data>
+			<ad>KİLİS</ad>
+			<kod>07900</kod>
+		</data>
+		<data>
+			<ad>KÜTAHYA</ad>
+			<kod>04300</kod>
+		</data>
+		<data>
+			<ad>MALATYA</ad>
+			<kod>04400</kod>
+		</data>
+		<data>
+			<ad>MARDİN</ad>
+			<kod>04700</kod>
+		</data>>
+		<data>
+			<ad>MUŞ</ad>
+			<kod>04900</kod>
+		</data>
+		<data>
+			<ad>NEVŞEHİR</ad>
+			<kod>05000</kod>
+		</data>
+		<data>
+			<ad>NİĞDE</ad>
+			<kod>05100</kod>
+		</data>
+		<data>
+			<ad>ORDU</ad>
+			<kod>05200</kod>
+		</data>
+		<data>
+			<ad>OSMANİYE</ad>
+			<kod>08000</kod>
+		</data>
+		<data>
+			<ad>RİZE</ad>
+			<kod>05300</kod>
+		</data>
+		<data>
+			<ad>SİİRT</ad>
+			<kod>05600</kod>
+		</data>
+		<data>
+			<ad>SİNOP</ad>
+			<kod>05700</kod>
+		</data>
+		<data>
+			<ad>SİVAS</ad>
+			<kod>05800</kod>
+		</data>
+		<data>
+			<ad>ŞANLIURFA</ad>
+			<kod>06300</kod>
+		</data>
+		<data>
+			<ad>ŞIRNAK</ad>
+			<kod>07300</kod>
+		</data>
+		<data>
+			<ad>TOKAT</ad>
+			<kod>06000</kod>
+		</data>
+		<data>
+			<ad>TUNCELİ</ad>
+			<kod>06200</kod>
+		</data>
+		<data>
+			<ad>VAN</ad>
+			<kod>06500</kod>
+		</data>
+		<data>
+			<ad>YOZGAT</ad>
+			<kod>06600</kod>
+		</data>
+	</ilIlceBolge6>
+	<madenCalismaYerleri>
+		<data>
+			<ad>Yeraltı</ad>
+			<kod>101</kod>
+		</data>
+	</madenCalismaYerleri>
+	<kaldirilanVergiler>
+		<vergi>
+			<vergiKodu>4003</vergiKodu>
+			<aciklama>013 Ek Ücret Gelir Vergisi</aciklama>
+		</vergi>
+		<vergi>
+			<vergiKodu>1042</vergiKodu>
+			<aciklama>066 Eğitime Katkı Payı</aciklama>
+		</vergi>
+		<vergi>
+			<vergiKodu>1043</vergiKodu>
+			<aciklama>301 Özel İşlem Vergisi</aciklama>
+		</vergi>
+		<vergi>
+			<vergiKodu>4006</vergiKodu>
+			<aciklama>401 Faiz Vergisi</aciklama>
+		</vergi>
+		<vergi>
+			<vergiKodu>4007</vergiKodu>
+			<aciklama>501 Ek Emlak Vergisi</aciklama>
+		</vergi>
+	</kaldirilanVergiler>
+	<teknolojiBolgeleri>
+		<data>
+			<kod>101</kod>
+			<ad>ODTÜ Teknokent TGB</ad>
+			<il>Ankara</il>
+		</data>
+		<data>
+			<kod>102</kod>
+			<ad>TÜBİTAK - Marmara Araştırma Merkezi Teknopark TGB</ad>
+			<il>Kocaeli</il>
+		</data>
+		<data>
+			<kod>103</kod>
+			<ad>Ankara TGB</ad>
+			<il>Ankara</il>
+		</data>
+		<data>
+			<kod>104</kod>
+			<ad>GOSB Teknopark TGB</ad>
+			<il>Kocaeli</il>
+		</data>
+		<data>
+			<kod>105</kod>
+			<ad>İzmir TGB</ad>
+			<il>İzmir</il>
+		</data>
+		<data>
+			<kod>106</kod>
+			<ad>İstanbul Teknik Üniversitesi Arı Teknokent TGB</ad>
+			<il>İstanbul</il>
+		</data>
+		<data>
+			<kod>107</kod>
+			<ad>Hacettepe Üniversitesi TGB</ad>
+			<il>Ankara</il>
+		</data>
+		<data>
+			<kod>108</kod>
+			<ad>Yıldız Teknik Üniversitesi TGB</ad>
+			<il>İstanbul</il>
+		</data>
+		<data>
+			<kod>109</kod>
+			<ad>Kocaeli Üniversitesi TGB</ad>
+			<il>Kocaeli</il>
+		</data>
+		<data>
+			<kod>110</kod>
+			<ad>Eskişehir TGB</ad>
+			<il>Eskişehir</il>
+		</data>
+		<data>
+			<kod>111</kod>
+			<ad>İstanbul Üniversitesi TGB</ad>
+			<il>İstanbul</il>
+		</data>
+		<data>
+			<kod>112</kod>
+			<ad>Selçuk Üniversitesi TGB</ad>
+			<il>Konya</il>
+		</data>
+		<data>
+			<kod>113</kod>
+			<ad>Batı Akdeniz Teknokenti TGB</ad>
+			<il>Antalya</il>
+		</data>
+		<data>
+			<kod>114</kod>
+			<ad>Erciyes Üniversitesi TGB</ad>
+			<il>Kayseri</il>
+		</data>
+		<data>
+			<kod>115</kod>
+			<ad>Trabzon TGB</ad>
+			<il>Trabzon</il>
+		</data>
+		<data>
+			<kod>116</kod>
+			<ad>Çukurova TGB</ad>
+			<il>Adana</il>
+		</data>
+		<data>
+			<kod>117</kod>
+			<ad>Erzurum Ata Teknokent TGB</ad>
+			<il>Erzurum</il>
+		</data>
+		<data>
+			<kod>118</kod>
+			<ad>Mersin TGB</ad>
+			<il>Mersin</il>
+		</data>
+		<data>
+			<kod>119</kod>
+			<ad>Göller Bölgesi TGB</ad>
+			<il>Isparta</il>
+		</data>
+		<data>
+			<kod>120</kod>
+			<ad>Ulutek TGB</ad>
+			<il>Bursa</il>
+		</data>
+		<data>
+			<kod>121</kod>
+			<ad>Ankara Üniversitesi TGB</ad>
+			<il>Ankara</il>
+		</data>
+		<data>
+			<kod>122</kod>
+			<ad>Gaziantep Üniversitesi TGB</ad>
+			<il>Gaziantep</il>
+		</data>
+		<data>
+			<kod>123</kod>
+			<ad>Pamukkale Üniversitesi TGB</ad>
+			<il>Denizli</il>
+		</data>
+		<data>
+			<kod>124</kod>
+			<ad>Cumhuriyet TGB.</ad>
+			<il>Sivas</il>
+		</data>
+		<data>
+			<kod>125</kod>
+			<ad>Fırat TGB</ad>
+			<il>Elazığ</il>
+		</data>
+		<data>
+			<kod>126</kod>
+			<ad>Trakya Üniversitesi Edirne TGB</ad>
+			<il>Edirne</il>
+		</data>
+		<data>
+			<kod>127</kod>
+			<ad>Gazi Teknopark TGB</ad>
+			<il>Ankara</il>
+		</data>
+		<data>
+			<kod>128</kod>
+			<ad>Dicle Üniversitesi TGB</ad>
+			<il>Diyarbakır</il>
+		</data>
+		<data>
+			<kod>129</kod>
+			<ad>Sakarya Üniversitesi TGB</ad>
+			<il>Sakarya</il>
+		</data>
+		<data>
+			<kod>130</kod>
+			<ad>Boğaziçi Üniversitesi TGB</ad>
+			<il>İstanbul</il>
+		</data>
+		<data>
+			<kod>131</kod>
+			<ad>Bolu TGB</ad>
+			<il>Bolu</il>
+		</data>
+		<data>
+			<kod>132</kod>
+			<ad>Malatya TGB</ad>
+			<il>Malatya</il>
+		</data>
+		<data>
+			<kod>133</kod>
+			<ad>Düzce Teknopark TGB</ad>
+			<il>Düzce</il>
+		</data>
+		<data>
+			<kod>134</kod>
+			<ad>Kahramanmaraş TGB</ad>
+			<il>K.Maraş</il>
+		</data>
+		<data>
+			<kod>135</kod>
+			<ad>Dokuz Eylül Teknoloji Geliştirme Bölgesi</ad>
+			<il>İzmir</il>
+		</data>
+		<data>
+			<kod>136</kod>
+			<ad>Namık Kemal ÜniversitesiTeknoloji Geliştirme Bölgesi</ad>
+			<il>Tekirdağ</il>
+		</data>
+		<data>
+			<kod>137</kod>
+			<ad>Kütahya Dumlupınar Tasarım Teknoloji Geliştirme Bölgesi</ad>
+			<il>Kütahya</il>
+		</data>
+		<data>
+			<kod>138</kod>
+			<ad>Tokat Teknoloji Geliştirme Bölgesi</ad>
+			<il>Tokat</il>
+		</data>
+		<data>
+			<kod>139</kod>
+			<ad>İstanbul Teknoloji Geliştirme Bölgesi</ad>
+			<il>İstanbul</il>
+		</data>
+		<data>
+			<kod>140</kod>
+			<ad>Çanakkale Üniversitesi Teknoloji Geliştirme Bölgesi</ad>
+			<il>Çanakkale</il>
+		</data>
+		<data>
+			<kod>141</kod>
+			<ad>Samsun Teknoloji Geliştirme Bölgesi</ad>
+			<il>Samsun</il>
+		</data>
+		<data>
+			<kod>142</kod>
+			<ad>Marmara Üniversitesi Teknoloji Geliştirme Bölgesi</ad>
+			<il>İstanbul</il>
+		</data>
+		<data>
+			<kod>143</kod>
+			<ad>Ege Teknopark Teknoloji Geliştirme Bölgesi</ad>
+			<il>İzmir</il>
+		</data>
+		<data>
+			<kod>144</kod>
+			<ad>Harran Üniversitesi Teknoloji Geliştirme Bölgesi</ad>
+			<il>Şanlıurfa</il>
+		</data>
+		<data>
+			<kod>145</kod>
+			<ad>Bozok Teknoloji Geliştirme Bölgesi</ad>
+			<il>Yozgat</il>
+		</data>
+		<data>
+			<kod>146</kod>
+			<ad>İzmir Bilim ve Teknoloji Parkı</ad>
+			<il>İzmir</il>
+		</data>
+		<data>
+			<kod>147</kod>
+			<ad>Kırıkkale Üniversitesi Teknoloji Geliştirme Bölgesi</ad>
+			<il>Kırıkkale</il>
+		</data>
+		<data>
+			<kod>148</kod>
+			<ad>Çorum Teknoloji Geliştirme Bölgesi</ad>
+			<il>Çorum</il>
+		</data>
+		<data>
+			<kod>149</kod>
+			<ad>Celal Bayar Üniversitesi Teknoloji Geliştirme Bölgesi</ad>
+			<il>Manisa</il>
+		</data>
+		<data>
+			<kod>150</kod>
+			<ad>Konya Teknoloji Geliştirme Bölgesi</ad>
+			<il>Konya</il>
+		</data>
+		<data>
+			<kod>151</kod>
+			<ad>Afyon Uşak Zafer Teknoloji Geliştirme Bölgesi</ad>
+			<il>Afyon</il>
+		</data>
+		<data>
+			<kod>152</kod>
+			<ad>Yüzüncü Yıl Üniversitesi Teknokent</ad>
+			<il>Van</il>
+		</data>
+		<data>
+			<kod>153</kod>
+			<ad>Ankara Teknopark Teknoloji Geliştirme Bölgesi</ad>
+			<il>Ankara</il>
+		</data>
+		<data>
+			<kod>154</kod>
+			<ad>Kocaeli Muallimköy Teknoloji Geliştirme Bölgesi</ad>
+			<il>Kocaeli</il>
+		</data>
+		<data>
+			<kod>155</kod>
+			<ad>Adnan Menderes Üniversitesi TGB</ad>
+			<il>Aydın</il>
+		</data>
+	</teknolojiBolgeleri>
+	<ulkekodlari>
+		<ulke>
+			<kod>013</kod>
+			<ad>ABD MINOR OUTLYING ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>457</kod>
+			<ad>ABD VİRJİN ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>660</kod>
+			<ad>AFGANİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>004</kod>
+			<ad>ALMANYA</ad>
+		</ulke>
+		<ulke>
+			<kod>400</kod>
+			<ad>AMERİKA BİRLEŞİK DEV</ad>
+		</ulke>
+		<ulke>
+			<kod>830</kod>
+			<ad>AMERİKA SAMOASI</ad>
+		</ulke>
+		<ulke>
+			<kod>808</kod>
+			<ad>AMERİKAN OKYANUSYASI</ad>
+		</ulke>
+		<ulke>
+			<kod>043</kod>
+			<ad>ANDORRA</ad>
+		</ulke>
+		<ulke>
+			<kod>330</kod>
+			<ad>ANGOLA</ad>
+		</ulke>
+		<ulke>
+			<kod>446</kod>
+			<ad>ANGUILLA</ad>
+		</ulke>
+		<ulke>
+			<kod>891</kod>
+			<ad>ANTARTİKA</ad>
+		</ulke>
+		<ulke>
+			<kod>459</kod>
+			<ad>ANTIGUA VE BERMUDA</ad>
+		</ulke>
+		<ulke>
+			<kod>528</kod>
+			<ad>ARJANTİN</ad>
+		</ulke>
+		<ulke>
+			<kod>070</kod>
+			<ad>ARNAVUTLUK</ad>
+		</ulke>
+		<ulke>
+			<kod>474</kod>
+			<ad>ARUBA</ad>
+		</ulke>
+		<ulke>
+			<kod>800</kod>
+			<ad>AVUSTRALYA</ad>
+		</ulke>
+		<ulke>
+			<kod>802</kod>
+			<ad>AVUSTRALYA OKYANUSU</ad>
+		</ulke>
+		<ulke>
+			<kod>038</kod>
+			<ad>AVUSTURYA</ad>
+		</ulke>
+		<ulke>
+			<kod>078</kod>
+			<ad>AZERBEYCAN-NAHÇIVAN</ad>
+		</ulke>
+		<ulke>
+			<kod>453</kod>
+			<ad>BAHAMA</ad>
+		</ulke>
+		<ulke>
+			<kod>640</kod>
+			<ad>BAHREYN</ad>
+		</ulke>
+		<ulke>
+			<kod>666</kod>
+			<ad>BANGLADEŞ</ad>
+		</ulke>
+		<ulke>
+			<kod>469</kod>
+			<ad>BARBADOS</ad>
+		</ulke>
+		<ulke>
+			<kod>819</kod>
+			<ad>BATI SAMAO</ad>
+		</ulke>
+		<ulke>
+			<kod>002</kod>
+			<ad>BELÇİKA</ad>
+		</ulke>
+		<ulke>
+			<kod>421</kod>
+			<ad>BELİZE</ad>
+		</ulke>
+		<ulke>
+			<kod>284</kod>
+			<ad>BENİN</ad>
+		</ulke>
+		<ulke>
+			<kod>413</kod>
+			<ad>BERMUDA</ad>
+		</ulke>
+		<ulke>
+			<kod>073</kod>
+			<ad>BEYAZ RUSYA</ad>
+		</ulke>
+		<ulke>
+			<kod>675</kod>
+			<ad>BHUTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>958</kod>
+			<ad>BİLİNEMEYEN ÜLKE VE TOPRAKLAR</ad>
+		</ulke>
+		<ulke>
+			<kod>647</kod>
+			<ad>BİRLEŞİK ARAP EMİRLİ</ad>
+		</ulke>
+		<ulke>
+			<kod>006</kod>
+			<ad>BİRLEŞİK KRALLIK (İngiltere, Galler, İskoçya, Kuzey İrlanda)</ad>
+		</ulke>
+		<ulke>
+			<kod>901</kod>
+			<ad>BİSMARK ARCHİPELAGO</ad>
+		</ulke>
+		<ulke>
+			<kod>516</kod>
+			<ad>BOLİVYA</ad>
+		</ulke>
+		<ulke>
+			<kod>093</kod>
+			<ad>BOSNA-HERSEK</ad>
+		</ulke>
+		<ulke>
+			<kod>391</kod>
+			<ad>BOSTVANA</ad>
+		</ulke>
+		<ulke>
+			<kod>892</kod>
+			<ad>BOUVET ADASI</ad>
+		</ulke>
+		<ulke>
+			<kod>508</kod>
+			<ad>BREZİLYA</ad>
+		</ulke>
+		<ulke>
+			<kod>703</kod>
+			<ad>BRUNEİ</ad>
+		</ulke>
+		<ulke>
+			<kod>068</kod>
+			<ad>BULGARİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>236</kod>
+			<ad>BURKİNA FASO</ad>
+		</ulke>
+		<ulke>
+			<kod>676</kod>
+			<ad>BURMA</ad>
+		</ulke>
+		<ulke>
+			<kod>328</kod>
+			<ad>BURUNDİ</ad>
+		</ulke>
+		<ulke>
+			<kod>247</kod>
+			<ad>CAPE VERDE</ad>
+		</ulke>
+		<ulke>
+			<kod>463</kod>
+			<ad>CAYMAN ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>044</kod>
+			<ad>CEBELİ TARIK</ad>
+		</ulke>
+		<ulke>
+			<kod>022</kod>
+			<ad>CEUTA VE MELİLLA</ad>
+		</ulke>
+		<ulke>
+			<kod>208</kod>
+			<ad>CEZAYİR</ad>
+		</ulke>
+		<ulke>
+			<kod>834</kod>
+			<ad>CHRISTMAS ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>338</kod>
+			<ad>CİBUTİ</ad>
+		</ulke>
+		<ulke>
+			<kod>182</kod>
+			<ad>COOK ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>244</kod>
+			<ad>ÇAD</ad>
+		</ulke>
+		<ulke>
+			<kod>084</kod>
+			<ad>ÇEÇEN CUMHURİYETİ</ad>
+		</ulke>
+		<ulke>
+			<kod>062</kod>
+			<ad>ÇEK CUMHURİYETİ</ad>
+		</ulke>
+		<ulke>
+			<kod>720</kod>
+			<ad>ÇİN HALK CUMHURİYETİ</ad>
+		</ulke>
+		<ulke>
+			<kod>085</kod>
+			<ad>DAĞISTAN CUMHURİYETİ</ad>
+		</ulke>
+		<ulke>
+			<kod>008</kod>
+			<ad>DANİMARKA</ad>
+		</ulke>
+		<ulke>
+			<kod>626</kod>
+			<ad>DOĞU TİMOR</ad>
+		</ulke>
+		<ulke>
+			<kod>460</kod>
+			<ad>DOMİNİKA</ad>
+		</ulke>
+		<ulke>
+			<kod>456</kod>
+			<ad>DOMİNİK CUMHURİYETİ</ad>
+		</ulke>
+		<ulke>
+			<kod>648</kod>
+			<ad>DUBAİ</ad>
+		</ulke>
+		<ulke>
+			<kod>500</kod>
+			<ad>EKVATOR</ad>
+		</ulke>
+		<ulke>
+			<kod>310</kod>
+			<ad>EKVATOR GİNESİ</ad>
+		</ulke>
+		<ulke>
+			<kod>428</kod>
+			<ad>EL SALVADOR</ad>
+		</ulke>
+		<ulke>
+			<kod>700</kod>
+			<ad>ENDONEZYA</ad>
+		</ulke>
+		<ulke>
+			<kod>336</kod>
+			<ad>ERİTRE</ad>
+		</ulke>
+		<ulke>
+			<kod>077</kod>
+			<ad>ERMENİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>053</kod>
+			<ad>ESTONYA</ad>
+		</ulke>
+		<ulke>
+			<kod>334</kod>
+			<ad>ETİYOPYA</ad>
+		</ulke>
+		<ulke>
+			<kod>529</kod>
+			<ad>FALKLAND ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>025</kod>
+			<ad>FAROE ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>204</kod>
+			<ad>FAS</ad>
+		</ulke>
+		<ulke>
+			<kod>815</kod>
+			<ad>FİJİ</ad>
+		</ulke>
+		<ulke>
+			<kod>272</kod>
+			<ad>FİLDİŞİ SAHİLİ</ad>
+		</ulke>
+		<ulke>
+			<kod>708</kod>
+			<ad>FİLİPİNLER</ad>
+		</ulke>
+		<ulke>
+			<kod>032</kod>
+			<ad>FİNLANDİYA</ad>
+		</ulke>
+		<ulke>
+			<kod>001</kod>
+			<ad>FRANSA</ad>
+		</ulke>
+		<ulke>
+			<kod>496</kod>
+			<ad>FRANSIZ GUYANASI</ad>
+		</ulke>
+		<ulke>
+			<kod>822</kod>
+			<ad>FRANSIZ POLİNEZYASI</ad>
+		</ulke>
+		<ulke>
+			<kod>314</kod>
+			<ad>GABON</ad>
+		</ulke>
+		<ulke>
+			<kod>252</kod>
+			<ad>GAMBİYA</ad>
+		</ulke>
+		<ulke>
+			<kod>276</kod>
+			<ad>GANA</ad>
+		</ulke>
+		<ulke>
+			<kod>260</kod>
+			<ad>GİNE</ad>
+		</ulke>
+		<ulke>
+			<kod>257</kod>
+			<ad>GİNE-BİSSAU</ad>
+		</ulke>
+		<ulke>
+			<kod>473</kod>
+			<ad>GRENADA</ad>
+		</ulke>
+		<ulke>
+			<kod>406</kod>
+			<ad>GRÖNLAND</ad>
+		</ulke>
+		<ulke>
+			<kod>458</kod>
+			<ad>GUADELUP</ad>
+		</ulke>
+		<ulke>
+			<kod>831</kod>
+			<ad>GUAM</ad>
+		</ulke>
+		<ulke>
+			<kod>416</kod>
+			<ad>GUATEMALA</ad>
+		</ulke>
+		<ulke>
+			<kod>488</kod>
+			<ad>GUYANA</ad>
+		</ulke>
+		<ulke>
+			<kod>390</kod>
+			<ad>GÜNEY AFRİKA CUMHURİ</ad>
+		</ulke>
+		<ulke>
+			<kod>029</kod>
+			<ad>GÜNEY FRANSIZ TOPRAKLARI</ad>
+		</ulke>
+		<ulke>
+			<kod>893</kod>
+			<ad>GÜNEY GEORGIA VE GÜNEY SANDWICH ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>728</kod>
+			<ad>GÜNEY KORE CUMHURİYE</ad>
+		</ulke>
+		<ulke>
+			<kod>656</kod>
+			<ad>GÜNEY YEMEN</ad>
+		</ulke>
+		<ulke>
+			<kod>076</kod>
+			<ad>GÜRCİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>452</kod>
+			<ad>HAİTİ</ad>
+		</ulke>
+		<ulke>
+			<kod>835</kod>
+			<ad>HEARD ADALARI VE MC DONALD ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>664</kod>
+			<ad>HİNDİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>092</kod>
+			<ad>HIRVATİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>003</kod>
+			<ad>HOLLANDA</ad>
+		</ulke>
+		<ulke>
+			<kod>478</kod>
+			<ad>HOLLANDA ANTİLLERİ</ad>
+		</ulke>
+		<ulke>
+			<kod>424</kod>
+			<ad>HONDURAS</ad>
+		</ulke>
+		<ulke>
+			<kod>740</kod>
+			<ad>HONG KONG</ad>
+		</ulke>
+		<ulke>
+			<kod>357</kod>
+			<ad>İNGİLİZ HİNT OKY.TOP</ad>
+		</ulke>
+		<ulke>
+			<kod>461</kod>
+			<ad>İNGİLİZ VİRJİN ADALA</ad>
+		</ulke>
+		<ulke>
+			<kod>006</kod>
+			<ad>İNGİLTERE</ad>
+		</ulke>
+		<ulke>
+			<kod>612</kod>
+			<ad>IRAK</ad>
+		</ulke>
+		<ulke>
+			<kod>616</kod>
+			<ad>İRAN</ad>
+		</ulke>
+		<ulke>
+			<kod>007</kod>
+			<ad>İRLANDA</ad>
+		</ulke>
+		<ulke>
+			<kod>011</kod>
+			<ad>İSPANYA</ad>
+		</ulke>
+		<ulke>
+			<kod>624</kod>
+			<ad>İSRAİL</ad>
+		</ulke>
+		<ulke>
+			<kod>030</kod>
+			<ad>İSVEÇ</ad>
+		</ulke>
+		<ulke>
+			<kod>036</kod>
+			<ad>İSVİÇRE</ad>
+		</ulke>
+		<ulke>
+			<kod>625</kod>
+			<ad>İŞGAL ALTINDAKİ FİLİSTİN TOPRAĞI(GAZZE)</ad>
+		</ulke>
+		<ulke>
+			<kod>005</kod>
+			<ad>İTALYA</ad>
+		</ulke>
+		<ulke>
+			<kod>024</kod>
+			<ad>İZLANDA</ad>
+		</ulke>
+		<ulke>
+			<kod>464</kod>
+			<ad>JAMAİKA</ad>
+		</ulke>
+		<ulke>
+			<kod>732</kod>
+			<ad>JAPONYA</ad>
+		</ulke>
+		<ulke>
+			<kod>696</kod>
+			<ad>KAMBOÇYA</ad>
+		</ulke>
+		<ulke>
+			<kod>302</kod>
+			<ad>KAMERUN</ad>
+		</ulke>
+		<ulke>
+			<kod>404</kod>
+			<ad>KANADA</ad>
+		</ulke>
+		<ulke>
+			<kod>021</kod>
+			<ad>KANARYA ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>097</kod>
+			<ad>KARADAĞ</ad>
+		</ulke>
+		<ulke>
+			<kod>644</kod>
+			<ad>KATAR</ad>
+		</ulke>
+		<ulke>
+			<kod>079</kod>
+			<ad>KAZAKİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>346</kod>
+			<ad>KENYA</ad>
+		</ulke>
+		<ulke>
+			<kod>600</kod>
+			<ad>KIBRIS RUM KESİMİ</ad>
+		</ulke>
+		<ulke>
+			<kod>083</kod>
+			<ad>KIRGIZİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>812</kod>
+			<ad>KİRİBATİ</ad>
+		</ulke>
+		<ulke>
+			<kod>833</kod>
+			<ad>KOKOS ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>480</kod>
+			<ad>KOLOMBİYA</ad>
+		</ulke>
+		<ulke>
+			<kod>375</kod>
+			<ad>KOMORO ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>318</kod>
+			<ad>KONGO</ad>
+		</ulke>
+		<ulke>
+			<kod>095</kod>
+			<ad>KOSOVA</ad>
+		</ulke>
+		<ulke>
+			<kod>436</kod>
+			<ad>KOSTA RİKA</ad>
+		</ulke>
+		<ulke>
+			<kod>890</kod>
+			<ad>KUTUP BÖLGELERİ</ad>
+		</ulke>
+		<ulke>
+			<kod>636</kod>
+			<ad>KUVEYT</ad>
+		</ulke>
+		<ulke>
+			<kod>601</kod>
+			<ad>KUZEY KIBRIS TÜRK CU</ad>
+		</ulke>
+		<ulke>
+			<kod>724</kod>
+			<ad>KUZEY KORE DEMOKRATİ</ad>
+		</ulke>
+		<ulke>
+			<kod>820</kod>
+			<ad>KUZEY MARİANA ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>652</kod>
+			<ad>KUZEY YEMEN</ad>
+		</ulke>
+		<ulke>
+			<kod>448</kod>
+			<ad>KÜBA</ad>
+		</ulke>
+		<ulke>
+			<kod>684</kod>
+			<ad>LAOS</ad>
+		</ulke>
+		<ulke>
+			<kod>395</kod>
+			<ad>LESOTHO</ad>
+		</ulke>
+		<ulke>
+			<kod>054</kod>
+			<ad>LETONYA</ad>
+		</ulke>
+		<ulke>
+			<kod>268</kod>
+			<ad>LİBERYA</ad>
+		</ulke>
+		<ulke>
+			<kod>216</kod>
+			<ad>LİBYA</ad>
+		</ulke>
+		<ulke>
+			<kod>438</kod>
+			<ad>LIESHTENSTEIN</ad>
+		</ulke>
+		<ulke>
+			<kod>055</kod>
+			<ad>LİTVANYA</ad>
+		</ulke>
+		<ulke>
+			<kod>604</kod>
+			<ad>LÜBNAN</ad>
+		</ulke>
+		<ulke>
+			<kod>012</kod>
+			<ad>LÜKSEMBURG</ad>
+		</ulke>
+		<ulke>
+			<kod>064</kod>
+			<ad>MACARİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>370</kod>
+			<ad>MADAGASKAR</ad>
+		</ulke>
+		<ulke>
+			<kod>743</kod>
+			<ad>MAKAO</ad>
+		</ulke>
+		<ulke>
+			<kod>096</kod>
+			<ad>MAKEDONYA</ad>
+		</ulke>
+		<ulke>
+			<kod>386</kod>
+			<ad>MALAVİ</ad>
+		</ulke>
+		<ulke>
+			<kod>667</kod>
+			<ad>MALDİV ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>701</kod>
+			<ad>MALEZYA</ad>
+		</ulke>
+		<ulke>
+			<kod>232</kod>
+			<ad>MALİ</ad>
+		</ulke>
+		<ulke>
+			<kod>046</kod>
+			<ad>MALTA</ad>
+		</ulke>
+		<ulke>
+			<kod>824</kod>
+			<ad>MARSHALL ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>462</kod>
+			<ad>MARTİNİK</ad>
+		</ulke>
+		<ulke>
+			<kod>373</kod>
+			<ad>MAURİTİUS</ad>
+		</ulke>
+		<ulke>
+			<kod>377</kod>
+			<ad>MAYOTTE</ad>
+		</ulke>
+		<ulke>
+			<kod>412</kod>
+			<ad>MEKSİKA</ad>
+		</ulke>
+		<ulke>
+			<kod>306</kod>
+			<ad>ORTA AFRİKA CUMHURİYETİ</ad>
+		</ulke>
+		<ulke>
+			<kod>220</kod>
+			<ad>MISIR</ad>
+		</ulke>
+		<ulke>
+			<kod>823</kod>
+			<ad>MİKRONEZYA</ad>
+		</ulke>
+		<ulke>
+			<kod>716</kod>
+			<ad>MOĞOLİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>074</kod>
+			<ad>MOLDAVYA</ad>
+		</ulke>
+		<ulke>
+			<kod>493</kod>
+			<ad>MONACO</ad>
+		</ulke>
+		<ulke>
+			<kod>470</kod>
+			<ad>MONTSERRAT</ad>
+		</ulke>
+		<ulke>
+			<kod>228</kod>
+			<ad>MORİTANYA</ad>
+		</ulke>
+		<ulke>
+			<kod>366</kod>
+			<ad>MOZAMBİK</ad>
+		</ulke>
+		<ulke>
+			<kod>104</kod>
+			<ad>MYANMAR</ad>
+		</ulke>
+		<ulke>
+			<kod>389</kod>
+			<ad>NAMİBYA</ad>
+		</ulke>
+		<ulke>
+			<kod>803</kod>
+			<ad>NAURU</ad>
+		</ulke>
+		<ulke>
+			<kod>672</kod>
+			<ad>NEPAL</ad>
+		</ulke>
+		<ulke>
+			<kod>240</kod>
+			<ad>NİJER</ad>
+		</ulke>
+		<ulke>
+			<kod>288</kod>
+			<ad>NİJERYA</ad>
+		</ulke>
+		<ulke>
+			<kod>432</kod>
+			<ad>NİKARAGUA</ad>
+		</ulke>
+		<ulke>
+			<kod>838</kod>
+			<ad>NİUE</ad>
+		</ulke>
+		<ulke>
+			<kod>836</kod>
+			<ad>NORFOLK ADASI</ad>
+		</ulke>
+		<ulke>
+			<kod>028</kod>
+			<ad>NORVEÇ</ad>
+		</ulke>
+		<ulke>
+			<kod>081</kod>
+			<ad>ÖZBEKİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>662</kod>
+			<ad>PAKİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>825</kod>
+			<ad>PALAU</ad>
+		</ulke>
+		<ulke>
+			<kod>442</kod>
+			<ad>PANAMA</ad>
+		</ulke>
+		<ulke>
+			<kod>801</kod>
+			<ad>PAPUA YENİ GİNE</ad>
+		</ulke>
+		<ulke>
+			<kod>520</kod>
+			<ad>PARAGUAY</ad>
+		</ulke>
+		<ulke>
+			<kod>504</kod>
+			<ad>PERU</ad>
+		</ulke>
+		<ulke>
+			<kod>813</kod>
+			<ad>PİTCAİRN</ad>
+		</ulke>
+		<ulke>
+			<kod>060</kod>
+			<ad>POLONYA</ad>
+		</ulke>
+		<ulke>
+			<kod>010</kod>
+			<ad>PORTEKİZ</ad>
+		</ulke>
+		<ulke>
+			<kod>372</kod>
+			<ad>REUNİON</ad>
+		</ulke>
+		<ulke>
+			<kod>066</kod>
+			<ad>ROMANYA</ad>
+		</ulke>
+		<ulke>
+			<kod>324</kod>
+			<ad>RUANDA</ad>
+		</ulke>
+		<ulke>
+			<kod>075</kod>
+			<ad>RUSYA FEDERASYONU</ad>
+		</ulke>
+		<ulke>
+			<kod>674</kod>
+			<ad>SAN MARİNO</ad>
+		</ulke>
+		<ulke>
+			<kod>311</kod>
+			<ad>SAO TOME AND PRINCIP</ad>
+		</ulke>
+		<ulke>
+			<kod>248</kod>
+			<ad>SENEGAL</ad>
+		</ulke>
+		<ulke>
+			<kod>021</kod>
+			<ad>SEPTE(Ceuta)</ad>
+		</ulke>
+		<ulke>
+			<kod>960</kod>
+			<ad>SERBEST BÖLGE (BA-BS'de Kullanılan)</ad>
+		</ulke>
+		<ulke>
+			<kod>355</kod>
+			<ad>SEYŞEL ADALARI VE BA</ad>
+		</ulke>
+		<ulke>
+			<kod>264</kod>
+			<ad>SIERRA LEONE</ad>
+		</ulke>
+		<ulke>
+			<kod>098</kod>
+			<ad>SIRBİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>706</kod>
+			<ad>SİNGAPUR</ad>
+		</ulke>
+		<ulke>
+			<kod>094</kod>
+			<ad>YUGOSLAVYA(SIRBİSTAN VE KARADAĞ)</ad>
+		</ulke>
+		<ulke>
+			<kod>063</kod>
+			<ad>SLOVAKYA</ad>
+		</ulke>
+		<ulke>
+			<kod>091</kod>
+			<ad>SLOVENYA</ad>
+		</ulke>
+		<ulke>
+			<kod>806</kod>
+			<ad>SOLOMON ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>342</kod>
+			<ad>SOMALİ</ad>
+		</ulke>
+		<ulke>
+			<kod>669</kod>
+			<ad>SRİ LANKA</ad>
+		</ulke>
+		<ulke>
+			<kod>449</kod>
+			<ad>ST. KİTTS ve NEVİS</ad>
+		</ulke>
+		<ulke>
+			<kod>329</kod>
+			<ad>ST. HELENA VE BAĞLAN</ad>
+		</ulke>
+		<ulke>
+			<kod>465</kod>
+			<ad>ST. LUCİA</ad>
+		</ulke>
+		<ulke>
+			<kod>408</kod>
+			<ad>ST. PİERRE VE MİQUEL</ad>
+		</ulke>
+		<ulke>
+			<kod>467</kod>
+			<ad>ST VİNCENT VE GRENADİNLER</ad>
+		</ulke>
+		<ulke>
+			<kod>224</kod>
+			<ad>SUDAN</ad>
+		</ulke>
+		<ulke>
+			<kod>492</kod>
+			<ad>SURİNAM</ad>
+		</ulke>
+		<ulke>
+			<kod>608</kod>
+			<ad>SURİYE</ad>
+		</ulke>
+		<ulke>
+			<kod>632</kod>
+			<ad>SUUDİ ARABİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>393</kod>
+			<ad>SVAZİLAND</ad>
+		</ulke>
+		<ulke>
+			<kod>512</kod>
+			<ad>ŞİLİ</ad>
+		</ulke>
+		<ulke>
+			<kod>082</kod>
+			<ad>TACİKİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>352</kod>
+			<ad>Tanzanya (Birleşik Cum.)</ad>
+		</ulke>
+		<ulke>
+			<kod>086</kod>
+			<ad>TATARİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>680</kod>
+			<ad>TAYLAND</ad>
+		</ulke>
+		<ulke>
+			<kod>736</kod>
+			<ad>TAYVAN</ad>
+		</ulke>
+		<ulke>
+			<kod>280</kod>
+			<ad>TOGO</ad>
+		</ulke>
+		<ulke>
+			<kod>839</kod>
+			<ad>TOKELAU</ad>
+		</ulke>
+		<ulke>
+			<kod>817</kod>
+			<ad>TONGA</ad>
+		</ulke>
+		<ulke>
+			<kod>472</kod>
+			<ad>TRİNİDAD VE TOBAGO</ad>
+		</ulke>
+		<ulke>
+			<kod>212</kod>
+			<ad>TUNUS</ad>
+		</ulke>
+		<ulke>
+			<kod>454</kod>
+			<ad>TURKS VE CAİCOS ADAS</ad>
+		</ulke>
+		<ulke>
+			<kod>807</kod>
+			<ad>TUVALU</ad>
+		</ulke>
+		<ulke>
+			<kod>080</kod>
+			<ad>TÜRKMENİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>350</kod>
+			<ad>UGANDA</ad>
+		</ulke>
+		<ulke>
+			<kod>072</kod>
+			<ad>UKRAYNA</ad>
+		</ulke>
+		<ulke>
+			<kod>649</kod>
+			<ad>UMMAN</ad>
+		</ulke>
+		<ulke>
+			<kod>524</kod>
+			<ad>URUGUAY</ad>
+		</ulke>
+		<ulke>
+			<kod>628</kod>
+			<ad>ÜRDÜN</ad>
+		</ulke>
+		<ulke>
+			<kod>816</kod>
+			<ad>VANUATU</ad>
+		</ulke>
+		<ulke>
+			<kod>045</kod>
+			<ad>VATİKAN</ad>
+		</ulke>
+		<ulke>
+			<kod>484</kod>
+			<ad>VENEZUELLA</ad>
+		</ulke>
+		<ulke>
+			<kod>690</kod>
+			<ad>VİETNAM</ad>
+		</ulke>
+		<ulke>
+			<kod>811</kod>
+			<ad>WALLİS VE FUTUNA ADA</ad>
+		</ulke>
+		<ulke>
+			<kod>087</kod>
+			<ad>YAKUTİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>653</kod>
+			<ad>YEMEN</ad>
+		</ulke>
+		<ulke>
+			<kod>809</kod>
+			<ad>YENİ KALODENYA VE BA</ad>
+		</ulke>
+		<ulke>
+			<kod>804</kod>
+			<ad>YENİ ZELANDA</ad>
+		</ulke>
+		<ulke>
+			<kod>814</kod>
+			<ad>YENİ ZELANDA OKYANUS</ad>
+		</ulke>
+		<ulke>
+			<kod>048</kod>
+			<ad>YUGOSLAVYA</ad>
+		</ulke>
+		<ulke>
+			<kod>009</kod>
+			<ad>YUNANİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>322</kod>
+			<ad>Kongo (Demokratik Cum.) Eski Zaire</ad>
+		</ulke>
+		<ulke>
+			<kod>378</kod>
+			<ad>ZAMBİA</ad>
+		</ulke>
+		<ulke>
+			<kod>382</kod>
+			<ad>ZİMBABVE</ad>
+		</ulke>
+	</ulkekodlari>
+	<isyeriSubeTurleri>
+		<data>
+			<kod>1</kod>
+			<aciklama>Merkez</aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>Mükellefiyetsiz Şube</aciklama>
+		</data>
+	</isyeriSubeTurleri>
+	<mulkiyetTurleri>
+		<data>
+			<kod>0</kod>
+			<aciklama>Kira</aciklama>
+		</data>
+		<data>
+			<kod>1</kod>
+			<aciklama>Mal Sahibi</aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>Diğer</aciklama>
+		</data>
+	</mulkiyetTurleri>
+	<aitOlduguDonemTip>
+		<data>
+			<kod>0</kod>
+			<aciklama>Aylık</aciklama>
+		</data>
+		<data>
+			<kod>1</kod>
+			<aciklama>1. Ay</aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>2. Ay</aciklama>
+		</data>
+		<data>
+			<kod>3</kod>
+			<aciklama>3. Ay</aciklama>
+		</data>
+	</aitOlduguDonemTip>
+	<ticaretSicilMudurlukleri>
+		<data> <kod>2000</kod> <aciklama>ADANA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2001</kod> <aciklama>CEYHAN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2002</kod> <aciklama>KOZAN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2003</kod> <aciklama>ADIYAMAN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2004</kod> <aciklama>AFYON TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2005</kod> <aciklama>BOLVADİN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2006</kod> <aciklama>ÇAY TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2007</kod> <aciklama>DİNAR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2008</kod> <aciklama>EMİRDAĞ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2009</kod> <aciklama>SANDIKLI TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2010</kod> <aciklama>AĞRI TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2011</kod> <aciklama>DOĞUBEYAZIT TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2012</kod> <aciklama>AMASYA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2013</kod> <aciklama>GÜMÜŞHACIKÖY TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2014</kod> <aciklama>MERZİFON TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2015</kod> <aciklama>SULUOVA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2016</kod> <aciklama>ANKARA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2017</kod> <aciklama>POLATLI TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2018</kod> <aciklama>ŞEREFLİKOÇHİSAR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2019</kod> <aciklama>HAYMANA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2020</kod> <aciklama>BEYPAZARI TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2021</kod> <aciklama>ANTALYA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2022</kod> <aciklama>ALANYA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2023</kod> <aciklama>MANAVGAT TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2024</kod> <aciklama>KUMLUCA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2025</kod> <aciklama>ARTVİN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2026</kod> <aciklama>ARHAVİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2027</kod> <aciklama>BORÇKA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2028</kod> <aciklama>HOPA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2029</kod> <aciklama>AYDIN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2030</kod> <aciklama>NAZİLLİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2031</kod> <aciklama>SÖKE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2032</kod> <aciklama>KUŞADASI TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2033</kod> <aciklama>DİDİM TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2034</kod> <aciklama>BALIKESİR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2035</kod> <aciklama>AYVALIK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2036</kod> <aciklama>BANDIRMA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2037</kod> <aciklama>BURHANİYE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2038</kod> <aciklama>EDREMİT TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2039</kod> <aciklama>ERDEK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2040</kod> <aciklama>GÖNEN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2041</kod> <aciklama>SUSURLUK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2042</kod> <aciklama>BİLECİK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2043</kod> <aciklama>BOZÜYÜK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2044</kod> <aciklama>BİNGÖL TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2045</kod> <aciklama>BİTLİS TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2046</kod> <aciklama>TATVAN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2047</kod> <aciklama>BOLU TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2048</kod> <aciklama>GEREDE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2049</kod> <aciklama>BURDUR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2050</kod> <aciklama>BUCAK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2051</kod> <aciklama>BURSA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2052</kod> <aciklama>GEMLİK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2053</kod> <aciklama>İNEGÖL TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2054</kod> <aciklama>KARACABEY TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2055</kod> <aciklama>M.KEMALPAŞA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2056</kod> <aciklama>ORHANGAZİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2057</kod> <aciklama>YENİŞEHİR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2058</kod> <aciklama>İZNİK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2059</kod> <aciklama>ÇANAKKALE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2060</kod> <aciklama>BİGA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2061</kod> <aciklama>GELİBOLU TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2062</kod> <aciklama>ÇANKIRI TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2063</kod> <aciklama>ÇORUM TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2064</kod> <aciklama>ALACA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2065</kod> <aciklama>SUNGURLU TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2066</kod> <aciklama>DENİZLİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2067</kod> <aciklama>BABADAĞ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2068</kod> <aciklama>BULDAN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2069</kod> <aciklama>SARAYKÖY TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2070</kod> <aciklama>TAVAS TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2071</kod> <aciklama>ACIPAYAM TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2072</kod> <aciklama>DİYARBAKIR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2073</kod> <aciklama>EDİRNE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2074</kod> <aciklama>KEŞAN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2075</kod> <aciklama>UZUNKÖPRÜ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2076</kod> <aciklama>ELAZIĞ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2077</kod> <aciklama>ERZİNCAN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2078</kod> <aciklama>ERZURUM TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2079</kod> <aciklama>PASİNLER TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2080</kod> <aciklama>OLTU TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2081</kod> <aciklama>ESKİŞEHİR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2082</kod> <aciklama>GAZİANTEP TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2083</kod> <aciklama>İSLAHİYE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2084</kod> <aciklama>NİZİP TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2085</kod> <aciklama>GİRESUN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2086</kod> <aciklama>BULANCAK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2087</kod> <aciklama>GÜMÜŞHANE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2088</kod> <aciklama>KELKİT TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2089</kod> <aciklama>HAKKARİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2090</kod> <aciklama>YÜKSEKOVA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2091</kod> <aciklama>HATAY TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2092</kod> <aciklama>DÖRTYOL TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2093</kod> <aciklama>İSKENDERUN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2094</kod> <aciklama>KIRIKHAN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2095</kod> <aciklama>REYHANLI TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2096</kod> <aciklama>ERZİN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2097</kod> <aciklama>ISPARTA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2098</kod> <aciklama>YALVAÇ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2099</kod> <aciklama>MERSİN(İÇEL) TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2100</kod> <aciklama>ANAMUR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2101</kod> <aciklama>ERDEMLİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2102</kod> <aciklama>MUT TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2103</kod> <aciklama>SİLİFKE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2104</kod> <aciklama>TARSUS TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2105</kod> <aciklama>İSTANBUL TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2106</kod> <aciklama>İZMİR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2107</kod> <aciklama>BAYINDIR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2108</kod> <aciklama>BERGAMA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2109</kod> <aciklama>MENEMEN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2110</kod> <aciklama>ÖDEMİŞ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2111</kod> <aciklama>TİRE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2112</kod> <aciklama>TORBALI TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2113</kod> <aciklama>SELÇUK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2114</kod> <aciklama>ALİAĞA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2115</kod> <aciklama>KARS TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2116</kod> <aciklama>KASTAMONU TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2117</kod> <aciklama>İNEBOLU TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2118</kod> <aciklama>TAŞKÖPRÜ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2119</kod> <aciklama>TOSYA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2120</kod> <aciklama>KAYSERİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2121</kod> <aciklama>BÜNYAN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2122</kod> <aciklama>DEVELİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2123</kod> <aciklama>YAHYALI TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2124</kod> <aciklama>KIRKLARELİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2125</kod> <aciklama>LÜLEBURGAZ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2126</kod> <aciklama>BABAESKİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2127</kod> <aciklama>KIRŞEHİR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2128</kod> <aciklama>KAMAN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2129</kod> <aciklama>MUCUR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2130</kod> <aciklama>KOCAELİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2131</kod> <aciklama>GEBZE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2132</kod> <aciklama>KÖRFEZ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2133</kod> <aciklama>KONYA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2134</kod> <aciklama>AKŞEHİR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2135</kod> <aciklama>BEYŞEHİR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2136</kod> <aciklama>ÇUMRA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2137</kod> <aciklama>DOĞANHİSAR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2138</kod> <aciklama>KON.EREĞLİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2139</kod> <aciklama>ILGIN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2140</kod> <aciklama>KARAPINAR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2141</kod> <aciklama>SEYDİŞEHİR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2142</kod> <aciklama>KÜTAHYA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2143</kod> <aciklama>GEDİZ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2144</kod> <aciklama>SİMAV TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2145</kod> <aciklama>TAVŞANLI TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2146</kod> <aciklama>MALATYA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2147</kod> <aciklama>MANİSA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2148</kod> <aciklama>AKHİSAR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2149</kod> <aciklama>ALAŞEHİR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2150</kod> <aciklama>DEMİRCİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2151</kod> <aciklama>GÖRDES TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2152</kod> <aciklama>SALİHLİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2153</kod> <aciklama>SOMA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2154</kod> <aciklama>TURGUTLU TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2155</kod> <aciklama>K.MARAŞ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2156</kod> <aciklama>AFŞİN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2157</kod> <aciklama>ELBİSTAN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2158</kod> <aciklama>MARDİN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2159</kod> <aciklama>NUSAYBİN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2160</kod> <aciklama>KIZILTEPE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2161</kod> <aciklama>MUĞLA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2162</kod> <aciklama>BODRUM TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2163</kod> <aciklama>FETHİYE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2164</kod> <aciklama>MİLAS TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2165</kod> <aciklama>MARMARİS TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2166</kod> <aciklama>MUŞ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2167</kod> <aciklama>NEVŞEHİR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2168</kod> <aciklama>ÜRGÜP TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2169</kod> <aciklama>NİĞDE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2170</kod> <aciklama>BOR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2171</kod> <aciklama>ORDU TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2172</kod> <aciklama>FATSA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2173</kod> <aciklama>ÜNYE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2174</kod> <aciklama>RİZE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2175</kod> <aciklama>ÇAYELİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2176</kod> <aciklama>PAZAR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2177</kod> <aciklama>ARDEŞEN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2178</kod> <aciklama>SAKARYA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2179</kod> <aciklama>AKYAZI TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2180</kod> <aciklama>SAMSUN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2181</kod> <aciklama>BAFRA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2182</kod> <aciklama>ÇARŞAMBA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2183</kod> <aciklama>HAVZA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2184</kod> <aciklama>TERME TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2185</kod> <aciklama>VEZİRKÖPRÜ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2186</kod> <aciklama>SİİRT TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2187</kod> <aciklama>SİNOP TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2188</kod> <aciklama>BOYABAT TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2189</kod> <aciklama>SİVAS TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2190</kod> <aciklama>TEKİRDAĞ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2191</kod> <aciklama>ÇORLU TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2192</kod> <aciklama>HAYRABOLU TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2193</kod> <aciklama>MALKARA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2194</kod> <aciklama>ÇERKEZKÖY TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2195</kod> <aciklama>TOKAT TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2196</kod> <aciklama>ERBAA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2197</kod> <aciklama>NİKSAR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2198</kod> <aciklama>TURHAL TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2199</kod> <aciklama>ZİLE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2201</kod> <aciklama>TRABZON TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2202</kod> <aciklama>TUNCELİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2203</kod> <aciklama>Ş.URFA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2204</kod> <aciklama>BİRECİK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2205</kod> <aciklama>SİVEREK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2206</kod> <aciklama>UŞAK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2207</kod> <aciklama>KARAHALLI TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2208</kod> <aciklama>VAN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2209</kod> <aciklama>ERCİŞ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2210</kod> <aciklama>YOZGAT TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2211</kod> <aciklama>YERKÖY TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2212</kod> <aciklama>BOĞAZLIYAN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2213</kod> <aciklama>ZONGULDAK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2214</kod> <aciklama>DEVREK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2215</kod> <aciklama>ALAPLI TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2216</kod> <aciklama>ÇAYCUMA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2217</kod> <aciklama>KRDZ.EREĞLİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2218</kod> <aciklama>AKSARAY TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2219</kod> <aciklama>BAYBURT TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2220</kod> <aciklama>KARAMAN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2221</kod> <aciklama>KIRIKKALE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2222</kod> <aciklama>BATMAN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2223</kod> <aciklama>ŞIRNAK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2224</kod> <aciklama>CİZRE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2225</kod> <aciklama>BARTIN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2226</kod> <aciklama>ARDAHAN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2227</kod> <aciklama>IĞDIR TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2228</kod> <aciklama>YALOVA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2229</kod> <aciklama>KARABÜK TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2230</kod> <aciklama>SAFRANBOLU TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2231</kod> <aciklama>KİLİS TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2232</kod> <aciklama>OSMANİYE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2233</kod> <aciklama>KADİRLİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2234</kod> <aciklama>DÜZCE TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2235</kod> <aciklama>AKÇAKOCA TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2236</kod> <aciklama>OF TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2237</kod> <aciklama>SORGUN TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>2238</kod> <aciklama>ŞEFAATLİ TİCARET SİCİLİ MÜDÜRLÜĞÜ</aciklama> </data>
+		<data> <kod>9999</kod> <aciklama>DİĞER</aciklama> </data>
+	</ticaretSicilMudurlukleri>
+	
+	<ilKodu>
+		<data> <kod>001</kod> <aciklama>ADANA</aciklama> </data>
+		<data> <kod>002</kod> <aciklama>ADIYAMAN</aciklama> </data>
+		<data> <kod>003</kod> <aciklama>AFYONKARAHİSAR</aciklama> </data>
+		<data> <kod>004</kod> <aciklama>AĞRI</aciklama> </data>
+		<data> <kod>005</kod> <aciklama>AMASYA</aciklama> </data>
+		<data> <kod>006</kod> <aciklama>ANKARA</aciklama> </data>
+		<data> <kod>007</kod> <aciklama>ANTALYA</aciklama> </data>
+		<data> <kod>008</kod> <aciklama>ARTVİN</aciklama> </data>
+		<data> <kod>009</kod> <aciklama>AYDIN</aciklama> </data>
+		<data> <kod>010</kod> <aciklama>BALIKESİR</aciklama> </data>
+		<data> <kod>011</kod> <aciklama>BİLECİK</aciklama> </data>
+		<data> <kod>012</kod> <aciklama>BİNGÖL</aciklama> </data>
+		<data> <kod>013</kod> <aciklama>BİTLİS</aciklama> </data>
+		<data> <kod>014</kod> <aciklama>BOLU</aciklama> </data>
+		<data> <kod>015</kod> <aciklama>BURDUR</aciklama> </data>
+		<data> <kod>016</kod> <aciklama>BURSA</aciklama> </data>
+		<data> <kod>017</kod> <aciklama>ÇANAKKALE</aciklama> </data>
+		<data> <kod>018</kod> <aciklama>ÇANKIRI</aciklama> </data>
+		<data> <kod>019</kod> <aciklama>ÇORUM</aciklama> </data>
+		<data> <kod>020</kod> <aciklama>DENİZLİ</aciklama> </data>
+		<data> <kod>021</kod> <aciklama>DİYARBAKIR</aciklama> </data>
+		<data> <kod>022</kod> <aciklama>EDİRNE</aciklama> </data>
+		<data> <kod>023</kod> <aciklama>ELAZIĞ</aciklama> </data>
+		<data> <kod>024</kod> <aciklama>ERZİNCAN</aciklama> </data>
+		<data> <kod>025</kod> <aciklama>ERZURUM</aciklama> </data>
+		<data> <kod>026</kod> <aciklama>ESKİŞEHİR</aciklama> </data>
+		<data> <kod>027</kod> <aciklama>GAZİANTEP</aciklama> </data>
+		<data> <kod>028</kod> <aciklama>GİRESUN</aciklama> </data>
+		<data> <kod>029</kod> <aciklama>GÜMÜŞHANE</aciklama> </data>
+		<data> <kod>030</kod> <aciklama>HAKKARİ</aciklama> </data>
+		<data> <kod>031</kod> <aciklama>HATAY</aciklama> </data>
+		<data> <kod>032</kod> <aciklama>ISPARTA</aciklama> </data>
+		<data> <kod>033</kod> <aciklama>MERSİN</aciklama> </data>
+		<data> <kod>034</kod> <aciklama>İSTANBUL</aciklama> </data>
+		<data> <kod>035</kod> <aciklama>İZMİR</aciklama> </data>
+		<data> <kod>036</kod> <aciklama>KARS</aciklama> </data>
+		<data> <kod>037</kod> <aciklama>KASTAMONU</aciklama> </data>
+		<data> <kod>038</kod> <aciklama>KAYSERİ</aciklama> </data>
+		<data> <kod>039</kod> <aciklama>KIRKLARELİ</aciklama> </data>
+		<data> <kod>040</kod> <aciklama>KIRŞEHİR</aciklama> </data>
+		<data> <kod>041</kod> <aciklama>KOCAELİ</aciklama> </data>
+		<data> <kod>042</kod> <aciklama>KONYA</aciklama> </data>
+		<data> <kod>043</kod> <aciklama>KÜTAHYA</aciklama> </data>
+		<data> <kod>044</kod> <aciklama>MALATYA</aciklama> </data>
+		<data> <kod>045</kod> <aciklama>MANİSA</aciklama> </data>
+		<data> <kod>046</kod> <aciklama>KAHRAMANMARAŞ</aciklama> </data>
+		<data> <kod>047</kod> <aciklama>MARDİN</aciklama> </data>
+		<data> <kod>048</kod> <aciklama>MUĞLA</aciklama> </data>
+		<data> <kod>049</kod> <aciklama>MUŞ</aciklama> </data>
+		<data> <kod>050</kod> <aciklama>NEVŞEHİR</aciklama> </data>
+		<data> <kod>051</kod> <aciklama>NİĞDE</aciklama> </data>
+		<data> <kod>052</kod> <aciklama>ORDU</aciklama> </data>
+		<data> <kod>053</kod> <aciklama>RİZE</aciklama> </data>
+		<data> <kod>054</kod> <aciklama>SAKARYA</aciklama> </data>
+		<data> <kod>055</kod> <aciklama>SAMSUN</aciklama> </data>
+		<data> <kod>056</kod> <aciklama>SİİRT</aciklama> </data>
+		<data> <kod>057</kod> <aciklama>SİNOP</aciklama> </data>
+		<data> <kod>058</kod> <aciklama>SİVAS</aciklama> </data>
+		<data> <kod>059</kod> <aciklama>TEKİRDAĞ</aciklama> </data>
+		<data> <kod>060</kod> <aciklama>TOKAT</aciklama> </data>
+		<data> <kod>061</kod> <aciklama>TRABZON</aciklama> </data>
+		<data> <kod>062</kod> <aciklama>TUNCELİ</aciklama> </data>
+		<data> <kod>063</kod> <aciklama>ŞANLIURFA</aciklama> </data>
+		<data> <kod>064</kod> <aciklama>UŞAK</aciklama> </data>
+		<data> <kod>065</kod> <aciklama>VAN</aciklama> </data>
+		<data> <kod>066</kod> <aciklama>YOZGAT</aciklama> </data>
+		<data> <kod>067</kod> <aciklama>ZONGULDAK</aciklama> </data>
+		<data> <kod>068</kod> <aciklama>AKSARAY</aciklama> </data>
+		<data> <kod>069</kod> <aciklama>BAYBURT</aciklama> </data>
+		<data> <kod>070</kod> <aciklama>KARAMAN</aciklama> </data>
+		<data> <kod>071</kod> <aciklama>KIRIKKALE</aciklama> </data>
+		<data> <kod>072</kod> <aciklama>BATMAN</aciklama> </data>
+		<data> <kod>073</kod> <aciklama>ŞIRNAK</aciklama> </data>
+		<data> <kod>074</kod> <aciklama>BARTIN</aciklama> </data>
+		<data> <kod>075</kod> <aciklama>ARDAHAN</aciklama> </data>
+		<data> <kod>076</kod> <aciklama>IĞDIR</aciklama> </data>
+		<data> <kod>077</kod> <aciklama>YALOVA</aciklama> </data>
+		<data> <kod>078</kod> <aciklama>KARABÜK</aciklama> </data>
+		<data> <kod>079</kod> <aciklama>KİLİS</aciklama> </data>
+		<data> <kod>080</kod> <aciklama>OSMANİYE</aciklama> </data>
+		<data> <kod>081</kod> <aciklama>DÜZCE</aciklama> </data>
+	</ilKodu>
+		
+	<ilIlceKodlari>
+		<ilIlceKodu><kod>00101</kod><il>ADANA</il><ilce>SEYHAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00102</kod><il>ADANA</il><ilce>ÇUKUROVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00103</kod><il>ADANA</il><ilce>SARIÇAM</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00104</kod><il>ADANA</il><ilce>YÜREĞİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00105</kod><il>ADANA</il><ilce>CEYHAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00106</kod><il>ADANA</il><ilce>KARAİSALI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00107</kod><il>ADANA</il><ilce>KARATAŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00108</kod><il>ADANA</il><ilce>KOZAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00109</kod><il>ADANA</il><ilce>TUFANBEYLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00110</kod><il>ADANA</il><ilce>FEKE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00111</kod><il>ADANA</il><ilce>POZANTI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00112</kod><il>ADANA</il><ilce>SAİMBEYLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00113</kod><il>ADANA</il><ilce>YUMURTALIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00114</kod><il>ADANA</il><ilce>ALADAĞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00115</kod><il>ADANA</il><ilce>İMAMOĞLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00201</kod><il>ADIYAMAN</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00202</kod><il>ADIYAMAN</il><ilce>BESNİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00203</kod><il>ADIYAMAN</il><ilce>ÇELİKHAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00204</kod><il>ADIYAMAN</il><ilce>GERGER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00205</kod><il>ADIYAMAN</il><ilce>GÖLBAŞI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00206</kod><il>ADIYAMAN</il><ilce>KAHTA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00207</kod><il>ADIYAMAN</il><ilce>SAMSAT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00208</kod><il>ADIYAMAN</il><ilce>SİNCİK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00209</kod><il>ADIYAMAN</il><ilce>TUT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00301</kod><il>AFYONKARAHİSAR</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00302</kod><il>AFYONKARAHİSAR</il><ilce>BOLVADİN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00303</kod><il>AFYONKARAHİSAR</il><ilce>ÇAY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00304</kod><il>AFYONKARAHİSAR</il><ilce>DAZKIRI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00305</kod><il>AFYONKARAHİSAR</il><ilce>DİNAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00306</kod><il>AFYONKARAHİSAR</il><ilce>EMİRDAĞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00307</kod><il>AFYONKARAHİSAR</il><ilce>İHSANİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00308</kod><il>AFYONKARAHİSAR</il><ilce>SANDIKLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00310</kod><il>AFYONKARAHİSAR</il><ilce>SULTANDAĞI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00311</kod><il>AFYONKARAHİSAR</il><ilce>ŞUHUT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00312</kod><il>AFYONKARAHİSAR</il><ilce>BAŞMAKÇI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00313</kod><il>AFYONKARAHİSAR</il><ilce>BAYAT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00314</kod><il>AFYONKARAHİSAR</il><ilce>İSCEHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00315</kod><il>AFYONKARAHİSAR</il><ilce>ÇOBANLAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00316</kod><il>AFYONKARAHİSAR</il><ilce>EVCİLER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00317</kod><il>AFYONKARAHİSAR</il><ilce>HOCALAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00318</kod><il>AFYONKARAHİSAR</il><ilce>KIZILÖREN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00319</kod><il>AFYONKARAHİSAR</il><ilce>SİNANPAŞA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00401</kod><il>AĞRI</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00402</kod><il>AĞRI</il><ilce>DİYADİN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00403</kod><il>AĞRI</il><ilce>DOĞUBEYAZIT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00404</kod><il>AĞRI</il><ilce>ELEŞKİRT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00405</kod><il>AĞRI</il><ilce>HAMUR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00406</kod><il>AĞRI</il><ilce>PATNOS</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00407</kod><il>AĞRI</il><ilce>TAŞLIÇAY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00408</kod><il>AĞRI</il><ilce>TUTAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00501</kod><il>AMASYA</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00502</kod><il>AMASYA</il><ilce>GÖYNÜCEK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00503</kod><il>AMASYA</il><ilce>GÜMÜŞHACIKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00504</kod><il>AMASYA</il><ilce>MERZİFON</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00505</kod><il>AMASYA</il><ilce>SULUOVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00506</kod><il>AMASYA</il><ilce>TAŞOVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00507</kod><il>AMASYA</il><ilce>HAMAMÖZÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00602</kod><il>ANKARA</il><ilce>ALTINDAĞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00603</kod><il>ANKARA</il><ilce>AYAŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00604</kod><il>ANKARA</il><ilce>BALA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00605</kod><il>ANKARA</il><ilce>BEYPAZARI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00606</kod><il>ANKARA</il><ilce>ÇAMLIDERE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00607</kod><il>ANKARA</il><ilce>ÇANKAYA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00608</kod><il>ANKARA</il><ilce>ÇUBUK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00610</kod><il>ANKARA</il><ilce>ELMADAĞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00611</kod><il>ANKARA</il><ilce>GÜDÜL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00612</kod><il>ANKARA</il><ilce>HAYMANA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00613</kod><il>ANKARA</il><ilce>KALECİK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00616</kod><il>ANKARA</il><ilce>KIZILCAHAMAM</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00617</kod><il>ANKARA</il><ilce>NALLIHAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00618</kod><il>ANKARA</il><ilce>POLATLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00620</kod><il>ANKARA</il><ilce>ŞEREFLİKOÇHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00621</kod><il>ANKARA</il><ilce>YENİMAHALLE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00622</kod><il>ANKARA</il><ilce>GÖLBAŞI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00623</kod><il>ANKARA</il><ilce>KEÇİÖREN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00624</kod><il>ANKARA</il><ilce>MAMAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00625</kod><il>ANKARA</il><ilce>SİNCAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00626</kod><il>ANKARA</il><ilce>KAHRAMANKAZAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00627</kod><il>ANKARA</il><ilce>AKYURT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00628</kod><il>ANKARA</il><ilce>ETİMESGUT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00629</kod><il>ANKARA</il><ilce>EVREN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00629</kod><il>ANKARA</il><ilce>PURSAKLAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00701</kod><il>ANTALYA</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00702</kod><il>ANTALYA</il><ilce>AKSEKİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00703</kod><il>ANTALYA</il><ilce>ALANYA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00704</kod><il>ANTALYA</il><ilce>ELMALI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00705</kod><il>ANTALYA</il><ilce>FİNİKE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00706</kod><il>ANTALYA</il><ilce>GAZİPAŞA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00707</kod><il>ANTALYA</il><ilce>GÜNDOĞMUŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00708</kod><il>ANTALYA</il><ilce>KAŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00709</kod><il>ANTALYA</il><ilce>KORKUTELİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00710</kod><il>ANTALYA</il><ilce>KUMLUCA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00711</kod><il>ANTALYA</il><ilce>MANAVGAT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00712</kod><il>ANTALYA</il><ilce>SERİK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00713</kod><il>ANTALYA</il><ilce>DEMRE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00714</kod><il>ANTALYA</il><ilce>İBRADI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00715</kod><il>ANTALYA</il><ilce>KEMER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00716</kod><il>ANTALYA</il><ilce>AKSU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00717</kod><il>ANTALYA</il><ilce>DÖŞEMEALTI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00718</kod><il>ANTALYA</il><ilce>KEPEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00719</kod><il>ANTALYA</il><ilce>KONYAALTI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00720</kod><il>ANTALYA</il><ilce>MURATPAŞA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00801</kod><il>ARTVİN</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00802</kod><il>ARTVİN</il><ilce>ARDANUÇ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00803</kod><il>ARTVİN</il><ilce>ARHAVİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00804</kod><il>ARTVİN</il><ilce>BORÇKA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00805</kod><il>ARTVİN</il><ilce>HOPA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00806</kod><il>ARTVİN</il><ilce>ŞAVŞAT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00807</kod><il>ARTVİN</il><ilce>YUSUFELİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00808</kod><il>ARTVİN</il><ilce>MURGUL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00901</kod><il>AYDIN</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00902</kod><il>AYDIN</il><ilce>BOZDOĞAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00903</kod><il>AYDIN</il><ilce>ÇİNE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00904</kod><il>AYDIN</il><ilce>GERMENCİK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00905</kod><il>AYDIN</il><ilce>KARACASU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00906</kod><il>AYDIN</il><ilce>KOÇARLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00907</kod><il>AYDIN</il><ilce>KUŞADASI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00908</kod><il>AYDIN</il><ilce>KUYUCAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00909</kod><il>AYDIN</il><ilce>NAZİLLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00910</kod><il>AYDIN</il><ilce>SÖKE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00911</kod><il>AYDIN</il><ilce>SULTANHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00912</kod><il>AYDIN</il><ilce>YENİPAZAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00913</kod><il>AYDIN</il><ilce>BUHARKENT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00914</kod><il>AYDIN</il><ilce>İNCİRLİOVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00915</kod><il>AYDIN</il><ilce>KARPUZLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00916</kod><il>AYDIN</il><ilce>KÖŞK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00917</kod><il>AYDIN</il><ilce>DİDİM</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>00918</kod><il>AYDIN</il><ilce>EFELER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01001</kod><il>BALIKESİR</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01002</kod><il>BALIKESİR</il><ilce>AYVALIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01003</kod><il>BALIKESİR</il><ilce>BALYA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01004</kod><il>BALIKESİR</il><ilce>BANDIRMA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01005</kod><il>BALIKESİR</il><ilce>BİGADİÇ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01006</kod><il>BALIKESİR</il><ilce>BURHANİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01007</kod><il>BALIKESİR</il><ilce>DURSUNBEY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01008</kod><il>BALIKESİR</il><ilce>EDREMİT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01009</kod><il>BALIKESİR</il><ilce>ERDEK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01010</kod><il>BALIKESİR</il><ilce>GÖNEN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01011</kod><il>BALIKESİR</il><ilce>HAVRAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01012</kod><il>BALIKESİR</il><ilce>İVRİNDİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01013</kod><il>BALIKESİR</il><ilce>KEPSUT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01014</kod><il>BALIKESİR</il><ilce>MANYAS</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01015</kod><il>BALIKESİR</il><ilce>SAVAŞTEPE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01016</kod><il>BALIKESİR</il><ilce>SINDIRGI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01017</kod><il>BALIKESİR</il><ilce>SUSURLUK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01018</kod><il>BALIKESİR</il><ilce>MARMARA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01019</kod><il>BALIKESİR</il><ilce>GÖMEÇ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01020</kod><il>BALIKESİR</il><ilce>KARESİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01022</kod><il>BALIKESİR</il><ilce>ALTIEYLÜL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01101</kod><il>BİLECİK</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01102</kod><il>BİLECİK</il><ilce>BOZÜYÜK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01103</kod><il>BİLECİK</il><ilce>GÖLPAZARI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01104</kod><il>BİLECİK</il><ilce>OSMANELİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01105</kod><il>BİLECİK</il><ilce>PAZARYERİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01106</kod><il>BİLECİK</il><ilce>SÖĞÜT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01107</kod><il>BİLECİK</il><ilce>YENİPAZAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01108</kod><il>BİLECİK</il><ilce>İNHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01201</kod><il>BİNGÖL</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01202</kod><il>BİNGÖL</il><ilce>GENÇ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01203</kod><il>BİNGÖL</il><ilce>KARLIOVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01204</kod><il>BİNGÖL</il><ilce>KİĞI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01205</kod><il>BİNGÖL</il><ilce>SOLHAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01206</kod><il>BİNGÖL</il><ilce>ADAKLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01207</kod><il>BİNGÖL</il><ilce>YAYLADERE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01208</kod><il>BİNGÖL</il><ilce>YEDİSU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01301</kod><il>BİTLİS</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01302</kod><il>BİTLİS</il><ilce>ADİLCEVAZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01303</kod><il>BİTLİS</il><ilce>AHLAT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01304</kod><il>BİTLİS</il><ilce>HİZAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01305</kod><il>BİTLİS</il><ilce>MUTKİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01306</kod><il>BİTLİS</il><ilce>TATVAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01307</kod><il>BİTLİS</il><ilce>GÜROYMAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01401</kod><il>BOLU</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01404</kod><il>BOLU</il><ilce>GEREDE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01405</kod><il>BOLU</il><ilce>GÖYNÜK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01406</kod><il>BOLU</il><ilce>KIBRISCIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01407</kod><il>BOLU</il><ilce>MENGEN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01408</kod><il>BOLU</il><ilce>MUDURNU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01409</kod><il>BOLU</il><ilce>SEBEN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01414</kod><il>BOLU</il><ilce>DÖRTDİVAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01415</kod><il>BOLU</il><ilce>YENİÇAĞA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01501</kod><il>BURDUR</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01502</kod><il>BURDUR</il><ilce>AĞLASUN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01503</kod><il>BURDUR</il><ilce>BUCAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01504</kod><il>BURDUR</il><ilce>GÖLHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01505</kod><il>BURDUR</il><ilce>TEFENNİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01506</kod><il>BURDUR</il><ilce>YEŞİLOVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01507</kod><il>BURDUR</il><ilce>KARAMANLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01508</kod><il>BURDUR</il><ilce>KEMER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01509</kod><il>BURDUR</il><ilce>ALTINYAYLA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01510</kod><il>BURDUR</il><ilce>ÇAVDIR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01511</kod><il>BURDUR</il><ilce>ÇELTİKÇİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01601</kod><il>BURSA</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01602</kod><il>BURSA</il><ilce>GEMLİK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01603</kod><il>BURSA</il><ilce>İNEGÖL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01604</kod><il>BURSA</il><ilce>İZNİK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01605</kod><il>BURSA</il><ilce>KARACABEY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01606</kod><il>BURSA</il><ilce>KELES</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01607</kod><il>BURSA</il><ilce>MUDANYA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01608</kod><il>BURSA</il><ilce>MUSTAFAKEMALPAŞA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01609</kod><il>BURSA</il><ilce>ORHANELİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01610</kod><il>BURSA</il><ilce>ORHANGAZİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01611</kod><il>BURSA</il><ilce>YENİŞEHİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01612</kod><il>BURSA</il><ilce>NİLÜFER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01613</kod><il>BURSA</il><ilce>OSMANGAZİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01614</kod><il>BURSA</il><ilce>YILDIRIM</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01615</kod><il>BURSA</il><ilce>BÜYÜKORHAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01616</kod><il>BURSA</il><ilce>HARMANCIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01617</kod><il>BURSA</il><ilce>GÜRSU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01618</kod><il>BURSA</il><ilce>KESTEL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01701</kod><il>ÇANAKKALE</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01702</kod><il>ÇANAKKALE</il><ilce>AYVACIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01703</kod><il>ÇANAKKALE</il><ilce>BAYRAMİÇ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01704</kod><il>ÇANAKKALE</il><ilce>BİGA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01705</kod><il>ÇANAKKALE</il><ilce>BOZCAADA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01706</kod><il>ÇANAKKALE</il><ilce>ÇAN </ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01707</kod><il>ÇANAKKALE</il><ilce>ECEABAT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01708</kod><il>ÇANAKKALE</il><ilce>EZİNE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01709</kod><il>ÇANAKKALE</il><ilce>GELİBOLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01710</kod><il>ÇANAKKALE</il><ilce>GÖKÇEADA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01711</kod><il>ÇANAKKALE</il><ilce>LAPSEKİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01712</kod><il>ÇANAKKALE</il><ilce>YENİCE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01801</kod><il>ÇANKIRI</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01802</kod><il>ÇANKIRI</il><ilce>ÇERKEŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01803</kod><il>ÇANKIRI</il><ilce>ELDİVAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01805</kod><il>ÇANKIRI</il><ilce>ILGAZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01806</kod><il>ÇANKIRI</il><ilce>KURŞUNLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01807</kod><il>ÇANKIRI</il><ilce>ORTA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01809</kod><il>ÇANKIRI</il><ilce>ŞABANÖZÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01810</kod><il>ÇANKIRI</il><ilce>YAPRAKLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01811</kod><il>ÇANKIRI</il><ilce>ATKARACALAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01812</kod><il>ÇANKIRI</il><ilce>KIZILIRMAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01813</kod><il>ÇANKIRI</il><ilce>BAYRAMÖREN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01814</kod><il>ÇANKIRI</il><ilce>KORGUN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01901</kod><il>ÇORUM</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01902</kod><il>ÇORUM</il><ilce>ALACA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01903</kod><il>ÇORUM</il><ilce>BAYAT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01904</kod><il>ÇORUM</il><ilce>İSKİLİP</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01905</kod><il>ÇORUM</il><ilce>KARGI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01906</kod><il>ÇORUM</il><ilce>MECİTÖZÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01907</kod><il>ÇORUM</il><ilce>ORTAKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01908</kod><il>ÇORUM</il><ilce>OSMANCIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01909</kod><il>ÇORUM</il><ilce>SUNGURLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01910</kod><il>ÇORUM</il><ilce>BOĞAZKALE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01911</kod><il>ÇORUM</il><ilce>UĞURLUDAĞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01912</kod><il>ÇORUM</il><ilce>DODURGA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01913</kod><il>ÇORUM</il><ilce>OĞUZLAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>01914</kod><il>ÇORUM</il><ilce>LAÇİN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02001</kod><il>DENİZLİ</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02002</kod><il>DENİZLİ</il><ilce>ACIPAYAM</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02003</kod><il>DENİZLİ</il><ilce>BULDAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02004</kod><il>DENİZLİ</il><ilce>ÇAL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02005</kod><il>DENİZLİ</il><ilce>ÇAMELİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02006</kod><il>DENİZLİ</il><ilce>ÇARDAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02007</kod><il>DENİZLİ</il><ilce>ÇİVRİL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02008</kod><il>DENİZLİ</il><ilce>GÜNEY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02009</kod><il>DENİZLİ</il><ilce>KALE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02010</kod><il>DENİZLİ</il><ilce>SARAYKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02011</kod><il>DENİZLİ</il><ilce>TAVAS</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02012</kod><il>DENİZLİ</il><ilce>BABADAĞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02013</kod><il>DENİZLİ</il><ilce>BEKİLLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02014</kod><il>DENİZLİ</il><ilce>HONAZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02015</kod><il>DENİZLİ</il><ilce>SERİNHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02017</kod><il>DENİZLİ</il><ilce>BAKLAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02018</kod><il>DENİZLİ</il><ilce>BEYAĞAÇ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02019</kod><il>DENİZLİ</il><ilce>BOZKURT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02020</kod><il>DENİZLİ</il><ilce>PAMUKKALE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02021</kod><il>DENİZLİ</il><ilce>MERKEZEFENDİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02101</kod><il>DİYARBAKIR</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02102</kod><il>DİYARBAKIR</il><ilce>BİSMİL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02103</kod><il>DİYARBAKIR</il><ilce>ÇERMİK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02104</kod><il>DİYARBAKIR</il><ilce>ÇINAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02105</kod><il>DİYARBAKIR</il><ilce>ÇÜNGÜŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02106</kod><il>DİYARBAKIR</il><ilce>DİCLE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02107</kod><il>DİYARBAKIR</il><ilce>ERGANİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02108</kod><il>DİYARBAKIR</il><ilce>HANİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02109</kod><il>DİYARBAKIR</il><ilce>HAZRO</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02110</kod><il>DİYARBAKIR</il><ilce>KULP</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02111</kod><il>DİYARBAKIR</il><ilce>LİCE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02112</kod><il>DİYARBAKIR</il><ilce>SİLVAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02113</kod><il>DİYARBAKIR</il><ilce>EĞİL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02114</kod><il>DİYARBAKIR</il><ilce>KOCAKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02115</kod><il>DİYARBAKIR</il><ilce>BAĞLAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02116</kod><il>DİYARBAKIR</il><ilce>KAYAPINAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02117</kod><il>DİYARBAKIR</il><ilce>SUR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02118</kod><il>DİYARBAKIR</il><ilce>YENİŞEHİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02201</kod><il>EDİRNE</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02202</kod><il>EDİRNE</il><ilce>ENEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02203</kod><il>EDİRNE</il><ilce>HAVSA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02204</kod><il>EDİRNE</il><ilce>İPSALA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02205</kod><il>EDİRNE</il><ilce>KEŞAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02206</kod><il>EDİRNE</il><ilce>LALAPAŞA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02207</kod><il>EDİRNE</il><ilce>MERİÇ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02208</kod><il>EDİRNE</il><ilce>UZUNKÖPRÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02209</kod><il>EDİRNE</il><ilce>SÜLOĞLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02301</kod><il>ELAZIĞ</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02302</kod><il>ELAZIĞ</il><ilce>AĞIN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02303</kod><il>ELAZIĞ</il><ilce>BASKİL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02304</kod><il>ELAZIĞ</il><ilce>KARAKOÇAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02305</kod><il>ELAZIĞ</il><ilce>KEBAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02306</kod><il>ELAZIĞ</il><ilce>MADEN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02307</kod><il>ELAZIĞ</il><ilce>PALU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02308</kod><il>ELAZIĞ</il><ilce>SİVRİCE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02309</kod><il>ELAZIĞ</il><ilce>KOVANCILAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02310</kod><il>ELAZIĞ</il><ilce>ARICAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02311</kod><il>ELAZIĞ</il><ilce>ALACAKAYA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02401</kod><il>ERZİNCAN</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02402</kod><il>ERZİNCAN</il><ilce>ÇAYIRLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02403</kod><il>ERZİNCAN</il><ilce>İLİÇ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02404</kod><il>ERZİNCAN</il><ilce>KEMAH</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02405</kod><il>ERZİNCAN</il><ilce>KEMALİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02406</kod><il>ERZİNCAN</il><ilce>REFAHİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02407</kod><il>ERZİNCAN</il><ilce>TERCAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02408</kod><il>ERZİNCAN</il><ilce>ÜZÜMLÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02409</kod><il>ERZİNCAN</il><ilce>OTLUKBELİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02501</kod><il>ERZURUM</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02502</kod><il>ERZURUM</il><ilce>AŞKALE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02503</kod><il>ERZURUM</il><ilce>ÇAT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02504</kod><il>ERZURUM</il><ilce>HINIS</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02505</kod><il>ERZURUM</il><ilce>HORASAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02506</kod><il>ERZURUM</il><ilce>İSPİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02507</kod><il>ERZURUM</il><ilce>KARAYAZI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02508</kod><il>ERZURUM</il><ilce>NARMAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02509</kod><il>ERZURUM</il><ilce>OLTU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02510</kod><il>ERZURUM</il><ilce>OLUR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02511</kod><il>ERZURUM</il><ilce>PASİNLER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02512</kod><il>ERZURUM</il><ilce>ŞENKAYA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02513</kod><il>ERZURUM</il><ilce>TEKMAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02514</kod><il>ERZURUM</il><ilce>TORTUM</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02515</kod><il>ERZURUM</il><ilce>KARAÇOBAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02516</kod><il>ERZURUM</il><ilce>UZUNDERE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02517</kod><il>ERZURUM</il><ilce>PAZARYOLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02519</kod><il>ERZURUM</il><ilce>KÖPRÜKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02520</kod><il>ERZURUM</il><ilce>AZİZİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02521</kod><il>ERZURUM</il><ilce>PALANDÖKEN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02522</kod><il>ERZURUM</il><ilce>YAKUTİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02601</kod><il>ESKİŞEHİR</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02602</kod><il>ESKİŞEHİR</il><ilce>ÇİFTELER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02603</kod><il>ESKİŞEHİR</il><ilce>MAHMUDİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02604</kod><il>ESKİŞEHİR</il><ilce>MİHALIÇÇIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02605</kod><il>ESKİŞEHİR</il><ilce>SARICAKAYA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02606</kod><il>ESKİŞEHİR</il><ilce>SEYİTGAZİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02607</kod><il>ESKİŞEHİR</il><ilce>SİVRİHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02608</kod><il>ESKİŞEHİR</il><ilce>ALPU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02609</kod><il>ESKİŞEHİR</il><ilce>BEYLİKOVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02610</kod><il>ESKİŞEHİR</il><ilce>İNÖNÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02611</kod><il>ESKİŞEHİR</il><ilce>GÜNYÜZÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02612</kod><il>ESKİŞEHİR</il><ilce>HAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02613</kod><il>ESKİŞEHİR</il><ilce>MİHALGAZİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02614</kod><il>ESKİŞEHİR</il><ilce>ODUNPAZARI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02615</kod><il>ESKİŞEHİR</il><ilce>TEPEBAŞI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02701</kod><il>GAZİANTEP</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02702</kod><il>GAZİANTEP</il><ilce>ARABAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02703</kod><il>GAZİANTEP</il><ilce>ISLAHİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02705</kod><il>GAZİANTEP</il><ilce>NİZİP</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02706</kod><il>GAZİANTEP</il><ilce>OĞUZELİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02707</kod><il>GAZİANTEP</il><ilce>YAVUZELİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02708</kod><il>GAZİANTEP</il><ilce>ŞAHİNBEY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02709</kod><il>GAZİANTEP</il><ilce>ŞEHİTKAMİL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02710</kod><il>GAZİANTEP</il><ilce>KARKAMIŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02711</kod><il>GAZİANTEP</il><ilce>NURDAĞI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02801</kod><il>GİRESUN</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02802</kod><il>GİRESUN</il><ilce>ALUCRA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02803</kod><il>GİRESUN</il><ilce>BULANCAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02804</kod><il>GİRESUN</il><ilce>DERELİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02805</kod><il>GİRESUN</il><ilce>ESPİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02806</kod><il>GİRESUN</il><ilce>EYNESİL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02807</kod><il>GİRESUN</il><ilce>GÖRELE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02808</kod><il>GİRESUN</il><ilce>KEŞAP</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02809</kod><il>GİRESUN</il><ilce>ŞEBİNKARAHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02810</kod><il>GİRESUN</il><ilce>TİREBOLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02811</kod><il>GİRESUN</il><ilce>PİRAZİZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02812</kod><il>GİRESUN</il><ilce>YAĞLIDERE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02813</kod><il>GİRESUN</il><ilce>ÇANAKÇI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02814</kod><il>GİRESUN</il><ilce>GÜCE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02815</kod><il>GİRESUN</il><ilce>ÇAMOLUK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02816</kod><il>GİRESUN</il><ilce>DOĞANKENT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02901</kod><il>GÜMÜŞHANE</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02903</kod><il>GÜMÜŞHANE</il><ilce>KELKİT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02904</kod><il>GÜMÜŞHANE</il><ilce>ŞİRAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02905</kod><il>GÜMÜŞHANE</il><ilce>TORUL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02908</kod><il>GÜMÜŞHANE</il><ilce>KÖSE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>02909</kod><il>GÜMÜŞHANE</il><ilce>KÜRTÜN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03001</kod><il>HAKKARİ</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03003</kod><il>HAKKARİ</il><ilce>ÇUKURCA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03004</kod><il>HAKKARİ</il><ilce>ŞEMDİNLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03006</kod><il>HAKKARİ</il><ilce>YÜKSEKOVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03101</kod><il>HATAY</il><ilce>ANTAKYA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03101</kod><il>HATAY</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03102</kod><il>HATAY</il><ilce>ALTINÖZÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03103</kod><il>HATAY</il><ilce>DÖRTYOL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03104</kod><il>HATAY</il><ilce>HASSA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03105</kod><il>HATAY</il><ilce>İSKENDERUN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03106</kod><il>HATAY</il><ilce>KIRIKHAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03107</kod><il>HATAY</il><ilce>REYHANLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03108</kod><il>HATAY</il><ilce>SAMANDAĞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03109</kod><il>HATAY</il><ilce>YAYLADAĞI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03110</kod><il>HATAY</il><ilce>ERZİN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03111</kod><il>HATAY</il><ilce>BELEN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03112</kod><il>HATAY</il><ilce>KUMLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03113</kod><il>HATAY</il><ilce>ARSUZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03114</kod><il>HATAY</il><ilce>PAYAS</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03115</kod><il>HATAY</il><ilce>DEFNE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03201</kod><il>ISPARTA</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03202</kod><il>ISPARTA</il><ilce>ATABEY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03203</kod><il>ISPARTA</il><ilce>EĞİRDİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03204</kod><il>ISPARTA</il><ilce>GELENDOST</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03205</kod><il>ISPARTA</il><ilce>KEÇİBORLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03206</kod><il>ISPARTA</il><ilce>SENİRKENT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03207</kod><il>ISPARTA</il><ilce>SÜTÇÜLER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03208</kod><il>ISPARTA</il><ilce>ŞARKİKARAAĞAÇ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03209</kod><il>ISPARTA</il><ilce>ULUBORLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03210</kod><il>ISPARTA</il><ilce>YALVAÇ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03211</kod><il>ISPARTA</il><ilce>AKSU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03212</kod><il>ISPARTA</il><ilce>GÖNEN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03213</kod><il>ISPARTA</il><ilce>YENİŞARBADEMLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03301</kod><il>MERSİN</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03302</kod><il>MERSİN</il><ilce>ANAMUR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03303</kod><il>MERSİN</il><ilce>ERDEMLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03304</kod><il>MERSİN</il><ilce>GÜLNAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03305</kod><il>MERSİN</il><ilce>MUT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03306</kod><il>MERSİN</il><ilce>SİLİFKE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03307</kod><il>MERSİN</il><ilce>TARSUS</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03308</kod><il>MERSİN</il><ilce>AYDINCIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03309</kod><il>MERSİN</il><ilce>BOZYAZI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03310</kod><il>MERSİN</il><ilce>ÇAMLIYAYLA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03311</kod><il>MERSİN</il><ilce>MEZİTLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03312</kod><il>MERSİN</il><ilce>TOROSLAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03313</kod><il>MERSİN</il><ilce>YENİŞEHİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03314</kod><il>MERSİN</il><ilce>AKDENİZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03401</kod><il>İSTANBUL</il><ilce>ADALAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03402</kod><il>İSTANBUL</il><ilce>BAKIRKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03403</kod><il>İSTANBUL</il><ilce>BEŞİKTAŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03404</kod><il>İSTANBUL</il><ilce>BEYKOZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03405</kod><il>İSTANBUL</il><ilce>BEYOĞLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03406</kod><il>İSTANBUL</il><ilce>FATIH</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03407</kod><il>İSTANBUL</il><ilce>EYÜP</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03409</kod><il>İSTANBUL</il><ilce>GAZİOSMANPAŞA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03410</kod><il>İSTANBUL</il><ilce>KADIKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03411</kod><il>İSTANBUL</il><ilce>SARIYER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03412</kod><il>İSTANBUL</il><ilce>ŞİŞLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03413</kod><il>İSTANBUL</il><ilce>ÜSKÜDAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03414</kod><il>İSTANBUL</il><ilce>ZEYTİNBURNU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03415</kod><il>İSTANBUL</il><ilce>ÇATALCA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03416</kod><il>İSTANBUL</il><ilce>KARTAL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03417</kod><il>İSTANBUL</il><ilce>SİLİVRİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03418</kod><il>İSTANBUL</il><ilce>ŞİLE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03420</kod><il>İSTANBUL</il><ilce>BÜYÜKÇEKMECE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03421</kod><il>İSTANBUL</il><ilce>KAĞITHANE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03422</kod><il>İSTANBUL</il><ilce>KÜÇÜKÇEKMECE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03423</kod><il>İSTANBUL</il><ilce>PENDİK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03424</kod><il>İSTANBUL</il><ilce>ÜMRANİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03425</kod><il>İSTANBUL</il><ilce>BAYRAMPAŞA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03426</kod><il>İSTANBUL</il><ilce>AVCILAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03427</kod><il>İSTANBUL</il><ilce>BAĞCILAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03428</kod><il>İSTANBUL</il><ilce>BAHÇELİEVLER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03429</kod><il>İSTANBUL</il><ilce>GÜNGÖREN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03430</kod><il>İSTANBUL</il><ilce>MALTEPE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03431</kod><il>İSTANBUL</il><ilce>SULTANBEYLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03432</kod><il>İSTANBUL</il><ilce>TUZLA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03433</kod><il>İSTANBUL</il><ilce>ESENLER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03435</kod><il>İSTANBUL</il><ilce>BAŞAKŞEHİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03436</kod><il>İSTANBUL</il><ilce>BEYLİKDÜZÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03437</kod><il>İSTANBUL</il><ilce>ESENYURT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03438</kod><il>İSTANBUL</il><ilce>ARNAVUTKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03439</kod><il>İSTANBUL</il><ilce>SULTANGAZİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03440</kod><il>İSTANBUL</il><ilce>SANCAKTEPE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03441</kod><il>İSTANBUL</il><ilce>ATAŞEHİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03442</kod><il>İSTANBUL</il><ilce>ÇEKMEKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03502</kod><il>İZMİR</il><ilce>BAYINDIR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03503</kod><il>İZMİR</il><ilce>BERGAMA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03504</kod><il>İZMİR</il><ilce>BORNOVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03505</kod><il>İZMİR</il><ilce>ÇEŞME</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03506</kod><il>İZMİR</il><ilce>DİKİLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03507</kod><il>İZMİR</il><ilce>FOÇA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03508</kod><il>İZMİR</il><ilce>KARABURUN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03509</kod><il>İZMİR</il><ilce>KARŞIYAKA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03510</kod><il>İZMİR</il><ilce>KEMALPAŞA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03511</kod><il>İZMİR</il><ilce>KINIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03512</kod><il>İZMİR</il><ilce>KİRAZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03513</kod><il>İZMİR</il><ilce>MENEMEN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03514</kod><il>İZMİR</il><ilce>ÖDEMİŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03515</kod><il>İZMİR</il><ilce>SEFERİHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03516</kod><il>İZMİR</il><ilce>SELÇUK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03517</kod><il>İZMİR</il><ilce>TİRE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03518</kod><il>İZMİR</il><ilce>TORBALI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03519</kod><il>İZMİR</il><ilce>URLA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03520</kod><il>İZMİR</il><ilce>ALİAĞA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03521</kod><il>İZMİR</il><ilce>BUCA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03522</kod><il>İZMİR</il><ilce>MENDERES</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03523</kod><il>İZMİR</il><ilce>KONAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03524</kod><il>İZMİR</il><ilce>BEYDAĞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03525</kod><il>İZMİR</il><ilce>BALÇOVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03526</kod><il>İZMİR</il><ilce>ÇİĞLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03527</kod><il>İZMİR</il><ilce>GAZİEMİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03528</kod><il>İZMİR</il><ilce>GÜZELBAHÇE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03529</kod><il>İZMİR</il><ilce>NARLIDERE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03530</kod><il>İZMİR</il><ilce>BAYRAKLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03531</kod><il>İZMİR</il><ilce>KARABAĞLAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03601</kod><il>KARS</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03604</kod><il>KARS</il><ilce>ARPAÇAY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03606</kod><il>KARS</il><ilce>DİGOR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03610</kod><il>KARS</il><ilce>KAĞIZMAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03612</kod><il>KARS</il><ilce>SARIKAMIŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03613</kod><il>KARS</il><ilce>SELİM</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03614</kod><il>KARS</il><ilce>SUSUZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03616</kod><il>KARS</il><ilce>AKYAKA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03701</kod><il>KASTAMONU</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03702</kod><il>KASTAMONU</il><ilce>ARAÇ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03703</kod><il>KASTAMONU</il><ilce>AZDAVAY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03704</kod><il>KASTAMONU</il><ilce>ABANA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03705</kod><il>KASTAMONU</il><ilce>CİDE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03706</kod><il>KASTAMONU</il><ilce>ÇATALZEYTİN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03707</kod><il>KASTAMONU</il><ilce>DADAY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03708</kod><il>KASTAMONU</il><ilce>DEVREKANİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03709</kod><il>KASTAMONU</il><ilce>İNEBOLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03710</kod><il>KASTAMONU</il><ilce>KÜRE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03711</kod><il>KASTAMONU</il><ilce>TAŞKÖPRÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03712</kod><il>KASTAMONU</il><ilce>TOSYA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03713</kod><il>KASTAMONU</il><ilce>İHSANGAZİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03714</kod><il>KASTAMONU</il><ilce>PINARBAŞI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03715</kod><il>KASTAMONU</il><ilce>ŞENPAZAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03716</kod><il>KASTAMONU</il><ilce>AĞLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03717</kod><il>KASTAMONU</il><ilce>DOĞANYURT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03718</kod><il>KASTAMONU</il><ilce>HANÖNÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03719</kod><il>KASTAMONU</il><ilce>SEYDİLER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03720</kod><il>KASTAMONU</il><ilce>BOZKURT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03801</kod><il>KAYSERİ</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03802</kod><il>KAYSERİ</il><ilce>BÜNYAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03803</kod><il>KAYSERİ</il><ilce>DEVELİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03804</kod><il>KAYSERİ</il><ilce>FELAHİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03805</kod><il>KAYSERİ</il><ilce>İNCESU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03806</kod><il>KAYSERİ</il><ilce>PINARBAŞI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03807</kod><il>KAYSERİ</il><ilce>SARIOĞLAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03808</kod><il>KAYSERİ</il><ilce>SARIZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03809</kod><il>KAYSERİ</il><ilce>TOMARZA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03810</kod><il>KAYSERİ</il><ilce>YAHYALI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03811</kod><il>KAYSERİ</il><ilce>YEŞİLHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03812</kod><il>KAYSERİ</il><ilce>AKKIŞLA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03813</kod><il>KAYSERİ</il><ilce>TALAS</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03814</kod><il>KAYSERİ</il><ilce>KOCASİNAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03815</kod><il>KAYSERİ</il><ilce>MELİKGAZİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03816</kod><il>KAYSERİ</il><ilce>HACILAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03817</kod><il>KAYSERİ</il><ilce>ÖZVATAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03901</kod><il>KIRKLARELİ</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03902</kod><il>KIRKLARELİ</il><ilce>BABAESKİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03903</kod><il>KIRKLARELİ</il><ilce>DEMİRKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03904</kod><il>KIRKLARELİ</il><ilce>KOFÇAZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03905</kod><il>KIRKLARELİ</il><ilce>LÜLEBURGAZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03906</kod><il>KIRKLARELİ</il><ilce>PEHLİVANKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03907</kod><il>KIRKLARELİ</il><ilce>PINARHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>03908</kod><il>KIRKLARELİ</il><ilce>VİZE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04001</kod><il>KIRŞEHİR</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04002</kod><il>KIRŞEHİR</il><ilce>ÇİÇEKDAĞI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04003</kod><il>KIRŞEHİR</il><ilce>KAMAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04004</kod><il>KIRŞEHİR</il><ilce>MUCUR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04005</kod><il>KIRŞEHİR</il><ilce>AKPINAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04006</kod><il>KIRŞEHİR</il><ilce>AKÇAKENT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04007</kod><il>KIRŞEHİR</il><ilce>BOZTEPE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04101</kod><il>KOCAELİ</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04102</kod><il>KOCAELİ</il><ilce>GEBZE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04103</kod><il>KOCAELİ</il><ilce>GÖLCÜK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04104</kod><il>KOCAELİ</il><ilce>KANDIRA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04105</kod><il>KOCAELİ</il><ilce>KARAMÜRSEL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04106</kod><il>KOCAELİ</il><ilce>KÖRFEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04107</kod><il>KOCAELİ</il><ilce>DERİNCE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04108</kod><il>KOCAELİ</il><ilce>BAŞİSKELE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04109</kod><il>KOCAELİ</il><ilce>ÇAYIROVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04110</kod><il>KOCAELİ</il><ilce>DARICA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04111</kod><il>KOCAELİ</il><ilce>DİLOVASI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04112</kod><il>KOCAELİ</il><ilce>KARTEPE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04113</kod><il>KOCAELİ</il><ilce>İZMİT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04202</kod><il>KONYA</il><ilce>AKŞEHİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04203</kod><il>KONYA</il><ilce>BEYŞEHİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04204</kod><il>KONYA</il><ilce>BOZKIR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04205</kod><il>KONYA</il><ilce>CİHANBEYLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04206</kod><il>KONYA</il><ilce>ÇUMRA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04207</kod><il>KONYA</il><ilce>DOĞANHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04208</kod><il>KONYA</il><ilce>EREĞLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04210</kod><il>KONYA</il><ilce>HADİM</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04211</kod><il>KONYA</il><ilce>ILGIN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04212</kod><il>KONYA</il><ilce>KADINHANI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04214</kod><il>KONYA</il><ilce>KARAPINAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04215</kod><il>KONYA</il><ilce>KULU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04216</kod><il>KONYA</il><ilce>SARAYÖNÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04217</kod><il>KONYA</il><ilce>SEYDİŞEHİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04218</kod><il>KONYA</il><ilce>YUNAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04219</kod><il>KONYA</il><ilce>KARATAY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04220</kod><il>KONYA</il><ilce>MERAM</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04221</kod><il>KONYA</il><ilce>SELÇUKLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04222</kod><il>KONYA</il><ilce>AKÖREN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04223</kod><il>KONYA</il><ilce>ALTINEKİN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04225</kod><il>KONYA</il><ilce>DEREBUCAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04226</kod><il>KONYA</il><ilce>HÜYÜK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04227</kod><il>KONYA</il><ilce>TAŞKENT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04228</kod><il>KONYA</il><ilce>AHIRLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04229</kod><il>KONYA</il><ilce>ÇELTİK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04230</kod><il>KONYA</il><ilce>DERBENT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04231</kod><il>KONYA</il><ilce>EMİRGAZİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04232</kod><il>KONYA</il><ilce>GÜNEYSINIR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04233</kod><il>KONYA</il><ilce>HALKAPINAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04234</kod><il>KONYA</il><ilce>TUZLUKÇU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04235</kod><il>KONYA</il><ilce>YALIHÜYÜK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04301</kod><il>KÜTAHYA</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04302</kod><il>KÜTAHYA</il><ilce>ALTINTAŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04303</kod><il>KÜTAHYA</il><ilce>DOMANİÇ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04304</kod><il>KÜTAHYA</il><ilce>EMET</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04305</kod><il>KÜTAHYA</il><ilce>GEDİZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04306</kod><il>KÜTAHYA</il><ilce>SİMAV</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04307</kod><il>KÜTAHYA</il><ilce>TAVŞANLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04308</kod><il>KÜTAHYA</il><ilce>ASLANAPA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04309</kod><il>KÜTAHYA</il><ilce>ŞAPHANE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04310</kod><il>KÜTAHYA</il><ilce>DUMLUPINAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04311</kod><il>KÜTAHYA</il><ilce>HİSARCIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04312</kod><il>KÜTAHYA</il><ilce>ÇAVDARHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04313</kod><il>KÜTAHYA</il><ilce>PAZARLAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04401</kod><il>MALATYA</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04402</kod><il>MALATYA</il><ilce>AKÇADAĞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04403</kod><il>MALATYA</il><ilce>ARAPGİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04404</kod><il>MALATYA</il><ilce>ARGUVAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04405</kod><il>MALATYA</il><ilce>DARENDE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04406</kod><il>MALATYA</il><ilce>DOĞANŞEHİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04407</kod><il>MALATYA</il><ilce>HEKİMHAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04408</kod><il>MALATYA</il><ilce>PÜTÜRGE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04409</kod><il>MALATYA</il><ilce>YEŞİLYURT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04410</kod><il>MALATYA</il><ilce>BATTALGAZİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04411</kod><il>MALATYA</il><ilce>DOĞANYOL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04412</kod><il>MALATYA</il><ilce>KALE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04413</kod><il>MALATYA</il><ilce>KULUNCAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04414</kod><il>MALATYA</il><ilce>YAZIHAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04501</kod><il>MANİSA</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04502</kod><il>MANİSA</il><ilce>AKHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04503</kod><il>MANİSA</il><ilce>ALAŞEHİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04504</kod><il>MANİSA</il><ilce>DEMİRCİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04505</kod><il>MANİSA</il><ilce>GÖRDES</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04506</kod><il>MANİSA</il><ilce>KIRKAĞAÇ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04507</kod><il>MANİSA</il><ilce>KULA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04508</kod><il>MANİSA</il><ilce>SALİHLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04509</kod><il>MANİSA</il><ilce>SARIGÖL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04510</kod><il>MANİSA</il><ilce>SARUHANLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04511</kod><il>MANİSA</il><ilce>SELENDİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04512</kod><il>MANİSA</il><ilce>SOMA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04513</kod><il>MANİSA</il><ilce>TURGUTLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04514</kod><il>MANİSA</il><ilce>AHMETLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04515</kod><il>MANİSA</il><ilce>GÖLMARMARA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04516</kod><il>MANİSA</il><ilce>KÖPRÜBAŞI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04517</kod><il>MANİSA</il><ilce>ŞEHZADELER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04518</kod><il>MANİSA</il><ilce>YUNUSEMRE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04601</kod><il>KAHRAMANMARAŞ</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04602</kod><il>KAHRAMANMARAŞ</il><ilce>AFŞİN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04603</kod><il>KAHRAMANMARAŞ</il><ilce>ANDIRIN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04604</kod><il>KAHRAMANMARAŞ</il><ilce>ELBİSTAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04605</kod><il>KAHRAMANMARAŞ</il><ilce>GÖKSUN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04606</kod><il>KAHRAMANMARAŞ</il><ilce>PAZARCIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04607</kod><il>KAHRAMANMARAŞ</il><ilce>TÜRKOĞLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04608</kod><il>KAHRAMANMARAŞ</il><ilce>ÇAĞLAYANCERİT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04609</kod><il>KAHRAMANMARAŞ</il><ilce>EKİNÖZÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04610</kod><il>KAHRAMANMARAŞ</il><ilce>NURHAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04611</kod><il>KAHRAMANMARAŞ</il><ilce>DULKADİROĞLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04612</kod><il>KAHRAMANMARAŞ</il><ilce>ONİKİŞUBAT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04701</kod><il>MARDİN</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04703</kod><il>MARDİN</il><ilce>DERİK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04706</kod><il>MARDİN</il><ilce>KIZILTEPE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04707</kod><il>MARDİN</il><ilce>MAZIDAĞI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04708</kod><il>MARDİN</il><ilce>MİDYAT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04709</kod><il>MARDİN</il><ilce>NUSAYBİN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04710</kod><il>MARDİN</il><ilce>ÖMERLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04711</kod><il>MARDİN</il><ilce>SAVUR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04713</kod><il>MARDİN</il><ilce>DARGEÇİT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04714</kod><il>MARDİN</il><ilce>YEŞİLLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04715</kod><il>MARDİN</il><ilce>ARTUKLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04801</kod><il>MUĞLA</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04802</kod><il>MUĞLA</il><ilce>BODRUM</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04803</kod><il>MUĞLA</il><ilce>DATÇA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04804</kod><il>MUĞLA</il><ilce>FETHİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04805</kod><il>MUĞLA</il><ilce>KÖYCEĞİZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04806</kod><il>MUĞLA</il><ilce>MARMARİS</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04807</kod><il>MUĞLA</il><ilce>MİLAS</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04808</kod><il>MUĞLA</il><ilce>ULA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04809</kod><il>MUĞLA</il><ilce>YATAĞAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04810</kod><il>MUĞLA</il><ilce>DALAMAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04811</kod><il>MUĞLA</il><ilce>ORTACA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04812</kod><il>MUĞLA</il><ilce>KAVAKLIDERE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04813</kod><il>MUĞLA</il><ilce>MENTEŞE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04814</kod><il>MUĞLA</il><ilce>SEYDİKEMER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04901</kod><il>MUŞ</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04902</kod><il>MUŞ</il><ilce>BULANIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04903</kod><il>MUŞ</il><ilce>HASKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04904</kod><il>MUŞ</il><ilce>KORKUT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04905</kod><il>MUŞ</il><ilce>MALAZGİRT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>04906</kod><il>MUŞ</il><ilce>VARTO</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05001</kod><il>NEVŞEHİR</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05002</kod><il>NEVŞEHİR</il><ilce>AVANOS</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05003</kod><il>NEVŞEHİR</il><ilce>DERİNKUYU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05004</kod><il>NEVŞEHİR</il><ilce>GÜLŞEHİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05005</kod><il>NEVŞEHİR</il><ilce>HACIBEKTAŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05006</kod><il>NEVŞEHİR</il><ilce>KOZAKLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05007</kod><il>NEVŞEHİR</il><ilce>ÜRGÜP</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05008</kod><il>NEVŞEHİR</il><ilce>ACIGÖL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05101</kod><il>NİĞDE</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05103</kod><il>NİĞDE</il><ilce>BOR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05104</kod><il>NİĞDE</il><ilce>ÇAMARDI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05106</kod><il>NİĞDE</il><ilce>ULUKIŞLA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05107</kod><il>NİĞDE</il><ilce>ALTUNHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05108</kod><il>NİĞDE</il><ilce>ÇİFTLİK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05201</kod><il>ORDU</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05202</kod><il>ORDU</il><ilce>AKKUŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05203</kod><il>ORDU</il><ilce>AYBASTI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05204</kod><il>ORDU</il><ilce>FATSA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05205</kod><il>ORDU</il><ilce>GÖLKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05206</kod><il>ORDU</il><ilce>KORGAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05207</kod><il>ORDU</il><ilce>KUMRU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05208</kod><il>ORDU</il><ilce>MESUDİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05209</kod><il>ORDU</il><ilce>PERŞEMBE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05210</kod><il>ORDU</il><ilce>ULUBEY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05211</kod><il>ORDU</il><ilce>ÜNYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05212</kod><il>ORDU</il><ilce>GÜLYALI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05213</kod><il>ORDU</il><ilce>GÜRGENTEPE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05214</kod><il>ORDU</il><ilce>ÇAMAŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05215</kod><il>ORDU</il><ilce>ÇATALPINAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05216</kod><il>ORDU</il><ilce>ÇAYBAŞI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05217</kod><il>ORDU</il><ilce>İKİZCE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05218</kod><il>ORDU</il><ilce>KABADÜZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05219</kod><il>ORDU</il><ilce>KABATAŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05220</kod><il>ORDU</il><ilce>ALTINORDU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05301</kod><il>RİZE</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05302</kod><il>RİZE</il><ilce>ARDEŞEN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05303</kod><il>RİZE</il><ilce>ÇAMLIHEMŞİN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05304</kod><il>RİZE</il><ilce>ÇAYELİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05305</kod><il>RİZE</il><ilce>FINDIKLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05306</kod><il>RİZE</il><ilce>İKİZDERE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05307</kod><il>RİZE</il><ilce>KALKANDERE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05308</kod><il>RİZE</il><ilce>PAZAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05309</kod><il>RİZE</il><ilce>GÜNEYSU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05310</kod><il>RİZE</il><ilce>DEREPAZARI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05311</kod><il>RİZE</il><ilce>HEMŞİN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05312</kod><il>RİZE</il><ilce>İYİDERE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05401</kod><il>SAKARYA</il><ilce>ADAPAZARI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05402</kod><il>SAKARYA</il><ilce>AKYAZI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05403</kod><il>SAKARYA</il><ilce>GEYVE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05404</kod><il>SAKARYA</il><ilce>HENDEK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05405</kod><il>SAKARYA</il><ilce>KARASU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05406</kod><il>SAKARYA</il><ilce>SAPANCA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05407</kod><il>SAKARYA</il><ilce>KAYNARCA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05408</kod><il>SAKARYA</il><ilce>KOCAALİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05409</kod><il>SAKARYA</il><ilce>PAMUKOVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05410</kod><il>SAKARYA</il><ilce>TARAKLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05411</kod><il>SAKARYA</il><ilce>FERİZLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05412</kod><il>SAKARYA</il><ilce>KARAPÜRÇEK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05413</kod><il>SAKARYA</il><ilce>SÖĞÜTLÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05414</kod><il>SAKARYA</il><ilce>SERDİVAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05415</kod><il>SAKARYA</il><ilce>ERENLER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05416</kod><il>SAKARYA</il><ilce>ARİFİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05417</kod><il>SAKARYA</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05501</kod><il>SAMSUN</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05502</kod><il>SAMSUN</il><ilce>ALAÇAM</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05503</kod><il>SAMSUN</il><ilce>BAFRA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05504</kod><il>SAMSUN</il><ilce>ÇARŞAMBA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05505</kod><il>SAMSUN</il><ilce>HAVZA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05506</kod><il>SAMSUN</il><ilce>KAVAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05507</kod><il>SAMSUN</il><ilce>LADİK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05508</kod><il>SAMSUN</il><ilce>TERME</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05509</kod><il>SAMSUN</il><ilce>VEZİRKÖPRÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05510</kod><il>SAMSUN</il><ilce>SALIPAZARI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05511</kod><il>SAMSUN</il><ilce>ASARCIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05512</kod><il>SAMSUN</il><ilce>19 MAYIS</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05513</kod><il>SAMSUN</il><ilce>TEKKEKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05514</kod><il>SAMSUN</il><ilce>AYVACIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05515</kod><il>SAMSUN</il><ilce>YAKAKENT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05516</kod><il>SAMSUN</il><ilce>ATAKUM</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05517</kod><il>SAMSUN</il><ilce>CANİK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05518</kod><il>SAMSUN</il><ilce>İLKADIM</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05601</kod><il>SİİRT</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05603</kod><il>SİİRT</il><ilce>BAYKAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05604</kod><il>SİİRT</il><ilce>ERUH</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05605</kod><il>SİİRT</il><ilce>KURTALAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05606</kod><il>SİİRT</il><ilce>PERVARİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05607</kod><il>SİİRT</il><ilce>ŞİRVAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05608</kod><il>SİİRT</il><ilce>TİLLO</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05701</kod><il>SİNOP</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05702</kod><il>SİNOP</il><ilce>AYANCIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05703</kod><il>SİNOP</il><ilce>BOYABAT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05704</kod><il>SİNOP</il><ilce>DURAĞAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05705</kod><il>SİNOP</il><ilce>ERFELEK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05706</kod><il>SİNOP</il><ilce>GERZE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05707</kod><il>SİNOP</il><ilce>TÜRKELİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05708</kod><il>SİNOP</il><ilce>DİKMEN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05709</kod><il>SİNOP</il><ilce>SARAYDÜZÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05801</kod><il>SİVAS</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05802</kod><il>SİVAS</il><ilce>DİVRİĞİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05803</kod><il>SİVAS</il><ilce>GEMEREK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05804</kod><il>SİVAS</il><ilce>GÜRÜN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05805</kod><il>SİVAS</il><ilce>HAFİK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05806</kod><il>SİVAS</il><ilce>İMRANLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05807</kod><il>SİVAS</il><ilce>KANGAL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05808</kod><il>SİVAS</il><ilce>KOYULHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05809</kod><il>SİVAS</il><ilce>SUŞEHRİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05810</kod><il>SİVAS</il><ilce>ŞARKIŞLA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05811</kod><il>SİVAS</il><ilce>YILDIZELİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05812</kod><il>SİVAS</il><ilce>ZARA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05813</kod><il>SİVAS</il><ilce>AKINCILAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05814</kod><il>SİVAS</il><ilce>ALTINYAYLA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05815</kod><il>SİVAS</il><ilce>DOĞANŞAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05816</kod><il>SİVAS</il><ilce>GÖLOVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05817</kod><il>SİVAS</il><ilce>ULAŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05901</kod><il>TEKİRDAĞ</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05902</kod><il>TEKİRDAĞ</il><ilce>ÇERKEZKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05903</kod><il>TEKİRDAĞ</il><ilce>ÇORLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05904</kod><il>TEKİRDAĞ</il><ilce>HAYRABOLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05905</kod><il>TEKİRDAĞ</il><ilce>MALKARA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05906</kod><il>TEKİRDAĞ</il><ilce>MURATLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05907</kod><il>TEKİRDAĞ</il><ilce>SARAY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05908</kod><il>TEKİRDAĞ</il><ilce>ŞARKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05909</kod><il>TEKİRDAĞ</il><ilce>MARMARAEREĞLİSİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05910</kod><il>TEKİRDAĞ</il><ilce>ERGENE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05911</kod><il>TEKİRDAĞ</il><ilce>SÜLEYMANPAŞA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>05912</kod><il>TEKİRDAĞ</il><ilce>KAPAKLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06001</kod><il>TOKAT</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06002</kod><il>TOKAT</il><ilce>ALMUS</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06003</kod><il>TOKAT</il><ilce>ARTOVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06004</kod><il>TOKAT</il><ilce>ERBAA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06005</kod><il>TOKAT</il><ilce>NİKSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06006</kod><il>TOKAT</il><ilce>REŞADİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06007</kod><il>TOKAT</il><ilce>TURHAL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06008</kod><il>TOKAT</il><ilce>ZİLE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06009</kod><il>TOKAT</il><ilce>PAZAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06010</kod><il>TOKAT</il><ilce>YEŞİLYURT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06011</kod><il>TOKAT</il><ilce>BAŞÇİFTLİK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06012</kod><il>TOKAT</il><ilce>SULUSARAY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06101</kod><il>TRABZON</il><ilce>ORTAHİSAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06102</kod><il>TRABZON</il><ilce>AKÇAABAT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06103</kod><il>TRABZON</il><ilce>ARAKLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06104</kod><il>TRABZON</il><ilce>ARSİN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06105</kod><il>TRABZON</il><ilce>ÇAYKARA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06106</kod><il>TRABZON</il><ilce>MAÇKA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06107</kod><il>TRABZON</il><ilce>OF </ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06108</kod><il>TRABZON</il><ilce>SÜRMENE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06109</kod><il>TRABZON</il><ilce>TONYA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06110</kod><il>TRABZON</il><ilce>VAKFIKEBİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06111</kod><il>TRABZON</il><ilce>YOMRA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06112</kod><il>TRABZON</il><ilce>BEŞİKDÜZÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06113</kod><il>TRABZON</il><ilce>ŞALPAZARI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06114</kod><il>TRABZON</il><ilce>ÇARŞIBAŞI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06115</kod><il>TRABZON</il><ilce>DERNEKPAZARI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06116</kod><il>TRABZON</il><ilce>DÜZKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06117</kod><il>TRABZON</il><ilce>HAYRAT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06118</kod><il>TRABZON</il><ilce>KÖPRÜBAŞI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06201</kod><il>TUNCELİ</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06202</kod><il>TUNCELİ</il><ilce>ÇEMİŞGEZEK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06203</kod><il>TUNCELİ</il><ilce>HOZAT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06204</kod><il>TUNCELİ</il><ilce>MAZGİRT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06205</kod><il>TUNCELİ</il><ilce>NAZIMİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06206</kod><il>TUNCELİ</il><ilce>OVACIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06207</kod><il>TUNCELİ</il><ilce>PERTEK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06208</kod><il>TUNCELİ</il><ilce>PÜLÜMÜR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06301</kod><il>ŞANLIURFA</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06302</kod><il>ŞANLIURFA</il><ilce>AKÇAKALE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06303</kod><il>ŞANLIURFA</il><ilce>BİRECİK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06304</kod><il>ŞANLIURFA</il><ilce>BOZOVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06305</kod><il>ŞANLIURFA</il><ilce>HALFETİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06306</kod><il>ŞANLIURFA</il><ilce>HİLVAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06307</kod><il>ŞANLIURFA</il><ilce>SİVEREK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06308</kod><il>ŞANLIURFA</il><ilce>SURUÇ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06309</kod><il>ŞANLIURFA</il><ilce>VİRANŞEHİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06310</kod><il>ŞANLIURFA</il><ilce>CEYLANPINAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06311</kod><il>ŞANLIURFA</il><ilce>HARRAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06312</kod><il>ŞANLIURFA</il><ilce>EYYÜBİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06313</kod><il>ŞANLIURFA</il><ilce>HALİLİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06314</kod><il>ŞANLIURFA</il><ilce>KARAKÖPRÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06401</kod><il>UŞAK</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06402</kod><il>UŞAK</il><ilce>BANAZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06403</kod><il>UŞAK</il><ilce>EŞME</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06404</kod><il>UŞAK</il><ilce>KARAHALLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06405</kod><il>UŞAK</il><ilce>SİVASLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06406</kod><il>UŞAK</il><ilce>ULUBEY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06501</kod><il>VAN</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06502</kod><il>VAN</il><ilce>BAŞKALE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06503</kod><il>VAN</il><ilce>ÇATAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06504</kod><il>VAN</il><ilce>ERCİŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06505</kod><il>VAN</il><ilce>GEVAŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06506</kod><il>VAN</il><ilce>GÜRPINAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06507</kod><il>VAN</il><ilce>MURADİYE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06508</kod><il>VAN</il><ilce>ÖZALP</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06509</kod><il>VAN</il><ilce>BAHÇESARAY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06510</kod><il>VAN</il><ilce>ÇALDIRAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06511</kod><il>VAN</il><ilce>EDREMİT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06512</kod><il>VAN</il><ilce>SARAY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06513</kod><il>VAN</il><ilce>İPEKYOLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06514</kod><il>VAN</il><ilce>TUŞBA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06601</kod><il>YOZGAT</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06602</kod><il>YOZGAT</il><ilce>AKDAĞMADENİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06603</kod><il>YOZGAT</il><ilce>BOĞAZLIYAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06604</kod><il>YOZGAT</il><ilce>ÇAYIRALAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06605</kod><il>YOZGAT</il><ilce>ÇEKEREK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06606</kod><il>YOZGAT</il><ilce>SARIKAYA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06607</kod><il>YOZGAT</il><ilce>SORGUN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06608</kod><il>YOZGAT</il><ilce>ŞEFAATLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06609</kod><il>YOZGAT</il><ilce>YERKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06610</kod><il>YOZGAT</il><ilce>AYDINCIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06611</kod><il>YOZGAT</il><ilce>ÇANDIR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06612</kod><il>YOZGAT</il><ilce>KADIŞEHRİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06613</kod><il>YOZGAT</il><ilce>SARAYKENT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06614</kod><il>YOZGAT</il><ilce>YENİFAKILI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06701</kod><il>ZONGULDAK</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06703</kod><il>ZONGULDAK</il><ilce>ÇAYCUMA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06704</kod><il>ZONGULDAK</il><ilce>DEVREK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06706</kod><il>ZONGULDAK</il><ilce>EREĞLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06711</kod><il>ZONGULDAK</il><ilce>ALAPLI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06714</kod><il>ZONGULDAK</il><ilce>GÖKÇEBEY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06715</kod><il>ZONGULDAK</il><ilce>KİLİMLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06716</kod><il>ZONGULDAK</il><ilce>KOZLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06801</kod><il>AKSARAY</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06802</kod><il>AKSARAY</il><ilce>AĞAÇÖREN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06803</kod><il>AKSARAY</il><ilce>GÜZELYURT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06804</kod><il>AKSARAY</il><ilce>SARIYAHŞİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06805</kod><il>AKSARAY</il><ilce>ORTAKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06806</kod><il>AKSARAY</il><ilce>ESKİL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06807</kod><il>AKSARAY</il><ilce>GÜLAĞAÇ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06901</kod><il>BAYBURT</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06906</kod><il>BAYBURT</il><ilce>AYDINTEPE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>06907</kod><il>BAYBURT</il><ilce>DEMİRÖZÜ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07001</kod><il>KARAMAN</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07002</kod><il>KARAMAN</il><ilce>AYRANCI</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07003</kod><il>KARAMAN</il><ilce>BAŞYAYLA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07004</kod><il>KARAMAN</il><ilce>ERMENEK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07005</kod><il>KARAMAN</il><ilce>KAZIMKARABEKİR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07006</kod><il>KARAMAN</il><ilce>SARIVELİLER</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07101</kod><il>KIRIKKALE</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07102</kod><il>KIRIKKALE</il><ilce>BAHŞİLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07103</kod><il>KIRIKKALE</il><ilce>BALIŞEYH</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07104</kod><il>KIRIKKALE</il><ilce>ÇELEBİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07105</kod><il>KIRIKKALE</il><ilce>KARAKEÇİLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07106</kod><il>KIRIKKALE</il><ilce>YAHŞİHAN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07109</kod><il>KIRIKKALE</il><ilce>DELİCE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07114</kod><il>KIRIKKALE</il><ilce>KESKİN</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07119</kod><il>KIRIKKALE</il><ilce>SULAKYURT</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07201</kod><il>BATMAN</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07202</kod><il>BATMAN</il><ilce>BEŞİRİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07203</kod><il>BATMAN</il><ilce>GERCÜŞ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07204</kod><il>BATMAN</il><ilce>HASANKEYF</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07205</kod><il>BATMAN</il><ilce>KOZLUK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07206</kod><il>BATMAN</il><ilce>SASON</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07301</kod><il>ŞIRNAK</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07302</kod><il>ŞIRNAK</il><ilce>CİZRE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07303</kod><il>ŞIRNAK</il><ilce>BEYTÜŞŞEBAP</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07304</kod><il>ŞIRNAK</il><ilce>ULUDERE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07305</kod><il>ŞIRNAK</il><ilce>İDİL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07306</kod><il>ŞIRNAK</il><ilce>GÜÇLÜKONAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07312</kod><il>ŞIRNAK</il><ilce>SİLOPİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07401</kod><il>BARTIN</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07408</kod><il>BARTIN</il><ilce>KURUCAŞİLE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07410</kod><il>BARTIN</il><ilce>ULUS</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07412</kod><il>BARTIN</il><ilce>AMASRA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07503</kod><il>ARDAHAN</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07505</kod><il>ARDAHAN</il><ilce>ÇILDIR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07507</kod><il>ARDAHAN</il><ilce>GÖLE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07508</kod><il>ARDAHAN</il><ilce>HANAK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07511</kod><il>ARDAHAN</il><ilce>POSOF</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07517</kod><il>ARDAHAN</il><ilce>DAMAL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07601</kod><il>IĞDIR</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07602</kod><il>IĞDIR</il><ilce>ARALIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07603</kod><il>IĞDIR</il><ilce>KARAKOYUNLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07604</kod><il>IĞDIR</il><ilce>TUZLUCA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07701</kod><il>YALOVA</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07702</kod><il>YALOVA</il><ilce>ALTINOVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07703</kod><il>YALOVA</il><ilce>ARMUTLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07704</kod><il>YALOVA</il><ilce>ÇINARCIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07705</kod><il>YALOVA</il><ilce>ÇİFTLİKKÖY</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07706</kod><il>YALOVA</il><ilce>TERMAL</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07801</kod><il>KARABÜK</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07802</kod><il>KARABÜK</il><ilce>ESKİPAZAR</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07805</kod><il>KARABÜK</il><ilce>EFLANİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07808</kod><il>KARABÜK</il><ilce>OVACIK</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07809</kod><il>KARABÜK</il><ilce>SAFRANBOLU</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07813</kod><il>KARABÜK</il><ilce>YENİCE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07901</kod><il>KİLİS</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07902</kod><il>KİLİS</il><ilce>ELBEYLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07903</kod><il>KİLİS</il><ilce>MUSABEYLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>07904</kod><il>KİLİS</il><ilce>POLATELİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>08002</kod><il>OSMANİYE</il><ilce>BAHÇE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>08005</kod><il>OSMANİYE</il><ilce>KADİRLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>08010</kod><il>OSMANİYE</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>08014</kod><il>OSMANİYE</il><ilce>DÜZİÇİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>08018</kod><il>OSMANİYE</il><ilce>HASANBEYLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>08019</kod><il>OSMANİYE</il><ilce>SUMBAS</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>08020</kod><il>OSMANİYE</il><ilce>TOPRAKKALE</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>08102</kod><il>DÜZCE</il><ilce>AKÇAKOCA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>08103</kod><il>DÜZCE</il><ilce>MERKEZ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>08110</kod><il>DÜZCE</il><ilce>YIĞILCA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>08111</kod><il>DÜZCE</il><ilce>CUMAYERİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>08112</kod><il>DÜZCE</il><ilce>GÖLYAKA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>08113</kod><il>DÜZCE</il><ilce>ÇİLİMLİ</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>08116</kod><il>DÜZCE</il><ilce>GÜMÜŞOVA</ilce></ilIlceKodu>
+		<ilIlceKodu><kod>08117</kod><il>DÜZCE</il><ilce>KAYNAŞLI</ilce></ilIlceKodu>
+	</ilIlceKodlari>
+	<faaliyetKonulari>
+		<data>
+			<kod>1</kod>
+			<aciklama>Mimarlık</aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>Mühendislik</aciklama>
+		</data>
+		<data>
+			<kod>3</kod>
+			<aciklama>Tasarım</aciklama>
+		</data>
+		<data>
+			<kod>4</kod>
+			<aciklama>Yazılım</aciklama>
+		</data>
+		<data>
+			<kod>5</kod>
+			<aciklama>Tıbbi Raporlama</aciklama>
+		</data>
+		<data>
+			<kod>6</kod>
+			<aciklama>Muhasebe Kaydı Tutma</aciklama>
+		</data>
+		<data>
+			<kod>7</kod>
+			<aciklama>Çağrı Merkezi</aciklama>
+		</data>
+		<data>
+			<kod>8</kod>
+			<aciklama>Ürün Testi ve Sertifikasyon</aciklama>
+		</data>
+		<data>
+			<kod>9</kod>
+			<aciklama>Veri Saklama, Veri İşleme, Veri Analizi</aciklama>
+		</data>
+		<data>
+			<kod>10</kod>
+			<aciklama>Mesleki Eğitim</aciklama>
+		</data>
+		<data>
+			<kod>11</kod>
+			<aciklama>Eğitim</aciklama>
+		</data>
+		<data>
+			<kod>12</kod>
+			<aciklama>Sağlık</aciklama>
+		</data>
+	</faaliyetKonulari>
+	<sporDallari>
+		<data>
+			<kod>1</kod>
+			<aciklama>FUTBOL</aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>BASKETBOL</aciklama>
+		</data>
+		<data>
+			<kod>3</kod>
+			<aciklama>VOLEYBOL</aciklama>
+		</data>
+		<data>
+			<kod>4</kod>
+			<aciklama>YÜZME</aciklama>
+		</data>
+		<data>
+			<kod>5</kod>
+			<aciklama>HALTER</aciklama>
+		</data>
+		<data>
+			<kod>6</kod>
+			<aciklama>BİSİKLET</aciklama>
+		</data>
+		<data>
+			<kod>7</kod>
+			<aciklama>ATLETİZM</aciklama>
+		</data>
+		<data>
+			<kod>8</kod>
+			<aciklama>ATICILIK VE AVCILIK</aciklama>
+		</data>
+		<data>
+			<kod>9</kod>
+			<aciklama>BADMİNTON</aciklama>
+		</data>
+		<data>
+			<kod>10</kod>
+			<aciklama>BEDENSEL ENGELLİLER SPOR</aciklama>
+		</data>
+		<data>
+			<kod>11</kod>
+			<aciklama>BİLARDO</aciklama>
+		</data>
+		<data>
+			<kod>12</kod>
+			<aciklama>BİNİCİLİK</aciklama>
+		</data>
+		<data>
+			<kod>13</kod>
+			<aciklama>BOCCE, BOWLİNG VE DART</aciklama>
+		</data>
+		<data>
+			<kod>14</kod>
+			<aciklama>BOKS</aciklama>
+		</data>
+		<data>
+			<kod>15</kod>
+			<aciklama>BRİÇ</aciklama>
+		</data>
+		<data>
+			<kod>16</kod>
+			<aciklama>BUZ HOKEYİ</aciklama>
+		</data>
+		<data>
+			<kod>17</kod>
+			<aciklama>BUZ PATENİ</aciklama>
+		</data>
+		<data>
+			<kod>18</kod>
+			<aciklama>CİMNASTİK</aciklama>
+		</data>
+		<data>
+			<kod>19</kod>
+			<aciklama>CURLİNG</aciklama>
+		</data>
+		<data>
+			<kod>20</kod>
+			<aciklama>DANS SPORLARI</aciklama>
+		</data>
+		<data>
+			<kod>21</kod>
+			<aciklama>DAĞCILIK</aciklama>
+		</data>
+		<data>
+			<kod>22</kod>
+			<aciklama>ESKRİM</aciklama>
+		</data>
+		<data>
+			<kod>23</kod>
+			<aciklama>GELENEKSEL SPOR DALLARI</aciklama>
+		</data>
+		<data>
+			<kod>24</kod>
+			<aciklama>GELİŞMEKTE OLAN SPOR BRANŞLARI</aciklama>
+		</data>
+		<data>
+			<kod>25</kod>
+			<aciklama>GOLF</aciklama>
+		</data>
+		<data>
+			<kod>26</kod>
+			<aciklama>GÖRME ENGELLİLER SPOR</aciklama>
+		</data>
+		<data>
+			<kod>27</kod>
+			<aciklama>GÜREŞ</aciklama>
+		</data>
+		<data>
+			<kod>28</kod>
+			<aciklama>HALK OYUNLARI</aciklama>
+		</data>
+		<data>
+			<kod>29</kod>
+			<aciklama>HAVA SPORLARI</aciklama>
+		</data>
+		<data>
+			<kod>30</kod>
+			<aciklama>HENTBOL</aciklama>
+		</data>
+		<data>
+			<kod>31</kod>
+			<aciklama>HERKES İÇİN SPOR</aciklama>
+		</data>
+		<data>
+			<kod>32</kod>
+			<aciklama>HOKEY</aciklama>
+		</data>
+		<data>
+			<kod>33</kod>
+			<aciklama>JUDO</aciklama>
+		</data>
+		<data>
+			<kod>34</kod>
+			<aciklama>KANO</aciklama>
+		</data>
+		<data>
+			<kod>35</kod>
+			<aciklama>KARATE</aciklama>
+		</data>
+		<data>
+			<kod>36</kod>
+			<aciklama>KAYAK</aciklama>
+		</data>
+		<data>
+			<kod>37</kod>
+			<aciklama>KİCK BOKS</aciklama>
+		</data>
+		<data>
+			<kod>38</kod>
+			<aciklama>KÜREK</aciklama>
+		</data>
+		<data>
+			<kod>39</kod>
+			<aciklama>KIZAK</aciklama>
+		</data>
+		<data>
+			<kod>40</kod>
+			<aciklama>MASA TENİSİ</aciklama>
+		</data>
+		<data>
+			<kod>41</kod>
+			<aciklama>MODERN PENTATLON</aciklama>
+		</data>
+		<data>
+			<kod>42</kod>
+			<aciklama>MOTOSİKLET</aciklama>
+		</data>
+		<data>
+			<kod>43</kod>
+			<aciklama>MUAY THAİ</aciklama>
+		</data>
+		<data>
+			<kod>44</kod>
+			<aciklama>OKÇULUK</aciklama>
+		</data>
+		<data>
+			<kod>45</kod>
+			<aciklama>ORYANTİRİNG</aciklama>
+		</data>
+		<data>
+			<kod>46</kod>
+			<aciklama>OTOMOBİL SPORLARI</aciklama>
+		</data>
+		<data>
+			<kod>47</kod>
+			<aciklama>RAGBİ</aciklama>
+		</data>
+		<data>
+			<kod>48</kod>
+			<aciklama>SATRANÇ</aciklama>
+		</data>
+		<data>
+			<kod>49</kod>
+			<aciklama>SUALTI SPORLARI</aciklama>
+		</data>
+		<data>
+			<kod>50</kod>
+			<aciklama>SUTOPU</aciklama>
+		</data>
+		<data>
+			<kod>51</kod>
+			<aciklama>TAEKWONDO</aciklama>
+		</data>
+		<data>
+			<kod>52</kod>
+			<aciklama>TENİS</aciklama>
+		</data>
+		<data>
+			<kod>53</kod>
+			<aciklama>TRİATLON</aciklama>
+		</data>
+		<data>
+			<kod>54</kod>
+			<aciklama>VÜCUT GELİŞTİRME VE FİTNESS</aciklama>
+		</data>
+		<data>
+			<kod>55</kod>
+			<aciklama>WUSHU</aciklama>
+		</data>
+		<data>
+			<kod>56</kod>
+			<aciklama>YELKEN</aciklama>
+		</data>
+		<data>
+			<kod>57</kod>
+			<aciklama>ÖZEL SPORCULAR SPOR</aciklama>
+		</data>
+		<data>
+			<kod>58</kod>
+			<aciklama>İZCİLİK</aciklama>
+		</data>
+		<data>
+			<kod>59</kod>
+			<aciklama>İŞİTME ENGELLİLER SPOR</aciklama>
+		</data>
+		<data>
+			<kod>60</kod>
+			<aciklama>DİĞER SPOR DALLARI</aciklama>
+		</data>
+	</sporDallari>
+	<amatorProfesyonel>
+		<data>
+			<kod>1</kod>
+			<aciklama>Amatör</aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>Profesyonel</aciklama>
+		</data>
+	</amatorProfesyonel>
+	<tevkifatOranlari>
+		<tevkifatOrani>
+			<oran>5</oran>
+		</tevkifatOrani>
+		<tevkifatOrani>
+			<oran>10</oran>
+		</tevkifatOrani>
+		<tevkifatOrani>
+			<oran>15</oran>
+		</tevkifatOrani>
+	</tevkifatOranlari>
+</kodlar>
+
+ 

@@ -1,0 +1,2960 @@
+<?xml version="1.0" encoding="ISO-8859-9"?>
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by okan (okanc) -->
+<kodlar>
+	<!--
+	Ref : GTIP		GTIPKodlari/data/kod
+	Ref : IST		istisnaKodlari/data/kod
+	Ref : IND		indirimKodlari/data/kod
+	Ref : TUT		tutunOranlari/tutunOrani/kod
+-->
+	<GTIPKodlari>
+		<data>
+			<kod>2402.10.00.00.11</kod>
+			<malAdi>Tütün içeren purolar</malAdi>
+		</data>
+		<data>
+			<kod>2402.10.00.00.12</kod>
+			<malAdi>Uçları açık purolar</malAdi>
+		</data>
+		<data>
+			<kod>2402.10.00.00.19</kod>
+			<malAdi>Sigarillolar</malAdi>
+		</data>
+		<data>
+			<kod>2402.20</kod>
+			<malAdi>Tütün içeren sigaralar</malAdi>
+		</data>
+		<data>
+			<kod>2402.90.00.00.00</kod>
+			<malAdi>Diğerleri (Tütün yerine geçen maddelerden yapılmış purolar, uçları açık purolar, sigarillolar ve sigaralar)-Tütün yerine geçen maddelerden yapılmış purolar,uçları açık purolar ve sigarillolar-Tütün yerine geçen maddelerden yapılmış sigaralar
+</malAdi>
+		</data>
+		<data>
+			<kod>2403.10</kod>
+			<malAdi>İçilen tütün (Herhangi bir oranda tütün yerine geçen maddeleri içersin içermesin) (2403.10.10.00.19 ve 2403.10.90.00.19 hariç)</malAdi>
+		</data>
+		<data>
+			<kod>2403.10.10.00.19</kod>
+			<malAdi>Diğerleri (Net muhtevası 500 gramı geçmeyen ambalajlarda olanlar)</malAdi>
+		</data>
+		<data>
+			<kod>2403.10.90.00.19</kod>
+			<malAdi>Diğerleri (Net muhtevası 500 gramı geçen ambalajlarda olanlar)</malAdi>
+		</data>
+		<data>
+			<kod>2403.99.10.00.00</kod>
+			<malAdi>Enfiye ve çiğnemeye mahsus tütün</malAdi>
+		</data>
+	</GTIPKodlari>
+	<istisnaKodlari>
+		<data>
+			<kod>101</kod>
+			<ad>İhracat İstisnası</ad>
+		</data>
+		<data>
+			<kod>102</kod>
+			<ad>Diplomatik İstisna</ad>
+		</data>
+		<data>
+			<kod>105</kod>
+			<ad>Uluslararası Anlaşmadan Doğan İstisna</ad>
+		</data>
+	</istisnaKodlari>
+	<indirimKodlari>
+		<data>
+			<kod>301</kod>
+			<ad>Satıştan İade</ad>
+		</data>
+		<data>
+			<kod>302</kod>
+			<ad>İşlemi Gerçekleşmeyen</ad>
+		</data>
+		<data>
+			<kod>303</kod>
+			<ad>Aynı Listedeki Malın İmalatta Kullanılması</ad>
+		</data>
+	</indirimKodlari>
+	<tutunOranlari>
+		<tutunOrani>
+			<kod>1</kod>
+			<aciklama>1.Grup(0-%33)</aciklama>
+		</tutunOrani>
+		<tutunOrani>
+			<kod>2</kod>
+			<aciklama>2.Grup(%34-%66)</aciklama>
+		</tutunOrani>
+		<tutunOrani>
+			<kod>3</kod>
+			<aciklama>3.Grup(%67-%100)</aciklama>
+		</tutunOrani>
+	</tutunOranlari>
+	<marka>
+		<data>
+			<kod>1721</kod>
+			<ad>AHSEN_EYMA</ad>
+		</data>
+		<data>
+			<kod>1722</kod>
+			<ad>AHSEN_EYMA Blue 100</ad>
+		</data>
+		<data>
+			<kod>1723</kod>
+			<ad>ANADOLU_MAVİ</ad>
+		</data>
+		<data>
+			<kod>1001</kod>
+			<ad>ANADOLU_RED </ad>
+		</data>
+		<data>
+			<kod>1002</kod>
+			<ad>ANADOLU_RED 100 MM </ad>
+		</data>
+		<data>
+			<kod>1003</kod>
+			<ad>BAHAR_KIRMIZI </ad>
+		</data>
+		<data>
+			<kod>1004</kod>
+			<ad>bianca_brise slims</ad>
+		</data>
+		<data>
+			<kod>1682</kod>
+			<ad>bianca_lila slims</ad>
+		</data>
+		<data>
+			<kod>1683</kod>
+			<ad>bianca_menthe slims</ad>
+		</data>
+		<data>
+			<kod>1005</kod>
+			<ad>bianca_rose slims</ad>
+		</data>
+		<data>
+			<kod>1006</kod>
+			<ad>BLACK GALLEON_AMBER </ad>
+		</data>
+		<data>
+			<kod>1007</kod>
+			<ad>BLACK GALLEON_AMBER 99 MM </ad>
+		</data>
+		<data>
+			<kod>1008</kod>
+			<ad>BLACK GALLEON_AMBER SLIMS</ad>
+		</data>
+		<data>
+			<kod>1009</kod>
+			<ad>BLACK GALLEON_WHITE SLIMS </ad>
+		</data>
+		<data>
+			<kod>1010</kod>
+			<ad>BOND STREET_BLUE </ad>
+		</data>
+		<data>
+			<kod>1618</kod>
+			<ad>BOND STREET_Blue 1847</ad>
+		</data>
+		<data>
+			<kod>1619</kod>
+			<ad>BOND STREET_Coral Slims 1847</ad>
+		</data>
+		<data>
+			<kod>1620</kod>
+			<ad>BOND STREET_Lotus Slims 1847</ad>
+		</data>
+		<data>
+			<kod>1011</kod>
+			<ad>BOND STREET_Red </ad>
+		</data>
+		<data>
+			<kod>1621</kod>
+			<ad>BOND STREET_Red 1847</ad>
+		</data>
+		<data>
+			<kod>1012</kod>
+			<ad>BOND STREET_Red Long </ad>
+		</data>
+		<data>
+			<kod>1622</kod>
+			<ad>BOND STREET_Red Long 1847</ad>
+		</data>
+		<data>
+			<kod>1013</kod>
+			<ad>CAMEL_1913</ad>
+		</data>
+		<data>
+			<kod>1014</kod>
+			<ad>CAMEL_1913 CPB</ad>
+		</data>
+		<data>
+			<kod>1684</kod>
+			<ad>CAMEL_1913 Kısa</ad>
+		</data>
+		<data>
+			<kod>1685</kod>
+			<ad>CAMEL_1913 Kısa CPB</ad>
+		</data>
+		<data>
+			<kod>1015</kod>
+			<ad>CAMEL_BLACK </ad>
+		</data>
+		<data>
+			<kod>1016</kod>
+			<ad>CAMEL_BLUE </ad>
+		</data>
+		<data>
+			<kod>1017</kod>
+			<ad>CAMEL_Brown </ad>
+		</data>
+		<data>
+			<kod>1623</kod>
+			<ad>CAMEL_DEEP BLUE</ad>
+		</data>
+		<data>
+			<kod>1686</kod>
+			<ad>CAMEL_GRAY</ad>
+		</data>
+		<data>
+			<kod>1018</kod>
+			<ad>CAMEL_sky blue </ad>
+		</data>
+		<data>
+			<kod>1019</kod>
+			<ad>CAMEL_WHITE </ad>
+		</data>
+		<data>
+			<kod>1028</kod>
+			<ad>CHE_NO:10 </ad>
+		</data>
+		<data>
+			<kod>1029</kod>
+			<ad>CHE_NO:11</ad>
+		</data>
+		<data>
+			<kod>1030</kod>
+			<ad>CHE_NO:12</ad>
+		</data>
+		<data>
+			<kod>1031</kod>
+			<ad>CHE_NO:13</ad>
+		</data>
+		<data>
+			<kod>1032</kod>
+			<ad>CHE_NO:14 </ad>
+		</data>
+		<data>
+			<kod>1033</kod>
+			<ad>CHE_NO:15 </ad>
+		</data>
+		<data>
+			<kod>1034</kod>
+			<ad>CHE_NO:17</ad>
+		</data>
+		<data>
+			<kod>1035</kod>
+			<ad>CHE_NO:18 </ad>
+		</data>
+		<data>
+			<kod>1020</kod>
+			<ad>CHE_NO:2</ad>
+		</data>
+		<data>
+			<kod>1036</kod>
+			<ad>CHE_NO:21 </ad>
+		</data>
+		<data>
+			<kod>1037</kod>
+			<ad>CHE_NO:22</ad>
+		</data>
+		<data>
+			<kod>1038</kod>
+			<ad>CHE_NO:23</ad>
+		</data>
+		<data>
+			<kod>1039</kod>
+			<ad>CHE_NO:25 </ad>
+		</data>
+		<data>
+			<kod>1040</kod>
+			<ad>CHE_NO:26 </ad>
+		</data>
+		<data>
+			<kod>1041</kod>
+			<ad>CHE_NO:28</ad>
+		</data>
+		<data>
+			<kod>1042</kod>
+			<ad>CHE_NO:29</ad>
+		</data>
+		<data>
+			<kod>1021</kod>
+			<ad>CHE_NO:3</ad>
+		</data>
+		<data>
+			<kod>1043</kod>
+			<ad>CHE_NO:30 </ad>
+		</data>
+		<data>
+			<kod>1022</kod>
+			<ad>CHE_NO:4 </ad>
+		</data>
+		<data>
+			<kod>1023</kod>
+			<ad>CHE_NO:5</ad>
+		</data>
+		<data>
+			<kod>1024</kod>
+			<ad>CHE_NO:6 </ad>
+		</data>
+		<data>
+			<kod>1025</kod>
+			<ad>CHE_NO:7</ad>
+		</data>
+		<data>
+			<kod>1026</kod>
+			<ad>CHE_NO:8</ad>
+		</data>
+		<data>
+			<kod>1027</kod>
+			<ad>CHE_NO:9</ad>
+		</data>
+		<data>
+			<kod>1044</kod>
+			<ad>CHESTERFIELD_BLUE </ad>
+		</data>
+		<data>
+			<kod>1700</kod>
+			<ad>DAVIDOFF_BLACK KS</ad>
+		</data>
+		<data>
+			<kod>1045</kod>
+			<ad>DAVIDOFF_BLUE </ad>
+		</data>
+		<data>
+			<kod>1046</kod>
+			<ad>DAVIDOFF_BLUE SLIMS </ad>
+		</data>
+		<data>
+			<kod>1047</kod>
+			<ad>DAVIDOFF_BURGUNDY </ad>
+		</data>
+		<data>
+			<kod>1048</kod>
+			<ad>DAVIDOFF_BURGUNDY SLIMS </ad>
+		</data>
+		<data>
+			<kod>1698</kod>
+			<ad>DAVIDOFF_GREY KS</ad>
+		</data>
+		<data>
+			<kod>1049</kod>
+			<ad>DAVIDOFF_IVORY </ad>
+		</data>
+		<data>
+			<kod>1050</kod>
+			<ad>DAVIDOFF_IVORY SLIMS</ad>
+		</data>
+		<data>
+			<kod>1051</kod>
+			<ad>DAVIDOFF_ONE </ad>
+		</data>
+		<data>
+			<kod>1699</kod>
+			<ad>DAVIDOFF_ONE KS</ad>
+		</data>
+		<data>
+			<kod>1052</kod>
+			<ad>DAVIDOFF_ONE SLIMS</ad>
+		</data>
+		<data>
+			<kod>1053</kod>
+			<ad>DUNHILL_BLACK </ad>
+		</data>
+		<data>
+			<kod>1054</kod>
+			<ad>DUNHILL_RED </ad>
+		</data>
+		<data>
+			<kod>1055</kod>
+			<ad>ESER_BLACK </ad>
+		</data>
+		<data>
+			<kod>1056</kod>
+			<ad>ESER_BLACK SLIMS </ad>
+		</data>
+		<data>
+			<kod>1057</kod>
+			<ad>ESER_BLUE </ad>
+		</data>
+		<data>
+			<kod>1058</kod>
+			<ad>ESER_BLUE SLIMS </ad>
+		</data>
+		<data>
+			<kod>1524</kod>
+			<ad>ESSE_BLACK SLIM</ad>
+		</data>
+		<data>
+			<kod>1059</kod>
+			<ad>ESSE_BLUE</ad>
+		</data>
+		<data>
+			<kod>1060</kod>
+			<ad>ESSE_BLUE SLIM </ad>
+		</data>
+		<data>
+			<kod>1724</kod>
+			<ad>ESSE_BROWN SLIM</ad>
+		</data>
+		<data>
+			<kod>1061</kod>
+			<ad>ESSE_RED </ad>
+		</data>
+		<data>
+			<kod>1062</kod>
+			<ad>ESSE_RED SLIM</ad>
+		</data>
+		<data>
+			<kod>1525</kod>
+			<ad>EXPRESS_Cerulean</ad>
+		</data>
+		<data>
+			<kod>1063</kod>
+			<ad>GAULOISES_BLEU </ad>
+		</data>
+		<data>
+			<kod>1064</kod>
+			<ad>GAULOISES_ROUGE </ad>
+		</data>
+		<data>
+			<kod>1526</kod>
+			<ad>GLOBAL _Code:001</ad>
+		</data>
+		<data>
+			<kod>1527</kod>
+			<ad>GLOBAL _Code:002</ad>
+		</data>
+		<data>
+			<kod>1528</kod>
+			<ad>GLOBAL _Code:003</ad>
+		</data>
+		<data>
+			<kod>1529</kod>
+			<ad>GLOBAL _Code:004</ad>
+		</data>
+		<data>
+			<kod>1530</kod>
+			<ad>GLOBAL _Code:005</ad>
+		</data>
+		<data>
+			<kod>1531</kod>
+			<ad>GLOBAL _Code:006</ad>
+		</data>
+		<data>
+			<kod>1532</kod>
+			<ad>GLOBAL _Code:007</ad>
+		</data>
+		<data>
+			<kod>1533</kod>
+			<ad>GLOBAL _Code:201</ad>
+		</data>
+		<data>
+			<kod>1534</kod>
+			<ad>GLOBAL _Code:202</ad>
+		</data>
+		<data>
+			<kod>1535</kod>
+			<ad>GLOBAL _Code:203</ad>
+		</data>
+		<data>
+			<kod>1536</kod>
+			<ad>GLOBAL _Code:204</ad>
+		</data>
+		<data>
+			<kod>1537</kod>
+			<ad>GLOBAL _Code:205</ad>
+		</data>
+		<data>
+			<kod>1538</kod>
+			<ad>GLOBAL _Code:206</ad>
+		</data>
+		<data>
+			<kod>1539</kod>
+			<ad>GLOBAL _Code:207</ad>
+		</data>
+		<data>
+			<kod>1592</kod>
+			<ad>GLOBAL _Code:401</ad>
+		</data>
+		<data>
+			<kod>1519</kod>
+			<ad>GUANTANAMERA_10_DECIMOS </ad>
+		</data>
+		<data>
+			<kod>1520</kod>
+			<ad>GUANTANAMERA_25_MINUTOS_TUBO </ad>
+		</data>
+		<data>
+			<kod>1518</kod>
+			<ad>GUANTANAMERA_5_DECIMOS </ad>
+		</data>
+		<data>
+			<kod>1540</kod>
+			<ad>HAYYAM_Code:251</ad>
+		</data>
+		<data>
+			<kod>1541</kod>
+			<ad>HAYYAM_Code:252</ad>
+		</data>
+		<data>
+			<kod>1542</kod>
+			<ad>HAYYAM_Code:253</ad>
+		</data>
+		<data>
+			<kod>1543</kod>
+			<ad>HAYYAM_Code:254</ad>
+		</data>
+		<data>
+			<kod>1544</kod>
+			<ad>HAYYAM_Code:255</ad>
+		</data>
+		<data>
+			<kod>1545</kod>
+			<ad>HAYYAM_Code:256</ad>
+		</data>
+		<data>
+			<kod>1546</kod>
+			<ad>HAYYAM_Code:257</ad>
+		</data>
+		<data>
+			<kod>1547</kod>
+			<ad>HAYYAM_Code:258</ad>
+		</data>
+		<data>
+			<kod>1548</kod>
+			<ad>HAYYAM_Code:259</ad>
+		</data>
+		<data>
+			<kod>1549</kod>
+			<ad>HAYYAM_Code:260</ad>
+		</data>
+		<data>
+			<kod>1550</kod>
+			<ad>HAYYAM_Code:261</ad>
+		</data>
+		<data>
+			<kod>1551</kod>
+			<ad>HAYYAM_Code:262</ad>
+		</data>
+		<data>
+			<kod>1552</kod>
+			<ad>HAYYAM_Code:263</ad>
+		</data>
+		<data>
+			<kod>1553</kod>
+			<ad>HAYYAM_Code:264</ad>
+		</data>
+		<data>
+			<kod>1554</kod>
+			<ad>HAYYAM_Code:265</ad>
+		</data>
+		<data>
+			<kod>1555</kod>
+			<ad>HAYYAM_Code:266</ad>
+		</data>
+		<data>
+			<kod>1556</kod>
+			<ad>HAYYAM_Code:267</ad>
+		</data>
+		<data>
+			<kod>1557</kod>
+			<ad>HAYYAM_Code:268</ad>
+		</data>
+		<data>
+			<kod>1558</kod>
+			<ad>HAYYAM_Code:269</ad>
+		</data>
+		<data>
+			<kod>1559</kod>
+			<ad>HAYYAM_Code:270</ad>
+		</data>
+		<data>
+			<kod>1560</kod>
+			<ad>HAYYAM_Code:271</ad>
+		</data>
+		<data>
+			<kod>1561</kod>
+			<ad>HAYYAM_Code:272</ad>
+		</data>
+		<data>
+			<kod>1562</kod>
+			<ad>HAYYAM_Code:273</ad>
+		</data>
+		<data>
+			<kod>1563</kod>
+			<ad>HAYYAM_Code:274</ad>
+		</data>
+		<data>
+			<kod>1564</kod>
+			<ad>HAYYAM_Code:275</ad>
+		</data>
+		<data>
+			<kod>1565</kod>
+			<ad>HAYYAM_Code:276</ad>
+		</data>
+		<data>
+			<kod>1065</kod>
+			<ad>HAZAR_Blue </ad>
+		</data>
+		<data>
+			<kod>1066</kod>
+			<ad>HAZAR_Red </ad>
+		</data>
+		<data>
+			<kod>1067</kod>
+			<ad>HD_BLUE</ad>
+		</data>
+		<data>
+			<kod>1068</kod>
+			<ad>HD_BLUE SLIMS </ad>
+		</data>
+		<data>
+			<kod>1069</kod>
+			<ad>HD_DORE SLIMS </ad>
+		</data>
+		<data>
+			<kod>1070</kod>
+			<ad>HD_KATKISIZ HARMAN </ad>
+		</data>
+		<data>
+			<kod>1071</kod>
+			<ad>HD_RED </ad>
+		</data>
+		<data>
+			<kod>1072</kod>
+			<ad>HD_RED 99 MM </ad>
+		</data>
+		<data>
+			<kod>1073</kod>
+			<ad>HD_RED SLIMS </ad>
+		</data>
+		<data>
+			<kod>1566</kod>
+			<ad>HD_Slims Menthol</ad>
+		</data>
+		<data>
+			<kod>1074</kod>
+			<ad>IMP KLASİK_RED KS </ad>
+		</data>
+		<data>
+			<kod>1075</kod>
+			<ad>IMP KLASİK_RED SL </ad>
+		</data>
+		<data>
+			<kod>1076</kod>
+			<ad>IMP KLASİK_SL </ad>
+		</data>
+		<data>
+			<kod>1687</kod>
+			<ad>IMPERIAL CLASSIC_BLUE SLIMS</ad>
+		</data>
+		<data>
+			<kod>1688</kod>
+			<ad>IMPERIAL CLASSIC_RED</ad>
+		</data>
+		<data>
+			<kod>1624</kod>
+			<ad>IMPERIAL CLASSIC_RED SL </ad>
+		</data>
+		<data>
+			<kod>1517</kod>
+			<ad>IMPERIAL_BLUE</ad>
+		</data>
+		<data>
+			<kod>1077</kod>
+			<ad>IMPERIAL_BLUE SL</ad>
+		</data>
+		<data>
+			<kod>1078</kod>
+			<ad>IMPERIAL_BLUE SLIMS </ad>
+		</data>
+		<data>
+			<kod>1795</kod>
+			<ad>IMPERIAL_DARK_BLUE</ad>
+		</data>
+		<data>
+			<kod>1567</kod>
+			<ad>IMPERIAL_RED</ad>
+		</data>
+		<data>
+			<kod>1079</kod>
+			<ad>IMPERIAL_RED SL </ad>
+		</data>
+		<data>
+			<kod>1568</kod>
+			<ad>INDIGO_BLUE</ad>
+		</data>
+		<data>
+			<kod>1569</kod>
+			<ad>INDIGO_RED</ad>
+		</data>
+		<data>
+			<kod>1593</kod>
+			<ad>INDIGO_WHITE</ad>
+		</data>
+		<data>
+			<kod>1080</kod>
+			<ad>KENT_BLUE </ad>
+		</data>
+		<data>
+			<kod>1502</kod>
+			<ad>KENT_BLUE RANGE</ad>
+		</data>
+		<data>
+			<kod>1081</kod>
+			<ad>KENT_GREY </ad>
+		</data>
+		<data>
+			<kod>1503</kod>
+			<ad>KENT_GREY RANGE</ad>
+		</data>
+		<data>
+			<kod>1082</kod>
+			<ad>KENT_N-BLACK</ad>
+		</data>
+		<data>
+			<kod>1083</kod>
+			<ad>KENT_N-GREY </ad>
+		</data>
+		<data>
+			<kod>1085</kod>
+			<ad>KENT_SWITCH</ad>
+		</data>
+		<data>
+			<kod>1084</kod>
+			<ad>KENT_WHITE </ad>
+		</data>
+		<data>
+			<kod>1504</kod>
+			<ad>KENT_WHITE RANGE</ad>
+		</data>
+		<data>
+			<kod>1715</kod>
+			<ad>KT&amp;G_This Beige</ad>
+		</data>
+		<data>
+			<kod>1714</kod>
+			<ad>KT&amp;G_This Navy</ad>
+		</data>
+		<data>
+			<kod>1716</kod>
+			<ad>KT&amp;G_This Orange</ad>
+		</data>
+		<data>
+			<kod>1086</kod>
+			<ad>L&amp;B_KS </ad>
+		</data>
+		<data>
+			<kod>1570</kod>
+			<ad>L&amp;M_BLUE LABEL</ad>
+		</data>
+		<data>
+			<kod>1087</kod>
+			<ad>L&amp;M_RED LABEL </ad>
+		</data>
+		<data>
+			<kod>1088</kod>
+			<ad>L&amp;M_RED LABEL LONG</ad>
+		</data>
+		<data>
+			<kod>1089</kod>
+			<ad>LARK_BLUE </ad>
+		</data>
+		<data>
+			<kod>1090</kod>
+			<ad>LARK_BLUE LONG </ad>
+		</data>
+		<data>
+			<kod>1091</kod>
+			<ad>LARK_BLUE LONG PACK </ad>
+		</data>
+		<data>
+			<kod>1689</kod>
+			<ad>LARK_BLUE SLIMS</ad>
+		</data>
+		<data>
+			<kod>1092</kod>
+			<ad>LARK_BLUE TAG</ad>
+		</data>
+		<data>
+			<kod>1093</kod>
+			<ad>LARK_RED </ad>
+		</data>
+		<data>
+			<kod>1094</kod>
+			<ad>LARK_RED LONG</ad>
+		</data>
+		<data>
+			<kod>1095</kod>
+			<ad>LARK_RED LONG PACK </ad>
+		</data>
+		<data>
+			<kod>1096</kod>
+			<ad>LARK_SLIMS </ad>
+		</data>
+		<data>
+			<kod>1594</kod>
+			<ad>LD _BLUE</ad>
+		</data>
+		<data>
+			<kod>1595</kod>
+			<ad>LD _RED</ad>
+		</data>
+		<data>
+			<kod>1596</kod>
+			<ad>LD _RED 100 mm</ad>
+		</data>
+		<data>
+			<kod>1597</kod>
+			<ad>LD _Slims</ad>
+		</data>
+		<data>
+			<kod>1101</kod>
+			<ad>LD LODOS DENİZCİSİ _BLUE </ad>
+		</data>
+		<data>
+			<kod>1097</kod>
+			<ad>LD LODOS DENİZCİSİ_BLUE 100 mm </ad>
+		</data>
+		<data>
+			<kod>1098</kod>
+			<ad>LD LODOS DENİZCİSİ_RED</ad>
+		</data>
+		<data>
+			<kod>1099</kod>
+			<ad>LD LODOS DENİZCİSİ_RED 100 mm </ad>
+		</data>
+		<data>
+			<kod>1100</kod>
+			<ad>LD LODOS DENİZCİSİ_Slims </ad>
+		</data>
+		<data>
+			<kod>1598</kod>
+			<ad>LD_BLUE 100 mm</ad>
+		</data>
+		<data>
+			<kod>1625</kod>
+			<ad>LD_GRAY</ad>
+		</data>
+		<data>
+			<kod>1626</kod>
+			<ad>LD_GRAY 100 mm</ad>
+		</data>
+		<data>
+			<kod>1690</kod>
+			<ad>LUCKY STRIKE_BLUE 1871</ad>
+		</data>
+		<data>
+			<kod>1571</kod>
+			<ad>LUCKY STRIKE_CLICK 1871</ad>
+		</data>
+		<data>
+			<kod>1572</kod>
+			<ad>LUCKY STRIKE_RED 1871</ad>
+		</data>
+		<data>
+			<kod>1102</kod>
+			<ad>MALTEPE_KIRMIZI </ad>
+		</data>
+		<data>
+			<kod>1103</kod>
+			<ad>MALTEPE_LAL </ad>
+		</data>
+		<data>
+			<kod>1104</kod>
+			<ad>MALTEPE_TURUNCU </ad>
+		</data>
+		<data>
+			<kod>1105</kod>
+			<ad>MALTEPE_UZUN KIRMIZI </ad>
+		</data>
+		<data>
+			<kod>1500</kod>
+			<ad>Markasız Ürün</ad>
+		</data>
+		<data>
+			<kod>1727</kod>
+			<ad>Marla_BLACK 100 gr KUTU</ad>
+		</data>
+		<data>
+			<kod>1726</kod>
+			<ad>Marla_BLACK 50 gr</ad>
+		</data>
+		<data>
+			<kod>1691</kod>
+			<ad>Marla_BLUE 100 KUTU</ad>
+		</data>
+		<data>
+			<kod>1692</kod>
+			<ad>Marla_BLUE 200 KUTU</ad>
+		</data>
+		<data>
+			<kod>1725</kod>
+			<ad>Marla_BLUE 50 gr</ad>
+		</data>
+		<data>
+			<kod>1599</kod>
+			<ad>Marla_RED 100</ad>
+		</data>
+		<data>
+			<kod>1693</kod>
+			<ad>Marla_RED 100 KUTU</ad>
+		</data>
+		<data>
+			<kod>1694</kod>
+			<ad>Marla_RED 200  KUTU</ad>
+		</data>
+		<data>
+			<kod>1600</kod>
+			<ad>Marla_RED 50</ad>
+		</data>
+		<data>
+			<kod>1573</kod>
+			<ad>MARLBORO_BLUE ICE</ad>
+		</data>
+		<data>
+			<kod>1106</kod>
+			<ad>MARLBORO_CLICK </ad>
+		</data>
+		<data>
+			<kod>1107</kod>
+			<ad>MARLBORO_MENTHOL</ad>
+		</data>
+		<data>
+			<kod>1108</kod>
+			<ad>MARLBORO_RED</ad>
+		</data>
+		<data>
+			<kod>1109</kod>
+			<ad>MARLBORO_RED CLICK </ad>
+		</data>
+		<data>
+			<kod>1695</kod>
+			<ad>MARLBORO_RED CORE</ad>
+		</data>
+		<data>
+			<kod>1110</kod>
+			<ad>MARLBORO_RED LONG</ad>
+		</data>
+		<data>
+			<kod>1574</kod>
+			<ad>MARLBORO_RED ONE</ad>
+		</data>
+		<data>
+			<kod>1111</kod>
+			<ad>MARLBORO_RED PACK </ad>
+		</data>
+		<data>
+			<kod>1112</kod>
+			<ad>MARLBORO_TOUCH</ad>
+		</data>
+		<data>
+			<kod>1113</kod>
+			<ad>MARLBORO_TOUCH LONG  </ad>
+		</data>
+		<data>
+			<kod>1114</kod>
+			<ad>MARMARA_No.1</ad>
+		</data>
+		<data>
+			<kod>1115</kod>
+			<ad>MARMARA_No.2 </ad>
+		</data>
+		<data>
+			<kod>1116</kod>
+			<ad>MARMARA_No.3 </ad>
+		</data>
+		<data>
+			<kod>1117</kod>
+			<ad>MARMARA_No.4 </ad>
+		</data>
+		<data>
+			<kod>1575</kod>
+			<ad>MARMARA_No.5</ad>
+		</data>
+		<data>
+			<kod>1576</kod>
+			<ad>MARMARA_No.6</ad>
+		</data>
+		<data>
+			<kod>1577</kod>
+			<ad>MARMARA_No.7</ad>
+		</data>
+		<data>
+			<kod>1578</kod>
+			<ad>MARMARA_No.8</ad>
+		</data>
+		<data>
+			<kod>1118</kod>
+			<ad>MELTEM_YEŞİL MENTOLLÜ </ad>
+		</data>
+		<data>
+			<kod>1515</kod>
+			<ad>Monte Carlo SLENDER BLUE</ad>
+		</data>
+		<data>
+			<kod>1516</kod>
+			<ad>Monte Carlo SLENDER RED</ad>
+		</data>
+		<data>
+			<kod>1728</kod>
+			<ad>Monte Carlo_AQUA BLUE 100 mm</ad>
+		</data>
+		<data>
+			<kod>1119</kod>
+			<ad>Monte Carlo_BLUE </ad>
+		</data>
+		<data>
+			<kod>1120</kod>
+			<ad>Monte Carlo_Blue SLIMS</ad>
+		</data>
+		<data>
+			<kod>1121</kod>
+			<ad>Monte Carlo_GRAY </ad>
+		</data>
+		<data>
+			<kod>1122</kod>
+			<ad>Monte Carlo_NIGHT BLUE </ad>
+		</data>
+		<data>
+			<kod>1123</kod>
+			<ad>Monte Carlo_NIGHT BLUE 100 MM </ad>
+		</data>
+		<data>
+			<kod>1124</kod>
+			<ad>Monte Carlo_NIGHT BLUE 100 mm CPB </ad>
+		</data>
+		<data>
+			<kod>1579</kod>
+			<ad>Monte Carlo_NIGHT BLUE SLIMS</ad>
+		</data>
+		<data>
+			<kod>1125</kod>
+			<ad>Monte Carlo_RED </ad>
+		</data>
+		<data>
+			<kod>1126</kod>
+			<ad>Monte Carlo_RED 100 mm </ad>
+		</data>
+		<data>
+			<kod>1627</kod>
+			<ad>MORE_GRAY</ad>
+		</data>
+		<data>
+			<kod>1730</kod>
+			<ad>More_GRAY </ad>
+		</data>
+		<data>
+			<kod>1127</kod>
+			<ad>MORE_RED </ad>
+		</data>
+		<data>
+			<kod>1128</kod>
+			<ad>MORE_RED 100 MM </ad>
+		</data>
+		<data>
+			<kod>1729</kod>
+			<ad>More_RED SLIMS</ad>
+		</data>
+		<data>
+			<kod>1129</kod>
+			<ad>MUHABBET TÖMBEKİ_NO: 1</ad>
+		</data>
+		<data>
+			<kod>1732</kod>
+			<ad>MUHABBET Tömbeki_NO: 101</ad>
+		</data>
+		<data>
+			<kod>1733</kod>
+			<ad>MUHABBET Tömbeki_NO: 102</ad>
+		</data>
+		<data>
+			<kod>1734</kod>
+			<ad>MUHABBET Tömbeki_NO: 103</ad>
+		</data>
+		<data>
+			<kod>1735</kod>
+			<ad>MUHABBET Tömbeki_NO: 104</ad>
+		</data>
+		<data>
+			<kod>1736</kod>
+			<ad>MUHABBET Tömbeki_NO: 105</ad>
+		</data>
+		<data>
+			<kod>1737</kod>
+			<ad>MUHABBET Tömbeki_NO: 106</ad>
+		</data>
+		<data>
+			<kod>1738</kod>
+			<ad>MUHABBET Tömbeki_NO: 107</ad>
+		</data>
+		<data>
+			<kod>1731</kod>
+			<ad>MUHABBET Tömbeki_NO: 2</ad>
+		</data>
+		<data>
+			<kod>1739</kod>
+			<ad>MUHABBET Tömbeki_NO: 501</ad>
+		</data>
+		<data>
+			<kod>1740</kod>
+			<ad>MUHABBET Tömbeki_NO: 502</ad>
+		</data>
+		<data>
+			<kod>1741</kod>
+			<ad>MUHABBET Tömbeki_NO: 503</ad>
+		</data>
+		<data>
+			<kod>1742</kod>
+			<ad>MUHABBET Tömbeki_NO: 504</ad>
+		</data>
+		<data>
+			<kod>1743</kod>
+			<ad>MUHABBET Tömbeki_NO: 505</ad>
+		</data>
+		<data>
+			<kod>1744</kod>
+			<ad>MUHABBET Tömbeki_NO: 506</ad>
+		</data>
+		<data>
+			<kod>1745</kod>
+			<ad>MUHABBET Tömbeki_NO: 507</ad>
+		</data>
+		<data>
+			<kod>1696</kod>
+			<ad>MURATTI_AZURE</ad>
+		</data>
+		<data>
+			<kod>1130</kod>
+			<ad>MURATTI_MODE</ad>
+		</data>
+		<data>
+			<kod>1131</kod>
+			<ad>MURATTI_ONE </ad>
+		</data>
+		<data>
+			<kod>1132</kod>
+			<ad>MURATTI_ROSSO </ad>
+		</data>
+		<data>
+			<kod>1133</kod>
+			<ad>MURATTI_TONE </ad>
+		</data>
+		<data>
+			<kod>1746</kod>
+			<ad>MURATTI_TONE SLIMS</ad>
+		</data>
+		<data>
+			<kod>1747</kod>
+			<ad>NEXT_BLUE</ad>
+		</data>
+		<data>
+			<kod>1748</kod>
+			<ad>NEXT_RED</ad>
+		</data>
+		<data>
+			<kod>1749</kod>
+			<ad>NEXT_RED LONG</ad>
+		</data>
+		<data>
+			<kod>1134</kod>
+			<ad>PALL MALL_AMBER </ad>
+		</data>
+		<data>
+			<kod>1135</kod>
+			<ad>PALL MALL_BLACK </ad>
+		</data>
+		<data>
+			<kod>1136</kod>
+			<ad>PALL MALL_BLUE </ad>
+		</data>
+		<data>
+			<kod>1750</kod>
+			<ad>PALL MALL_BLUE 1899</ad>
+		</data>
+		<data>
+			<kod>1137</kod>
+			<ad>PALL MALL_BLUE ML </ad>
+		</data>
+		<data>
+			<kod>1751</kod>
+			<ad>PALL MALL_CLICK </ad>
+		</data>
+		<data>
+			<kod>1752</kod>
+			<ad>PALL MALL_GREY 1899</ad>
+		</data>
+		<data>
+			<kod>1753</kod>
+			<ad>PALL MALL_NAVY SL 1899</ad>
+		</data>
+		<data>
+			<kod>1138</kod>
+			<ad>PALL MALL_RED </ad>
+		</data>
+		<data>
+			<kod>1754</kod>
+			<ad>PALL MALL_RED 1899</ad>
+		</data>
+		<data>
+			<kod>1139</kod>
+			<ad>PALL MALL_RED ML </ad>
+		</data>
+		<data>
+			<kod>1755</kod>
+			<ad>PALL MALL_RED SL 1899 </ad>
+		</data>
+		<data>
+			<kod>1756</kod>
+			<ad>PARLIAMENT_AQUA</ad>
+		</data>
+		<data>
+			<kod>1142</kod>
+			<ad>PARLIAMENT_Aqua Blue </ad>
+		</data>
+		<data>
+			<kod>1628</kod>
+			<ad>PARLIAMENT_Aqua Blue Slims</ad>
+		</data>
+		<data>
+			<kod>1140</kod>
+			<ad>PARLIAMENT_NIGHT BLUE </ad>
+		</data>
+		<data>
+			<kod>1141</kod>
+			<ad>PARLIAMENT_NIGHT BLUE LONG PACK </ad>
+		</data>
+		<data>
+			<kod>1144</kod>
+			<ad>PARLIAMENT_One</ad>
+		</data>
+		<data>
+			<kod>1143</kod>
+			<ad>PARLIAMENT_RESERVE </ad>
+		</data>
+		<data>
+			<kod>1145</kod>
+			<ad>PARLIAMENT_Slims </ad>
+		</data>
+		<data>
+			<kod>1521</kod>
+			<ad>PARTAGAS_10_CL </ad>
+		</data>
+		<data>
+			<kod>1522</kod>
+			<ad>PARTAGAS_5_CHICOS </ad>
+		</data>
+		<data>
+			<kod>1146</kod>
+			<ad>PINE_BLUE</ad>
+		</data>
+		<data>
+			<kod>1147</kod>
+			<ad>PINE_RED</ad>
+		</data>
+		<data>
+			<kod>1509</kod>
+			<ad>POLO Blue KS</ad>
+		</data>
+		<data>
+			<kod>1510</kod>
+			<ad>POLO BLue SL</ad>
+		</data>
+		<data>
+			<kod>1148</kod>
+			<ad>POLO_Slims Blue </ad>
+		</data>
+		<data>
+			<kod>1149</kod>
+			<ad>POLO_Slims Grey </ad>
+		</data>
+		<data>
+			<kod>1610</kod>
+			<ad>POİNT_Blue</ad>
+		</data>
+		<data>
+			<kod>1611</kod>
+			<ad>POİNT_Blue Slims</ad>
+		</data>
+		<data>
+			<kod>1612</kod>
+			<ad>POİNT_Cerulean</ad>
+		</data>
+		<data>
+			<kod>1150</kod>
+			<ad>PRESIDENT_CERULEAN</ad>
+		</data>
+		<data>
+			<kod>1613</kod>
+			<ad>PRESIDENT_Cerulean</ad>
+		</data>
+		<data>
+			<kod>1697</kod>
+			<ad>PRESIDENT_Cerulean 100 gr</ad>
+		</data>
+		<data>
+			<kod>1505</kod>
+			<ad>PRESIDENT_CERULEAN 99 MM</ad>
+		</data>
+		<data>
+			<kod>1151</kod>
+			<ad>PRESIDENT_GRAY </ad>
+		</data>
+		<data>
+			<kod>1152</kod>
+			<ad>PRESIDENT_KATKISIZ HARMAN </ad>
+		</data>
+		<data>
+			<kod>1153</kod>
+			<ad>PUNTA CANA_NO:1</ad>
+		</data>
+		<data>
+			<kod>1719</kod>
+			<ad>PUNTA CANA_No:10</ad>
+		</data>
+		<data>
+			<kod>1720</kod>
+			<ad>PUNTA CANA_NO:11</ad>
+		</data>
+		<data>
+			<kod>1154</kod>
+			<ad>PUNTA CANA_No:3 </ad>
+		</data>
+		<data>
+			<kod>1155</kod>
+			<ad>PUNTA CANA_No:4</ad>
+		</data>
+		<data>
+			<kod>1156</kod>
+			<ad>PUNTA CANA_NO:5 </ad>
+		</data>
+		<data>
+			<kod>1718</kod>
+			<ad>PUNTA CANA_No:6</ad>
+		</data>
+		<data>
+			<kod>1705</kod>
+			<ad>ROCKS_GREEN 100 g</ad>
+		</data>
+		<data>
+			<kod>1703</kod>
+			<ad>ROCKS_GREEN 25 g</ad>
+		</data>
+		<data>
+			<kod>1704</kod>
+			<ad>ROCKS_GREEN 50 g</ad>
+		</data>
+		<data>
+			<kod>1601</kod>
+			<ad>ROCKS_NO: 1</ad>
+		</data>
+		<data>
+			<kod>1701</kod>
+			<ad>ROCKS_No: 10</ad>
+		</data>
+		<data>
+			<kod>1702</kod>
+			<ad>ROCKS_No: 11</ad>
+		</data>
+		<data>
+			<kod>1706</kod>
+			<ad>ROCKS_No: 12</ad>
+		</data>
+		<data>
+			<kod>1707</kod>
+			<ad>ROCKS_No: 13</ad>
+		</data>
+		<data>
+			<kod>1708</kod>
+			<ad>ROCKS_No: 14</ad>
+		</data>
+		<data>
+			<kod>1709</kod>
+			<ad>ROCKS_No: 15</ad>
+		</data>
+		<data>
+			<kod>1713</kod>
+			<ad>ROCKS_No: 16</ad>
+		</data>
+		<data>
+			<kod>1710</kod>
+			<ad>ROCKS_No: 17</ad>
+		</data>
+		<data>
+			<kod>1711</kod>
+			<ad>ROCKS_No: 18</ad>
+		</data>
+		<data>
+			<kod>1717</kod>
+			<ad>ROCKS_No: 19</ad>
+		</data>
+		<data>
+			<kod>1602</kod>
+			<ad>ROCKS_NO: 2</ad>
+		</data>
+		<data>
+			<kod>1603</kod>
+			<ad>ROCKS_NO: 3</ad>
+		</data>
+		<data>
+			<kod>1604</kod>
+			<ad>ROCKS_NO: 4</ad>
+		</data>
+		<data>
+			<kod>1605</kod>
+			<ad>ROCKS_NO: 5</ad>
+		</data>
+		<data>
+			<kod>1606</kod>
+			<ad>ROCKS_no: 6</ad>
+		</data>
+		<data>
+			<kod>1607</kod>
+			<ad>ROCKS_no: 7</ad>
+		</data>
+		<data>
+			<kod>1608</kod>
+			<ad>ROCKS_no: 8</ad>
+		</data>
+		<data>
+			<kod>1712</kod>
+			<ad>ROCKS_no: 9</ad>
+		</data>
+		<data>
+			<kod>1523</kod>
+			<ad>ROMEO&amp;JULIETA_5_PURITOS </ad>
+		</data>
+		<data>
+			<kod>1157</kod>
+			<ad>ROSANNA MOLASSES_ CODE:013 </ad>
+		</data>
+		<data>
+			<kod>1158</kod>
+			<ad>ROSANNA MOLASSES_ CODE:018 </ad>
+		</data>
+		<data>
+			<kod>1159</kod>
+			<ad>ROSANNA MOLASSES_ CODE:020 </ad>
+		</data>
+		<data>
+			<kod>1160</kod>
+			<ad>ROSANNA MOLASSES_ CODE:021 </ad>
+		</data>
+		<data>
+			<kod>1161</kod>
+			<ad>ROSANNA MOLASSES_ CODE:022 </ad>
+		</data>
+		<data>
+			<kod>1162</kod>
+			<ad>ROSANNA MOLASSES_ CODE:023 </ad>
+		</data>
+		<data>
+			<kod>1163</kod>
+			<ad>ROSANNA MOLASSES_ CODE:027 </ad>
+		</data>
+		<data>
+			<kod>1164</kod>
+			<ad>ROSANNA MOLASSES_ CODE:029 </ad>
+		</data>
+		<data>
+			<kod>1165</kod>
+			<ad>ROSANNA MOLASSES_ CODE:031 </ad>
+		</data>
+		<data>
+			<kod>1166</kod>
+			<ad>ROSANNA MOLASSES_ CODE:034 </ad>
+		</data>
+		<data>
+			<kod>1167</kod>
+			<ad>ROSANNA MOLASSES_ CODE:035 </ad>
+		</data>
+		<data>
+			<kod>1168</kod>
+			<ad>ROSANNA MOLASSES_ CODE:038 </ad>
+		</data>
+		<data>
+			<kod>1169</kod>
+			<ad>ROSANNA MOLASSES_ CODE:040 </ad>
+		</data>
+		<data>
+			<kod>1170</kod>
+			<ad>ROSANNA MOLASSES_ CODE:043 </ad>
+		</data>
+		<data>
+			<kod>1171</kod>
+			<ad>ROSANNA MOLASSES_ CODE:047 </ad>
+		</data>
+		<data>
+			<kod>1172</kod>
+			<ad>ROSANNA MOLASSES_ CODE:103 </ad>
+		</data>
+		<data>
+			<kod>1173</kod>
+			<ad>ROSANNA MOLASSES_ CODE:108 </ad>
+		</data>
+		<data>
+			<kod>1174</kod>
+			<ad>ROSANNA MOLASSES_ CODE:110 </ad>
+		</data>
+		<data>
+			<kod>1175</kod>
+			<ad>ROSANNA MOLASSES_ CODE:111 </ad>
+		</data>
+		<data>
+			<kod>1176</kod>
+			<ad>ROSANNA MOLASSES_ CODE:112 </ad>
+		</data>
+		<data>
+			<kod>1177</kod>
+			<ad>ROSANNA MOLASSES_ CODE:113 </ad>
+		</data>
+		<data>
+			<kod>1178</kod>
+			<ad>ROSANNA MOLASSES_ CODE:117 </ad>
+		</data>
+		<data>
+			<kod>1179</kod>
+			<ad>ROSANNA MOLASSES_ CODE:119 </ad>
+		</data>
+		<data>
+			<kod>1180</kod>
+			<ad>ROSANNA MOLASSES_ CODE:121 </ad>
+		</data>
+		<data>
+			<kod>1181</kod>
+			<ad>ROSANNA MOLASSES_ CODE:124 </ad>
+		</data>
+		<data>
+			<kod>1182</kod>
+			<ad>ROSANNA MOLASSES_ CODE:125 </ad>
+		</data>
+		<data>
+			<kod>1183</kod>
+			<ad>ROSANNA MOLASSES_ CODE:128 </ad>
+		</data>
+		<data>
+			<kod>1184</kod>
+			<ad>ROSANNA MOLASSES_ CODE:130 </ad>
+		</data>
+		<data>
+			<kod>1185</kod>
+			<ad>ROSANNA MOLASSES_ CODE:133 </ad>
+		</data>
+		<data>
+			<kod>1186</kod>
+			<ad>ROSANNA MOLASSES_ CODE:137 </ad>
+		</data>
+		<data>
+			<kod>1187</kod>
+			<ad>ROSANNA MOLASSES_ CODE:203 </ad>
+		</data>
+		<data>
+			<kod>1188</kod>
+			<ad>ROSANNA MOLASSES_ CODE:208 </ad>
+		</data>
+		<data>
+			<kod>1189</kod>
+			<ad>ROSANNA MOLASSES_ CODE:210 </ad>
+		</data>
+		<data>
+			<kod>1190</kod>
+			<ad>ROSANNA MOLASSES_ CODE:211 </ad>
+		</data>
+		<data>
+			<kod>1191</kod>
+			<ad>ROSANNA MOLASSES_ CODE:212 </ad>
+		</data>
+		<data>
+			<kod>1192</kod>
+			<ad>ROSANNA MOLASSES_ CODE:213 </ad>
+		</data>
+		<data>
+			<kod>1193</kod>
+			<ad>ROSANNA MOLASSES_ CODE:217 </ad>
+		</data>
+		<data>
+			<kod>1194</kod>
+			<ad>ROSANNA MOLASSES_ CODE:219 </ad>
+		</data>
+		<data>
+			<kod>1195</kod>
+			<ad>ROSANNA MOLASSES_ CODE:221 </ad>
+		</data>
+		<data>
+			<kod>1196</kod>
+			<ad>ROSANNA MOLASSES_ CODE:224 </ad>
+		</data>
+		<data>
+			<kod>1197</kod>
+			<ad>ROSANNA MOLASSES_ CODE:225 </ad>
+		</data>
+		<data>
+			<kod>1198</kod>
+			<ad>ROSANNA MOLASSES_ CODE:228 </ad>
+		</data>
+		<data>
+			<kod>1199</kod>
+			<ad>ROSANNA MOLASSES_ CODE:230 </ad>
+		</data>
+		<data>
+			<kod>1200</kod>
+			<ad>ROSANNA MOLASSES_ CODE:233 </ad>
+		</data>
+		<data>
+			<kod>1201</kod>
+			<ad>ROSANNA MOLASSES_ CODE:237 </ad>
+		</data>
+		<data>
+			<kod>1202</kod>
+			<ad>ROSANNA MOLASSES_ CODE:403 </ad>
+		</data>
+		<data>
+			<kod>1203</kod>
+			<ad>ROSANNA MOLASSES_ CODE:408 </ad>
+		</data>
+		<data>
+			<kod>1204</kod>
+			<ad>ROSANNA MOLASSES_ CODE:410 </ad>
+		</data>
+		<data>
+			<kod>1205</kod>
+			<ad>ROSANNA MOLASSES_ CODE:411 </ad>
+		</data>
+		<data>
+			<kod>1206</kod>
+			<ad>ROSANNA MOLASSES_ CODE:412 </ad>
+		</data>
+		<data>
+			<kod>1207</kod>
+			<ad>ROSANNA MOLASSES_ CODE:413 </ad>
+		</data>
+		<data>
+			<kod>1208</kod>
+			<ad>ROSANNA MOLASSES_ CODE:417 </ad>
+		</data>
+		<data>
+			<kod>1209</kod>
+			<ad>ROSANNA MOLASSES_ CODE:419 </ad>
+		</data>
+		<data>
+			<kod>1210</kod>
+			<ad>ROSANNA MOLASSES_ CODE:421 </ad>
+		</data>
+		<data>
+			<kod>1211</kod>
+			<ad>ROSANNA MOLASSES_ CODE:424 </ad>
+		</data>
+		<data>
+			<kod>1212</kod>
+			<ad>ROSANNA MOLASSES_ CODE:425 </ad>
+		</data>
+		<data>
+			<kod>1213</kod>
+			<ad>ROSANNA MOLASSES_ CODE:428 </ad>
+		</data>
+		<data>
+			<kod>1214</kod>
+			<ad>ROSANNA MOLASSES_ CODE:430 </ad>
+		</data>
+		<data>
+			<kod>1215</kod>
+			<ad>ROSANNA MOLASSES_ CODE:433 </ad>
+		</data>
+		<data>
+			<kod>1216</kod>
+			<ad>ROSANNA MOLASSES_ CODE:437 </ad>
+		</data>
+		<data>
+			<kod>1217</kod>
+			<ad>SALEM_GREEN </ad>
+		</data>
+		<data>
+			<kod>1218</kod>
+			<ad>SALEM_MENTHOL </ad>
+		</data>
+		<data>
+			<kod>1757</kod>
+			<ad>SALEM_WHITE</ad>
+		</data>
+		<data>
+			<kod>1221</kod>
+			<ad>SAMSUN 216_BORDO </ad>
+		</data>
+		<data>
+			<kod>1222</kod>
+			<ad>SAMSUN 216_KIRMIZI </ad>
+		</data>
+		<data>
+			<kod>1219</kod>
+			<ad>SAMSUN_BORDO </ad>
+		</data>
+		<data>
+			<kod>1220</kod>
+			<ad>SAMSUN_KIRMIZI </ad>
+		</data>
+		<data>
+			<kod>1580</kod>
+			<ad>SUPERKINGS_BLACK</ad>
+		</data>
+		<data>
+			<kod>1514</kod>
+			<ad>SUPERKINGS_BLACK </ad>
+		</data>
+		<data>
+			<kod>1629</kod>
+			<ad>SİMA SULTAN_CODE: 100-201</ad>
+		</data>
+		<data>
+			<kod>1630</kod>
+			<ad>SİMA SULTAN_CODE: 100-202</ad>
+		</data>
+		<data>
+			<kod>1631</kod>
+			<ad>SİMA SULTAN_CODE: 100-203</ad>
+		</data>
+		<data>
+			<kod>1632</kod>
+			<ad>SİMA SULTAN_CODE: 100-204</ad>
+		</data>
+		<data>
+			<kod>1633</kod>
+			<ad>SİMA SULTAN_CODE: 100-205</ad>
+		</data>
+		<data>
+			<kod>1634</kod>
+			<ad>SİMA SULTAN_CODE: 100-206</ad>
+		</data>
+		<data>
+			<kod>1635</kod>
+			<ad>SİMA SULTAN_CODE: 100-207</ad>
+		</data>
+		<data>
+			<kod>1636</kod>
+			<ad>SİMA SULTAN_CODE: 100-208</ad>
+		</data>
+		<data>
+			<kod>1637</kod>
+			<ad>SİMA SULTAN_CODE: 100-209</ad>
+		</data>
+		<data>
+			<kod>1638</kod>
+			<ad>SİMA SULTAN_CODE: 100-210</ad>
+		</data>
+		<data>
+			<kod>1639</kod>
+			<ad>SİMA SULTAN_CODE: 100-211</ad>
+		</data>
+		<data>
+			<kod>1640</kod>
+			<ad>SİMA SULTAN_CODE: 100-212</ad>
+		</data>
+		<data>
+			<kod>1641</kod>
+			<ad>SİMA SULTAN_CODE: 100-213</ad>
+		</data>
+		<data>
+			<kod>1642</kod>
+			<ad>SİMA SULTAN_CODE: 100-214</ad>
+		</data>
+		<data>
+			<kod>1643</kod>
+			<ad>SİMA SULTAN_CODE: 100-215</ad>
+		</data>
+		<data>
+			<kod>1644</kod>
+			<ad>SİMA SULTAN_CODE: 100-216</ad>
+		</data>
+		<data>
+			<kod>1645</kod>
+			<ad>SİMA SULTAN_CODE: 100-217</ad>
+		</data>
+		<data>
+			<kod>1646</kod>
+			<ad>SİMA SULTAN_CODE: 100-218</ad>
+		</data>
+		<data>
+			<kod>1647</kod>
+			<ad>SİMA SULTAN_CODE: 100-219</ad>
+		</data>
+		<data>
+			<kod>1648</kod>
+			<ad>SİMA SULTAN_CODE: 200-201</ad>
+		</data>
+		<data>
+			<kod>1649</kod>
+			<ad>SİMA SULTAN_CODE: 200-202</ad>
+		</data>
+		<data>
+			<kod>1650</kod>
+			<ad>SİMA SULTAN_CODE: 200-203</ad>
+		</data>
+		<data>
+			<kod>1651</kod>
+			<ad>SİMA SULTAN_CODE: 200-204</ad>
+		</data>
+		<data>
+			<kod>1652</kod>
+			<ad>SİMA SULTAN_CODE: 200-205</ad>
+		</data>
+		<data>
+			<kod>1653</kod>
+			<ad>SİMA SULTAN_CODE: 200-206</ad>
+		</data>
+		<data>
+			<kod>1654</kod>
+			<ad>SİMA SULTAN_CODE: 200-207</ad>
+		</data>
+		<data>
+			<kod>1655</kod>
+			<ad>SİMA SULTAN_CODE: 200-208</ad>
+		</data>
+		<data>
+			<kod>1656</kod>
+			<ad>SİMA SULTAN_CODE: 200-209</ad>
+		</data>
+		<data>
+			<kod>1657</kod>
+			<ad>SİMA SULTAN_CODE: 200-210</ad>
+		</data>
+		<data>
+			<kod>1658</kod>
+			<ad>SİMA SULTAN_CODE: 200-211</ad>
+		</data>
+		<data>
+			<kod>1659</kod>
+			<ad>SİMA SULTAN_CODE: 200-212</ad>
+		</data>
+		<data>
+			<kod>1660</kod>
+			<ad>SİMA SULTAN_CODE: 200-213</ad>
+		</data>
+		<data>
+			<kod>1661</kod>
+			<ad>SİMA SULTAN_CODE: 200-214</ad>
+		</data>
+		<data>
+			<kod>1662</kod>
+			<ad>SİMA SULTAN_CODE: 200-215</ad>
+		</data>
+		<data>
+			<kod>1663</kod>
+			<ad>SİMA SULTAN_CODE: 200-216</ad>
+		</data>
+		<data>
+			<kod>1664</kod>
+			<ad>SİMA SULTAN_CODE: 200-217</ad>
+		</data>
+		<data>
+			<kod>1665</kod>
+			<ad>SİMA SULTAN_CODE: 200-218</ad>
+		</data>
+		<data>
+			<kod>1666</kod>
+			<ad>SİMA SULTAN_CODE: 200-219</ad>
+		</data>
+		<data>
+			<kod>1667</kod>
+			<ad>SİMA SULTAN_CODE: 50-201</ad>
+		</data>
+		<data>
+			<kod>1668</kod>
+			<ad>SİMA SULTAN_CODE: 50-202</ad>
+		</data>
+		<data>
+			<kod>1669</kod>
+			<ad>SİMA SULTAN_CODE: 50-203</ad>
+		</data>
+		<data>
+			<kod>1670</kod>
+			<ad>SİMA SULTAN_CODE: 50-204</ad>
+		</data>
+		<data>
+			<kod>1671</kod>
+			<ad>SİMA SULTAN_CODE: 50-205</ad>
+		</data>
+		<data>
+			<kod>1672</kod>
+			<ad>SİMA SULTAN_CODE: 50-206</ad>
+		</data>
+		<data>
+			<kod>1673</kod>
+			<ad>SİMA SULTAN_CODE: 50-208</ad>
+		</data>
+		<data>
+			<kod>1674</kod>
+			<ad>SİMA SULTAN_CODE: 50-209</ad>
+		</data>
+		<data>
+			<kod>1675</kod>
+			<ad>SİMA SULTAN_CODE: 50-210</ad>
+		</data>
+		<data>
+			<kod>1676</kod>
+			<ad>SİMA SULTAN_CODE: 50-212</ad>
+		</data>
+		<data>
+			<kod>1677</kod>
+			<ad>SİMA SULTAN_CODE: 50-213</ad>
+		</data>
+		<data>
+			<kod>1678</kod>
+			<ad>SİMA SULTAN_CODE: 50-214</ad>
+		</data>
+		<data>
+			<kod>1679</kod>
+			<ad>SİMA SULTAN_CODE: 50-216</ad>
+		</data>
+		<data>
+			<kod>1680</kod>
+			<ad>SİMA SULTAN_CODE: 50-218</ad>
+		</data>
+		<data>
+			<kod>1681</kod>
+			<ad>SİMA SULTAN_CODE: 50-219</ad>
+		</data>
+		<data>
+			<kod>1758</kod>
+			<ad>TEKDEMİR_NM 01</ad>
+		</data>
+		<data>
+			<kod>1759</kod>
+			<ad>TEKDEMİR_NM 04</ad>
+		</data>
+		<data>
+			<kod>1760</kod>
+			<ad>TEKDEMİR_NM 05</ad>
+		</data>
+		<data>
+			<kod>1761</kod>
+			<ad>TEKDEMİR_NM 07</ad>
+		</data>
+		<data>
+			<kod>1762</kod>
+			<ad>TEKDEMİR_NM 08</ad>
+		</data>
+		<data>
+			<kod>1763</kod>
+			<ad>TEKDEMİR_NM 101</ad>
+		</data>
+		<data>
+			<kod>1764</kod>
+			<ad>TEKDEMİR_NM 102</ad>
+		</data>
+		<data>
+			<kod>1765</kod>
+			<ad>TEKDEMİR_NM 110</ad>
+		</data>
+		<data>
+			<kod>1766</kod>
+			<ad>TEKDEMİR_NM 112</ad>
+		</data>
+		<data>
+			<kod>1767</kod>
+			<ad>TEKDEMİR_NM 506</ad>
+		</data>
+		<data>
+			<kod>1771</kod>
+			<ad>TEKEL 2000 _KIRMIZI DK</ad>
+		</data>
+		<data>
+			<kod>1772</kod>
+			<ad>TEKEL 2000 _KISA</ad>
+		</data>
+		<data>
+			<kod>1773</kod>
+			<ad>TEKEL 2000 _LACİVERT DK</ad>
+		</data>
+		<data>
+			<kod>1271</kod>
+			<ad>TEKEL 2000 _MAVİ </ad>
+		</data>
+		<data>
+			<kod>1774</kod>
+			<ad>TEKEL 2000 _UZUN</ad>
+		</data>
+		<data>
+			<kod>1581</kod>
+			<ad>TEKEL 2000 _UZUN MAVİ</ad>
+		</data>
+		<data>
+			<kod>1269</kod>
+			<ad>TEKEL 2000_KIRMIZI  </ad>
+		</data>
+		<data>
+			<kod>1768</kod>
+			<ad>TEKEL 2000_KIRMIZI KS</ad>
+		</data>
+		<data>
+			<kod>1769</kod>
+			<ad>TEKEL 2000_KIRMIZI SL</ad>
+		</data>
+		<data>
+			<kod>1582</kod>
+			<ad>TEKEL 2000_KISA LACİVERT</ad>
+		</data>
+		<data>
+			<kod>1270</kod>
+			<ad>TEKEL 2000_UZUN KIRMIZI </ad>
+		</data>
+		<data>
+			<kod>1770</kod>
+			<ad>TEKEL 2000_UZUN KIRMIZI KUTU</ad>
+		</data>
+		<data>
+			<kod>1583</kod>
+			<ad>TEKEL 2000_UZUN MAVİ KUTU</ad>
+		</data>
+		<data>
+			<kod>1272</kod>
+			<ad>TEKEL 2001_BORDO </ad>
+		</data>
+		<data>
+			<kod>1273</kod>
+			<ad>TEKEL 2001_KIRMIZI </ad>
+		</data>
+		<data>
+			<kod>1275</kod>
+			<ad>TEKEL 2001_KISA GÖK MAVİ</ad>
+		</data>
+		<data>
+			<kod>1775</kod>
+			<ad>TEKEL 2001_KISA KIRMIZI</ad>
+		</data>
+		<data>
+			<kod>1274</kod>
+			<ad>TEKEL 2001_KISA MAVİ </ad>
+		</data>
+		<data>
+			<kod>1776</kod>
+			<ad>TEKEL 2001_UZUN BORDO</ad>
+		</data>
+		<data>
+			<kod>1276</kod>
+			<ad>TEKEL 2001_UZUN GÖK MAVİ</ad>
+		</data>
+		<data>
+			<kod>1277</kod>
+			<ad>TEKEL 2001_UZUN KIRMIZI </ad>
+		</data>
+		<data>
+			<kod>1278</kod>
+			<ad>TEKEL 2001_UZUN MAVİ </ad>
+		</data>
+		<data>
+			<kod>1584</kod>
+			<ad>Toros 2005_Red</ad>
+		</data>
+		<data>
+			<kod>1614</kod>
+			<ad>Toros 2005_Red 100 gr</ad>
+		</data>
+		<data>
+			<kod>1279</kod>
+			<ad>TÜRK PİPO TÜTÜNÜ_No: 1</ad>
+		</data>
+		<data>
+			<kod>1780</kod>
+			<ad>VAZKA_BLACK 100 gr KUTU</ad>
+		</data>
+		<data>
+			<kod>1779</kod>
+			<ad>VAZKA_BLACK 50 gr</ad>
+		</data>
+		<data>
+			<kod>1778</kod>
+			<ad>VAZKA_BLUE 50 gr</ad>
+		</data>
+		<data>
+			<kod>1777</kod>
+			<ad>VAZKA_RED 50 gr</ad>
+		</data>
+		<data>
+			<kod>1280</kod>
+			<ad>VICEROY_BEIGE</ad>
+		</data>
+		<data>
+			<kod>1506</kod>
+			<ad>VICEROY_BEIGE SL</ad>
+		</data>
+		<data>
+			<kod>1281</kod>
+			<ad>VICEROY_BLUE</ad>
+		</data>
+		<data>
+			<kod>1282</kod>
+			<ad>VICEROY_GREY </ad>
+		</data>
+		<data>
+			<kod>1585</kod>
+			<ad>VICEROY_GREY  KS</ad>
+		</data>
+		<data>
+			<kod>1283</kod>
+			<ad>VICEROY_NAVY </ad>
+		</data>
+		<data>
+			<kod>1507</kod>
+			<ad>VICEROY_NAVY BLUE </ad>
+		</data>
+		<data>
+			<kod>1284</kod>
+			<ad>VICEROY_NAVY BLUE SL </ad>
+		</data>
+		<data>
+			<kod>1285</kod>
+			<ad>VICEROY_NAVY SL </ad>
+		</data>
+		<data>
+			<kod>1286</kod>
+			<ad>VICEROY_RED</ad>
+		</data>
+		<data>
+			<kod>1586</kod>
+			<ad>VICEROY_RED KS</ad>
+		</data>
+		<data>
+			<kod>1609</kod>
+			<ad>VICEROY_RED RC</ad>
+		</data>
+		<data>
+			<kod>1587</kod>
+			<ad>VICEROY_RED SC</ad>
+		</data>
+		<data>
+			<kod>1287</kod>
+			<ad>VICEROY_RED SL </ad>
+		</data>
+		<data>
+			<kod>1588</kod>
+			<ad>VICEROY_RED SL SC</ad>
+		</data>
+		<data>
+			<kod>1589</kod>
+			<ad>VICEROY_WHITE KS</ad>
+		</data>
+		<data>
+			<kod>1288</kod>
+			<ad>VIGOR_CERULEAN </ad>
+		</data>
+		<data>
+			<kod>1289</kod>
+			<ad>VIGOR_CERULEAN 99 MM </ad>
+		</data>
+		<data>
+			<kod>1290</kod>
+			<ad>VIGOR_CERULEAN SLIMS </ad>
+		</data>
+		<data>
+			<kod>1291</kod>
+			<ad>VIGOR_KATKISIZ HARMAN </ad>
+		</data>
+		<data>
+			<kod>1292</kod>
+			<ad>VIGOR_OCEAN BLUE </ad>
+		</data>
+		<data>
+			<kod>1293</kod>
+			<ad>VIGOR_RED </ad>
+		</data>
+		<data>
+			<kod>1294</kod>
+			<ad>VIGOR_RED SLIMS </ad>
+		</data>
+		<data>
+			<kod>1295</kod>
+			<ad>VIOLET_CERULEAN SLIMS </ad>
+		</data>
+		<data>
+			<kod>1296</kod>
+			<ad>VIOLET_CLOVE SLIMS </ad>
+		</data>
+		<data>
+			<kod>1297</kod>
+			<ad>VIOLET_MENTHOLE SLIMS </ad>
+		</data>
+		<data>
+			<kod>1298</kod>
+			<ad>VIOLET_VANILLE SLIMS </ad>
+		</data>
+		<data>
+			<kod>1299</kod>
+			<ad>VOGUE_BLEUE </ad>
+		</data>
+		<data>
+			<kod>1300</kod>
+			<ad>VOGUE_MENTHE </ad>
+		</data>
+		<data>
+			<kod>1783</kod>
+			<ad>WATSON_BLUE 200 KUTU</ad>
+		</data>
+		<data>
+			<kod>1781</kod>
+			<ad>WATSON_BLUE 50 g</ad>
+		</data>
+		<data>
+			<kod>1784</kod>
+			<ad>WATSON_RED 200 KUTU</ad>
+		</data>
+		<data>
+			<kod>1782</kod>
+			<ad>WATSON_RED 50 g</ad>
+		</data>
+		<data>
+			<kod>1513</kod>
+			<ad>WEST_BLACK </ad>
+		</data>
+		<data>
+			<kod>1616</kod>
+			<ad>WEST_BLACK SLIMS</ad>
+		</data>
+		<data>
+			<kod>1301</kod>
+			<ad>WEST_BLUE </ad>
+		</data>
+		<data>
+			<kod>1302</kod>
+			<ad>WEST_BLUE SL</ad>
+		</data>
+		<data>
+			<kod>1303</kod>
+			<ad>WEST_GREY </ad>
+		</data>
+		<data>
+			<kod>1304</kod>
+			<ad>WEST_GREY SL</ad>
+		</data>
+		<data>
+			<kod>1617</kod>
+			<ad>WEST_GREY SLIMS</ad>
+		</data>
+		<data>
+			<kod>1305</kod>
+			<ad>WEST_ICE </ad>
+		</data>
+		<data>
+			<kod>1306</kod>
+			<ad>WEST_ONE</ad>
+		</data>
+		<data>
+			<kod>1307</kod>
+			<ad>WEST_RED </ad>
+		</data>
+		<data>
+			<kod>1308</kod>
+			<ad>WINNER_BLUE SLIMS </ad>
+		</data>
+		<data>
+			<kod>1309</kod>
+			<ad>WINNER_DORE SLIMS </ad>
+		</data>
+		<data>
+			<kod>1310</kod>
+			<ad>WINNER_RED SLIMS </ad>
+		</data>
+		<data>
+			<kod>1590</kod>
+			<ad>WINNER_Slims Menthol</ad>
+		</data>
+		<data>
+			<kod>1311</kod>
+			<ad>Winston_BLUE </ad>
+		</data>
+		<data>
+			<kod>1312</kod>
+			<ad>Winston_BLUE 100 MM </ad>
+		</data>
+		<data>
+			<kod>1313</kod>
+			<ad>Winston_CODE </ad>
+		</data>
+		<data>
+			<kod>1508</kod>
+			<ad>Winston_CODE 100 MM </ad>
+		</data>
+		<data>
+			<kod>1591</kod>
+			<ad>Winston_CODE AQUA</ad>
+		</data>
+		<data>
+			<kod>1785</kod>
+			<ad>Winston_CODE BLUE</ad>
+		</data>
+		<data>
+			<kod>1786</kod>
+			<ad>Winston_CODE WHITE</ad>
+		</data>
+		<data>
+			<kod>1314</kod>
+			<ad>Winston_GRAY </ad>
+		</data>
+		<data>
+			<kod>1787</kod>
+			<ad>Winston_GRAY KISA</ad>
+		</data>
+		<data>
+			<kod>1315</kod>
+			<ad>Winston_ONE </ad>
+		</data>
+		<data>
+			<kod>1316</kod>
+			<ad>Winston_RED </ad>
+		</data>
+		<data>
+			<kod>1317</kod>
+			<ad>Winston_RED 100 MM </ad>
+		</data>
+		<data>
+			<kod>1318</kod>
+			<ad>Winston_RED CPB </ad>
+		</data>
+		<data>
+			<kod>1319</kod>
+			<ad>Winston_SLIMS BLUE </ad>
+		</data>
+		<data>
+			<kod>1320</kod>
+			<ad>Winston_SLIMS GRAY </ad>
+		</data>
+		<data>
+			<kod>1788</kod>
+			<ad>Winston_SLIMS Line Red</ad>
+		</data>
+		<data>
+			<kod>1789</kod>
+			<ad>Winston_SLIMS Line White</ad>
+		</data>
+		<data>
+			<kod>1322</kod>
+			<ad>Winston_TACT BLUE</ad>
+		</data>
+		<data>
+			<kod>1321</kod>
+			<ad>Winston_TACT RED</ad>
+		</data>
+		<data>
+			<kod>1791</kod>
+			<ad>Winston_XSence Blue </ad>
+		</data>
+		<data>
+			<kod>1790</kod>
+			<ad>Winston_XSence one </ad>
+		</data>
+		<data>
+			<kod>1615</kod>
+			<ad>Yayladağ PİPO TÜTÜNÜ_No: 1</ad>
+		</data>
+		<data>
+			<kod>1792</kod>
+			<ad>Yayladağ PİPO TÜTÜNÜ_No: 2</ad>
+		</data>
+		<data>
+			<kod>1793</kod>
+			<ad>Yayladağ PİPO TÜTÜNÜ_No: 3</ad>
+		</data>
+		<data>
+			<kod>1794</kod>
+			<ad>Yayladağ PİPO TÜTÜNÜ_No: 4</ad>
+		</data>
+		<data>
+			<kod>1501</kod>
+			<ad>İstanbul_NO:1</ad>
+		</data>
+		<data>
+			<kod>1239</kod>
+			<ad>ŞERBETLİ_No: 10 </ad>
+		</data>
+		<data>
+			<kod>1229</kod>
+			<ad>ŞERBETLİ_No: 100 </ad>
+		</data>
+		<data>
+			<kod>1259</kod>
+			<ad>ŞERBETLİ_No: 101 </ad>
+		</data>
+		<data>
+			<kod>1260</kod>
+			<ad>ŞERBETLİ_No: 102 </ad>
+		</data>
+		<data>
+			<kod>1261</kod>
+			<ad>ŞERBETLİ_No: 103 </ad>
+		</data>
+		<data>
+			<kod>1262</kod>
+			<ad>ŞERBETLİ_No: 104 </ad>
+		</data>
+		<data>
+			<kod>1263</kod>
+			<ad>ŞERBETLİ_No: 105 </ad>
+		</data>
+		<data>
+			<kod>1264</kod>
+			<ad>ŞERBETLİ_No: 106 </ad>
+		</data>
+		<data>
+			<kod>1265</kod>
+			<ad>ŞERBETLİ_No: 107 </ad>
+		</data>
+		<data>
+			<kod>1266</kod>
+			<ad>ŞERBETLİ_No: 108 </ad>
+		</data>
+		<data>
+			<kod>1267</kod>
+			<ad>ŞERBETLİ_No: 109 </ad>
+		</data>
+		<data>
+			<kod>1240</kod>
+			<ad>ŞERBETLİ_No: 11 </ad>
+		</data>
+		<data>
+			<kod>1268</kod>
+			<ad>ŞERBETLİ_No: 110 </ad>
+		</data>
+		<data>
+			<kod>1223</kod>
+			<ad>ŞERBETLİ_No: 111 </ad>
+		</data>
+		<data>
+			<kod>1230</kod>
+			<ad>ŞERBETLİ_No: 210 </ad>
+		</data>
+		<data>
+			<kod>1241</kod>
+			<ad>ŞERBETLİ_No: 22 </ad>
+		</data>
+		<data>
+			<kod>1224</kod>
+			<ad>ŞERBETLİ_No: 222 </ad>
+		</data>
+		<data>
+			<kod>1242</kod>
+			<ad>ŞERBETLİ_No: 23 </ad>
+		</data>
+		<data>
+			<kod>1231</kod>
+			<ad>ŞERBETLİ_No: 230 </ad>
+		</data>
+		<data>
+			<kod>1232</kod>
+			<ad>ŞERBETLİ_No: 231 </ad>
+		</data>
+		<data>
+			<kod>1233</kod>
+			<ad>ŞERBETLİ_No: 240 </ad>
+		</data>
+		<data>
+			<kod>1243</kod>
+			<ad>ŞERBETLİ_No: 25 </ad>
+		</data>
+		<data>
+			<kod>1234</kod>
+			<ad>ŞERBETLİ_No: 250 </ad>
+		</data>
+		<data>
+			<kod>1235</kod>
+			<ad>ŞERBETLİ_No: 260 </ad>
+		</data>
+		<data>
+			<kod>1236</kod>
+			<ad>ŞERBETLİ_No: 280 </ad>
+		</data>
+		<data>
+			<kod>1244</kod>
+			<ad>ŞERBETLİ_No: 29 </ad>
+		</data>
+		<data>
+			<kod>1237</kod>
+			<ad>ŞERBETLİ_No: 291 </ad>
+		</data>
+		<data>
+			<kod>1245</kod>
+			<ad>ŞERBETLİ_No: 30 </ad>
+		</data>
+		<data>
+			<kod>1246</kod>
+			<ad>ŞERBETLİ_No: 33 </ad>
+		</data>
+		<data>
+			<kod>1225</kod>
+			<ad>ŞERBETLİ_No: 333 </ad>
+		</data>
+		<data>
+			<kod>1247</kod>
+			<ad>ŞERBETLİ_No: 35 </ad>
+		</data>
+		<data>
+			<kod>1248</kod>
+			<ad>ŞERBETLİ_No: 40 </ad>
+		</data>
+		<data>
+			<kod>1249</kod>
+			<ad>ŞERBETLİ_No: 44 </ad>
+		</data>
+		<data>
+			<kod>1226</kod>
+			<ad>ŞERBETLİ_No: 444 </ad>
+		</data>
+		<data>
+			<kod>1250</kod>
+			<ad>ŞERBETLİ_No: 45 </ad>
+		</data>
+		<data>
+			<kod>1251</kod>
+			<ad>ŞERBETLİ_No: 55 </ad>
+		</data>
+		<data>
+			<kod>1227</kod>
+			<ad>ŞERBETLİ_No: 555 </ad>
+		</data>
+		<data>
+			<kod>1252</kod>
+			<ad>ŞERBETLİ_No: 65 </ad>
+		</data>
+		<data>
+			<kod>1253</kod>
+			<ad>ŞERBETLİ_No: 66 </ad>
+		</data>
+		<data>
+			<kod>1228</kod>
+			<ad>ŞERBETLİ_No: 666 </ad>
+		</data>
+		<data>
+			<kod>1254</kod>
+			<ad>ŞERBETLİ_No: 77 </ad>
+		</data>
+		<data>
+			<kod>1238</kod>
+			<ad>ŞERBETLİ_No: 771 </ad>
+		</data>
+		<data>
+			<kod>1255</kod>
+			<ad>ŞERBETLİ_No: 80 </ad>
+		</data>
+		<data>
+			<kod>1256</kod>
+			<ad>ŞERBETLİ_No: 85 </ad>
+		</data>
+		<data>
+			<kod>1257</kod>
+			<ad>ŞERBETLİ_No: 88 </ad>
+		</data>
+		<data>
+			<kod>1258</kod>
+			<ad>ŞERBETLİ_No: 90 </ad>
+		</data>
+		<data>
+			<kod>1796</kod>
+			<ad>TEKDEMİR_NM 103 </ad>
+		</data>
+		<data>
+			<kod>1797</kod>
+			<ad>TEKDEMİR_NM 104 </ad>
+		</data>
+		<data>
+			<kod>1798</kod>
+			<ad>TEKDEMİR_NM 105 </ad>
+		</data>
+		<data>
+			<kod>1799</kod>
+			<ad>TEKDEMİR_NM 106 </ad>
+		</data>
+		<data>
+			<kod>1800</kod>
+			<ad>TEKDEMİR_NM 107 </ad>
+		</data>
+		<data>
+			<kod>1801</kod>
+			<ad>TEKDEMİR_NM 108 </ad>
+		</data>
+		<data>
+			<kod>1802</kod>
+			<ad>TEKDEMİR_NM 109 </ad>
+		</data>
+		<data>
+			<kod>1803</kod>
+			<ad>TEKDEMİR_NM 111 </ad>
+		</data>
+		<data>
+			<kod>1804</kod>
+			<ad>TEKDEMİR_NM 113 </ad>
+		</data>
+		<data>
+			<kod>1805</kod>
+			<ad>TEKDEMİR_NM 114 </ad>
+		</data>
+		<data>
+			<kod>1806</kod>
+			<ad>TEKDEMİR_NM 115 </ad>
+		</data>
+		<data>
+			<kod>1807</kod>
+			<ad>TEKDEMİR_NM 501 </ad>
+		</data>
+		<data>
+			<kod>1808</kod>
+			<ad>TEKDEMİR_NM 502 </ad>
+		</data>
+		<data>
+			<kod>1809</kod>
+			<ad>TEKDEMİR_NM 503 </ad>
+		</data>
+		<data>
+			<kod>1810</kod>
+			<ad>TEKDEMİR_NM 504 </ad>
+		</data>
+		<data>
+			<kod>1811</kod>
+			<ad>TEKDEMİR_NM 505 </ad>
+		</data>
+		<data>
+			<kod>1812</kod>
+			<ad>WATSON GREEN 50  </ad>
+		</data>	
+		<data>
+			<kod>1813</kod>
+			<ad>POLO_Slims Purple  </ad>
+		</data>	
+		<data>
+			<kod>1814</kod>
+			<ad>West_Duo</ad>
+		</data>	
+		<data>
+			<kod>1815</kod>
+			<ad>Davidoff_blue</ad>
+		</data>	
+		<data>
+			<kod>1816</kod>
+			<ad>MONTE CARLO_RED II</ad>
+		</data>	
+		<data>
+			<kod>1817</kod>
+			<ad>MONTE CARLO_NIGHT BLUE II</ad>
+		</data>	
+		<data>
+			<kod>1818</kod>
+			<ad>MONTE CARLO_SLENDER RED II</ad>
+		</data>	
+		<data>
+			<kod>1819</kod>
+			<ad>CAMEL_GREEN</ad>
+		</data>	
+		<data>
+			<kod>1820</kod>
+			<ad>CAMEL_1913 CURVE</ad>
+		</data>	
+		<data>
+			<kod>1821</kod>
+			<ad>ANADOLU_KIRMIZI</ad>
+		</data>	
+		<data>
+			<kod>1822</kod>
+			<ad>ANADOLU_KIRMIZI 100 mm</ad>
+		</data>	
+		<data>
+			<kod>1823</kod>
+			<ad>LD_BLACK II</ad>
+		</data>	
+		<data>
+			<kod>1824</kod>
+			<ad>LD_WHITE II</ad>
+		</data>	
+		<data>
+			<kod>1825</kod>
+			<ad>MONTE CARLO_RED II 100 mm</ad>
+		</data>	
+		<data>
+			<kod>1826</kod>
+			<ad>MONTE CARLO_BLUE II</ad>
+		</data>	
+		<data>
+			<kod>1827</kod>
+			<ad>MONTE CARLO_NIGHT BLUE II 100 mm</ad>
+		</data>	
+		<data>
+			<kod>1828</kod>
+			<ad>MONTE CARLO_SLENDER BLUE II</ad>
+		</data>	
+		<data>
+			<kod>1829</kod>
+			<ad>MONTE CARLO_BLUE SLIMS II</ad>
+		</data>	
+		<data>
+			<kod>1830</kod>
+			<ad>MONTE CARLO_SLENDER NIGHT BLUE</ad>
+		</data>	
+		<data>
+			<kod>1831</kod>
+			<ad>MORE_BLUE</ad>
+		</data>	
+		<data>
+			<kod>1832</kod>
+			<ad>MORE_SLIMS II</ad>
+		</data>	
+		<data>
+			<kod>1833</kod>
+			<ad>CHESTERFIELD_BLUE LINE</ad>
+		</data>	
+		<data>
+			<kod>1834</kod>
+			<ad>CHESTERFIELD_NAVY BLUE</ad>
+		</data>	
+		<data>
+			<kod>1835</kod>
+			<ad>CHESTERFIELD_RED LINE</ad>
+		</data>	
+		<data>
+			<kod>1836</kod>
+			<ad>L&amp;M_BLUE LINE</ad>
+		</data>	
+		<data>
+			<kod>1837</kod>
+			<ad>L&amp;M_BLUE LINE LONG RCB 100</ad>
+		</data>	
+		<data>
+			<kod>1838</kod>
+			<ad>L&amp;M_RED LABEL LONG RCB 100</ad>
+		</data>	
+		<data>
+			<kod>1839</kod>
+			<ad>VICEROY_BLUE SLIMS</ad>
+		</data>	<data>
+			<kod>1840</kod>
+			<ad>VICEROY_SWITCH</ad>
+		</data>	
+		<data>
+			<kod>1841</kod>
+			<ad>LUCKY STRIKE_RED EST 1871</ad>
+		</data>	
+		<data>
+			<kod>1842</kod>
+			<ad>LUCKY STRIKE_BLUE EST 1871</ad>
+		</data>	
+		<data>
+			<kod>1843</kod>
+			<ad>LUCKY STRIKE_DARK BLUE EST 1871</ad>
+		</data>	
+		<data>
+			<kod>1844</kod>
+			<ad>TEKEL 2001_KISA KIRMIZI C2U</ad>
+		</data>		
+		<data>
+			<kod>1845</kod>
+			<ad>Davidoff_ROSE SLIMS</ad>
+		</data>	
+		<data>
+			<kod>1846</kod>
+			<ad>Davidoff_WHITE SLIMS</ad>
+		</data>	
+		<data>
+			<kod>1847</kod>
+			<ad>Viceroy_D-Range Blue</ad>
+		</data>	
+		<data>
+			<kod>1848</kod>
+			<ad>Viceroy_D-Range Red</ad>
+		</data>	
+		<data>
+			<kod>1849</kod>
+			<ad>Esse_Menthol</ad>
+		</data>	
+		<data>
+			<kod>1850</kod>
+			<ad>Davidoff_Duo</ad>
+		</data>	
+		<data>
+			<kod>1851</kod>
+			<ad>LD_Blue Slims</ad>
+		</data>	
+		<data>
+			<kod>1852</kod>
+			<ad>Watson_Blue100</ad>
+		</data>	
+		<data>
+			<kod>1853</kod>
+			<ad>Watson_Red100</ad>
+		</data>	
+		<data>
+			<kod>1854</kod>
+			<ad>L&amp;B_KS</ad>
+		</data>	
+		<data>
+			<kod>1855</kod>
+			<ad>LD_SLENDER BLUE</ad>
+		</data>	
+		<data>
+			<kod>1856</kod>
+			<ad>LD_SLENDER RED</ad>
+		</data>
+		<data>
+			<kod>1857</kod>
+			<ad>CRASSH BLACK</ad>
+		</data>
+		<data>
+			<kod>1858</kod>
+			<ad>West_NAVY LINE</ad>
+		</data>
+		<data>
+			<kod>1859</kod>
+			<ad>West_RED LINE</ad>
+		</data>	
+		<data>
+			<kod>1860</kod>
+			<ad>Esse Deep Blue SS Box</ad>
+		</data>	
+		<data>
+			<kod>1861</kod>
+			<ad>HD_99mm</ad>
+		</data>	
+		<data>
+			<kod>1862</kod>
+			<ad>PRESIDENT_ROSSO</ad>
+		</data>	
+		<data>
+			<kod>1863</kod>
+			<ad>PRESIDENT_LINE</ad>
+		</data>	
+		<data>
+			<kod>1864</kod>
+		<ad>This_Deep Blue</ad>
+		</data>	
+		<data>
+			<kod>1865</kod>
+			<ad>ROCKS NO:20 (VANILLA FLAVOURED)</ad>
+		</data>	
+		<data>
+			<kod>1866</kod>
+			<ad>ROCKS NO:21 (CHOCOLATE FLAVOURED)</ad>
+		</data>	
+		<data>
+			<kod>1867</kod>
+			<ad>ROCKS NO:22 (CHERRY FLAVOURED)</ad>
+		</data>	
+		<data>
+			<kod>1868</kod>
+			<ad>MONTE CARLO_BLUE SLIMS 99 mm</ad>
+		</data>	
+		<data>
+			<kod>1869</kod>
+			<ad>Winston_XS CODE SLIDE UP</ad>
+		</data>	
+		<data>
+			<kod>1870</kod>
+			<ad>Tekel_T2000 Red KS</ad>
+		</data>	
+		<data>
+			<kod>1871</kod>
+			<ad>Tekel_T2000 Rec 100s HL</ad>
+		</data>	
+		<data>
+			<kod>1872</kod>
+			<ad>Tekel_T2000 Recessed</ad>
+		</data>	
+		<data>
+			<kod>1873</kod>
+			<ad>Tekel_T2000 Recessed 100's</ad>
+		</data>	
+		<data>
+			<kod>1874</kod>
+			<ad>Tekel_T2000 100s</ad>
+		</data>	
+		<data>
+			<kod>1875</kod>
+			<ad>Tekel_2000 Reserve</ad>
+		</data>	
+		<data>
+			<kod>1876</kod>
+			<ad>Viceroy_Viceroy Red</ad>
+		</data>	
+		<data>
+			<kod>1877</kod>
+			<ad>Viceroy_Viceroy Red SL</ad>
+		</data>	
+		<data>
+			<kod>1878</kod>
+			<ad>Medley Blue KS RC BOX</ad>
+		</data>	
+		<data>
+			<kod>1879</kod>
+			<ad>Medley White KS RC BOX</ad>
+		</data>
+		<data>
+			<kod>1880</kod>
+			<ad>CAMEL_1913 100 mm</ad>
+		</data>
+		<data>
+			<kod>1881</kod>
+			<ad>CAMEL_Green Line Sky Blue</ad>
+		</data>
+		<data>
+			<kod>1882</kod>
+			<ad>MONTE CARLO _WHITE</ad>
+		</data>
+		<data>
+			<kod>1883</kod>
+			<ad>Glamour_SLIMS</ad>
+		</data>
+		<data>
+			<kod>1884</kod>
+			<ad>CHE NO:1</ad>
+		</data>
+		<data>
+			<kod>1885</kod>
+			<ad>CHE NO:16</ad>
+		</data>
+		<data>
+			<kod>1886</kod>
+			<ad>CHE NO:19</ad>
+		</data>
+		<data>
+			<kod>1887</kod>
+			<ad>CHE NO:20</ad>
+		</data>
+		<data>
+			<kod>1888</kod>
+			<ad>Bob Vanilla Flavoured 5 Wooden Tip</ad>
+		</data>
+		<data>
+			<kod>1889</kod>
+			<ad>Bob Chocolate Flavoured 5 Wooden Tip</ad>
+		</data>
+		<data>
+			<kod>1890</kod>
+			<ad>Bob Fruit Flavoured 5 Wooden Tip</ad>
+		</data>
+	</marka>
+	<ambalajBirimleri>
+		<data>
+			<kod>1</kod>
+			<ad>Paket</ad>
+		</data>
+		<data>
+			<kod>2</kod>
+			<ad>Kutu</ad>
+		</data>
+		<data>
+			<kod>3</kod>
+			<ad>Adet</ad>
+		</data>
+	</ambalajBirimleri>
+	<olcuBirimleri>
+		<olcuBirimi>
+			<kod>1</kod>
+			<ad>adet</ad>
+		</olcuBirimi>
+		<olcuBirimi>
+			<kod>2</kod>
+			<ad>gram</ad>
+		</olcuBirimi>
+	</olcuBirimleri>
+</kodlar>

@@ -1,0 +1,39 @@
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:p="http://primefaces.org/ui"
+	xmlns:pa="http://primefaces.org/barcelona">
+
+	<div class="topbar">
+		<div class="logo"></div>
+
+		<div style="float: left; font-size: 0.9em">
+			<h:link>
+				<p:graphicImage name="images/qb_logo.png" styleClass="app-name" />
+			</h:link>
+		</div>
+
+		<h:form class="topbar-menu fadeInDown animated">
+			<ul class="topbar-menu fadeInDown animated">
+				<li class="profile-item"><p:selectOneMenu
+						value="#{languageBean.localeCode}" onchange="submit()"
+						style="color:#bdbdbd;">
+						<f:selectItems value="#{languageBean.internList}" var="type"
+							itemLabel="#{msg[type.messageCode]}" itemValue="#{type.code}" />
+					</p:selectOneMenu></li>
+				<li class="profile-item"><a href="#"> <h:outputText
+							value="#{msg['welcome.headerWelcome']}"></h:outputText>&#160; <h:outputText
+							value="#{authentication.getName}" class="prettyUser"></h:outputText>&#160;
+						<h:commandLink value="#{msg['welcome.logOut']}"
+							action="#{loginBean.logout}" />
+				</a></li>
+
+			</ul>
+		</h:form>
+
+		<div style="clear: both;"></div>
+	</div>
+
+
+</ui:composition>

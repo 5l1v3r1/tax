@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: BMVB_APT bankaMuameleleri/odemeTuru/kod
+-->
+<odemeTurleriK>
+	<odemeTuru><kod>101</kod><grup>Ticari işletmenin ve ünvanının tescil ve ilanında</grup><aciklama>Gerçek kişilere ve kooperatiflere ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>102</kod><grup>Ticari işletmenin ve ünvanının tescil ve ilanında</grup><aciklama>Şahıs şirketlerine ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>103</kod><grup>Ticari işletmenin ve ünvanının tescil ve ilanında</grup><aciklama>Sermaye şirketlerine ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>201</kod><grup>Temsile yetkili kılınan kimselerin tescil ve ilanında (Her kişi için)</grup><aciklama>Gerçek kişilere ve kooperatiflere ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>202</kod><grup>Temsile yetkili kılınan kimselerin tescil ve ilanında (Her kişi için)</grup><aciklama>Şahıs şirketlerine ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>203</kod><grup>Temsile yetkili kılınan kimselerin tescil ve ilanında (Her kişi için)</grup><aciklama>Sermaye şirketlerine ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>301</kod><grup>Ticaret siciline tescil edilmiş olan vakalardaki değişikliklerin tescilinde (Ticari işletme rehni ile ilgili vakalar dahil)</grup><aciklama>Gerçek kişilere ve kooperatiflere ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>302</kod><grup>Ticaret siciline tescil edilmiş olan vakalardaki değişikliklerin tescilinde (Ticari işletme rehni ile ilgili vakalar dahil)</grup><aciklama>Şahıs şirketlerine ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>303</kod><grup>Ticaret siciline tescil edilmiş olan vakalardaki değişikliklerin tescilinde (Ticari işletme rehni ile ilgili vakalar dahil)</grup><aciklama>Sermaye şirketlerine ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>401</kod><grup>Kayıt silinmesinde (Ticari işletme rehni kaydının silinmesi dahil)</grup><aciklama>Gerçek kişilere ve kooperatiflere ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>402</kod><grup>Kayıt silinmesinde (Ticari işletme rehni kaydının silinmesi dahil)</grup><aciklama>Şahıs şirketlerine ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>403</kod><grup>Kayıt silinmesinde (Ticari işletme rehni kaydının silinmesi dahil)</grup><aciklama>Sermaye şirketlerine ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>501</kod><grup>Kayıt ve Belge Suretleri ve Tasdikname Harçları</grup><aciklama>Bir ticari işletmeye ait sicil esas defterindeki kayıtların tamamının veya  bir kısmının veya memurlukta saklanan bütün belgelerin örnekleri (Ticaret Sicili Tüzüğü Madde:11/1)</aciklama></odemeTuru>
+	<odemeTuru><kod>502</kod><grup>Kayıt ve Belge Suretleri ve Tasdikname Harçları</grup><aciklama>Tasdiknamelerden (Ticaret Sicili Tüzüğü Madde: 11/2, 104, 105)</aciklama></odemeTuru>
+</odemeTurleriK>
+<odemeTurleriD>
+	<odemeTuru><kod>601</kod><aciklama>601 - İşletme defteri ve diğer her türlü defterler</aciklama></odemeTuru>
+	<odemeTuru><kod>602</kod><aciklama>602 - Serbest meslek kazanç defteri</aciklama></odemeTuru>
+	<odemeTuru><kod>603</kod><aciklama>603 - Bilanço esasına göre tutulan defterler</aciklama></odemeTuru>
+	<odemeTuru><kod>604</kod><aciklama>604 - 2. Açılış tasdiklerinde sayfaların mühürlenmesi</aciklama></odemeTuru>
+</odemeTurleriD>
+<odemeTurleri>
+	<odemeTuru><kod>101</kod><grup>Ticari işletmenin ve ünvanının tescil ve ilanında</grup><aciklama>101 - Gerçek kişilere ve kooperatiflere ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>102</kod><grup>Ticari işletmenin ve ünvanının tescil ve ilanında</grup><aciklama>102 - Şahıs şirketlerine ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>103</kod><grup>Ticari işletmenin ve ünvanının tescil ve ilanında</grup><aciklama>103 - Sermaye şirketlerine ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>201</kod><grup>Temsile yetkili kılınan kimselerin tescil ve ilanında (Her kişi için)</grup><aciklama>201 - Gerçek kişilere ve kooperatiflere ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>202</kod><grup>Temsile yetkili kılınan kimselerin tescil ve ilanında (Her kişi için)</grup><aciklama>202 - Şahıs şirketlerine ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>203</kod><grup>Temsile yetkili kılınan kimselerin tescil ve ilanında (Her kişi için)</grup><aciklama>203 - Sermaye şirketlerine ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>301</kod><grup>Ticaret siciline tescil edilmiş olan vakalardaki değişikliklerin tescilinde (Ticari işletme rehni ile ilgili vakalar dahil)</grup><aciklama>301 - Gerçek kişilere ve kooperatiflere ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>302</kod><grup>Ticaret siciline tescil edilmiş olan vakalardaki değişikliklerin tescilinde (Ticari işletme rehni ile ilgili vakalar dahil)</grup><aciklama>302 - Şahıs şirketlerine ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>303</kod><grup>Ticaret siciline tescil edilmiş olan vakalardaki değişikliklerin tescilinde (Ticari işletme rehni ile ilgili vakalar dahil)</grup><aciklama>303 - Sermaye şirketlerine ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>401</kod><grup>Kayıt silinmesinde (Ticari işletme rehni kaydının silinmesi dahil)</grup><aciklama>401 - Gerçek kişilere ve kooperatiflere ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>402</kod><grup>Kayıt silinmesinde (Ticari işletme rehni kaydının silinmesi dahil)</grup><aciklama>402 - Şahıs şirketlerine ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>403</kod><grup>Kayıt silinmesinde (Ticari işletme rehni kaydının silinmesi dahil)</grup><aciklama>403 - Sermaye şirketlerine ait işletmelerde</aciklama></odemeTuru>
+	<odemeTuru><kod>501</kod><grup>Kayıt ve Belge Suretleri ve Tasdikname Harçları</grup><aciklama>501 - Bir ticari işletmeye ait sicil esas defterindeki kayıtların tamamının veya  bir kısmının veya memurlukta saklanan bütün belgelerin örnekleri (Ticaret Sicili Tüzüğü Madde:11/1)</aciklama></odemeTuru>
+	<odemeTuru><kod>502</kod><grup>Kayıt ve Belge Suretleri ve Tasdikname Harçları</grup><aciklama>502 - Tasdiknamelerden (Ticaret Sicili Tüzüğü Madde: 11/2, 104, 105)</aciklama></odemeTuru>
+	<odemeTuru><kod>601</kod><grup></grup><aciklama>601 - İşletme defteri ve diğer her türlü defterler</aciklama></odemeTuru>
+	<odemeTuru><kod>602</kod><grup></grup><aciklama>602 - Serbest meslek kazanç defteri</aciklama></odemeTuru>
+	<odemeTuru><kod>603</kod><grup></grup><aciklama>603 - Bilanço esasına göre tutulan defterler</aciklama></odemeTuru>
+	<odemeTuru><kod>604</kod><grup></grup><aciklama>604 - 2. Açılış tasdiklerinde sayfaların mühürlenmesi</aciklama></odemeTuru>
+</odemeTurleri>
+<dummyLookupData>
+</dummyLookupData>
+
+</kodlar>

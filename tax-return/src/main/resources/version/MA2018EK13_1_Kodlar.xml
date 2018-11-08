@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<asgariMatrahlar>
+		<data><yil>2013</yil><asgariMatrah>18095.00</asgariMatrah><oran>5</oran></data>
+		<data><yil>2014</yil><asgariMatrah>19155.00</asgariMatrah><oran>5</oran></data>
+		<data><yil>2015</yil><asgariMatrah>20344.00</asgariMatrah><oran>5</oran></data>
+		<data><yil>2016</yil><asgariMatrah>21636.00</asgariMatrah><oran>5</oran></data>
+		<data><yil>2017</yil><asgariMatrah>24525.00</asgariMatrah><oran>5</oran></data>
+	</asgariMatrahlar>
+</kodlar>

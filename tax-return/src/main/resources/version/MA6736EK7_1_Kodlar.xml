@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<artirimOranlari>
+		<data><yil>2011</yil><oran>35</oran></data>
+		<data><yil>2012</yil><oran>30</oran></data>
+		<data><yil>2013</yil><oran>25</oran></data>
+		<data><yil>2014</yil><oran>20</oran></data>
+		<data><yil>2015</yil><oran>15</oran></data>
+	</artirimOranlari>
+	<asgariMatrahlar>
+		<data><yil>2011</yil><asgariMatrah>14000.00</asgariMatrah></data>
+		<data><yil>2012</yil><asgariMatrah>14825.00</asgariMatrah></data>
+		<data><yil>2013</yil><asgariMatrah>15745.00</asgariMatrah></data>
+		<data><yil>2014</yil><asgariMatrah>16735.00</asgariMatrah></data>
+		<data><yil>2015</yil><asgariMatrah>18970.00</asgariMatrah></data>
+	</asgariMatrahlar>
+</kodlar>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: BTK bankaTuketiciveDigerKrediler/krediTuru/kod
+	Ref: BS bankalarinSagladiklari/krediTuru/kod
+	Ref: ITH ithalatta/krediTuru/kod
+
+-->
+<bankaTuketiciveDigerKrediler>
+	<krediTuru>
+		<kod>101</kod>
+		<aciklama>Kısa Vadeli</aciklama>
+	</krediTuru>
+	<krediTuru>
+		<kod>102</kod>
+		<aciklama>Uzun Vadeli</aciklama>
+	</krediTuru>
+	<krediTuru>
+		<kod>103</kod>
+		<aciklama>Döviz Üzerinden</aciklama>
+	</krediTuru>
+</bankaTuketiciveDigerKrediler>
+<bankalarinSagladiklari>
+	<turu>
+		<kod>201</kod>
+		<aciklama>YTL Kredilerden</aciklama>
+	</turu>
+	<turu>
+		<kod>202</kod>
+		<aciklama>Döviz Kredilerinden</aciklama>
+	</turu>	
+</bankalarinSagladiklari>
+<ithalatta>
+	<turu>
+		<kod>301</kod>
+		<aciklama>Kabul Kredili İthalatta</aciklama>
+	</turu>
+	<turu>
+		<kod>302</kod>
+		<aciklama>Vadeli Akreditifte</aciklama>
+	</turu>
+	<turu>
+		<kod>303</kod>
+		<aciklama>Mal Mukabili İthalatta</aciklama>
+	</turu>	
+</ithalatta>
+</kodlar>

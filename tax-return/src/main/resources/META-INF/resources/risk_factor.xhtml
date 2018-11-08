@@ -1,0 +1,39 @@
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:p="http://primefaces.org/ui" template="templates/layout.xhtml">
+
+
+
+	<ui:define name="content">
+
+		<h:body>
+			<h:form id="taxGenerateForm">
+				<p:growl id="msg" showDetail="true" escape="false" />
+				<div>
+					<div>
+						<h1>Tax Return</h1>
+						<h1>Generate new Risk Factors for Current Company</h1>
+					</div>
+					<h:panelGrid columns="4" cellpadding="5">
+
+						<p:commandButton id="generate" value="Start" icon="ui-icon-play"
+							ajax="true" var="genVar"
+							actionListener="#{taxRiskFactorBean.generate}"
+							oncomplete="PF('pbAjax').start()" />
+						<p:progressBar widgetVar="pbAjax" ajax="true"
+							value="#{taxRiskFactorBean.generator.progress}"
+							labelTemplate="{value}%" styleClass="animated" global="false"
+							style="width:120px">
+							<p:ajax event="complete"
+								listener="#{taxRiskFactorBean.generator.onComplete}"
+								update="msg" />
+						</p:progressBar>
+					</h:panelGrid>
+				</div>
+
+			</h:form>
+		</h:body>
+	</ui:define>
+</ui:composition>

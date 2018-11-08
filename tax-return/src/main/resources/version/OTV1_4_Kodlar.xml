@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="ISO-8859-9"?>
+<kodlar>
+<!--
+	Ref :	AGTIP		AGTIPKodlari/data/kod
+	Ref :	BGTIP		BGTIPKodlari/data/kod
+	Ref :	GTIP		GTIPKodlari/data/kod
+	Ref :	AC_ACK	A_Cetvel_Aciklama/data/kod
+	Ref :	BC_ACK	B_Cetvel_Aciklama/data/kod
+	Ref :	IST		istisnaKodlari/data/kod
+	Ref :	IND		indirimKodlari/data/kod
+	Ref :	MGTIP		motorinGTIP/data/kod
+
+				
+-->
+<AGTIPKodlari>
+<data>
+	<kod>2710.11.11.00.00</kod>
+	<malAdi>Özel bir işleme tabi tutulacak olanlar (Yalnız nafta)</malAdi>
+</data>
+<data>
+	<kod>2710.11.31.00.00</kod>
+	<malAdi>Uçak benzini</malAdi>
+</data>
+<data>
+	<kod>2710.11.45.00.00</kod>
+	<malAdi>Oktanı (RON) 95 veya daha fazla fakat 98'den az olanlar</malAdi>
+</data>
+<data>
+	<kod>2710.11.49.00.00</kod>
+	<malAdi>Oktanı (RON) 98 veya daha fazla olanlar (Kurşunsuz süper benzin)</malAdi>
+</data>
+<data>
+	<kod>2710.11.51.00.00</kod>
+	<malAdi>Oktanı (RON) 98'den az olanlar (Kurşunlu süper benzin)</malAdi>
+</data>
+<data>
+	<kod>2710.11.59.00.00</kod>
+	<malAdi>Oktanı (RON) 98 veya daha fazla olanlar (Kurşunlu süper benzin)</malAdi>
+</data>
+<data>
+	<kod>2710.11.70.00.00</kod>
+	<malAdi>Benzin tipi jet yakıtı</malAdi>
+</data>
+<data>
+	<kod>2710.19.21.00.00</kod>
+	<malAdi>Jet yakıtı (Kerosen)</malAdi>
+</data>
+<data>
+	<kod>2710.19.41.00.11</kod>
+	<malAdi>Motorin  (Ağırlık itibariyle kükürt oranı % 0,05'i geçmeyenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.41.00.12</kod>
+	<malAdi>Marine Diesel (Ağırlık itibariyle kükürt oranı % 0,05'i geçmeyenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.41.00.19</kod>
+	<malAdi>Diğerleri (Ağırlık itibariyle kükürt oranı % 0, 05'i geçmeyenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.45.00.11</kod>
+	<malAdi>Motorin (Ağırlık itibariyle kükürt oranı % 0,05'i geçen fakat % 0,2'yi geçmeyenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.45.00.12</kod>
+	<malAdi>Marine Diesel (Ağırlık itibariyle kükürt oranı % 0,05'i geçen fakat % 0,2'yi geçmeyenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.45.00.19</kod>
+	<malAdi>Diğerleri (Ağırlık itibariyle kükürt oranı % 0,05'i geçen fakat % 0,2'yi geçenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.49.00.11</kod>
+	<malAdi>Motorin (Ağırlık itibariyle kükürt oranı % 0,2'yi geçenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.49.00.12</kod>
+	<malAdi>Marine Diesel (Ağırlık itibariyle kükürt oranı % 0,2'yi geçenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.49.00.19</kod>
+	<malAdi>Diğerleri (Ağırlık itibariyle kükürt oranı % 0,2'yi geçenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.61.00.00</kod>
+	<malAdi>Ağırlık itibariyle kükürt miktarı % 1'i geçmeyenler</malAdi>
+</data>
+<data>
+	<kod>2710.19.63.00.00</kod>
+	<malAdi>Ağırlık itibariyle kükürt miktarı % 1'i geçen fakat % 2'yi geçmeyenler</malAdi>
+</data>
+<data>
+	<kod>2710.19.65.00.00</kod>
+	<malAdi>Ağırlık itibariyle kükürt miktarı %2'i geçen fakat % 2.8'i geçmeyenler</malAdi>
+</data>
+<data>
+	<kod>2710.19.69.00.00</kod>
+	<malAdi>Ağırlık itibariyle kükürt miktarı % 2,8'i geçenler</malAdi>
+</data>
+<data>
+	<kod>27.11</kod>
+	<malAdi>Petrol gazları ve diğer gazlı hidrokarbonlar</malAdi>
+</data>
+<data>
+	<kod>2711.11.00.00.00</kod>
+	<malAdi>Doğal gaz (Sıvılaştırılmış), Motorlu taşıtlarda yakıt olarak kullanılacak olanlar, Diğerleri</malAdi>
+</data>
+<data>
+	<kod>2711.12</kod>
+	<malAdi>Propan (Sıvılaştırılmış)</malAdi>
+</data>
+<data>
+	<kod>2711.13</kod>
+	<malAdi>Bütan</malAdi>
+</data>
+<data>
+	<kod>2711.19.00.00.11</kod>
+	<malAdi>L.P.G (Tüplü+Dökme), LPG (Otogaz)</malAdi>
+</data>
+<data>
+	<kod>2711.21.00.00.00</kod>
+	<malAdi>Doğal gaz(Gaz halinde), Motorlu taşıtlarda yakıt olarak kullanılacak olanlar, Diğerleri </malAdi>
+</data>
+<data>
+	<kod>2711.29.00.00.11</kod>
+	<malAdi>Propan (Gaz Halinde)</malAdi>
+</data>
+<data>
+	<kod>2711.29.00.00.12</kod>
+	<malAdi>Bütan (Gaz Halinde)</malAdi>
+</data>
+<data>
+	<kod>2713.11.00.00.00</kod>
+	<malAdi>Kalsine edilmemiş</malAdi>
+</data>
+<data>
+	<kod>2713.12.00.00.00</kod>
+	<malAdi>Kalsine edilmiş</malAdi>
+</data>
+<data>
+	<kod>2713.20.00.00.19</kod>
+	<malAdi>Diğerleri</malAdi>
+</data>
+<data>
+	<kod>2713.90</kod>
+	<malAdi>Petrol yağlarının veya bitümenli minerallerden elde edilen yağların diğer kalıntıları</malAdi>
+</data>
+<data>
+	<kod>3824.90.99.90.54</kod>
+	<malAdi>Biodizel</malAdi>
+</data>
+</AGTIPKodlari>
+<BGTIPKodlari>
+<data>
+	<kod>2707.10</kod>
+	<malAdi>Benzol (Benzen)</malAdi>
+</data>
+<data>
+	<kod>2707.20</kod>
+	<malAdi>Toluol (toluen)</malAdi>
+</data>
+<data>
+	<kod>2707.50.90.00.11</kod>
+	<malAdi>Solvent nafta (Çözücü nafta)</malAdi>
+</data>
+<data>
+	<kod>2710.11.21.00.00</kod>
+	<malAdi>White spirit</malAdi>
+</data>
+<data>
+	<kod>2710.11.90.00.11</kod>
+	<malAdi>Diğer solventler (Çözücüler) (Petrol eteri)</malAdi>
+</data>
+<data>
+	<kod>2710.11.90.00.19</kod>
+	<malAdi>Diğerleri (Petrol eteri)</malAdi>
+</data>
+<data>
+	<kod>2710.19.29.00.00</kod>
+	<malAdi>Diğerleri (Petrol eteri)</malAdi>
+</data>
+<data>
+	<kod>2901.10.90.00.11</kod>
+	<malAdi>Hekzan</malAdi>
+</data>
+<data>
+	<kod>2901.10.90.00.12</kod>
+	<malAdi>Heptan</malAdi>
+</data>
+<data>
+	<kod>2901.10.90.00.13</kod>
+	<malAdi>Pentan</malAdi>
+</data>
+<data>
+	<kod>2902.20.00.00.00</kod>
+	<malAdi>Benzen (Benzol)</malAdi>
+</data>
+<data>
+	<kod>2902.30.00.00.00</kod>
+	<malAdi>Toluen (Toluol)</malAdi>
+</data>
+<data>
+	<kod>2909.19.00.00.13</kod>
+	<malAdi>Metil tersiyer bütil eter (MTBE)</malAdi>
+</data>
+<data>
+	<kod>3811.90.00.10.12</kod>
+	<malAdi>Hafif mineral yağlar için müstahzar katkılar</malAdi>
+</data>
+<data>
+	<kod>3814.00.90.00.00</kod>
+	<malAdi>Diğerleri (Esası bütil asetat olanlar hariç)</malAdi>
+</data>
+<data>
+	<kod>3824.90.40.00.00</kod>
+	<malAdi>Vernikler ve benzeri ürünler için anorganik karma çözücüler ve incelticiler</malAdi>
+</data>
+<data>
+	<kod>2710.19.25.00.00</kod>
+	<malAdi>Diğerleri(Yalnız gaz yağı)</malAdi>
+</data>
+<data>
+	<kod>2710.19.71.00.00</kod>
+	<malAdi>Özel bir işleme tabi tutulacak olanlar</malAdi>
+</data>
+<data>
+	<kod>2710.19.75.00.00</kod>
+	<malAdi>2710.19.71.00 Alt pozisyonunda belirtilen işlemlerden başka bir işlemle kimyasal değişime tabi tutulacak  olanlar</malAdi>
+</data>
+<data>
+	<kod>2710.19.81.00.11</kod>
+	<malAdi>Benzinli motor yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.81.00.12</kod>
+	<malAdi>Deniz diesel motor yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.81.00.13</kod>
+	<malAdi>Kompresör yağlama yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.81.00.14</kod>
+	<malAdi>Türbin yağlama yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.81.00.19</kod>
+	<malAdi>Diğer yağlar</malAdi>
+</data>
+<data>
+	<kod>2710.19.83.00.00</kod>
+	<malAdi>Hidrolik amaçlara mahsus sıvı yağlar</malAdi>
+</data>
+<data>
+	<kod>2710.19.85.00.11</kod>
+	<malAdi>Beyaz yağlar</malAdi>
+</data>
+<data>
+	<kod>2710.19.85.00.12</kod>
+	<malAdi>Sıvı parafin (Pirinç yağı)</malAdi>
+</data>
+<data>
+	<kod>2710.19.87.00.00</kod>
+	<malAdi>Dişli yağları ve redüktör yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.91.00.00</kod>
+	<malAdi>Metal işlemeye mahsus bileşikler, kalıp çıkarma yağları, aşınmayı önleyici yağlar</malAdi>
+</data>
+<data>
+	<kod>2710.19.93.00.00</kod>
+	<malAdi>Elektrik izolasyonuna mahsus yağlar</malAdi>
+</data>
+<data>
+	<kod>2710.19.99.00.11</kod>
+	<malAdi>Kızak yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.99.00.12</kod>
+	<malAdi>Soğutma yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.99.00.13</kod>
+	<malAdi>Otomatik şanzuman yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.99.00.14</kod>
+	<malAdi>Diğer şanzuman yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.99.00.15</kod>
+	<malAdi>Diferansiyel yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.99.00.19</kod>
+	<malAdi>Diğerleri (Yalnız bazyağlar)</malAdi>
+</data>
+<data>
+	<kod>3814.00.90</kod>
+	<malAdi>Diğerleri</malAdi>
+</data>
+</BGTIPKodlari>
+<GTIPKodlari>
+<data>
+	<kod>2710.11.11.00.00</kod>
+	<malAdi>Özel bir işleme tabi tutulacak olanlar (Yalnız nafta)</malAdi>
+</data>
+<data>
+	<kod>2710.11.31.00.00</kod>
+	<malAdi>Uçak benzini</malAdi>
+</data>
+<data>
+	<kod>2710.11.45.00.00</kod>
+	<malAdi>Oktanı (RON) 95 veya daha fazla fakat 98'den az olanlar</malAdi>
+</data>
+<data>
+	<kod>2710.11.49.00.00</kod>
+	<malAdi>Oktanı (RON) 98 veya daha fazla olanlar (Kurşunsuz süper benzin)</malAdi>
+</data>
+<data>
+	<kod>2710.11.51.00.00</kod>
+	<malAdi>Oktanı (RON) 98'den az olanlar (Kurşunlu süper benzin)</malAdi>
+</data>
+<data>
+	<kod>2710.11.59.00.00</kod>
+	<malAdi>Oktanı (RON) 98 veya daha fazla olanlar (Kurşunlu süper benzin)</malAdi>
+</data>
+<data>
+	<kod>2710.11.70.00.00</kod>
+	<malAdi>Benzin tipi jet yakıtı</malAdi>
+</data>
+<data>
+	<kod>2710.19.21.00.00</kod>
+	<malAdi>Jet yakıtı (Kerosen)</malAdi>
+</data>
+<data>
+	<kod>2710.19.41.00.11</kod>
+	<malAdi>Motorin  (Ağırlık itibariyle kükürt oranı % 0,05'i geçmeyenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.41.00.12</kod>
+	<malAdi>Marine Diesel (Ağırlık itibariyle kükürt oranı % 0,05'i geçmeyenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.41.00.19</kod>
+	<malAdi>Diğerleri (Ağırlık itibariyle kükürt oranı % 0, 05'i geçmeyenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.45.00.11</kod>
+	<malAdi>Motorin (Ağırlık itibariyle kükürt oranı % 0,05'i geçen fakat % 0,2'yi geçmeyenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.45.00.12</kod>
+	<malAdi>Marine Diesel (Ağırlık itibariyle kükürt oranı % 0,05'i geçen fakat % 0,2'yi geçmeyenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.45.00.19</kod>
+	<malAdi>Diğerleri (Ağırlık itibariyle kükürt oranı % 0,05'i geçen fakat % 0,2'yi geçenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.49.00.11</kod>
+	<malAdi>Motorin (Ağırlık itibariyle kükürt oranı % 0,2'yi geçenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.49.00.12</kod>
+	<malAdi>Marine Diesel (Ağırlık itibariyle kükürt oranı % 0,2'yi geçenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.49.00.19</kod>
+	<malAdi>Diğerleri (Ağırlık itibariyle kükürt oranı % 0,2'yi geçenler)</malAdi>
+</data>
+<data>
+	<kod>2710.19.61.00.00</kod>
+	<malAdi>Ağırlık itibariyle kükürt miktarı % 1'i geçmeyenler</malAdi>
+</data>
+<data>
+	<kod>2710.19.63.00.00</kod>
+	<malAdi>Ağırlık itibariyle kükürt miktarı % 1'i geçen fakat % 2'yi geçmeyenler</malAdi>
+</data>
+<data>
+	<kod>2710.19.65.00.00</kod>
+	<malAdi>Ağırlık itibariyle kükürt miktarı %2'i geçen fakat % 2.8'i geçmeyenler</malAdi>
+</data>
+<data>
+	<kod>2710.19.69.00.00</kod>
+	<malAdi>Ağırlık itibariyle kükürt miktarı % 2,8'i geçenler</malAdi>
+</data>
+<data>
+	<kod>27.11</kod>
+	<malAdi>Petrol gazları ve diğer gazlı hidrokarbonlar</malAdi>
+</data>
+<data>
+	<kod>2711.11.00.00.00</kod>
+	<malAdi>Doğal gaz (Sıvılaştırılmış), Motorlu taşıtlarda yakıt olarak kullanılacak olanlar, Diğerleri</malAdi>
+</data>
+<data>
+	<kod>2711.12</kod>
+	<malAdi>Propan (Sıvılaştırılmış)</malAdi>
+</data>
+<data>
+	<kod>2711.13</kod>
+	<malAdi>Bütan</malAdi>
+</data>
+<data>
+	<kod>2711.19.00.00.11</kod>
+	<malAdi>L.P.G (Tüplü+Dökme), LPG (Otogaz)</malAdi>
+</data>
+<data>
+	<kod>2711.21.00.00.00</kod>
+	<malAdi>Doğal gaz(Gaz halinde), Motorlu taşıtlarda yakıt olarak kullanılacak olanlar, Diğerleri </malAdi>
+</data>
+<data>
+	<kod>2711.29.00.00.11</kod>
+	<malAdi>Propan</malAdi>
+</data>
+<data>
+	<kod>2711.29.00.00.12</kod>
+	<malAdi>Bütan</malAdi>
+</data>
+<data>
+	<kod>2713.11.00.00.00</kod>
+	<malAdi>Kalsine edilmemiş</malAdi>
+</data>
+<data>
+	<kod>2713.12.00.00.00</kod>
+	<malAdi>Kalsine edilmiş</malAdi>
+</data>
+<data>
+	<kod>2713.20.00.00.19</kod>
+	<malAdi>Diğerleri</malAdi>
+</data>
+<data>
+	<kod>2713.90</kod>
+	<malAdi>Petrol yağlarının veya bitümenli minerallerden elde edilen yağların diğer kalıntıları</malAdi>
+</data>
+<data>
+	<kod>3824.90.99.90.54</kod>
+	<malAdi>Biodizel</malAdi>
+</data>
+<data>
+	<kod>2707.10</kod>
+	<malAdi>Benzol (Benzen)</malAdi>
+</data>
+<data>
+	<kod>2707.20</kod>
+	<malAdi>Toluol (toluen)</malAdi>
+</data>
+<data>
+	<kod>2707.50.90.00.11</kod>
+	<malAdi>Solvent nafta (Çözücü nafta)</malAdi>
+</data>
+<data>
+	<kod>2710.11.21.00.00</kod>
+	<malAdi>White spirit</malAdi>
+</data>
+<data>
+	<kod>2710.11.90.00.11</kod>
+	<malAdi>Diğer solventler (Çözücüler) (Petrol eteri)</malAdi>
+</data>
+<data>
+	<kod>2710.11.90.00.19</kod>
+	<malAdi>Diğerleri (Petrol eteri)</malAdi>
+</data>
+<data>
+	<kod>2710.19.29.00.00</kod>
+	<malAdi>Diğerleri (Petrol eteri)</malAdi>
+</data>
+<data>
+	<kod>2901.10.90.00.11</kod>
+	<malAdi>Hekzan</malAdi>
+</data>
+<data>
+	<kod>2901.10.90.00.12</kod>
+	<malAdi>Heptan</malAdi>
+</data>
+<data>
+	<kod>2901.10.90.00.13</kod>
+	<malAdi>Pentan</malAdi>
+</data>
+<data>
+	<kod>2902.20.00.00.00</kod>
+	<malAdi>Benzen (Benzol)</malAdi>
+</data>
+<data>
+	<kod>2902.30.00.00.00</kod>
+	<malAdi>Toluen (Toluol)</malAdi>
+</data>
+<data>
+	<kod>2909.19.00.00.13</kod>
+	<malAdi>Metil tersiyer bütil eter (MTBE)</malAdi>
+</data>
+<data>
+	<kod>3811.90.00.10.12</kod>
+	<malAdi>Hafif mineral yağlar için müstahzar katkılar</malAdi>
+</data>
+<data>
+	<kod>3814.00.90.00.00</kod>
+	<malAdi>Diğerleri (Esası bütil asetat olanlar hariç)</malAdi>
+</data>
+<data>
+	<kod>3824.90.40.00.00</kod>
+	<malAdi>Vernikler ve benzeri ürünler için anorganik karma çözücüler ve incelticiler</malAdi>
+</data>
+<data>
+	<kod>2710.19.25.00.00</kod>
+	<malAdi>Diğerleri</malAdi>
+</data>
+<data>
+	<kod>2710.19.71.00.00</kod>
+	<malAdi>Özel bir işleme tabi tutulacak olanlar</malAdi>
+</data>
+<data>
+	<kod>2710.19.75.00.00</kod>
+	<malAdi>2710.19.71.00 Alt pozisyonunda belirtilen işlemlerden başka bir işlemle kimyasal değişime tabi tutulacak  olanlar</malAdi>
+</data>
+<data>
+	<kod>2710.19.81.00.11</kod>
+	<malAdi>Benzinli motor yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.81.00.12</kod>
+	<malAdi>Deniz diesel motor yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.81.00.13</kod>
+	<malAdi>Kompresör yağlama yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.81.00.14</kod>
+	<malAdi>Türbin yağlama yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.81.00.19</kod>
+	<malAdi>Diğer yağlar</malAdi>
+</data>
+<data>
+	<kod>2710.19.83.00.00</kod>
+	<malAdi>Hidrolik amaçlara mahsus sıvı yağlar</malAdi>
+</data>
+<data>
+	<kod>2710.19.85.00.11</kod>
+	<malAdi>Beyaz yağlar</malAdi>
+</data>
+<data>
+	<kod>2710.19.85.00.12</kod>
+	<malAdi>Sıvı parafin (Pirinç yağı)</malAdi>
+</data>
+<data>
+	<kod>2710.19.87.00.00</kod>
+	<malAdi>Dişli yağları ve redüktör yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.91.00.00</kod>
+	<malAdi>Metal işlemeye mahsus bileşikler, kalıp çıkarma yağları, aşınmayı önleyici yağlar</malAdi>
+</data>
+<data>
+	<kod>2710.19.93.00.00</kod>
+	<malAdi>Elektrik izolasyonuna mahsus yağlar</malAdi>
+</data>
+<data>
+	<kod>2710.19.99.00.11</kod>
+	<malAdi>Kızak yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.99.00.12</kod>
+	<malAdi>Soğutma yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.99.00.13</kod>
+	<malAdi>Otomatik şanzuman yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.99.00.14</kod>
+	<malAdi>Diğer şanzuman yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.99.00.15</kod>
+	<malAdi>Diferansiyel yağları</malAdi>
+</data>
+<data>
+	<kod>2710.19.99.00.19</kod>
+	<malAdi>Diğerleri (Yalnız bazyağlar)</malAdi>
+</data>
+<data>
+	<kod>3814.00.90</kod>
+	<malAdi>Diğerleri</malAdi>
+</data>
+
+</GTIPKodlari>
+<A_Cetvel_Aciklama>
+	<data>
+		<kod>201</kod>
+		<aciklama>Normal</aciklama>
+	</data>	
+	<data>
+		<kod>204</kod>
+		<aciklama>2003/5868 sayılı kararname kapsamında</aciklama>
+	</data>
+	<data>
+		<kod>205</kod>
+		<aciklama>2005/8704 sayılı kararname kapsamında</aciklama>
+	</data>
+	<data>
+		<kod>206</kod>
+		<aciklama>2006/11202 Sayılı kararname kapsamında</aciklama>
+	</data>
+	<data>
+		<kod>207</kod>
+		<aciklama>2006/10798 Sayılı kararname kapsamında</aciklama>
+	</data>
+</A_Cetvel_Aciklama>
+<B_Cetvel_Aciklama>
+	<data>
+		<kod>201</kod>
+		<aciklama>Normal</aciklama>
+	</data>	
+	<data>
+		<kod>202</kod>
+		<aciklama>2002/4930 sayılı kararname kapsamında</aciklama>
+	</data>
+	<data>
+		<kod>203</kod>
+		<aciklama>2003/6467 sayılı kararname kapsamında</aciklama>
+	</data>
+</B_Cetvel_Aciklama>
+<istisnaKodlari>
+	<data>
+		<kod>101</kod>
+		<ad>İhracat İstisnası</ad>
+	</data>
+	<data>
+		<kod>102</kod>
+		<ad>Diplomatik İstisna</ad>
+	</data>
+	<data>
+		<kod>103</kod>
+		<ad>Askeri Amaçlı İstisna</ad>
+	</data>
+	<data>
+		<kod>104</kod>
+		<ad>Petrol Arama Faal. Bul. Yapılan Teslimler</ad>
+	</data>
+	<data>
+		<kod>105</kod>
+		<ad>Uluslararası Anlaşmadan Doğan İstisna</ad>
+	</data>
+	<data>
+		<kod>106</kod>
+		<ad>Diğer İstisnalar</ad>
+	</data>
+	<data>
+		<kod>107</kod>
+		<ad>7/A Maddesi Kapsamında Yapılan Teslimler</ad>
+	</data>
+</istisnaKodlari>
+<indirimKodlari>
+	<data>
+		<kod>301</kod>
+		<ad>Satışlardan İade Edilen Mallara Ait İndirilecek ÖTV</ad>
+	</data>
+	<data>
+		<kod>302</kod>
+		<ad>Diplomatik İstisnalar Nedeniyle İndirilecek ÖTV</ad>
+	</data>
+	<data>
+		<kod>303</kod>
+		<ad>15. Maddede Fazla Ödenen Vergi</ad>
+	</data>
+	<data>
+		<kod>304</kod>
+		<ad>7/A Maddesi Kapsamında Yapılan Mahsuplar</ad>
+	</data>
+</indirimKodlari>
+<motorinGTIP>
+	<data>
+		<kod>2710.19.41.00.11</kod>
+		<malAdi>Motorin  (Ağırlık itibariyle kükürt oranı % 0,05'i geçmeyenler)</malAdi>
+	</data>
+	<data>
+		<kod>2710.19.41.00.19</kod>
+		<malAdi>Diğerleri (Ağırlık itibariyle kükürt oranı % 0, 05'i geçmeyenler)</malAdi>
+	</data>
+	<data>
+		<kod>2710.19.45.00.11</kod>
+		<malAdi>Motorin (Ağırlık itibariyle kükürt oranı % 0,05'i geçen fakat % 0,2'yi geçmeyenler)</malAdi>
+	</data>
+	<data>
+		<kod>2710.19.49.00.11</kod>
+		<malAdi>Motorin (Ağırlık itibariyle kükürt oranı % 0,2'yi geçenler)</malAdi>
+	</data>
+</motorinGTIP>
+</kodlar>
+

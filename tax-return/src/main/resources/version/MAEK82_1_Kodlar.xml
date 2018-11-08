@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<asgariMatrahlar>
+		<data><yil>2006</yil><asgariMatrah>4775.00</asgariMatrah><oran1>5</oran1><oran2>15</oran2></data>
+		<data><yil>2007</yil><asgariMatrah>5160.00</asgariMatrah><oran1>4</oran1><oran2>15</oran2></data>
+		<data><yil>2008</yil><asgariMatrah>5610.00</asgariMatrah><oran1>3</oran1><oran2>15</oran2></data>
+		<data><yil>2009</yil><asgariMatrah>6115.00</asgariMatrah><oran1>2</oran1><oran2>15</oran2></data>
+	</asgariMatrahlar>
+</kodlar>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-9"?>
+<kodlar>
+<!--
+	Ref : GTIP		GTIPKodlari/data/kod
+	Ref : IST		istisnaKodlari/data/kod
+	Ref : IND		indirimKodlari/data/kod
+-->
+<GTIPKodlari>
+	<data>
+		<kod>20.09</kod>
+		<malAdi>Meyve suları (üzüm şırası dahil) ve sebze suları (fermente edilmiş ve alkol katılmamış) ilave şeker veya diğer tatlandırıcı maddeler katılmış olsun olmasın (yalnız ambalajlanmış olanlar ve/veya toptan teslime konu edilenler) (Sebze suları ve Türk Gıda Kodeksine gör e %100 meyve suyu sayılanlar hariç)</malAdi>
+	</data>
+	<data>
+		<kod>22.02</kod>
+		<malAdi>Sular (mineral sular ve gazlı sular dahil) (ilave şeker veya tatlandırıcı maddeler katılmış veya aromalandırılmış) ve alkolsüz diğer içecekler (20.09 pozisyonundaki meyve ve sebze suları hariç) (Yalnız ambalajlanmış olanlar ve/veya toptan teslime konu edilenler) (Doğal mineralli doğal maden suyu ile üretilmiş, tatlandırılmış, aromalandırılmış meyveli gazlı içecekler ile 2202.10.00.00.11, 2202.10.00.00.12, 2202.10.00.00.13, 2202.91.00.00.00 hariç)</malAdi>
+	</data>
+	<data>
+		<kod>2202.10.00.00.11</kod>
+		<malAdi>Sade gazozlar</malAdi>
+	</data>
+	<data>
+		<kod>2202.10.00.00.12</kod>
+		<malAdi>Meyvalı gazozlar</malAdi>
+	</data>
+	<data>
+		<kod>2202.10.00.00.13</kod>
+		<malAdi>Kolalı gazozlar</malAdi>
+	</data>
+	<data>
+		<kod>2202.91.00.00.00</kod>
+		<malAdi>Alkolsüz biralar</malAdi>
+	</data>	
+</GTIPKodlari>
+<istisnaKodlari>
+	<data>
+		<kod>101</kod>
+		<ad>İhracat İstisnası</ad>
+	</data>
+		<data>
+		<kod>103</kod>
+		<ad>Gümrüksüz Satış Mağazalarına Yapılan Teslimlerde İstisna</ad>
+	</data>
+	<data>
+		<kod>102</kod>
+		<ad>Diplomatik İstisna</ad>
+	</data>
+	<data>
+		<kod>105</kod>
+		<ad>Uluslararası Anlaşmadan Doğan İstisna</ad>
+	</data>
+</istisnaKodlari>
+<turKodlari>
+	<data>
+		<kod>101</kod>
+		<ad>Meyve suyu nektarları</ad>
+	</data>
+	<data>
+		<kod>102</kod>
+		<ad>Meyveli içecek </ad>
+	</data>
+	<data>
+		<kod>103</kod>
+		<ad>Soğuk çay</ad>
+	</data>
+	<data>
+		<kod>104</kod>
+		<ad>Soğuk kahve</ad>
+	</data>
+	<data>
+		<kod>105</kod>
+		<ad>Enerji İçeceği</ad>
+	</data>
+	<data>
+		<kod>106</kod>
+		<ad>Sporcu içeceği</ad>
+	</data>
+	<data>
+		<kod>107</kod>
+		<ad>Limonata</ad>
+	</data>
+	<data>
+		<kod>108</kod>
+		<ad>Tonik</ad>
+	</data>
+	<data>
+		<kod>100</kod>
+		<ad>Diğerleri</ad>
+	</data>
+</turKodlari>
+</kodlar>

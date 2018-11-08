@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<vergiOranlari>
+		<vergiOrani><yil>2013</yil><oran>3.5</oran></vergiOrani>
+		<vergiOrani><yil>2014</yil><oran>3</oran></vergiOrani>
+		<vergiOrani><yil>2015</yil><oran>2.5</oran></vergiOrani>
+		<vergiOrani><yil>2016</yil><oran>2</oran></vergiOrani>
+		<vergiOrani><yil>2017</yil><oran>1.5</oran></vergiOrani>
+	</vergiOranlari>
+	<vergiOranlari2>
+		<vergiOrani><yil>2013</yil><oran>18</oran></vergiOrani>
+		<vergiOrani><yil>2014</yil><oran>18</oran></vergiOrani>
+		<vergiOrani><yil>2015</yil><oran>18</oran></vergiOrani>
+		<vergiOrani><yil>2016</yil><oran>18</oran></vergiOrani>
+		<vergiOrani><yil>2017</yil><oran>18</oran></vergiOrani>
+	</vergiOranlari2>
+</kodlar>

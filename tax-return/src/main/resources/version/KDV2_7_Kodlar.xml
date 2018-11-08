@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref : TUIAB_O	oranlar/oran/oran
+	Ref : TUIAB_TO	tevkifatOranlari/tevkifatOrani/tevkifatOrani
+-->
+	<oranlar>
+		<oran>
+			<oran>1</oran>
+		</oran>
+		<oran>
+			<oran>8</oran>
+		</oran>
+		<oran>
+			<oran>18</oran>
+		</oran>
+	</oranlar>
+	<tevkifatOranlari>
+		<tevkifatOrani>
+			<tevkifatOrani>1/3</tevkifatOrani>
+		</tevkifatOrani>
+		<tevkifatOrani>
+			<tevkifatOrani>2/3</tevkifatOrani>
+		</tevkifatOrani>
+		<tevkifatOrani>
+			<tevkifatOrani>1/2</tevkifatOrani>
+		</tevkifatOrani>
+		<tevkifatOrani>
+			<tevkifatOrani>9/10</tevkifatOrani>
+		</tevkifatOrani>
+		 <tevkifatOrani>
+			<tevkifatOrani>1/6</tevkifatOrani>
+		</tevkifatOrani>
+		 <tevkifatOrani>
+			<tevkifatOrani>4/5</tevkifatOrani>
+		</tevkifatOrani>
+	</tevkifatOranlari>
+	<tamTevkifatIslemTurleri>
+		<tamTevkifatIslemTuru> 
+			<kod>101</kod>
+			<ad>İKAMETGÂHI, İŞYERİ, KANUNİ MERKEZİ VE İŞ MERKEZİ TÜRKİYEDE BULUNMAYANLAR TARAFINDAN YAPILAN İŞLEMLER [KDVGUT-(I/C-2.1.2.1)]</ad>
+		</tamTevkifatIslemTuru>
+		<tamTevkifatIslemTuru> 
+			<kod>102</kod>	
+			<ad>SERBEST MESLEK FAALİYETİ ÇERÇEVESİNDE YAPILAN TESLİM VE HİZMETLER [KDVGUT-(I/C-2.1.2.2)]</ad>
+		</tamTevkifatIslemTuru>
+		<tamTevkifatIslemTuru> 
+			<kod>103</kod>	
+			<ad>KİRALAMA İŞLEMLERİ [KDVGUT-(I/C-2.1.2.3)]</ad>
+		</tamTevkifatIslemTuru>
+		<tamTevkifatIslemTuru> 
+			<kod>104</kod>	
+			<ad>REKLÂM VERME İŞLEMLERİ [KDVGUT-(I/C-2.1.2.4)]</ad>
+		</tamTevkifatIslemTuru>
+		<tamTevkifatIslemTuru> 
+			<kod>150</kod>	
+			<ad>DİĞERLERİ</ad>
+		</tamTevkifatIslemTuru>
+	</tamTevkifatIslemTurleri>
+	<kismiTevkifatIslemTurleri>
+		<kismiTevkifatIslemTuru>
+			<kod>201</kod>	
+			<ad>YAPIM İŞLERİ İLE BU İŞLERLE BİRLİKTE İFA EDİLEN MÜHENDİSLİK-MİMARLIK VE ETÜT-PROJE HİZMETLERİ [KDVGUT-(I/C-2.1.3.2.1)]</ad>
+			<oran>2/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>202</kod>	
+			<ad>ETÜT, PLAN-PROJE, DANIŞMANLIK, DENETİM VE BENZERİ HİZMETLER[KDVGUT-(I/C-2.1.3.2.2)]</ad>
+			<oran>9/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>203</kod>	
+			<ad>MAKİNE, TEÇHİZAT, DEMİRBAŞ VE TAŞITLARA AİT TADİL, BAKIM VE ONARIM HİZMETLERİ [KDVGUT-(I/C-2.1.3.2.3)]</ad>
+			<oran>5/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>204</kod>	
+			<ad>YEMEK SERVİS HİZMETİ [KDVGUT-(I/C-2.1.3.2.4)]</ad>
+			<oran>5/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>205</kod>	
+			<ad>ORGANİZASYON HİZMETİ [KDVGUT-(I/C-2.1.3.2.4)]</ad>	
+			<oran>5/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>206</kod>	
+			<ad>İŞGÜCÜ TEMİN HİZMETLERİ [KDVGUT-(I/C-2.1.3.2.5)]</ad>	
+			<oran>9/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>207</kod>	
+			<ad>ÖZEL GÜVENLİK HİZMETİ [KDVGUT-(I/C-2.1.3.2.5)]</ad>
+			<oran>9/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>208</kod>	
+			<ad>YAPI DENETİM HİZMETLERİ [KDVGUT-(I/C-2.1.3.2.6)]</ad>	
+			<oran>9/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>209</kod>	
+			<ad>FASON OLARAK YAPTIRILAN TEKSTİL VE KONFEKSİYON İŞLERİ, ÇANTA VE AYAKKABI DİKİM İŞLERİ VE BU İŞLERE ARACILIK HİZMETLERİ [KDVGUT-(I/C-2.1.3.2.7)]</ad>	
+			<oran>5/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>210</kod>	
+			<ad>TURİSTİK MAĞAZALARA VERİLEN MÜŞTERİ BULMA / GÖTÜRME HİZMETLERİ [KDVGUT-(I/C-2.1.3.2.8)]</ad>	
+			<oran>9/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>211</kod>	
+			<ad>SPOR KULÜPLERİNİN YAYIN, REKLÂM VE İSİM HAKKI GELİRLERİNE KONU İŞLEMLERİ [KDVGUT-(I/C-2.1.3.2.9)]</ad>	
+			<oran>9/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>212</kod>	
+			<ad>TEMİZLİK HİZMETİ [KDVGUT-(I/C-2.1.3.2.10)]</ad>	
+			<oran>7/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>213</kod>	
+			<ad>ÇEVRE VE BAHÇE BAKIM HİZMETLERİ [KDVGUT-(I/C-2.1.3.2.10)]</ad>	
+			<oran>7/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>214</kod>	
+			<ad>SERVİS TAŞIMACILIĞI HİZMETİ [KDVGUT-(I/C-2.1.3.2.11)]</ad>	
+			<oran>5/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>215</kod>	
+			<ad>HER TÜRLÜ BASKI VE BASIM HİZMETLERİ [KDVGUT-(I/C-2.1.3.2.12)]</ad>	
+			<oran>5/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>216</kod>	
+			<ad>5018 SAYILI KANUNA EKLİ CETVELLERDEKİ İDARE, KURUM VE KURUŞLARA YAPILAN DİĞER HİZMETLER [KDVGUT-(I/C-2.1.3.2.13)]</ad>	
+			<oran>5/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>217</kod>	
+			<ad>HURDA METALDEN ELDE EDİLEN KÜLÇE TESLİMİ [KDVGUT-(I/C-2.1.3.3.1)]</ad>	
+			<oran>5/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>218</kod>	
+			<ad>HURDA METALDEN ELDE EDİLEN DIŞINDAKİ BAKIR, ÇİNKO, ALÜMİNYUM VE KURŞUN KÜLÇE TESLİMİ [KDVGUT-(I/C-2.1.3.3.1)]</ad>
+			<oran>5/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>219</kod>	
+			<ad>BAKIR, ÇİNKO, ALÜMİNYUM VE KURŞUN ÜRÜNLERİNİN TESLİMİ [KDVGUT-(I/C-2.1.3.3.2)]</ad>
+			<oran>5/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>220</kod>	
+			<ad>İSTİSNADAN VAZGEÇENLERİN HURDA VE ATIK TESLİMİ [KDVGUT-(I/C-2.1.3.3.3)]</ad>
+			<oran>5/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>221</kod>	
+			<ad>METAL, PLASTİK, LASTİK, KAUÇUK, KÂĞIT VE CAM HURDA VE ATIKLARDAN ELDE EDİLEN HAMMADDE TESLİMİ [KDVGUT-(I/C-2.1.3.3.4)]</ad>
+			<oran>9/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>222</kod>	
+			<ad>PAMUK, TİFTİK, YÜN VE YAPAĞI İLE HAM POST VE DERİ TESLİMLERİ [KDVGUT-(I/C-2.1.3.3.5)]</ad>	
+			<oran>9/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>223</kod>	
+			<ad>AĞAÇ VE ORMAN ÜRÜNLERİ TESLİMİ [KDVGUT-(I/C-2.1.3.3.6)]</ad>
+			<oran>5/10</oran>
+		</kismiTevkifatIslemTuru>
+		<kismiTevkifatIslemTuru>
+			<kod>250</kod>	
+			<ad>DİĞERLERİ</ad>
+			<oran>2/10,5/10,7/10,9/10</oran>
+		</kismiTevkifatIslemTuru>
+	</kismiTevkifatIslemTurleri>
+	<KesintiOdemeTuru>
+		<data>
+			<kod>101</kod>
+			<aciklama>Yurtdışına Yapılan Ödemeler</aciklama>
+		</data>
+		<data>
+			<kod>102</kod>
+			<aciklama>117 Seri Nolu Teb.Gereği Yapılan Ödemeler</aciklama>
+		</data>
+	</KesintiOdemeTuru>
+</kodlar>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: PUAV_APT 	police/paraTuru/kod
+	Ref: MKCVB_APT 	muhasebe/paraTuru/kod
+-->
+	<police>
+		<paraTuru>
+	     		<kod>101</kod>
+	         	<aciklama>Primler</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>102</kod>
+	         	<aciklama>İdare Masrafları, İstihsal Masrafları ve Gider Karşılıkları</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>103</kod>
+	         	<aciklama>Zeyilname</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>104</kod>
+	         	<aciklama>Faiz ve Paylar</aciklama>
+		</paraTuru>
+		<paraTuru>
+	    	 	<kod>105</kod>
+	         	<aciklama>Diğer İşlemler</aciklama>
+		</paraTuru>
+	</police>
+	<muhasebe>
+		<paraTuru>
+	     		<kod>201</kod>
+	         	<aciklama>Faiz</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>202</kod>
+	         	<aciklama>Komisyon</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>203</kod>
+	         	<aciklama>Aciyo</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>204</kod>
+	         	<aciklama>Esham ve Tahvilat Satış Farkları</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>205</kod>
+	         	<aciklama>Esham ve Tahvilattan Faiz, İkramiye ve Temettü</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>206</kod>
+	         	<aciklama>Gayrimenkul Alım-Satım Farkları</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>207</kod>
+	         	<aciklama>Gayrimenkul Kiraları</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>208</kod>
+	         	<aciklama>Devlet Tahvili ve Hazine Bonoları ile Toplu Konut İdaresi, Kamu Ortaklığı İdaresi ve Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerin Geri Alım ve Satım Taahhüdü ile İktisap veya Elden Çıkarılması Sonucu Lehe Alınan Paralar</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>209</kod>
+	         	<aciklama>Devlet Tahvili ve Hazine Bonoları ile Toplu Konut İdaresi, Kamu Ortaklığı İdaresi ve Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerin Vadesi Beklenilmeksizin Satışı Sonucu Lehe Alınan Paralar</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>211</kod>
+	         	<aciklama>Merkez Bankasınca İhraç Edilen Likidite  Senetlerinin Geri Alım Ve Satım Taahhüdü İle İktisap veya Elden Çıkarılması Karşılığında Lehe Alınan Paralar</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>212</kod>
+	         	<aciklama>Merkez Bankasınca İhraç Edilen Likidite  Senetlerinin Vadesi Beklenilmeksizin Satışı Nedeniyle Lehe Alınan Paralar</aciklama>
+		</paraTuru>
+		<paraTuru>
+	     		<kod>210</kod>
+	         	<aciklama>Müteferrik</aciklama>
+		</paraTuru>
+	</muhasebe>
+</kodlar>

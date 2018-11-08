@@ -1,0 +1,42 @@
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:p="http://primefaces.org/ui" template="templates/layout.xhtml">
+	<ui:define name="content">
+		<h:form>
+			<h3>E-BEYAN ARAÇLARI</h3>
+			<h2>DÜZENLE</h2>
+			<h:panelGrid columns="6">
+				<div>
+					<p:commandButton icon="ui-icon-plus" value="Beyanname Kontrol"
+						action="tax_return.xhtml?faces_redirect=true"
+						style="height:144px; width:144px; margin:36px" />
+				</div>
+				<div>
+					<p:commandButton icon="ui-icon-plus" value="Geçerli Beyannameler"
+						action="subject_version.xhtml?faces_redirect=true"
+						style="height:144px; width:144px; margin:36px" />
+				</div>
+				<div>
+					<p:commandButton value="Kriter Ekle"
+						action="criteria.xhtml?faces_redirect=true"
+						style="height:144px; width:144px; margin:36px" />
+				</div>
+				<div>
+					<p:commandButton value="Risk Faktör"
+						action="risk_factor.xhtml?faces_redirect=true"
+						style="height:144px; width:144px; margin:36px" />
+				</div>
+			</h:panelGrid>
+			<h2>EKLE</h2>
+			<h:panelGrid columns="6">
+				<div>
+					<p:commandButton icon="ui-icon-plus"
+						action="data.xhtml?faces_redirect=true"
+						style="height:144px; width:144px; margin:36px" />
+				</div>
+			</h:panelGrid>
+		</h:form>
+	</ui:define>
+</ui:composition>

@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: GTIP 		GTIPKodlari/data/kod
+	Ref: IST_IT		istisnaKodlari/vergidairesi/vdkod
+	Ref: IND_IN 	indirimKodlari/data/kod
+-->
+  <GTIPKodlari>
+	<data>
+		<kod>1604.30</kod>
+		<malAdi>Havyar ve havyar yerine kullanılan ürünler</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>3303.00</kod>
+		<malAdi>Parfümler ve tuvalet suları</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>33.04</kod>
+		<malAdi>Güzellik veya makyaj müstahzarları ve cilt bakımı için müstahzarlar (İlaçlar hariç) (güneş kremleri veya güneşlenme müstahzarları dahil); manikür ve pedikür müstahzarları</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>3305.20.00.00.00</kod>
+		<malAdi>Perma ve defrize müstahzarları </malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>3305.30.00.00.00</kod>
+		<malAdi>Saç Spreyi</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>3305.90</kod>
+		<malAdi>Diğerleri(Saç Losyonları, boyaları, v.b)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>33.07</kod>
+		<malAdi>Traş öncesi, traş sırasında veya traştan sonra kullanılan müstahzarlar, vücut deodorantları, banyo müstahzarları, tüy dökücüler ve tarifenin başka yerinde yer almayan veya belirtilmeyen diğer parfümeri, kozmetik veya tuvalet müstahzarları, kapalı yerlerde kullanılan müstahzar deodorantlar (parfümlü veya dezenfekte edici vasfı olsun olmasın)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>33.07.</kod>
+		<malAdi>Traş sabunu, traş köpüğü ve traş kremi</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>43</kod>
+		<malAdi>Postlar, kürkler ve taklit kürkler; bunların mamülleri  (Bu fasılda yer alan koyun, kuzu, keçi ve oğlakların postları, kürkleri ve taklit kürkleri ile bunlardan mamul giyim eşyası, aksesuarları ve diğer eşya hariç)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>49.01</kod>
+		<malAdi>Kitaplar, broşürler, risaleler ve benzeri matbuat (ayrı ayrı sayfalar halinde olsun olmasın) (Yalnız 3266 sayılı Kanunla değişik 1117 sayılı Kanun hükümlerine göre poşetlenerek satılanlar)  </malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>49.02</kod>
+		<malAdi>Gazeteler ve periyodik yayınlar (resimli olsun olmasın veya reklam içersin içermesin) (Yalnız 3266 sayılı Kanunla değişik 1117 sayılı Kanun hükümlerine göre poşetlenerek satılanlar)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>7013.10.00.10.00</kod>
+		<malAdi>Sofra ve mutfak işleri için olanlar (Cam seramiğinden sofra ve mutfak eşyası)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>7013.21.11.00.00</kod>
+		<malAdi>Kesilmiş veya başka şekilde dekorlanmış(Kurşun kristalden el imali bardak)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>7013.21.19.00.00</kod>
+		<malAdi>Diğerleri (Kurşun kristalden el imali bardak)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>7013.21.91.00.00</kod>
+		<malAdi>Kesilmiş veya başka şekilde dekorlanmış(Kurşun kristalden makine imali bardak) </malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>7013.21.99.00.00</kod>
+		<malAdi>Diğerleri (Kurşun kristalden sofra ve mutfak eşyası)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>7013.31.10.00.00</kod>
+		<malAdi>El imali olanlar(Bardak hariç)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>7013.31.90.00.00</kod>
+		<malAdi>Makine imali olanlar(Kurşun kristalden sofra ve mutfak eşyası) (Bardak hariç)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>7013.91.10.00.00</kod>
+		<malAdi>El imali olanlar (Kurşun kristalden tuvalet, yazıhane eşyası)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>7013.91.90.00.00</kod>
+		<malAdi>Makine imali olanlar (Kurşun kristalden tuvalet, yazıhane eşyası)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>71.01</kod>
+		<malAdi>Tabii inci veya kültür incileri (işlenmiş veya tasnife tabi tutulmuş olsun olmasın) (fakat ipliğe dizilmemiş, mıhlanmamış veya takılmamış); tabii inci veya kültür incileri (taşınmasında kolaylık sağlamak amacıyla geçici olarak ipliğe dizilmiş)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>71.02</kod>
+		<malAdi>Elmaslar (işlenmiş olsun olmasın, fakat mıhlanmamış veya takılmamış)  (Sanayide kullanılanlar hariç)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>71.03</kod>
+		<malAdi>Kıymetli taşlar (elmaslar hariç) veya yarı kıymetli taşlar (işlenmiş veya tasnife tabi tutulmuş olsun olmasın)(fakat ipliğe dizilmemiş, mıhlanmamış veya takılmamış); kıymetli taşlar (elmaslar hariç) veya yarı kıymetli taşlar (tasnife tabi tutulmamış) (taşınmasında kolaylık sağlamak amacıyla geçici olarak ipliğe dizilmiş)(Sanayide kullanılmayan sentetik veya terkip yoluyla elde edilen kıymetli veya yarı kıymetli taşlar)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>7104.90.00.00.19</kod>
+		<malAdi>Diğerleri</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>71.05</kod>
+		<malAdi>Tabii veya sentetik, kıymetli veya yarı kıymetli taşların toz ve pudraları  (Sanayide kullanılanlar hariç)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>71.16</kod>
+		<malAdi>Tabii inci veya kültür incilerinden, kıymetli ya da yarı kıymetli taşlardan eşya (tabii, sentetik veya terkip yoluyla elde edilmiş)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8214.20.00.00.00</kod>
+		<malAdi>Manikür ve pedikür takım ve aletleri (tırnak törpüleri dahil)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8215.10.20.00.11</kod>
+		<malAdi>Altın ve gümüşle kaplamalı olanlar (Kaşık, çatal  vb. takım halinde)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8215.91.00.90.11</kod>
+		<malAdi>Altın ve gümüşle kaplamalı olanlar (Tek kaşık, çatal vb.)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>84.15</kod>
+		<malAdi>Klima cihazları (motorlu bir vantilatör ile nem ve ısıyı değiştirmeye mahsus tertibatı olanlar) (nemin ayrı olarak ayarlanamadığı cihazlar dahil) (Yalnız 8415.10.10.00.00; 8415.81.90.00.19; 8415.82.80.00.19; 8415.83.90.00.19)  [(Tek bir gövde halinde (Self-contained);bir soğutucu ünite ve soğutma-ısıtma çevirimini tersine değiştiren bir valf içerenler (ters çevirimli ısı pompaları) (sivil hava taşıtlarında kullanılmaya, binek otolarına, diğer karayolu taşıtlarına mahsus olmayanlar); (Bir soğutucu ünite içeren sivil hava taşıtlarında kullanılmaya, binek otolarına, diğer karayolu taşıtlarına mahsus olmayan pencere ve duvar tipi olmayan motorlu taşıtlarda şahıslar için kullanılmayan klima cihazı)]</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>84.18</kod>
+		<malAdi>Buzdolapları, dondurucular ve diğer soğutucu ve dondurucu cihazlar (elektrikli olsun olmasın); ısı pompaları (84.15 pozisyonundaki klima cihazları hariç) (Diğer soğutucu veya dondurucu cihazlar; ısı pompaları hariç)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8419.11.00.00.00</kod>
+		<malAdi>Gazla çalışan anında su ısıtıcılar</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8419.19.00.00.11</kod>
+		<malAdi>Termosifonlar (depolu su ısıtıcıları)(Katı yakıtlı)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8419.19.00.00.19</kod>
+		<malAdi>Diğerleri (Termosifonlar ve güneş enerjili su ısıtıcıları dışında elektrikli olmayan anında veya depolu su ısıtıcıları)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8421.12.00.00.11</kod>
+		<malAdi>Bir defada kurutacağı çamaşırın kuru ağırlığı 6 kg'ı geçmeyecek kapasitede olanlar (Çamaşır kurutma makinaları)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8422.11.00.00.00</kod>
+		<malAdi>Evlerde kullanılanlar  (Bulaşık yıkama makinaları)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8450.11.11.00.00</kod>
+		<malAdi>Çamaşırı önden yüklemeli olanlar( Kuru çamaşır kapasitesi 6 kg.ı geçmeyen tam otomatik çamaşır yıkama makinası)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8450.11.19.00.00</kod>
+		<malAdi>Çamaşırı üstten yüklemeli olanlar (Kuru çamaşır kapasitesi 6kg.ı geçmeyen tam otomatik çamaşır yıkama makinesi)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8450.11.90.00.00</kod>
+		<malAdi>Kuru çamaşır kapasitesi 6 kg'ı geçen fakat 10 kg'ı geçmeyenler (Tam otomatik çamaşır yıkama makinası)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8450.12.00.00.00</kod>
+		<malAdi>Diğer çamaşır makinaları (Santrifüjlü kurutma tertibatlı  olanlar)  (Çamaşır yıkama makinası)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8450.19.00.00.11</kod>
+		<malAdi>Elektrikli olanlar(Kuru çamaşır kapasitesi 10 kg.ı geçmeyen, santrifüjlü kurutma tertibatı olmayan çamaşır yıkama makinası)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8450.19.00.00.19</kod>
+		<malAdi>Diğerleri  (Elektrikli olmayan çamaşır  makinası)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8451.21.10.00.11</kod>
+		<malAdi>Evlerde kullanılanlar  (Kuru çamaşır kapasitesi 6 kg.ı geçmeyen kurutma makinaları)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8451.21.90.00.11</kod>
+		<malAdi>Evlerde kullanılanlar  (Kuru çamaşır kapasitesi 6 kg.ı geçen fakat 10 kg.ı geçmeyen kurutma makinaları) </malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>85.09</kod>
+		<malAdi>Ev işlerinde kullanılmaya mahsus elektrik motorlu elektro-mekanik cihazlar  (Elektrik süpürgesi, yer cilalama makinaları, öğütme makinaları, mikser, blender vb.)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8510.10.00.00.00</kod>
+		<malAdi>Traş makinaları (Elektrikli)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>85.16</kod>
+		<malAdi>Elektrikli anında veya depolu su ısıtıcılar ve daldırma tipi ısıtıcılar; herhangi bir mahallin veya toprak ve benzeri yerlerin ısıtılmasına mahsus elektrikli cihazlar; berber işleri için elektrotermik cihazlar (saç kurutucular, saç kıvırma cihazları, saç kıvırma maşalarını ısıtma cihazları gibi) ve el kurutma makinaları; elektrikli ütüler; ev işlerinde kullanılan diğer elektrotermik cihazlar; elektrikli ısıtıcı rezistanslar (85.45 pozisyonundakiler hariç) (Elektrikli ütüler hariç)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8517.11</kod>
+		<malAdi>Kordonsuz ahizeli telli telefon cihazları</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>85.18</kod>
+		<malAdi>Mikrofonlar ve bunların mesnetleri; hoparlörler (kabinlerine monte edilmiş olsun olmasın); başa takılan kulaklıklar,kulağa takılan kulaklıklar (bir mikrofonla kombine halde olsun olmasın), bir mikrofon ve bir veya daha fazla hoparlör içeren setler; elektrikli ses frekansı yükselteçleri , takım halindeki ses amplifikatörleri </malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>85.19</kod>
+		<malAdi>Plak döndürücüler, pikaplar, kaset çalarlar ve kaydedilen sesi tekrar vermeye mahsus diğer cihazlar (ses kaydedici tertibatı bulunmayan)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>85.20</kod>
+		<malAdi>Manyetik ses kaydetme cihazları ve diğer ses kaydeden cihazlar (kaydedilen sesi tekrar vermeye mahsus tertibatı olsun olmasın) (8520.32.91.00.00, 8520.32.99.00.00, 8520.39, 8520.90 hariç)(Makara tipi, makara tipi olmayan, numerik ve kaset tipi olmayanlar hariç)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>85.21</kod>
+		<malAdi>Video kayıt veya gösterme cihazları (bir video tunerle birlikte olsun olmasın)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8523.11.00.00.13</kod>
+		<malAdi>Kasetli video bantları(Manyetik. Genişliği 4 mm.yi geçmeyenler)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8523.11.00.00.14</kod>
+		<malAdi>Diğer video bantları (Manyetik.Genişliği 4 mm.yi geçmeyenler)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8523.12.00.00.13</kod>
+		<malAdi>Kasetli video bantları (Manyetik. Genişliği 4 mm.yi geçen fakat 6.5 mm.yi geçmeyenler)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8523.12.00.00.14</kod>
+		<malAdi>Diğer video bantları (Manyetik. Genişliği 4 mm.yi geçen fakat 6.5 mm.yi geçmeyenler)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8523.13.00.00.13</kod>
+		<malAdi>Genişliği 6,5 mm.yi geçen 13 mm.yi geçmeyen kasetli video bantları(Manyetik)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8523.13.00.00.14</kod>
+		<malAdi>Genişliği 6,5 mm.yi geçen 13 mm.yi geçmeyen diğer video bantları(Manyetik)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8523.13.00.00.23</kod>
+		<malAdi>Genişliği 13 mm.yi geçen 20 mm.yi geçmeyen kasetli video bantları(Manyetik)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8523.13.00.00.24</kod>
+		<malAdi>Genişliği 13 mm.yi geçen 20 mm.yi geçmeyen diğer video bantları(Manyetik) </malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8523.13.00.00.33</kod>
+		<malAdi>Genişliği 20 mm.yi geçen 26 mm.yi geçmeyen kasetli video bantları (Manyetik)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8523.13.00.00.34</kod>
+		<malAdi>Genişliği 20 mm.yi geçen 26 mm.yi geçmeyen diğer video bantları(Manyetik) </malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8523.13.00.00.42</kod>
+		<malAdi>Genişliği 26 mm.yi geçen video bantları (Manyetik) </malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8523.90.10.00.11</kod>
+		<malAdi>Lazer diskler(Manyetik olmayan)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8523.90.30.00.11</kod>
+		<malAdi>Lazer diskler(Manyetik olmayan)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8523.90.90.00.11</kod>
+		<malAdi>Lazer diskler(Manyetik olmayan)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8524.39.20.00.00</kod>
+		<malAdi>Dijital çok yönlü  diskler (DVD) (Otomatik bilgi işlem makinası dışında kullanılanlar)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8524.39.80.00.00</kod>
+		<malAdi>Diğerleri (Dijital çok yönlü olmayan diskler)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8524.51.00.00.13</kod>
+		<malAdi>Kasetli video bantları(Diğer manyetik bantlar)  </malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8524.51.00.00.14</kod>
+		<malAdi>Diğer video bantlları(Diğer manyetik bantlar)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8524.52.00.00.13</kod>
+		<malAdi>Kasetli video bantları (Eni 4 mm.yi geçen fakat 6,5 mm.yi geçmeyenler)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8524.52.00.00.14</kod>
+		<malAdi>Diğer video bantları (Eni 4 mm.yi geçen fakat 6,5 mm.yi geçmeyenler)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8524.53.00.00.13</kod>
+		<malAdi>Kasetli video bantları (Eni 6.5 mm.yi geçenler)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8524.53.00.00.14</kod>
+		<malAdi>Diğer video bantları (Eni 6.5 mm.yi geçenler)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8525.10.50.00.18</kod>
+		<malAdi>Amatör telsiz telefon verici cihazlar</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8525.20.91.00.11</kod>
+		<malAdi>Alıcısı bulunan verici portatif (cellular) telsiz telefon cihazları</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8525.20.91.00.12</kod>
+		<malAdi>Alıcısı bulunan verici mobil araç (cellular) telsiz telefon cihazları</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8525.20.91.00.13</kod>
+		<malAdi>Alçak güçlü (100 miliwatt'dan küçük) mobil telsiz telefon cihazları</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8525.20.99.00.18</kod>
+		<malAdi>Alıcısı bulunan verici halk bandı (CB) ve 49 MHz alçak güçlü (100 miliwatt'dan küçük) telsiz cihazları</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8525.20.99.00.21</kod>
+		<malAdi>Alıcısı bulunan verici kablosuz mikrofon cihazları</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8525.20.80.90.24</kod>
+		<malAdi>Alıcısı bulunan verici amatör telsiz telefon cihazları</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8525.20.80.90.25</kod>
+		<malAdi>Alıcısı bulunan verici alçak güçlü ve oyuncak telsiz cihazları (gücü 100 miliwatt'dan az olanlar)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8525.20.80.90.26</kod>
+		<malAdi>Telsiz alarm cihazları</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8525.30</kod>
+		<malAdi>Televizyon kameraları</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8526.92</kod>
+		<malAdi>Uzaktan kumanda etmeye mahsus telsiz cihazları</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8527.12.10.00.00</kod>
+		<malAdi>Analog ve dijital okuma sistemli olanlar (Cep tipi radyo kaset çalarlar)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8527.12.90.00.00</kod>
+		<malAdi>Diğerleri (Anolog ve dijital okuma sistemli olmayan cep tipi radyo kaset çalarlar)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8527.13.10.00.00</kod>
+		<malAdi>Lazer okuma sistemli olanlar (Ses kayıt veya kayıt edilen sesi tekrar vermeye mahsus cihaz ile birlikte olan diğer cihazlar)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8527.13.91.00.00</kod>
+		<malAdi>Kaset tipi olup analog ve dijital okuma sistemli olanlar (Ses kayıt veya kayıt edilen sesi tekrar vermeye mahsus cihaz ile birlikte olan diğer cihazlar)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8527.13.99.00.00</kod>
+		<malAdi>Diğerleri (Kaset tipi olmayan ses kayıt veya kayıt edilen sesi tekrar vermeye mahsus cihaz ile birlikte olan diğer cihazlar)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8527.19.00.00.00</kod>
+		<malAdi>Diğerleri (Harici bir güç kaynağı olmaksızın çalışan radyo yayınlarını alıcı diğer cihazlar) </malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8527.21.20.00.00</kod>
+		<malAdi>Lazer okuma sistemli olanlar  (Sadece harici bir güç kaynağı ile çalışabilen motorlu taşıtlarda kullanılan türde numerik radyo yayınlarını alıcı cihazlar)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8527.21.52.00.00</kod>
+		<malAdi>Kaset tipi olup analog ve dijital okuma sistemli olanlar (Sadece harici bir güç kaynağı ile çalışabilen motorlu taşıtlarda kullanılan türde numerik radyo yayınlarını alıcı cihazlar)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8527.21.59.00.00</kod>
+		<malAdi>Diğerleri (Kaset tipi olmayan) (Sadece harici bir güç kaynağı ile çalışabilen motorlu taşıtlarda kullanılan türde numerik radyo yayınlarını alıcı cihazlar)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8527.21.70.00.00</kod>
+		<malAdi>Lazer okuma sistemli olanlar(Sadece harici bir güç kaynağı ile çalışabilen motorlu taşıtlarda kullanılan türde numerik radyo yayınlarını alıcı cihazlar)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8527.21.92.00.00</kod>
+		<malAdi>Kaset tipi olup analog ve dijital okuma sistemli olanlar (Sadece harici bir güç kaynağı ile çalışabilen motorlu taşıtlarda kullanılan türde numerik radyo yayınlarını alıcı cihazlar)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8527.21.98.00.00</kod>
+		<malAdi>Diğerleri (Sadece harici bir güç kaynağı ile çalışabilen motorlu taşıtlarda kullanılan türde numerik radyo yayınlarını alıcı cihazlar)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8527.29.00.00.00</kod>
+		<malAdi>Diğerleri (Sadece harici bir güç kaynağı ile çalışabilen motorlu taşıtlarda kullanılan türde ses kayıt cihazı ile birlikte olmayan radyo yayınlarını alıcı cihazlar)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8527.31.11.00.00</kod>
+		<malAdi>Kaset tipi olup analog ve dijital okuma sistemli olanlar (Radyo yayınlarını alıcı diğer cihazlar)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8527.31.19.00.00</kod>
+		<malAdi>Diğerleri (Radyo yayınlarını alıcı diğer cihazlar)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8527.31.91.00.00</kod>
+		<malAdi>Lazer okuma sistemli olanlar (Radyo yayınlarını alıcı diğer cihazlar)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8527.31.93.00.00</kod>
+		<malAdi>Kaset tipi olup analog ve dijital okuma sistemli olanlar (Radyo yayınlarını alıcı diğer cihazlar)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8527.31.98.00.00</kod>
+		<malAdi>Diğerleri (Radyo yayınlarını alıcı diğer cihazlar)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8527.32.10.00.00</kod>
+		<malAdi>Çalar saatli radyolar</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8527.32.90.00.00</kod>
+		<malAdi>Diğerleri (Saatli radyolar)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8527.39.20.00.00</kod>
+		<malAdi>İçinde amplifikatör bulunmayanlar (Radyo yayınlarını alıcı diğer cihazlar)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8527.39.80.00.00</kod>
+		<malAdi>İçinde amplifikatör bulunanlar (Radyo yayınlarını alıcı diğer cihazlar)</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>8527.90.20.00.00</kod>
+		<malAdi>Şahıs aramada, uyarma veya çağırma sistemlerinde kullanılan cep alıcıları</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8527.90.80.90.21</kod>
+		<malAdi>Amatör telsiz alıcı cihazları</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>8543.89.97.00.15</kod>
+		<malAdi>Infrared ile çalışan uzaktan kumanda cihazları (remote control)</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>85.28</kod>
+		<malAdi>Televizyon alıcıları (radyo yayınlarını alıcı cihazı veya ses ya da görüntü kayıt veya tekrar verme cihazıyla birlikte olsun olmasın); video (görüntü) monitörler ve projektörler</malAdi>
+		<oran>6.7</oran>
+	</data>
+	<data>
+		<kod>9113.90.80.20.00</kod>
+		<malAdi>İnci, kıymetli taş; sentetik veya terkip yoluyla elde edilen taşlardan mamül olanlar</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>9302.00</kod>
+		<malAdi>Revolverler ve tabancalar (93.03 veya 93.04 pozisyondakiler hariç)(90.03 tarife pozisyonundaki silahlar ve diğer cihazlar ile 93.04 tarife pozisyonundaki yaylı,havalı veya gazlı tüfek ve tabancalar, vuruş sopaları hariç )  </malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>93.03</kod>
+		<malAdi>Bir patlayıcının itiş gücü ile çalışan diğer ateşli silahlar ve benzeri cihazlar(spor için av tüfekleri ve tüfekler,ağızdan doldurulan ateşli silahlar,sadece işaret fişeği atmak üzere imal edilmiş tabanca ve diğer cihazlar,manevra fişeği atmak için tabanca ve revolverler,hayvan öldürmeye mahsus sürgülü silahlar,ok-atar tüfekler gibi) </malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>9405.10.50.10.11</kod>
+		<malAdi>Kristal avizeler</malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>95.04</kod>
+		<malAdi>Eğlence merkezleri için oyun eşyası, tilt makinası, bilardo, kumarhane oyunları için özel masalar dahil salon veya masa oyunları ve otomatik bowling oyun ekipmanları </malAdi>
+		<oran>20</oran>
+	</data>
+	<data>
+		<kod>96.01</kod>
+		<malAdi>İşlenmiş fil dişi, kemik, bağa, boynuz, çatallı boynuz, mercan, sedef ve yontulmaya elverişli diğer hayvansal maddeler ve bu maddelerden eşya(kalıplama suretiyle elde edilen eşya dahil) </malAdi>
+		<oran>20</oran>
+	</data>
+  </GTIPKodlari>
+  <istisnaKodlari>
+	<data>
+		<kod>101</kod>
+		<ad>İhracat İstisnası</ad>
+	</data>
+	<data>
+		<kod>105</kod>
+		<ad>Uluslararası Anlaşmadan Doğan İstisna</ad>
+	</data>
+	<data>
+		<kod>108</kod>
+		<ad>Kamu Kurumlarında Yapılan Bedelsiz Teslimlerde İstisna</ad>
+	</data>
+	<data>
+		<kod>109</kod>
+		<ad>Güvenlik Kuruluşlarının Silah Alımlarında İstisna</ad>
+	</data>
+</istisnaKodlari>
+<indirimKodlari>
+	<data>
+		<kod>301</kod>
+		<ad>Satıştan İade</ad>
+	</data>
+	<data>
+		<kod>302</kod>
+		<ad>İşlemi Gerçekleşmeyen</ad>
+	</data>
+	<data>
+		<kod>303</kod>
+		<ad>Aynı Listedeki Malın İmalatta Kullanılması</ad>
+	</data>
+</indirimKodlari>
+</kodlar>

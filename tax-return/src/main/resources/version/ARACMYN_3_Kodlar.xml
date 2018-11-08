@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<araclar>
+		<arac>
+			<kod>101</kod>
+			<ad>Otomobil</ad>
+		</arac>
+		<arac>
+			<kod>102</kod>
+			<ad>Kamyonet</ad>
+		</arac>
+		<arac>
+			<kod>103</kod>
+			<ad>Kamyon</ad>
+		</arac>
+		<arac>
+			<kod>104</kod>
+			<ad>Otobüs</ad>
+		</arac>
+		<arac>
+			<kod>105</kod>
+			<ad>Minibüs</ad>
+		</arac>
+		<arac>
+			<kod>106</kod>
+			<ad>Traktör</ad>
+		</arac>
+		<arac>
+			<kod>107</kod>
+			<ad>Çekici</ad>
+		</arac>
+		<arac>
+			<kod>108</kod>
+			<ad>Römork</ad>
+		</arac>
+		<arac>
+			<kod>109</kod>
+			<ad>Yarı Römork</ad>
+		</arac>
+		<arac>
+			<kod>110</kod>
+			<ad>Motosiklet</ad>
+		</arac>
+		<arac>
+			<kod>111</kod>
+			<ad>Motorlu Bisiklet</ad>
+		</arac>
+		<arac>
+			<kod>112</kod>
+			<ad>Arazi Taşıtı</ad>
+		</arac>
+		<arac>
+			<kod>113</kod>
+			<ad>Özel Amaçlı Taşıt</ad>
+		</arac>
+		<arac>
+			<kod>126</kod>
+			<ad>Ambulans</ad>
+		</arac>
+		<arac>
+			<kod>114</kod>
+			<ad>Tanker</ad>
+		</arac>
+		<arac>
+			<kod>135</kod>
+			<ad>Taksi</ad>
+		</arac>
+	</araclar>
+	<gruplar>
+		<grup>
+			<kod>1</kod>
+			<ad>1.Grup</ad>
+			<aciklama>Otobüs, kamyon, çekici, tanker</aciklama>
+		</grup>
+		<grup>
+			<kod>2</kod>
+			<ad>2.Grup</ad>
+			<aciklama>Otomobil, minibüs, kamyonet, özel amaçlı taşıt, taksi, römork, yarı römork, ambulans</aciklama>
+		</grup>
+		<grup>
+			<kod>3</kod>
+			<ad>3.Grup</ad>
+			<aciklama>Traktör, motosiklet, motorlu bisiklet</aciklama>
+		</grup>
+	</gruplar>
+</kodlar>

@@ -1,0 +1,2333 @@
+<?xml version="1.0" encoding="ISO-8859-9"?>
+<!-- edited with XML Spy v4.3 U (http://www.xmlspy.com) by cc (c) -->
+<kodlar>
+<!--
+	Ref :	KURUM				kurumKodlari/data/kod
+	Ref :	TKVEK				ticariKazancVerdigiEk/verdigiEk/kod
+	Ref :	BASIT_FAAL_KONU		basitFaaliyetKonulari/faaliyetKonusu/kod
+	Ref :	ZIRAI_FAAL_KONU		ziraiFaaliyetKonulari/faaliyetKonusu/kod
+	Ref :	DIGER_ISTISNA		digerIstisnalar/data/kod
+	Ref :	GAYRIMENKUL_TUR		gayrimenkulTurleri/data/kod
+	Ref :	MENKUL_TUR			menkulSermayeTurleri/data/kod
+	Ref :	GELIRDEN_INDIRIM		beyanEdilecekGelirlerdenIndirimler/data/kod
+	Ref :	AB_AKTIF			ayrintiliBilancoAktif/data/kod
+	Ref :	AB_PASIF			ayrintiliBilancoPasif/data/kod
+	Ref :	AB_DIPNOT			ayrintiliBilancoDipnotlari/data/kod
+	Ref :	AGT				ayrintiliGelirTablosu/data/kod
+	Ref :	GELIR_VERGISI_TUR		gelirVergisiTurleri/data/kod
+	Ref :	BG				bilancoGecis/data/kod
+	Ref :	AGT_DIPNOT			ayrintiliGelirTablosuDipnotlari/data/kod
+	Ref :	AB_DIPNOT2			dipNotTip2Bilgileri/dipNotTip2Bilgisi/kod
+-->
+	<kurumKodlari>
+		<data>
+			<kod>101</kod>
+			<aciklama>Sosyal Sigortalar Kurumu</aciklama>
+		</data>
+		<data>
+			<kod>102</kod>
+			<aciklama>Bağ-Kur</aciklama>
+		</data>
+		<data>
+			<kod>103</kod>
+			<aciklama>Emekli Sandığı</aciklama>
+		</data>
+		<data>
+			<kod>104</kod>
+			<aciklama>Kanunla Kurulan Diğer Sandıklar</aciklama>
+		</data>
+	</kurumKodlari>
+	<ticariKazancVerdigiEk>
+		<verdigiEk>
+			<kod>801</kod>
+			<aciklama>Hesap Özeti</aciklama>
+		</verdigiEk>
+		<verdigiEk>
+			<kod>802</kod>
+			<aciklama>Bilanço</aciklama>
+		</verdigiEk>
+	</ticariKazancVerdigiEk>
+	<basitFaaliyetKonulari>
+		<faaliyetKonusu>
+			<kod>201</kod>
+			<aciklama>Her Türlü Taşıma İşi Yapanlar</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>202</kod>
+			<aciklama>Her Türlü Emtia Alım Satımı İle Uğraşanlar</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>203</kod>
+			<aciklama>Taşıtların Her Türlü Bakım ve Onarımı İle Uğraşanlar</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>204</kod>
+			<aciklama>Berber ve Kuaförlük Faaliyetinde Bulunanlar</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>205</kod>
+			<aciklama>Eğlence ve İstirahat Yeri İşletenler</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>206</kod>
+			<aciklama>Diğerleri</aciklama>
+		</faaliyetKonusu>
+	</basitFaaliyetKonulari>
+	<ziraiFaaliyetKonulari>
+		<faaliyetKonusu>
+			<kod>701</kod>
+			<aciklama>Hububat ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>702</kod>
+			<aciklama>Bakliyat, afyon, susam, keten, kendir ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>703</kod>
+			<aciklama>Ayçiçeği ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>704</kod>
+			<aciklama>Pamuk ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>705</kod>
+			<aciklama>Çeltik ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>706</kod>
+			<aciklama>Pancar ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>707</kod>
+			<aciklama>Patates, soğan, ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>708</kod>
+			<aciklama>Çay ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>709</kod>
+			<aciklama>Tütün ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>710</kod>
+			<aciklama>Sebze ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>711</kod>
+			<aciklama>Sera ve çiçekçilik ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>712</kod>
+			<aciklama>Kavun ve karpuz ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>713</kod>
+			<aciklama>Meyve verebilecek hale gelmiş fındık ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>714</kod>
+			<aciklama>Meyve verebilecek hale gelmiş bağ ve incir ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>715</kod>
+			<aciklama>Meyve verebilecek hale gelmiş antep fıstığında</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>716</kod>
+			<aciklama>Meyve verebilecek hale gelmiş zeytinliklerde</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>717</kod>
+			<aciklama>Meyve verebilecek hale gelmiş narenciyede</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>718</kod>
+			<aciklama>Meyve verebilecek hale gelmiş elmada</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>719</kod>
+			<aciklama>Muz ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>720</kod>
+			<aciklama>Meyve verebilecek hale gelmiş kaysıda</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>721</kod>
+			<aciklama>Meyve verebilecek hale gelmiş armut, kiraz, vişne, şeftalide</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>722</kod>
+			<aciklama>Diğer meyve ve ürün ziraati (yer fıstığı dahil meyve ve ürün verebilecek hale gelmeyenler ile palamut hariç)</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>723</kod>
+			<aciklama>Büyükbaş hayvan (İş hayvanları ile iki yaşından küçük, büyükbaş hayvanlar hariç)</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>724</kod>
+			<aciklama>Küçükbaş hayvan (Bir yaşından küçük, küçükbaş hayvanlar ile kümes hayvanları hariç)</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>725</kod>
+			<aciklama>Denizlerdeki sınırları belirlenebilen üretim alanlarında yapılan balık yetiştiriciliği</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>726</kod>
+			<aciklama>İç su balıkları yetiştiriciliği</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>727</kod>
+			<aciklama>Denizlerde yapılan balık avcılığı</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>728</kod>
+			<aciklama>Arıcılık ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>729</kod>
+			<aciklama>İpek böcekçiliği ziraati</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+			<kod>799</kod>
+			<aciklama>DİĞER</aciklama>
+		</faaliyetKonusu>
+	</ziraiFaaliyetKonulari>
+	<digerIstisnalar>
+		<data>
+			<kod>301</kod>
+			<aciklama>Eğitim ve Öğretim İşletmelerinde Kazançlar</aciklama>
+		</data>
+		<data>
+			<kod>302</kod>
+			<aciklama>Serbest Bölgelerden Elde Edilen Kazançlar</aciklama>
+		</data>
+		<data>
+			<kod>306</kod>
+			<aciklama>Teknoloji Geliştirme Bölgelerinde Elde Edilen Kazançlar</aciklama>
+		</data>
+		<data>
+			<kod>307</kod>
+			<aciklama>Türk Ulusl. Gemi Sic. Kay. Gemi İşl. ve Devr. Sağlanan Kazançlar</aciklama>
+		</data>
+		<data>
+			<kod>308</kod>
+			<aciklama>5811 Sayılı Kanunun Geçici 1. Maddesi Kapsamındaki Kazançlar</aciklama>
+		</data>
+		<data>
+			<kod>305</kod>
+			<aciklama>Diğer İstisnalar</aciklama>
+		</data>
+	</digerIstisnalar>
+	<gayrimenkulTurleri>
+		<data>
+			<kod>1</kod>
+			<aciklama>Mesken</aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>İşyeri</aciklama>
+		</data>
+		<data>
+			<kod>3</kod>
+			<aciklama>Diğer</aciklama>
+		</data>
+		<data>
+			<kod>4</kod>
+			<aciklama>Hak</aciklama>
+		</data>
+	</gayrimenkulTurleri>
+	<menkulSermayeTurleri>
+		<data>
+			<kod>602</kod>
+			<aciklama>Devlet tahvili ve Hazine bonosu faizleri (*)</aciklama>
+		</data>
+		<data>
+			<kod>603</kod>
+			<aciklama>Diğer her türlü tahvil ve bonosu faizleri (*)</aciklama>
+		</data>
+		<data>
+			<kod>604</kod>
+			<aciklama>Toplu Konut İdaresi ve Özelleştirme İdaresince çıkarılan menkul kıymetlerden sağlanan faiz gelirleri (*)</aciklama>
+		</data>
+		<data>
+			<kod>605</kod>
+			<aciklama>Kurumlar Vergisi Kanunu uyarınca yıllık veya özel beyanname veren kurumların, indirim ve istisnalar düşülmeden önceki kurum kazancından hesaplanan kurumlar vergisi düşüldükten sonra kalan kısmı</aciklama>
+		</data>
+		<data>
+			<kod>606</kod>
+			<aciklama>Hisse senedi kar payları (temettü gelirleri)</aciklama>
+		</data>
+		<data>
+			<kod>607</kod>
+			<aciklama>İştirak hisselerinden doğan kazançlar</aciklama>
+		</data>
+		<data>
+			<kod>608</kod>
+			<aciklama>Kurumların idare meclisi başkan ve üyelerine verilen kar payları</aciklama>
+		</data>
+		<data>
+			<kod>610</kod>
+			<aciklama>Menkul kıymetler yatırım fonlarının katılma belgelerine ödenen kar payları</aciklama>
+		</data>
+		<data>
+			<kod>611</kod>
+			<aciklama>Menkul kıymetler yatırım ortaklıklarından sağlanan kar payları</aciklama>
+		</data>
+		<data>
+			<kod>612</kod>
+			<aciklama>Gayrimenkul yatırım fon ve ortaklıklarından sağlanan kar payları</aciklama>
+		</data>
+		<data>
+			<kod>613</kod>
+			<aciklama>Risk sermayesi yatırım fon ve ortaklıklarından sağlanan kar payları</aciklama>
+		</data>
+		<data>
+			<kod>615</kod>
+			<aciklama>Kıyı bankacılığından (off-shore bankacılık) elde edilen faiz gelirleri</aciklama>
+		</data>
+		<data>
+			<kod>616</kod>
+			<aciklama>Eurobond faiz gelirleri</aciklama>
+		</data>
+		<data>
+			<kod>617</kod>
+			<aciklama>Alacak faizleri</aciklama>
+		</data>
+		<data>
+			<kod>618</kod>
+			<aciklama>Hisse senetleri ve tahvillerin vadesi gelmemiş kuponlarının satışından elde edilen bedeller</aciklama>
+		</data>
+		<data>
+			<kod>619</kod>
+			<aciklama>İştirak hisselerinin sahibi adına henüz tahakkuk etmemiş kar paylarının devir ve temliki karşılığında alınan para ve ayınlar</aciklama>
+		</data>
+		<data>
+			<kod>620</kod>
+			<aciklama>Her çeşit senetlerin ıskonto edilmesi karşılığında alınan ıskonto bedelleri</aciklama>
+		</data>
+		<data>
+			<kod>622</kod>
+			<aciklama>Yurt dışından elde edilen diğer menkul sermaye iratları</aciklama>
+		</data>
+		<data>
+			<kod>623</kod>
+			<aciklama>Diğer (Yukarıda sayılanların dışında kalan menkul sermaye iratları)</aciklama>
+		</data>
+	</menkulSermayeTurleri>
+	<beyanEdilecekGelirlerdenIndirimler>
+		<data>
+			<kod>909</kod>
+			<aciklama>Bireysel Emeklilik Katkı Payı</aciklama>
+		</data>
+		<data>
+			<kod>910</kod>
+			<aciklama>Şahıs Sigorta Pirimi</aciklama>
+		</data>
+		<data>
+			<kod>902</kod>
+			<aciklama>Eğitim ve Sağlık Harcamaları</aciklama>
+		</data>
+		<data>
+			<kod>903</kod>
+			<aciklama>Eğitim ve Sağlık Tesislerine İlişkin Bağış ve Yardımlar</aciklama>
+		</data>
+		<data>
+			<kod>904</kod>
+			<aciklama>Gıda Bankacılığı Kapsamındaki Bağış ve Yardımlar</aciklama>
+		</data>
+		<data>
+			<kod>905</kod>
+			<aciklama>Kültür ve Sanat Faaliyetlerine İlişkin Bağış ve Yardımlar</aciklama>
+		</data>
+		<data>
+			<kod>906</kod>
+			<aciklama>Sponsorluk Harcamaları</aciklama>
+		</data>
+		<data>
+			<kod>911</kod>
+			<aciklama>AR-GE İndirimi (GVK'ya göre)</aciklama>
+		</data>
+		<data>
+			<kod>912</kod>
+			<aciklama>AR-GE İndirimi (5746 sayılı Kanuna göre)</aciklama>
+		</data>
+		<data>
+			<kod>908</kod>
+			<aciklama>Diğer Bağış ve Indirimler</aciklama>
+		</data>
+	</beyanEdilecekGelirlerdenIndirimler>
+	<ayrintiliBilancoAktif>
+		<data>
+			<sign>+</sign>
+			<kod>1001</kod>
+			<aciklama>I. Dönen Varlıklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1002</kod>
+			<aciklama>  A. Hazır Değerler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1003</kod>
+			<aciklama>    1. Kasa</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1004</kod>
+			<aciklama>    2. Alınan Çekler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1005</kod>
+			<aciklama>    3. Bankalar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1006</kod>
+			<aciklama>    4. Verilen Çekler ve Ödeme Emirleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1007</kod>
+			<aciklama>    5. Diğer Hazır Değerler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1008</kod>
+			<aciklama>  B. Menkul Kıymetler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1009</kod>
+			<aciklama>    1. Hisse Senetleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1010</kod>
+			<aciklama>    2. Özel Kesim Tahvil, Senet ve Bonoları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1011</kod>
+			<aciklama>    3. Kamu Kesimi Tahvil, Senet ve Bonoları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1012</kod>
+			<aciklama>    4. Diğer Menkul Kıymetler</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1013</kod>
+			<aciklama>    5. Menkul Kıymetler Değer Düşüklüğü Karşılığı (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1014</kod>
+			<aciklama>  C. Ticari Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1015</kod>
+			<aciklama>    1. Alıcılar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1016</kod>
+			<aciklama>    2. Alacak Senetleri</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1017</kod>
+			<aciklama>    3. Alacak Senetleri Reeskontu (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1018</kod>
+			<aciklama>    4. Verilen Depozito ve Teminatlar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1019</kod>
+			<aciklama>    5. Kazanılmamış Finansal Kiralama Faiz Gelirleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1020</kod>
+			<aciklama>    6. Diğer Ticari Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1021</kod>
+			<aciklama>    7. Şüpheli Ticari Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1022</kod>
+			<aciklama>    8. Şüpheli Ticari Alacaklar Karşılığı (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1023</kod>
+			<aciklama>  D. Diğer Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1024</kod>
+			<aciklama>    1. Ortaklardan Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1025</kod>
+			<aciklama>    2. İştiraklerden Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1026</kod>
+			<aciklama>    3. Bağlı Ortaklılardan Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1027</kod>
+			<aciklama>    4. Personelden Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1028</kod>
+			<aciklama>    5. Diğer Çeşitli Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1029</kod>
+			<aciklama>    6. Diğer Alacak Senetleri Reeskontu (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1030</kod>
+			<aciklama>    7. Şüpheli Diğer Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1031</kod>
+			<aciklama>    8. Şüpheli Diğer Alacaklar Karşılığı (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1032</kod>
+			<aciklama>  E. Stoklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1033</kod>
+			<aciklama>    1. İlk Madde ve Malzeme</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1034</kod>
+			<aciklama>    2. Yarı Mamuller - Üretim</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1035</kod>
+			<aciklama>    3. Mamuller</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1036</kod>
+			<aciklama>    4. Ticari Mallar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1037</kod>
+			<aciklama>    5. Diğer Stoklar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1038</kod>
+			<aciklama>    6. Stok Değer Düşüklüğü Karşılığı (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1039</kod>
+			<aciklama>    7. Verilen Sipariş Avansları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1040</kod>
+			<aciklama>  F. Yıllara Yaygın İnşaat ve Onarım Maliyetleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1041</kod>
+			<aciklama>    1. Yıllara Yaygın İnşaat ve Onarım Maliyetleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1042</kod>
+			<aciklama>    2. Yıllara Yaygın İnşaat Enflasyon Düzeltme Hesabı</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1043</kod>
+			<aciklama>    3. Taşeronlara Verilen Avanslar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1044</kod>
+			<aciklama>  G. Gelecek Aylara Ait Giderler ve Gelir Tahakkukları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1045</kod>
+			<aciklama>    1. Gelecek Aylara Ait Giderler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1046</kod>
+			<aciklama>    2. Gelir Tahakkukları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1047</kod>
+			<aciklama>  H. Diğer Dönen Varlıklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1048</kod>
+			<aciklama>    1. Devreden KDV</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1049</kod>
+			<aciklama>    2. İndirilecek KDV</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1050</kod>
+			<aciklama>    3. Diger KDV</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1051</kod>
+			<aciklama>    4. Peşin Ödenen Vergiler ve Fonlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1052</kod>
+			<aciklama>    5. İş Avansları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1053</kod>
+			<aciklama>    6. Personel Avansları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1054</kod>
+			<aciklama>    7. Sayım ve Tesellüm Noksanları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1055</kod>
+			<aciklama>    8. Diğer Çeşitli Dönen Varlıklar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1056</kod>
+			<aciklama>    9. Diğer Çeşitli Dönen Varlıklar Karşılığı (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1057</kod>
+			<aciklama>II. DURAN VARLIKLAR</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1058</kod>
+			<aciklama>  A. Ticari Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1059</kod>
+			<aciklama>    1. Alıcılar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1060</kod>
+			<aciklama>    2. Alacak Senetleri</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1061</kod>
+			<aciklama>    3. Alacak Senetleri Reeskontu (-)</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1062</kod>
+			<aciklama>    4. Kazanılmamış Finansal Kiralama Faiz Gelirleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1063</kod>
+			<aciklama>    5. Verilen Depozito ve Teminatlar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1064</kod>
+			<aciklama>    6. Şüpheli Alacaklar Karşılığı (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1065</kod>
+			<aciklama>  B. Diğer Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1066</kod>
+			<aciklama>    1. Ortaklardan Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1067</kod>
+			<aciklama>    2. İştiraklerden Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1068</kod>
+			<aciklama>    3. Bağlı Ortaklılardan Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1069</kod>
+			<aciklama>    4. Personelden Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1070</kod>
+			<aciklama>    5. Diğer Çeşitli Alacaklar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1071</kod>
+			<aciklama>    6. Diğer Alacak Senetleri Reeskontu (-)</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1072</kod>
+			<aciklama>    7. Şüpheli Diğer Alacaklar Karşılığı (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1073</kod>
+			<aciklama>  C. Mali Duran Varlıklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1074</kod>
+			<aciklama>    1. Bağlı Menkul Kıymetler</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1075</kod>
+			<aciklama>    2. Bağlı Menkul Kıymetler Değer Düşüklüğü Karşılığı (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1076</kod>
+			<aciklama>    3. İştirakler</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1077</kod>
+			<aciklama>    4. İştiraklere Sermaye Taahhütleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1078</kod>
+			<aciklama>    5. İştirakler Sermaye Payları Değer Düşüklüğü Karşılığı (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1079</kod>
+			<aciklama>    6. Bağlı Ortaklıklar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1080</kod>
+			<aciklama>    7. Bağlı Ortaklıklar Sermaye Taahütleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1081</kod>
+			<aciklama>    8. Bağlı Ortaklıklar Sermaye Payları Değer Düşüklüğü Karşılığı (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1082</kod>
+			<aciklama>    9. Diğer Mali Duran Varlıklar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1083</kod>
+			<aciklama>    10. Diğer Mali Duran Varlıklar Karşılığı (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1084</kod>
+			<aciklama>  D. Maddi Duran Varlıklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1085</kod>
+			<aciklama>    1. Arazi ve Arsalar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1086</kod>
+			<aciklama>    2. Yer Altı ve Yer Üstü Düzenleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1087</kod>
+			<aciklama>    3. Binalar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1088</kod>
+			<aciklama>    4. Tesis, Makina ve Cihazlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1089</kod>
+			<aciklama>    5. Taşıtlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1090</kod>
+			<aciklama>    6. Demirbaşlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1091</kod>
+			<aciklama>    7. Diğer Maddi Duran Varlıklar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1092</kod>
+			<aciklama>    8. Birikmiş Amortismanlar (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1093</kod>
+			<aciklama>    9. Yapılmakta Olan Yatırımlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1094</kod>
+			<aciklama>    10. Verilen Avanslar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1095</kod>
+			<aciklama>  E. Maddi Olmayan Duran Varlıklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1096</kod>
+			<aciklama>    1. Haklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1097</kod>
+			<aciklama>    2. Şerefiye</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1098</kod>
+			<aciklama>    3. Kuruluş ve Örgütlenme Giderleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1099</kod>
+			<aciklama>    4. Araştırma ve Geliştirme Giderleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1100</kod>
+			<aciklama>    5. Özel Maliyetler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1101</kod>
+			<aciklama>    6. Diğer Maddi Olmayan Duran Varlıklar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1102</kod>
+			<aciklama>    7. Birikmiş Amortismanlar (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1103</kod>
+			<aciklama>    8. Verilen Avanslar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1104</kod>
+			<aciklama>  F. Özel Tükenmeye Tabi Varlıklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1105</kod>
+			<aciklama>    1. Arama Giderleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1106</kod>
+			<aciklama>    2. Hazırlık ve Geliştirme Giderleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1107</kod>
+			<aciklama>    3. Diğer Özel Tükenmeye Tabi Varlıklar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1108</kod>
+			<aciklama>    4. Birikmiş Tükenme Payları (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1109</kod>
+			<aciklama>    5. Verilen Avanslar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1110</kod>
+			<aciklama>  G. Gelecek Yıllara Ait Giderler ve Gelir Tahakkukları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1111</kod>
+			<aciklama>    1. Gelecek Yıllara Ait Giderler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1112</kod>
+			<aciklama>    2. Gelir Tahakkukları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1113</kod>
+			<aciklama>  H. Diğer Duran Varlıklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1114</kod>
+			<aciklama>    1. Gelecek Yıllarda İndirilecek KDV</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1115</kod>
+			<aciklama>    2. Diğer KDV</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1116</kod>
+			<aciklama>    3. Gelecek Yıllar İhtiyacı Stoklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1117</kod>
+			<aciklama>    4. Elden Çıkarılacak Stoklar ve Maddi Duran Varlıklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1118</kod>
+			<aciklama>    5. Peşin Ödenen Vergiler ve Fonlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1119</kod>
+			<aciklama>    6. Diğer Çeşitli Duran Varlıklar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1120</kod>
+			<aciklama>    7. Stok Değer Düşüklüğü Karşılığı (-)</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>1121</kod>
+			<aciklama>    8. Birikmiş Amortismanlar (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>1122</kod>
+			<aciklama>AKTİF TOPLAMI</aciklama>
+		</data>
+	</ayrintiliBilancoAktif>
+	<ayrintiliBilancoPasif>
+		<data>
+			<sign>+</sign>
+			<kod>3001</kod>
+			<aciklama>III. Kısa Vadeli Yabancı Kaynaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3002</kod>
+			<aciklama>  A. Mali Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3003</kod>
+			<aciklama>    1. Banka Kredileri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3004</kod>
+			<aciklama>    2. Finansal Kiralama İşlemlerinden Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>3005</kod>
+			<aciklama>    3. Ertelenmiş Finansal Kiralama Borçlanma Maliyetleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3006</kod>
+			<aciklama>    4. Uzun Vadeli Kredilerin Anapara Taksitleri ve Faizleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3007</kod>
+			<aciklama>    5. Tahvil, Anapara, Borç, Taksit ve Faizleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3008</kod>
+			<aciklama>    6. Çıkarılmış Bonolar ve Senetler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3009</kod>
+			<aciklama>    7. Çıkarılmış Diğer Menkul Kıymetler</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>3010</kod>
+			<aciklama>    8. Menkul Kıymetler İhraç Farkı (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3011</kod>
+			<aciklama>    9. Diğer Mali Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3012</kod>
+			<aciklama>  B. Ticari Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3013</kod>
+			<aciklama>    1. Satıcılar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3014</kod>
+			<aciklama>    2. Borç Senetleri</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>3015</kod>
+			<aciklama>    3. Borç Senetleri Reeskontu (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3016</kod>
+			<aciklama>    4. Alınan Depozito ve Teminatlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3017</kod>
+			<aciklama>    5. Diğer Ticari Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3018</kod>
+			<aciklama>  C. Diğer Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3019</kod>
+			<aciklama>    1. Ortaklara Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3020</kod>
+			<aciklama>    2. İştiraklere Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3021</kod>
+			<aciklama>    3. Bağlı Ortaklıklara Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3022</kod>
+			<aciklama>    4. Personele Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3023</kod>
+			<aciklama>    5. Diğer Çeşitli Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>3024</kod>
+			<aciklama>    6. Diğer Borç Senetleri Reeskontu (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3025</kod>
+			<aciklama>  D. Alınan Avanslar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3026</kod>
+			<aciklama>    1. Alınan Sipariş Avansları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3027</kod>
+			<aciklama>    2. Alınan Diğer Avanslar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3028</kod>
+			<aciklama>  E.Yıllara Yaygın İnşaat ve Onarım Hakedişleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3029</kod>
+			<aciklama>    1. Yıllara Yaygın İnşaat ve Onarım Hakediş Bedelleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3030</kod>
+			<aciklama>    2. Yıllara Yaygın İnşaat Enflasyon Düzeltme Hesabı</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3031</kod>
+			<aciklama>  F.Ödenecek Vergi ve Diğer Yükümlülükler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3032</kod>
+			<aciklama>    1. Ödenecek Vergi ve Fonlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3033</kod>
+			<aciklama>    2. Ödenecek Sosyal Güvenlik Kesintileri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3034</kod>
+			<aciklama>    3. Vadesi Geçmiş Ertelenmiş veya Taksitlendirilmiş Vergi ve Diğer Yükümlülükler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3035</kod>
+			<aciklama>    4. Ödenecek Diğer Yükümlülükler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3036</kod>
+			<aciklama>  G. Borç ve Gider Karşılıkları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3037</kod>
+			<aciklama>    1. Dönem Karı Vergi ve Diğer Yasal Yükümlülük Karşılıkları</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>3038</kod>
+			<aciklama>    2. Dönem Karının Peşin Ödenen Vergi ve Diğer Yükümlülükleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3039</kod>
+			<aciklama>    3. Kıdem Tazmninatı Karşılığı</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3040</kod>
+			<aciklama>    4. Maliyet Giderleri Karşılığı</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3041</kod>
+			<aciklama>    5. Diğer Borç ve Gider Karşılıkları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3042</kod>
+			<aciklama>  H. Gelecek Aylara Ait Gelirler ve Gider Tahakkukları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3043</kod>
+			<aciklama>    1. Gelecek Aylara Ait Gelirler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3044</kod>
+			<aciklama>    2. Gider Tahakkukları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3045</kod>
+			<aciklama>  I. Diğer Kısa Vadeli Yabancı Kaynaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3046</kod>
+			<aciklama>    1. Hesaplanan KDV</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3047</kod>
+			<aciklama>    2. Diğer KDV</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3048</kod>
+			<aciklama>    3. Merkez ve Şubeler Cari Hesabı</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3049</kod>
+			<aciklama>    4. Sayım ve Tesellüm Fazlaları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3050</kod>
+			<aciklama>    5. Diğer Çeşitli Yabancı Kaynaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3051</kod>
+			<aciklama>IV. Uzun Vadeli Yabancı Kaynaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3052</kod>
+			<aciklama>  A. Mali Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3053</kod>
+			<aciklama>    1. Banka Kredileri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3054</kod>
+			<aciklama>    2. Finansal Kiralama İşlemlerinden Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>3055</kod>
+			<aciklama>    3. Ertelenmiş Finansal Kiralama Borçlanma Maliyetleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3056</kod>
+			<aciklama>    4. Çıkarılmış Tahviller</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3057</kod>
+			<aciklama>    5. Çıkarılmış Diğer Menkul Kıymetler</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>3058</kod>
+			<aciklama>    6. Menkul Kıymetler İhraç Farkı (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3059</kod>
+			<aciklama>    7. Diğer Mali Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3060</kod>
+			<aciklama>  B. Ticari Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3061</kod>
+			<aciklama>    1. Satıcılar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3062</kod>
+			<aciklama>    2. Borç Senetleri</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>3063</kod>
+			<aciklama>    3. Borç Senetleri Reeskontu (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3064</kod>
+			<aciklama>    4. Alınan Depozito ve Teminatlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3065</kod>
+			<aciklama>    5. Diğer Ticari Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3066</kod>
+			<aciklama>  C. Diğer Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3067</kod>
+			<aciklama>    1. Ortaklara Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3068</kod>
+			<aciklama>    2. İştiraklere Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3069</kod>
+			<aciklama>    3. Bağlı Ortaklıklara Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3070</kod>
+			<aciklama>    4. Diğer Çeşitli Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>3071</kod>
+			<aciklama>    5. Diğer Borç Senetleri Reeskontu (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3072</kod>
+			<aciklama>    6. Kamuya Olan Ertelenmiş veya Taksitlendirilmiş Borçlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3073</kod>
+			<aciklama>  D. Alınan Avanslar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3074</kod>
+			<aciklama>    1. Alınan Sipariş Avansları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3075</kod>
+			<aciklama>    2. Alınan Diğer Avanslar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3076</kod>
+			<aciklama>  E. Borç ve Gider Karşılıkları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3077</kod>
+			<aciklama>    1. Kıdem Tazminatı Karşılıkları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3078</kod>
+			<aciklama>    2. Diğer Borç ve Gider Karşılıkları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3079</kod>
+			<aciklama>  F. Gelecek Yıllara Ait Gelirler ve Gider Tahakkukları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3080</kod>
+			<aciklama>    1. Gelecek Yıllara Ait Gelirler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3081</kod>
+			<aciklama>    2. Gider Tahakkukları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3082</kod>
+			<aciklama>  G. Diğer Uzun Vadeli Yabancı Kaynaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3083</kod>
+			<aciklama>    1. Gelecek Yıllara Ertlenen veya Terkin Edilen KDV</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3084</kod>
+			<aciklama>    2. Tesise Katılma Payları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3085</kod>
+			<aciklama>    3. Diğer Çeşitli Uzun Vadeli Yabancı Kaynaklar Toplamı</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3086</kod>
+			<aciklama>V. Öz Kaynaklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3087</kod>
+			<aciklama>  A. Ödenmiş Sermaye</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3088</kod>
+			<aciklama>    1. Sermaye</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>3089</kod>
+			<aciklama>    2. Ödenmemiş Sermaye (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3090</kod>
+			<aciklama>    3. Sermaye Düzeltmesi Olumlu Farkları </aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>3091</kod>
+			<aciklama>    4. Sermaye Düzeltmesi Olumsuz Farkları(-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3092</kod>
+			<aciklama>  B. Sermaye Yedekleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3093</kod>
+			<aciklama>    1. Hisse Senedi İhraç Primleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3094</kod>
+			<aciklama>    2. Hisse Senedi İptal Karları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3095</kod>
+			<aciklama>    3. Maddi Duran Varlık Yeniden Değerleme Artışları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3096</kod>
+			<aciklama>    4. İştirakler Yeniden Değerleme Artışları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3097</kod>
+			<aciklama>    5. Diğer Sermaye Yedekleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3098</kod>
+			<aciklama>  C. Kar Yedekleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3099</kod>
+			<aciklama>    1. Yasal YEdekler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3100</kod>
+			<aciklama>    2. Statü Yedekleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3101</kod>
+			<aciklama>    3. Olağanüstü Yedekler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3102</kod>
+			<aciklama>    4. Diğer Kar Yedekleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3103</kod>
+			<aciklama>    5. Özel Fonlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3104</kod>
+			<aciklama>  D. Geçmiş Yıl Karları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3105</kod>
+			<aciklama>    1. Geçmiş Yıl Karları</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>3106</kod>
+			<aciklama>  E. Geçmiş Yıllar Zararları (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3107</kod>
+			<aciklama>    1. Geçmiş Yıllar Zararları (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3108</kod>
+			<aciklama>  F. Dönem Net Karı (zararı)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3109</kod>
+			<aciklama>    1. Dönem Net Karı</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>3110</kod>
+			<aciklama>    2. Dönem Net Zararı (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>3111</kod>
+			<aciklama>PASİF TOPLAMI</aciklama>
+		</data>
+	</ayrintiliBilancoPasif>
+	<ayrintiliBilancoDipnotlari>
+		<data>
+			<kod>4001</kod>
+			<aciklama>1. Kayıtlı sermaye sistemini kabul etmiş bulunan ortaklıklarda kayıtlı sermaye tavanı</aciklama>
+		</data>
+		<data>
+			<kod>4002</kod>
+			<aciklama>2. a) Yönetim Kurulu Başkan ve üyeleri ile genel müdür, genel koordinatör, genel müdür yardımcıları ve genel sekreter gibi üst yöneticilere cari dönemde verilen her çeşit avans ve borcun toplam tutarı</aciklama>
+		</data>
+		<data>
+			<kod>4003</kod>
+			<aciklama>2. b) Yönetim Kurulu Başkan ve üyeleri ile genel müdür, genel koordinatör, genel müdür yardımcıları ve genel sekreter gibi üst yöneticilere cari dönem sonundaki avans veya borcun bakiyesi</aciklama>
+		</data>
+		<data>
+			<kod>4004</kod>
+			<aciklama>3. Aktif değerlerin toplam sigorta tutarı</aciklama>
+		</data>
+		<data>
+			<kod>4005</kod>
+			<aciklama>4. Alacaklar için alınmış ipotek ve diğer teminatların toplam tutarı</aciklama>
+		</data>
+		<data>
+			<kod>4006</kod>
+			<aciklama>5. Yabancı kaynaklar için verilmiş ipotek ve diğer teminatların toplam tutarı</aciklama>
+		</data>
+		<data>
+			<kod>4007</kod>
+			<aciklama>6. Pasifte yer almayan taahhütlerin toplam tutarı </aciklama>
+		</data>
+		<data>
+			<kod>4008</kod>
+			<aciklama>10. Tedavüldeki tahvil ve finansman bonolarından banka garantili olanların tutarı</aciklama>
+		</data>
+		<data>
+			<kod>4009</kod>
+			<aciklama>11. Cari ve gelecek dönemlerde yararlanılacak yatırım indiriminin toplam tutarı</aciklama>
+		</data>
+		<data>
+			<kod>4010</kod>
+			<aciklama>12. Tedavüldeki tahvillerden hisse senedine dönüştürülebilir niteliktekilerin tutarı</aciklama>
+		</data>
+		<data>
+			<kod>4011</kod>
+			<aciklama>14. Cari dönemde ihraç edilmiş hisse senedi tutarı</aciklama>
+		</data>
+		<data>
+			<kod>4012</kod>
+			<aciklama>17. a) Cari dönemde uygulanan stok değerleme yöntemi</aciklama>
+		</data>
+		<data>
+			<kod>4013</kod>
+			<aciklama>17. b) Önceki dönemde uygulanan stok değerleme yöntemi</aciklama>
+		</data>
+		<data>
+			<kod>4014</kod>
+			<aciklama>17. c) Varsa, cari dönemdeki yöntem değişikliğinin stoklarda meydana getirdiği artış (+) veya azalış (-) tutarı</aciklama>
+		</data>
+		<data>
+			<kod>4015</kod>
+			<aciklama>18. a) Satın alınan, imal veya inşa edilen maddi duran varlıkların maliyeti</aciklama>
+		</data>
+		<data>
+			<kod>4016</kod>
+			<aciklama>18. b) Elden çıkarılan veya hurdaya ayrılan maddi duran varlıkların maliyeti</aciklama>
+		</data>
+		<data>
+			<kod>4017</kod>
+			<aciklama>18. c) Cari dönemde ortaya çıkan yeniden değerleme artışları</aciklama>
+		</data>
+		<data>
+			<kod>4018</kod>
+			<aciklama>18. c) 1. Cari dönemde ortaya çıkan varlık maliyetlerindeki yeniden değerleme artışları (+)</aciklama>
+		</data>
+		<data>
+			<kod>4019</kod>
+			<aciklama>18. c) 2. Cari dönemde ortaya çıkan birikmiş amortismanlardaki yeniden değerleme artışları (-)</aciklama>
+		</data>
+		<data>
+			<kod>4020</kod>
+			<aciklama>19.1 Ana kuruluş ticari alacak</aciklama>
+		</data>
+		<data>
+			<kod>4021</kod>
+			<aciklama>19.2 Bağlı ortaklık ticari alacak</aciklama>
+		</data>
+		<data>
+			<kod>4022</kod>
+			<aciklama>19.3 İştirakler ticari alacak</aciklama>
+		</data>
+		<data>
+			<kod>4023</kod>
+			<aciklama>19.4 Ana kuruluş ticari borç</aciklama>
+		</data>
+		<data>
+			<kod>4024</kod>
+			<aciklama>19.5 Bağlı ortaklık ticari borç</aciklama>
+		</data>
+		<data>
+			<kod>4025</kod>
+			<aciklama>19.6 İştirakler ticari borç</aciklama>
+		</data>
+		<data>
+			<kod>4026</kod>
+			<aciklama>20. Cari dönemdeki ortalama toplam personel sayısı</aciklama>
+		</data>
+		<data>
+			<kod>4027</kod>
+			<aciklama>21. Bilanço tarihinden sonra ortaya çıkan ve açıklamayı gerektiren hususlara ilişkin bilgi</aciklama>
+		</data>
+		<data>
+			<kod>4028</kod>
+			<aciklama>22. Belli bir öneme sahip olan, ancak tutarları tahmin edilemeyen şarta bağlı zararlar ile her türlü şarta bağlı kazançlara ilişkin bilgi, (İşletmeyi borç altına sokacak ve dönem sonucunu etkileyebilecek hukuki ihtilafların mahiyetleri bu bölümde açıklanır.)</aciklama>
+		</data>
+		<data>
+			<kod>4029</kod>
+			<aciklama>23. İşletmenin gayri safi kâr oranları üzerinde önemli ölçüde etkide bulunan muhasebe tahminlerinde değişikliklere ilişkin bilgi ve bunların parasal etkileri</aciklama>
+		</data>
+		<data>
+			<kod>4030</kod>
+			<aciklama>24. Bankalardaki mevduatın bloke olanına ilişkin tutarlar</aciklama>
+		</data>
+		<data>
+			<kod>4031</kod>
+			<aciklama>25. Menkul kıymetler ve bağlı menkul kıymetler grubu içinde yer alıp işletmenin ortakları, iştirakleri ve bağlı ortaklıklar tarafından çıkarılmış bulunan menkul kıymet tutarları ve bunları çıkaran ortaklıklar</aciklama>
+		</data>
+		<data>
+			<kod>4032</kod>
+			<aciklama>26. İştirakler ve bağlı ortaklıklarda içsel kaynaklardan yapılan sermaye artırımı nedeniyle elde edilen bedelsiz hisse senedi tutarları</aciklama>
+		</data>
+		<data>
+			<kod>4033</kod>
+			<aciklama>27. Kısa ve uzun vadeli kredilerle ilgili olarak alınan kredilerin ve çıkarılmış menkul kıymetlerin (katılma intifa senedi dahil) kredi ve menkul kıymet türleri itibariyle tahakkuk etmemiş gelecek döneme ilişkin faiz borçları tutarları</aciklama>
+		</data>
+		<data>
+			<kod>4034</kod>
+			<aciklama>28. Ortaklar, iştirakler ve bağlı ortaklıklar lehine verilen garanti, taahhüt, kefalet, aval, ciro gibi yükümlülüklerin tutarı</aciklama>
+		</data>
+		<data>
+			<kod>4035</kod>
+			<aciklama>29. Mali tabloları önemli ölçüde etkileyen ya da mali tabloların açık, yorumlanabilir ve anlaşılabilir olması açısından açıklanması gerekli olan diğer hususlar</aciklama>
+		</data>
+		<data>
+			<kod>4036</kod>
+			<aciklama>30. Bilançonun onaylanarak kesinleştiği tarih</aciklama>
+		</data>
+	</ayrintiliBilancoDipnotlari>
+	<ayrintiliGelirTablosu>
+		<data>
+			<sign>+</sign>
+			<kod>5001</kod>
+			<aciklama>A. Brüt Satışlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5002</kod>
+			<aciklama>  1. Yurtiçi Satışlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5003</kod>
+			<aciklama>  2. Yurtdışı Satışlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5004</kod>
+			<aciklama>  3. Diğer Gelirler</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>5005</kod>
+			<aciklama>B. Satış İndirimleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5006</kod>
+			<aciklama>  1. Satıştan İadeler (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5007</kod>
+			<aciklama>  2. Satış İskontoları (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5008</kod>
+			<aciklama>  3. Diğer İndirimler (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5009</kod>
+			<aciklama>C.Net Satışlar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>5010</kod>
+			<aciklama>D. Satışların Maliyeti (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5011</kod>
+			<aciklama>  1. Satılan Mamuller Maliyeti (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5012</kod>
+			<aciklama>  2. Satılan Ticari Mallar Maliyeti (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5013</kod>
+			<aciklama>  3. Satılan Hizmet Maliyeti (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5014</kod>
+			<aciklama>  4. Diğer Satışların Maliyeti (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5015</kod>
+			<aciklama>Brüt Satış Karı veya Zararı</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>5016</kod>
+			<aciklama>E. Faaliyet Giderleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5017</kod>
+			<aciklama>  1. Araştırma ve Geliştirme Giderleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5018</kod>
+			<aciklama>  2. Pazarlama, Satış ve Dağıtım Giderleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5019</kod>
+			<aciklama>  3. Genel Yönetim Giderleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5020</kod>
+			<aciklama>Faaliyet Karı veya Zararı</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5021</kod>
+			<aciklama>F. Diğer Faaliyetlerden Olağan Gelir ve Karlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5022</kod>
+			<aciklama>  1. İştiraklerden Temettü Gelirleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5023</kod>
+			<aciklama>  2. Bağlı Ortaklıklardan Temettü Gelirleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5024</kod>
+			<aciklama>  3. Faiz Gelirleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5025</kod>
+			<aciklama>  4. Komisyon Gelirleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5026</kod>
+			<aciklama>  5. Konusu Kalmayan Karşılıklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5027</kod>
+			<aciklama>  6. Menkul Kıymet Satış Karları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5028</kod>
+			<aciklama>  7. Kambiyo Karları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5029</kod>
+			<aciklama>  8. Reeskont Faiz Gelirleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5030</kod>
+			<aciklama>  9. Enflasyon Düzeltmesi Karları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5053</kod>
+			<aciklama>  10. Diğer Olağan Gelir ve Karlar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>5031</kod>
+			<aciklama>G. Diğer Faaliyetlerden Olağan Gider ve Zararlar (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5032</kod>
+			<aciklama>  1. Komisyon Giderleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5033</kod>
+			<aciklama>  2. Karşılık Giderleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5034</kod>
+			<aciklama>  3. Menkul Kıymet Satış Zararları (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5035</kod>
+			<aciklama>  4. Kambiyo Zararları (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5036</kod>
+			<aciklama>  5. Reeskont Faiz Giderleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5037</kod>
+			<aciklama>  6. Enflasyon Düzeltmesi Zararları (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5038</kod>
+			<aciklama>  7. Diğer Olağan Gider ve Zararlar (-)</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>5039</kod>
+			<aciklama>H. Finansman Giderleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5040</kod>
+			<aciklama>  1. Kısa Vadeli Borçlanma Giderleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5041</kod>
+			<aciklama>  2. Uzun Vadeli Borçlanma Giderleri (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5042</kod>
+			<aciklama>Olağan Kar veya Zarar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5043</kod>
+			<aciklama>I. Olağan Dışı Gelir ve Karlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5044</kod>
+			<aciklama>  1. Önceki Dönem Gelir ve Karları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5045</kod>
+			<aciklama>  2. Diğer Olağandışı Gelir ve Karlar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>5046</kod>
+			<aciklama>J. Olağandışı Gider ve Zararlar (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5047</kod>
+			<aciklama>  1. Çalışmayan Kısım Gider ve Zararları (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5048</kod>
+			<aciklama>  2. Önceki Dönem Gider ve Zararları (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5049</kod>
+			<aciklama>  3. Diğer Olağandışı Gider ve Zararlar (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5050</kod>
+			<aciklama>Dönem Karı veya Zararı</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>5051</kod>
+			<aciklama>K. Dönem Karı, Vergi ve Diğer Yasal Yükümlülük Karşılıkları (-)</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>5052</kod>
+			<aciklama>Dönem Net Karı veya Zararı</aciklama>
+		</data>
+	</ayrintiliGelirTablosu>
+	<gelirVergisiTurleri>
+		<data>
+			<kod>TK</kod>
+		</data>
+		<data>
+			<kod>BUTK</kod>
+		</data>
+		<data>
+			<kod>ZK</kod>
+		</data>
+		<data>
+			<kod>ÜCR</kod>
+		</data>
+		<data>
+			<kod>SMK</kod>
+		</data>
+		<data>
+			<kod>GMSİ</kod>
+		</data>
+		<data>
+			<kod>MSİ</kod>
+		</data>
+		<data>
+			<kod>DKİ</kod>
+			</data>
+	</gelirVergisiTurleri>
+	<bilancoGecis>
+		<data>
+			<sign>+</sign>
+			<kod>6001</kod>
+			<aciklama>TİCARİ KAR</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>6002</kod>
+			<aciklama>TİCARİ ZARAR</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6003</kod>
+			<aciklama>TİCARİ KARA İLAVE EDİLECEK GİDER VE İNDİRİMLER</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6004</kod>
+			<aciklama>SATIŞ İNDİRİMLERİ</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6005</kod>
+			<aciklama>  Satıştan İadeler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6006</kod>
+			<aciklama>  Satış İskontoları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6007</kod>
+			<aciklama>  Diğer İndirimler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6008</kod>
+			<aciklama>SATIŞLARIN MALİYETİ</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6009</kod>
+			<aciklama>  Satılan Mamüllerin Maliyeti</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6010</kod>
+			<aciklama>  Satılan Ticari Mallar Maliyeti</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6011</kod>
+			<aciklama>  Satılan Hizmet Maliyeti</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6012</kod>
+			<aciklama>  Diğer Satışların Maliyeti</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6013</kod>
+			<aciklama>FAALİYET GİDERLERİ</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6014</kod>
+			<aciklama>  Araştırma ve Geliştirme Giderleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6015</kod>
+			<aciklama>  Pazarlama, Satış ve Dağıtım Giderleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6016</kod>
+			<aciklama>  Genel Yönetim Giderleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6017</kod>
+			<aciklama>DİĞER FAALİYETLERDEN OLAĞAN GİDER VE ZARARLAR</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6018</kod>
+			<aciklama>  Komisyon Giderleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6019</kod>
+			<aciklama>  Karşılık Giderleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6020</kod>
+			<aciklama>  Menkul Kıymet Satış Zararları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6021</kod>
+			<aciklama>  Kambiyo Zararları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6022</kod>
+			<aciklama>  Reeskont Faiz Giderleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6052</kod>
+			<aciklama>  Enflasyon Düzeltmesi Zararları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6023</kod>
+			<aciklama>  Diğer Gider ve Zararlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6024</kod>
+			<aciklama>FİNANSMAN GİDERLERİ</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6025</kod>
+			<aciklama>  Kısa Vadeli Borçlanma Giderleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6026</kod>
+			<aciklama>  Uzun Vadeli Borçlanma Giderleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6027</kod>
+			<aciklama>OLAĞANDIŞI GİDER VE ZARARLAR</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6028</kod>
+			<aciklama>  Çalışmayan Kısım Gider ve Zararları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6029</kod>
+			<aciklama>  Önceki Dönem Gider ve Zararları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6030</kod>
+			<aciklama>  Diğer Olağandışı Gider ve Zararlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6031</kod>
+			<aciklama>TOPLAM</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6032</kod>
+			<aciklama>TİCARİ KARDAN İNDİRİLECEK KAZANÇLAR VE İRATLAR</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6033</kod>
+			<aciklama>BRÜT SATIŞLAR</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6034</kod>
+			<aciklama>  Yurtiçi Satışlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6035</kod>
+			<aciklama>  Yurtdışı Satışlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6036</kod>
+			<aciklama>  Diğer Gelirler</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6037</kod>
+			<aciklama>DİĞER FAALİYETLERDEN OLAĞAN GELİR VE KARLAR</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6038</kod>
+			<aciklama>  İştiraklerden Temettü Gelirleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6039</kod>
+			<aciklama>  Bağlı Ortaklıklardan Temettü Gelirleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6040</kod>
+			<aciklama>  Faiz Gelirleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6041</kod>
+			<aciklama>  Komisyon Gelirleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6042</kod>
+			<aciklama>  Konusu Kalmayan Karşılıklar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6043</kod>
+			<aciklama>  Menkul Kıymet Satış Karları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6044</kod>
+			<aciklama>  Kambiyo Karları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6045</kod>
+			<aciklama>  Reeskont Faiz Gelirleri</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6053</kod>
+			<aciklama>  Enflasyon Düzeltmesi Karları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6046</kod>
+			<aciklama>  Diğer Olağan Gelir ve Karlar</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6047</kod>
+			<aciklama>OLAĞANDIŞI GELİR VE KARLAR</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6048</kod>
+			<aciklama>  Önceki Dönem Gelir ve Karları</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6049</kod>
+			<aciklama>  Diğer Olağandışı Gelir ve Karlar</aciklama>
+		</data>
+		<data>
+			<sign>-</sign>
+			<kod>6050</kod>
+			<aciklama>TOPLAM</aciklama>
+		</data>
+		<data>
+			<sign>+</sign>
+			<kod>6051</kod>
+			<aciklama>MALİ KAR veya ZARAR</aciklama>
+		</data>
+	</bilancoGecis>
+	<ayrintiliGelirTablosuDipnotlari>
+		<data>
+			<kod>7001</kod>
+			<aciklama>1. Dönemin tüm amortisman giderleri ile itfa ve tükenme payları</aciklama>
+		</data>
+		<data>
+			<kod>7002</kod>
+			<aciklama>1. a) Amortisman giderleri</aciklama>
+		</data>
+		<data>
+			<kod>7003</kod>
+			<aciklama>1. aa) Normal amortisman giderleri</aciklama>
+		</data>
+		<data>
+			<kod>7004</kod>
+			<aciklama>1. bb) Yeniden değerlemeden doğan amortisman giderleri</aciklama>
+		</data>
+		<data>
+			<kod>7005</kod>
+			<aciklama>1. b) İtfa ve tükenme payları</aciklama>
+		</data>
+		<data>
+			<kod>7006</kod>
+			<aciklama>2. Dönemin karşılık giderleri</aciklama>
+		</data>
+		<data>
+			<kod>7007</kod>
+			<aciklama>3. Dönemin tüm finansman giderleri</aciklama>
+		</data>
+		<data>
+			<kod>7008</kod>
+			<aciklama>3. a) Üretim maliyetine verilenler</aciklama>
+		</data>
+		<data>
+			<kod>7009</kod>
+			<aciklama>3. b) Sabit varlıkların maliyetine verilenler</aciklama>
+		</data>
+		<data>
+			<kod>7010</kod>
+			<aciklama>3. c) Doğrudan gider yazılanlar</aciklama>
+		</data>
+		<data>
+			<kod>7011</kod>
+			<aciklama>4. Dönemin finansman giderlerinden ana kuruluş, ana ortaklık, müessese, bağlı ortaklık ve iştiraklerle ilgili kısmın tutarı (Toplam tutar içindeki payları % 20'yi aşanlar ayrıca gösterilecektir.)</aciklama>
+		</data>
+		<data>
+			<kod>7012</kod>
+			<aciklama>5. Ana kuruluş, ana ortaklık, müessese, bağlı ortaklık ve iştiraklerle yapılan satışlar. (Toplam tutar içindeki payları % 20'yi aşanlar ayrıca, gösterilecektir.)</aciklama>
+		</data>
+		<data>
+			<kod>7013</kod>
+			<aciklama>6. Ana kuruluş, ana ortaklık, müessese, bağlı ortaklık ve iştiraklerden alınan ve bunlara ödenen faiz, kira ve benzerleri (Toplam tutar içindeki payları % 20'yi aşanlar ayrıca gösterilecektir.)</aciklama>
+		</data>
+		<data>
+			<kod>7014</kod>
+			<aciklama>7. Yönetim kurulu başkan ve üyeleriyle genel müdür, genel koordinatör, genel müdür yardımcıları gibi üst yöneticilere cari dönemde sağlanan ücret ve benzeri menfaatlerin toplam tutarı</aciklama>
+		</data>
+		<data>
+			<kod>7015</kod>
+			<aciklama>8. Amortisman hesaplama yöntemleri ile bu yöntemlerde yapılan değişikliklerin dönemin amortisman giderlerinde meydana getirdiği artış (+) veya azalış (-)</aciklama>
+		</data>
+		<data>
+			<kod>7016</kod>
+			<aciklama>9. Stok maliyeti hesaplama sistemleri (safha veya sipariş maliyeti gibi) ve yöntemleri (ağırlıklı ortalama maliyet, ilk giren ilk çıkar, hareketli ortalama maliyet gibi.)(1)</aciklama>
+		</data>
+		<data>
+			<kod>7017</kod>
+			<aciklama>10. Varsa, tamamen veya kısmen fiili stok sayımı yapılamamasının gerekçeleri</aciklama>
+		</data>
+		<data>
+			<kod>7018</kod>
+			<aciklama>11. Yurtiçi ve yurtdışı satışlar hesap kalemi içinde yeralan yan ürün, hurda, döküntü gibi maddelerin satışları ile hizmet satışlarının ayrı ayrı toplamlarının brüt satışların yüzde yirmisini aşması halinde bu madde ve hizmetlere ilişkin tutarları</aciklama>
+		</data>
+		<data>
+			<kod>7019</kod>
+			<aciklama>12. Önceki döneme ilişkin gelir ve giderler ile önceki döneme ait gider ve zararların tutarlarını ve kaynakları gösteren açıklayıcı not</aciklama>
+		</data>
+		<data>
+			<kod>7020</kod>
+			<aciklama>13. Adi ve imtiyazlı hisse senetleri için ayrı ayrı gösterilmek koşuluyla, hisse başına kâr ve kâr payı oranları</aciklama>
+		</data>
+	</ayrintiliGelirTablosuDipnotlari>
+	<dipNotTip2Bilgileri>
+		<dipNotTip2Bilgisi>
+			<kod>401</kod>
+			<aciklama>7. Kasa ve bankalardaki döviz mevcutları</aciklama>
+		</dipNotTip2Bilgisi>
+		<dipNotTip2Bilgisi>
+			<kod>402</kod>
+			<aciklama>8. Yurtdışından alacaklar (avanslar dahil)</aciklama>
+		</dipNotTip2Bilgisi>
+		<dipNotTip2Bilgisi>
+			<kod>403</kod>
+			<aciklama>9. Yurtdışına borçlar (avanslar dahil)</aciklama>
+		</dipNotTip2Bilgisi>
+	</dipNotTip2Bilgileri>
+</kodlar>

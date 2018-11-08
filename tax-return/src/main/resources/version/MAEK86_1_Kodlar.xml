@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<vergiOranlari>
+		<vergiOrani><yil>2006</yil><oran>1</oran></vergiOrani>
+		<vergiOrani><yil>2007</yil><oran>1</oran></vergiOrani>
+		<vergiOrani><yil>2008</yil><oran>1</oran></vergiOrani>
+		<vergiOrani><yil>2009</yil><oran>1</oran></vergiOrani>
+	</vergiOranlari>
+	<yillikGayriSafiTutarlar>
+		<yillikGayriSafiTutar><yil>2006</yil><gayriSafiTutar>9550.00</gayriSafiTutar><oran>3</oran></yillikGayriSafiTutar>
+		<yillikGayriSafiTutar><yil>2007</yil><gayriSafiTutar>10320.00</gayriSafiTutar><oran>3</oran></yillikGayriSafiTutar>
+		<yillikGayriSafiTutar><yil>2008</yil><gayriSafiTutar>11220.00</gayriSafiTutar><oran>3</oran></yillikGayriSafiTutar>
+		<yillikGayriSafiTutar><yil>2009</yil><gayriSafiTutar>12230.00</gayriSafiTutar><oran>3</oran></yillikGayriSafiTutar>
+	</yillikGayriSafiTutarlar>
+</kodlar>

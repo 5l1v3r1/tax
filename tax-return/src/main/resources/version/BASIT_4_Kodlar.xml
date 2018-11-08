@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<!--
+	Ref : IND		indirimler/indirim/kod
+	Ref : TKAB		faaliyetKonulari/faaliyetKonusu/kod
+-->
+<kodlar>
+	<indirimler>
+		<indirim>
+	     		<kod>102</kod>
+	         	<aciklama>Şahıs Sigorta Primleri</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>103</kod>
+	         	<aciklama>Eğitim ve Sağlık Harcamaları</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>104</kod>
+	         	<aciklama>Okul,Yurt ve Sağlık Tesislerine İlişkin Bağış ve Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	    	 	<kod>105</kod>
+	         	<aciklama>Sakatlık İndirimi</aciklama>
+		</indirim>
+		<indirim>
+	    	 	<kod>106</kod>
+	         	<aciklama>Diğer Bağış ve Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	    	 	<kod>107</kod>
+	         	<aciklama>Diğer İndirimler</aciklama>
+		</indirim>
+	</indirimler>
+	<indirimOranlari>
+		<data>
+			<kod>102</kod>
+			<oran>10</oran>
+		</data>
+		<data>
+			<kod>103</kod>
+			<oran>10</oran>
+		</data>
+	</indirimOranlari>
+	<faaliyetKonulari>
+		<faaliyetKonusu>
+	     		<kod>201</kod>
+	         	<aciklama>Her Türlü Taşıma İşi Yapanlar</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+	     		<kod>202</kod>
+	         	<aciklama>Her Türlü Emtia Alım Satımı İle Uğraşanlar</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+	     		<kod>203</kod>
+	         	<aciklama>Taşıtların Her Türlü Bakım ve Onarımı İle Uğraşanlar</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+	     		<kod>204</kod>
+	         	<aciklama>Berber ve Kuaförlük Faaliyetinde Bulunanlar</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+	    	 	<kod>205</kod>
+	         	<aciklama>Eğlence ve İstirahat Yeri İşletenler</aciklama>
+		</faaliyetKonusu>
+		<faaliyetKonusu>
+	    	 	<kod>206</kod>
+	         	<aciklama>Diğerleri</aciklama>
+		</faaliyetKonusu>
+	</faaliyetKonulari>
+</kodlar>

@@ -1,0 +1,30 @@
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:p="http://primefaces.org/ui" template="templates/layout.xhtml">
+	<ui:define name="content">
+		<h:body>
+			<h:form id="addBeyan">
+				<div class="login-panel ui-fluid">
+					<div class="ui-g">
+						<div class="ui-g-12 login-header">
+							<h1>E-BEYAN</h1>
+							<h1>Beyan Ekle</h1>
+						</div>
+						<div>
+							<p:fileUpload
+								fileUploadListener="#{fileUploadView.handleFileUpload}"
+								mode="advanced" dragDropSupport="true" update="msg"
+								sizeLimit="100000" allowTypes=".xml" />
+						</div>
+						<div class="ui-g-12 button-container">
+							<p:commandButton value="Ekle" icon="ui-icon-arrowstop-1-s"
+								action="#{beyanBean.add}" ajax="false" />
+						</div>
+					</div>
+				</div>
+			</h:form>
+		</h:body>
+	</ui:define>
+</ui:composition>

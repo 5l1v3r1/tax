@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<mukellefiyetTurleri>
+		<mukellefiyetTuru>
+			<kod>101</kod>
+			<aciklama>Ticari veya Zirai Kazancı Bilanço Esasına Göre Tespit Edilen Gelir Vergisi Mükellefiyim. (Beyana tabi diğer gelir unsurları bulunanlar dahil)</aciklama>
+			<kisaltma>Bilanço</kisaltma>
+			<asgariMatrah2006>9550.00</asgariMatrah2006>
+			<asgariMatrah2007>10320.00</asgariMatrah2007>
+			<asgariMatrah2008>11220.00</asgariMatrah2008>
+			<asgariMatrah2009>12230.00</asgariMatrah2009>
+		</mukellefiyetTuru>
+		<mukellefiyetTuru>
+			<kod>102</kod>
+			<aciklama>Ticari veya Zirai Kazancı İşletme Hesabı Esasına Göre Tespit Edilen Gelir Vergisi Mükellefiyim.(Beyana tabi diğer gelir unsurları bulunanlar dahil)</aciklama>
+			<kisaltma>İşl. Hes.</kisaltma>
+			<asgariMatrah2006>6370.00</asgariMatrah2006>
+			<asgariMatrah2007>6880.00</asgariMatrah2007>
+			<asgariMatrah2008>7480.00</asgariMatrah2008>
+			<asgariMatrah2009>8150.00</asgariMatrah2009>
+		</mukellefiyetTuru>
+		<mukellefiyetTuru>
+			<kod>103</kod>
+			<aciklama>Serbest Meslek Erbabıyım.(Beyana tabi diğer gelir unsurları bulunanlar dahil)</aciklama>
+			<kisaltma>Serb. Mesl.</kisaltma>
+			<asgariMatrah2006>9550.00</asgariMatrah2006>
+			<asgariMatrah2007>10320.00</asgariMatrah2007>
+			<asgariMatrah2008>11220.00</asgariMatrah2008>
+			<asgariMatrah2009>12230.00</asgariMatrah2009>
+		</mukellefiyetTuru>
+		<mukellefiyetTuru>
+			<kod>104</kod>
+			<aciklama>Geliri Sadece Basit Usulde Vergilendirilen Gelir Vergisi Mükellefiyim.</aciklama>
+			<kisaltma>Basit Usl</kisaltma>
+			<asgariMatrah2006>955.00</asgariMatrah2006>
+			<asgariMatrah2007>1032.00</asgariMatrah2007>
+			<asgariMatrah2008>1122.00</asgariMatrah2008>
+			<asgariMatrah2009>1223.00</asgariMatrah2009>
+		</mukellefiyetTuru>
+		<mukellefiyetTuru>
+			<kod>105</kod>
+			<aciklama>Geliri Sadece GMSİ'dan Oluşan Gelir Vergisi Mükellefiyim.</aciklama>
+			<kisaltma>GMSİ</kisaltma>
+			<asgariMatrah2006>1910.00</asgariMatrah2006>
+			<asgariMatrah2007>2064.00</asgariMatrah2007>
+			<asgariMatrah2008>2244.00</asgariMatrah2008>
+			<asgariMatrah2009>2446.00</asgariMatrah2009>
+		</mukellefiyetTuru>
+		<mukellefiyetTuru>
+			<kod>106</kod>
+			<aciklama>Diğer Gelir Unsurlarının Biri veya Birkaçı Nedeniyle Beyanname Veren Gelir Vergisi Mükellefiyim. (Diğer Gelir Unsurları İle Birlikte Basit Usulde Ticari Kazanç veya GMSİ Elde Eden Mükellefler Dahil)</aciklama>
+			<kisaltma>Diğer</kisaltma>
+			<asgariMatrah2006>6370.00</asgariMatrah2006>
+			<asgariMatrah2007>6880.00</asgariMatrah2007>
+			<asgariMatrah2008>7480.00</asgariMatrah2008>
+			<asgariMatrah2009>8150.00</asgariMatrah2009>
+		</mukellefiyetTuru>
+	</mukellefiyetTurleri>
+	<artirimOranlari>
+            <artirimOrani><yil>2006</yil><oran>30</oran></artirimOrani>
+            <artirimOrani><yil>2007</yil><oran>25</oran></artirimOrani>
+            <artirimOrani><yil>2008</yil><oran>20</oran></artirimOrani>
+            <artirimOrani><yil>2009</yil><oran>15</oran></artirimOrani>
+	</artirimOranlari>
+
+	<vergiOranlari>
+		<vergiOrani><oran>20</oran></vergiOrani>
+		<vergiOrani><oran>15</oran></vergiOrani>
+	</vergiOranlari>
+</kodlar>

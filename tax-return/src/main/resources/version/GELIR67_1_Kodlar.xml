@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: MKT menkulKiymetTurleri/menkulKiymetTuru/kod
+	Ref :	GELIR_VERGISI_TUR		gelirVergisiTurleri/data/kod
+-->
+<menkulKiymetTurleri>
+	<menkulKiymetTuru>
+		<kod>101</kod>
+		<ad>Sabit Getirili Menkul Kıymetler</ad>
+	</menkulKiymetTuru>
+	<menkulKiymetTuru>
+		<kod>102</kod>
+		<ad>Değişken Getirili Menkul Kıymetler</ad>
+	</menkulKiymetTuru>
+	<menkulKiymetTuru>
+		<kod>103</kod>
+		<ad>Diğer Sermaye Piyasası Araçları</ad>
+	</menkulKiymetTuru>
+	<menkulKiymetTuru>
+		<kod>104</kod>
+		<ad>Yatırım Fonları Katılma Belgeleri</ad>
+	</menkulKiymetTuru>
+ </menkulKiymetTurleri>
+ <gelirVergisiTurleri>
+		<data>
+			<kod>TK</kod>
+		</data>
+		<data>
+			<kod>BUTK</kod>
+		</data>
+		<data>
+			<kod>ZK</kod>
+		</data>
+		<data>
+			<kod>ÜCR</kod>
+		</data>
+		<data>
+			<kod>SMK</kod>
+		</data>
+		<data>
+			<kod>GMSİ</kod>
+		</data>
+		<data>
+			<kod>MSİ</kod>
+		</data>
+		<data>
+			<kod>DKİ</kod>
+			</data>
+	</gelirVergisiTurleri>
+</kodlar>

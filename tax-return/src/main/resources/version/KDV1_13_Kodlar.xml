@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by okan (okanc) -->
+<!--
+	Ref : TUI_O		oranlar/oran/oran
+	Ref : TUI_TO		tevkifatOranlari/tevkifatOrani/tevkifatOrani
+	Ref : IND		indirimler/indirim/kod
+	Ref : KIST		kismiistisnalar/kismiistisna/kod
+	Ref : TIST		tamistisnalar/tamistisna/kod
+	Ref : DIADE		digeriadeler/digeriade/kod
+	Ref : IHDI		iadeHakkiDoguranIslemler/iadeHakkiDoguranIslem/kod
+	Ref : DISL		digerIslemler/digerIslem/kod
+
+
+-->
+<kodlar>
+	<oranlar>
+		<oran>
+			<oran>1</oran>
+		</oran>
+		<oran>
+			<oran>8</oran>
+		</oran>
+		<oran>
+			<oran>18</oran>
+		</oran>
+	</oranlar>
+	<tevkifatOranlari>
+		<tevkifatOrani>
+			<tevkifatOrani>1/3</tevkifatOrani>
+		</tevkifatOrani>
+		<tevkifatOrani>
+			<tevkifatOrani>2/3</tevkifatOrani>
+		</tevkifatOrani>
+		<tevkifatOrani>
+			<tevkifatOrani>1/2</tevkifatOrani>
+		</tevkifatOrani>
+		<tevkifatOrani>
+			<tevkifatOrani>9/10</tevkifatOrani>
+		</tevkifatOrani>
+		<tevkifatOrani>
+			<tevkifatOrani>1/6</tevkifatOrani>
+		</tevkifatOrani>
+		<tevkifatOrani>
+			<tevkifatOrani>4/5</tevkifatOrani>
+		</tevkifatOrani>
+	</tevkifatOranlari>
+	<indirimler>
+		<indirim>
+			<kod>101</kod>
+			<ad>Önceki Dönemden Devreden İndirilecek KDV</ad>
+		</indirim>
+		<indirim>
+			<kod>102</kod>
+			<ad>Bu Döneme Ait İndirilecek KDV</ad>
+		</indirim>
+		<indirim>
+			<kod>103</kod>
+			<ad>Satış.İade Edilen,İşlemi Gerçekleşme.veya İşleminden Vazge.Mal ve Hiz.Nedeniyle İnd.Gereken KDV</ad>
+		</indirim>
+		<indirim>
+			<kod>104</kod>
+			<ad>Türkiye'de İkamet Etmeyen Yolculara Bu Dönemde Ödenen KDV (43 No.lu G.T.)</ad>
+		</indirim>
+		<indirim>
+			<kod>105</kod>
+			<ad>İstisna Şartları Bu Dönemde Oluşan Türkiye'de İkamet Etmeyen.Döviz Karşılğı Yapıl.Tes.Bedelleri Üzerin. Hesap.KDV (61 No.lu G.T.)</ad>
+		</indirim>
+		<indirim>
+			<kod>106</kod>
+			<ad>İndirimli Orana Tabi İşlemlerle İlgili Yılı İçerisinde Mahsuben İadesi Gerçekleşmeyen KDV</ad>
+		</indirim>
+	</indirimler>
+	<kismiistisnalar>
+		<kismiistisna>
+			<kod>201</kod>
+			<madde>17/1</madde>
+			<aciklama>Kültür ve eğitim amacı taşıyan işlemler</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>202</kod>
+			<madde>17/2-a</madde>
+			<aciklama>Sağlık, çevre ve sosyal yardım amaçlı işlemler</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>226</kod>
+			<madde>17/2-b</madde>
+			<aciklama>Özel okullar, üniversite ve yüksekokullar tarafından verilen bedelsiz eğitim ve öğretim hizmetleri</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>227</kod>
+			<madde>17/2-b</madde>
+			<aciklama>Kanunların gösterdiği gerek üzerine bedelsiz olarak yapılan teslim ve hizmetler</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>228</kod>
+			<madde>17/2-b</madde>
+			<aciklama>Kanunun (17/1) maddesinde sayılan kurum ve kuruluşlara bedelsiz olarak yapılan teslim ve hizmetler</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>229</kod>
+			<madde>17/2-b</madde>
+			<aciklama>Gıda bankacılığı faaliyetinde bulunan dernek ve vakıflara bağışlanan gıda,temizlik,giyecek ve yakacak maddeleri</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>204</kod>
+			<madde>17/2-c</madde>
+			<aciklama>Yabancı diplomatik organ ve hayır kurumlarının yapacakları bağışlarla ilgili mal ve hizmet alışları</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>205</kod>
+			<madde>17/2-d</madde>
+			<aciklama>Taşınmaz kültür varlıklarına ilişkin teslimler ve mimarlık hizmetleri</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>206</kod>
+			<madde>17/2-e</madde>
+			<aciklama>Mesleki kuruluşların işlemleri</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>207</kod>
+			<madde>17/3</madde>
+			<aciklama>Askeri fabrika, tersane ve atölyelerin işlemleri</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>208</kod>
+			<madde>17/4-c</madde>
+			<aciklama>Birleşme, devir, dönüşüm ve bölünme işlemleri</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>209</kod>
+			<madde>17/4-e</madde>
+			<aciklama>Banka ve sigorta muamaleleri vergisi kapsamına giren işlemler</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>230</kod>
+			<madde>17/4-g</madde>
+			<aciklama>Külçe altın, külçe gümüş, kıymetli taş teslimleri</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>231</kod>
+			<madde>17/4-g</madde>
+			<aciklama>Metal, plastik, lastik, kauçuk, kağıt, cam hurda ve atıkları teslimi</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>232</kod>
+			<madde>17/4-g</madde>
+			<aciklama>Döviz, para, damga pulu, değerli kağıtlar, hisse senedi, tahvil teslimleri</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>211</kod>
+			<madde>17/4-h</madde>
+			<aciklama>Zirai amaçlı su teslimleri ile köy tüzel kişiliklerince yapılan içme suyu teslimleri</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>212</kod>
+			<madde>17/4-i</madde>
+			<aciklama>Serbest bölgelerde verilen hizmetler</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>213</kod>
+			<madde>17/4-j</madde>
+			<aciklama>Boru hattı ile yapılan petrol ve gaz taşımacılığı</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>214</kod>
+			<madde>17/4-k</madde>
+			<aciklama>Organize sanayi bölgelerindeki arsa ve işyeri teslimleri ile konut yapı kooperatiflerinin üyelerine konut teslimleri</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>215</kod>
+			<madde>17/4-l</madde>
+			<aciklama>Varlık yönetim şirketlerinin işlemleri</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>216</kod>
+			<madde>17/4-m</madde>
+			<aciklama>Tasarruf mevduatı sigorta fonunun işlemleri</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>217</kod>
+			<madde>17/4-n</madde>
+			<aciklama>Basın-Yayın ve Enformasyon Genel Müdürlüğüne verilen haber hizmetleri</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>218</kod>
+			<madde>17/4-o</madde>
+			<aciklama>Gümrük antrepoları, geçici depolama yerleri, gümrüklü sahalar ve vergisiz satış yapılan mağazalarla ilgili hizmetler</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>219</kod>
+			<madde>17/4-p</madde>
+			<aciklama>Hazine ve Arsa Ofisi Genel Müdürlüğünün işlemleri</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>220</kod>
+			<madde>17/4-r</madde>
+			<aciklama>İştirak hisseleri ve gayrimenkul satışları</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>234</kod>
+			<madde>17/4-ş</madde>
+			<aciklama>Konut finansmanı amacıyla teminat gösterilen ve ipotek konulan konutların teslimi</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>235</kod>
+			<madde>16/1-c</madde>
+			<aciklama>Transit ve gümrük antrepo rejimleri ile geçici depolama ve serbest bölge hükümlerinin uygulandığı malların teslimi</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>236</kod>
+			<madde>19/2</madde>
+			<aciklama>Usulüne göre yürürlüğe girmiş uluslararası anlaşmalar kapsamındaki istisnalar (İade hakkı tanınmayan)</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>221</kod>
+			<madde>Geçici 15</madde>
+			<aciklama>Konut yapı kooperatifleri, belediyeler ve sos. güv.kuruluşlarıına verilen inşaat taahhüt hizmeti</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>223</kod>
+			<madde>Geçici 20/1</madde>
+			<aciklama>Teknoloji geliştirme bölgelerinde yapılan işlemler</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>225</kod>
+			<madde>Geçici 23</madde>
+			<aciklama>Milli Eğitim Bakanlığına yapılan bilgisayar bağışları ile ilgili teslimler</aciklama>
+		</kismiistisna>
+		<kismiistisna>
+			<kod>250</kod>
+			<madde/>
+			<aciklama>Diğerleri</aciklama>
+		</kismiistisna>
+	</kismiistisnalar>
+	<tamistisnalar>
+		<tamistisna>
+			<kod>301</kod>
+			<madde>11/1-a</madde>
+			<aciklama>Mal ihracatı</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>302</kod>
+			<madde>11/1-a</madde>
+			<aciklama>Hizmet İhracatı</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>303</kod>
+			<madde>11/1-a</madde>
+			<aciklama>Roaming hizmetleri</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>316</kod>
+			<madde>11/1-a</madde>
+			<aciklama>Serbest bölgelerdeki müşteriler için yapılan fason hizmetler</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>304</kod>
+			<madde>13/a</madde>
+			<aciklama>Deniz, hava ve demiryolu taşıma araçlarının teslimi ile inşa, tadil, bakım ve onarımları</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>305</kod>
+			<madde>13/b</madde>
+			<aciklama>Deniz ve hava taşıma araçları için liman ve hava meydanlarında yapılan hizmetler</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>306</kod>
+			<madde>13/c</madde>
+			<aciklama>Petrol aramaları ve petrol boru hatlarının inşa ve modernizasyonuna ilişkin yapılan teslim ve hizmetler</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>308</kod>
+			<madde>13/d</madde>
+			<aciklama>Teşvikli yatırım mallarının teslimi</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>309</kod>
+			<madde>13/e</madde>
+			<aciklama>Limanlara bağlantı sağlayan demiryolu hatları ile liman ve hava meydanlarının inşası, yenilenmesi ve genişletilmesi</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>310</kod>
+			<madde>13/f</madde>
+			<aciklama>Ulusal güvenlik amaçlı teslim ve hizmetler</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>311</kod>
+			<madde>14/1</madde>
+			<aciklama>Uluslararası taşımacılık</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>315</kod>
+			<madde>14/3</madde>
+			<aciklama>İhraç konusu eşyayı taşıyan kamyon, çekici ve yarı romorklara yapılan motorin teslimleri</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>312</kod>
+			<madde>15/a</madde>
+			<aciklama>Diplomatik organ ve misyonlara yapılan teslim ve hizmetler</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>313</kod>
+			<madde>15/b</madde>
+			<aciklama>Uluslarası kurulaşlara yapılan teslim ve hizmetler</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>317</kod>
+			<madde>17/4-s</madde>
+			<aciklama>Özürlülerin eğitimleri, meslekleri ve günlük yaşamlarına ilişkin araç-gereç ve bilgisayar programları</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>318</kod>
+			<madde>Geçici 29</madde>
+			<aciklama>3996 sayılı Kanuna göre yap-işlet-devret modeli çerçevesinde gerçekleştirilecek projeler, 3359 sayılı Kanuna göre kiralama karşılığı yaptırılan sağlık tesislerine ilişkin projeler ve 652 sayılı Kanun Hükmünde Kararnameye göre kiralama karşılığı yaptırılan eğitim öğretim tesislerine ilişkin projelere ilişkin teslim ve hizmetler.</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>319</kod>
+			<madde>13/g</madde>
+			<aciklama>Başbakanlık Merkez Teşkilatına Yapılan Araç Teslimleri</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>320</kod>
+			<madde>Geçici 16(6111 Sayılı Kanun)</madde>
+			<aciklama>İsmep Kapsamında, İstanbul İl Özel İdaresine Bağlı Olarak Faaliyet Gösteren İstanbul Proje Koordinasyon Birimine Yapılacak Teslim ve Hizmetler</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>314</kod>
+			<madde>19/2</madde>
+			<aciklama>Usulüne göre yürürlüğe girmiş uluslar arası anlaşmalar kapsamındaki istisnalar (İade hakkı tanınan)</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>321</kod>
+			<madde>Geçici 26</madde>
+			<aciklama>Birleşmiş Milletler (BM) ile Kuzey Atlantik Antlaşması Teşkilatı (NATO) temsilcilikleri ve bu Teşkilatlara bağlı program, fon ve özel ihtisas kuruluşları ile İktisadi İşbirliği ve Kalkınma Teşkilatına (OECD) resmi kullanımları için yapılacak mal teslimi ve hizmet ifaları, bunların sosyal ve ekonomik yardım amacıyla bedelsiz olarak yapacakları mal teslimi ve hizmet ifaları ile ilgili bunlara yapılan mal teslimi ve hizmet ifaları</aciklama>
+		</tamistisna>
+		<tamistisna>
+			<kod>350</kod>
+			<madde/>
+			<aciklama>Diğerleri</aciklama>
+		</tamistisna>
+	</tamistisnalar>
+	<digeriadeler>
+		<digeriade>
+			<kod>403</kod>
+			<madde>11/1-a</madde>
+			<aciklama>61 NO.LU KDV GENEL TEBLİĞİ KAPSAMINDAKİ SATIŞLARLA İLGİLİ İADE KONUSU YAPILACAK KDV (BAVUL TİCARETİ)</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>405</kod>
+			<madde>11/1-c ve Geçici 17</madde>
+			<aciklama>İHRACATI BU DÖNEMDE GERÇEKLEŞEN İNDİRİMLİ ORANA TABİ MALLARIN İHRAÇ KAYDIYLA TESLİMLERİ İLE İLGİLİ YÜKLENİLEN KDV FARKI</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>406</kod>
+			<madde>29/2</madde>
+			<aciklama>İNDİRİMLİ ORANA TABİ İŞLEMLERE İLİŞKİN İADE (YILI İÇİNDE AYLIK MAHSUBEN İADE)</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>408</kod>
+			<madde>11/1-b</madde>
+			<aciklama>43 NO.LU KDV GENEL TEBLİĞİ KAPSAMINDAKİ TESLİMLERLE İLGİLİ OLUP BU DÖNEMDE ALICIYA İADE EDİLEN KDV (YOLCU BERABERİ EŞYA İHRACATI)</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>409</kod>
+			<madde>9/1</madde>
+			<aciklama>İSTİSNADAN VAZGEÇENLERİN HURDA VE ATIK TESLİMİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.3.3)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>410</kod>
+			<madde>9/1</madde>
+			<aciklama>YAPIM İŞLERİ İLE BU İŞLERLE BİRLİKTE İFA EDİLEN MÜHENDİSLİK-MİMARLIK VE ETÜT-PROJE HİZMETLERİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.2.1)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>411</kod>
+			<madde>9/1</madde>
+			<aciklama>TEMİZLİK HİZMETİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.2.10)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>412</kod>
+			<madde>9/1</madde>
+			<aciklama>ÇEVRE VE BAHÇE BAKIM HİZMETLERİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.2.10)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>413</kod>
+			<madde>9/1</madde>
+			<aciklama>ÖZEL GÜVENLİK HİZMETİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.2.5)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>414</kod>
+			<madde>9/1</madde>
+			<aciklama>MAKİNE, TEÇHİZAT, DEMİRBAŞ VE TAŞITLARA AİT TADİL, BAKIM VE ONARIM HİZMETLERİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.2.3)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>415</kod>
+			<madde>9/1</madde>
+			<aciklama>YEMEK SERVİS HİZMETİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.2.4)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>416</kod>
+			<madde>9/1</madde>
+			<aciklama>ETÜT, PLAN-PROJE, DANIŞMANLIK, DENETİM VE BENZERİ HİZMETLERİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.2.2)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>418</kod>
+			<madde>9/1</madde>
+			<aciklama>HURDA METALDEN ELDE EDİLENLER DIŞINDAKİ BAKIR, ÇİNKO, ALÜMİNYUM VE KURŞUN KÜLÇE TESLİMİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.3.1)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>419</kod>
+			<madde>9/1</madde>
+			<aciklama>BAKIR, ÇİNKO, ALÜMİNYUM, KURŞUN VE BUNLARIN ALAŞIMLARINDAN ELDE EDİLEN ÜRÜNLERİN TESLİMİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.3.2)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>420</kod>
+			<madde>9/1</madde>
+			<aciklama>YAPI DENETİM HİZMETLERİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.2.6)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>421</kod>
+			<madde>9/1</madde>
+			<aciklama>İŞGÜCÜ TEMİN HİZMETİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.2.5)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>423</kod>
+			<madde>9/1</madde>
+			<aciklama>FASON TEKSTİL VE KONFEKSİYON İŞLERİ, ÇANTA VE AYAKKABI DİKİM İŞLERİ VE BU İŞLERE ARACILIK HİZMETLERİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.2.7)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>425</kod>
+			<madde>13/a</madde>
+			<aciklama>SİPARİŞ VERENİN KDV KANUNUNUN 13/a MADDESİ KAPSAMINDAKİ ARAÇLARIN İMAL VE İNŞASINDA KULLANILAN KDV'YE TABİ MAL VE HİZMET ALIMLARI</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>426</kod>
+			<madde>13/c</madde>
+			<aciklama>KIYMETLİ MADENLERİN ARAMA, ZENGİNLEŞTİRME VE RAFİNAJ FAALİYETLERİ</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>428</kod>
+			<madde>9/1</madde>
+			<aciklama>PAMUK, TİFTİK, YÜN VE YAPAĞI İLE HAM POST VE DERİ TESLİMİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.3.5)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>430</kod>
+			<madde>9/1</madde>
+			<aciklama>HURDA METALDEN ELDE EDİLEN KÜLÇE TESLİMİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.3.1)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>431</kod>
+			<madde>9/1</madde>
+			<aciklama>TURİSTİK MAĞAZALARA VERİLEN MÜŞTERİ BULMA/GÖTÜRME HİZMETLERİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.2.8)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>432</kod>
+			<madde>9/1</madde>
+			<aciklama>ORGANİZASYON HİZMETLERİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.2.4)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>433</kod>
+			<madde>9/1</madde>
+			<aciklama>SPOR KULÜPLERİNİN YAYIN, REKLÂM VE İSİM HAKKI GELİRLERİNE KONU İŞLEMLERİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.2.9)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>434</kod>
+			<madde>9/1</madde>
+			<aciklama>SERVİS TAŞIMACILIĞI HİZMETİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.2.11)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>435</kod>
+			<madde>9/1</madde>
+			<aciklama>HER TÜRLÜ BASKI VE BASIM HİZMETLERİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.2.12)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>436</kod>
+			<madde>9/1</madde>
+			<aciklama>5018 SAYILI KANUNA EKLİ CETVELLERDEKİ İDARE, KURUM VE KURUŞLARA YAPILAN DİĞER HİZMETLERDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.2.13)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>437</kod>
+			<madde>9/1</madde>
+			<aciklama>METAL, PLASTİK, LASTİK, KAUÇUK, KÂĞIT VE CAM HURDA VE ATIKLARDAN ELDE EDİLEN HAMMADDE TESLİMİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.3.4)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>438</kod>
+			<madde>9/1</madde>
+			<aciklama>AĞAÇ VE ORMAN ÜRÜNLERİ TESLİMİNDE TEVKİFATA TABİ TUTULAN KDV [GT 117-Bölüm (3.3.6)]</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>439</kod>
+			<madde>29/2</madde>
+			<aciklama>İNDİRİMLİ ORANA TABİ İŞLEMLERE İLİŞKİN İADE (YILLIK)</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>440</kod>
+			<madde>Geçici 30</madde>
+			<aciklama>YATIRIM TEŞVİK BELGESİ KAPSAMINDA ASGARİ 500 MİLYON TL TUTARINDA SABİT YATIRIM ÖNGÖRÜLEN STRATEJİK YATIRIMLARA İLİŞKİN İNŞAAT İŞLERİ NEDENİYLE YÜKLENİLEN VE İNDİRİM YOLUYLA TELAFİ EDİLEMEYEN KDV</aciklama>
+		</digeriade>
+		<digeriade>
+			<kod>450</kod>
+			<madde/>
+			<aciklama>Diğerleri</aciklama>
+		</digeriade>
+	</digeriadeler>
+	<iadeHakkiDoguranIslemler>
+		<iadeHakkiDoguranIslem>
+			<kod>301</kod>
+			<madde>11/1-a</madde>
+			<aciklama>Mal ihracatı</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>302</kod>
+			<madde>11/1-a</madde>
+			<aciklama>Hizmet İhracatı</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>303</kod>
+			<madde>11/1-a</madde>
+			<aciklama>Roaming hizmetleri</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>304</kod>
+			<madde>13/a</madde>
+			<aciklama>Deniz, hava ve demiryolu taşıma araçlarının teslimi ile inşa, tadil, bakım ve onarımları</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>305</kod>
+			<madde>13/b</madde>
+			<aciklama>Deniz ve hava taşıma araçları için liman ve hava meydanlarında yapılan hizmetler</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>306</kod>
+			<madde>13/c</madde>
+			<aciklama>Petrol aramaları ve petrol boru hatlarının inşa ve modernizasyonuna ilişkin yapılan teslim ve hizmetler</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>308</kod>
+			<madde>13/d</madde>
+			<aciklama>Teşvikli yatırım mallarının teslimi</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>309</kod>
+			<madde>13/e</madde>
+			<aciklama>Limanlara bağlantı sağlayan demiryolu hatları ile liman ve hava meydanlarının inşası, yenilenmesi ve genişletilmesi</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>310</kod>
+			<madde>13/f</madde>
+			<aciklama>Ulusal güvenlik amaçlı teslim ve hizmetler</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>311</kod>
+			<madde>14/1</madde>
+			<aciklama>Uluslararası taşımacılık</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>315</kod>
+			<madde>14/3</madde>
+			<aciklama>İhraç konusu eşyayı taşıyan kamyon, çekici ve yarı romorklara yapılan motorin teslimleri</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>312</kod>
+			<madde>15/a</madde>
+			<aciklama>Diplomatik organ ve misyonlara yapılan teslim ve hizmetler</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>313</kod>
+			<madde>15/b</madde>
+			<aciklama>Uluslarası kurulaşlara yapılan teslim ve hizmetler</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>314</kod>
+			<madde>19/2</madde>
+			<aciklama>Usulüne göre yürürlüğe girmiş uluslar arası anlaşmalar kapsamındaki istisnalar (İade hakkı tanınan)</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>350</kod>
+			<madde/>
+			<aciklama>Diğerleri</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>401</kod>
+			<madde>8/2</madde>
+			<aciklama>Fazla ve yersiz ödenen vergiler</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>410</kod>
+			<madde>9/1</madde>
+			<aciklama>91 No.lu G.T. (A/2) bölümünde belirtilen kurum ve kuruluşlara yapılan yapım işlerine ait tevkif edilen KDV</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>411</kod>
+			<madde>9/1</madde>
+			<aciklama>91 No.lu G.T. (A/2) bölümünde belirtilen kurum ve kuruluşlara yapılan temizlik işlerine ait tevkif edilen KDV</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>412</kod>
+			<madde>9/1</madde>
+			<aciklama>91 No.lu G.T. (A/2) bölümünde belirtilen kurum ve kuruluşlara yapılan bahçe ve çevre bakım işlerine ait tevkif edilen KDV</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>413</kod>
+			<madde>9/1</madde>
+			<aciklama>91 No.lu G.T. (A/2) bölümünde belirtilen kurum ve kuruluşlara yapılan özel güvenlik hizmetlerine ait tevkif edilen KDV</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>414</kod>
+			<madde>9/1</madde>
+			<aciklama>91 No.lu G.T. (A/2) bölümünde belirtilen kurum ve kuruluşlara yapılan tadil,bakım,onarım hizmetlerine ait tevkif edilen KDV</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>415</kod>
+			<madde>9/1</madde>
+			<aciklama>91 No.lu G.T. (A/2) bölümünde belirtilen kurum ve kuruluşlara yapılan yemek sevis hizmetlerine ait tevkif edilen KDV</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>416</kod>
+			<madde>9/1</madde>
+			<aciklama>91 No.lu G.T. (A/2) bölümünde belirtilen kurum ve kuruluşlara yapılan danışmanlık-denetim hizmetlerine ait tevkif edilen KDV</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>417</kod>
+			<madde>9/1</madde>
+			<aciklama>91 No.lu G.T. (A/2) bölümünde belirtilen kurum ve kuruluşlara yapılan işgücü hizmetlerine ait tevkif edilen KDV</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>420</kod>
+			<madde>9/1</madde>
+			<aciklama>Yapı denetim hizmeti ile ilgili olarak alıcı tarafından tevkif edilen KDV (91 No.lu GT kapsamı dışındaki mükelleflere yapılanlar)</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>422</kod>
+			<madde>9/1</madde>
+			<aciklama>Özel güvenlik hizmeti ile ilgili olarak alıcı tarafından tevkif edilen KDV (91 No.lu GT kapsamı dışındaki mükelleflere yapılanlar)</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>403</kod>
+			<madde>11/1-a</madde>
+			<aciklama>61 No.lu KDV Genel Tebliği kapsamındaki satışlarla ilgili yüklenilen KDV</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>405</kod>
+			<madde>11/1-c ve Geçici 17</madde>
+			<aciklama>İhracatı bu dönemde gerçekleşen indirimli orana tabi malların ihraç kaydıyla teslimleri ile ilgili yüklenilen KDV farkı</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>406</kod>
+			<madde>29/2</madde>
+			<aciklama>İndirimli orana tabi işlemler</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>425</kod>
+			<madde>13/a</madde>
+			<aciklama>Sipariş verenin bu istisna kapsamındaki araçların imal ve inşasında kullanılan KDV'ye tabi mal ve hizmet alımları</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>426</kod>
+			<madde>13/c</madde>
+			<aciklama>Kıymetli madenlerin arama, zenginleştirme ve rafinaj faaliyetleri</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>427</kod>
+			<madde>13/f</madde>
+			<aciklama>Ulusal güvenlik amaçlı teslim ve hizmetin yapılmasından önceki iade talepleri ile tedarikçilerin iade talepleri</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>450</kod>
+			<madde/>
+			<aciklama>Diğerleri</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>408</kod>
+			<madde>11/1-b</madde>
+			<aciklama>43 No.lu KDV Genel Tebliği kapsamındaki teslimlerle ilgili olup bu dönemde alıcıya iade edilen KDV</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			<kod>317</kod>
+			<madde>17/4-s</madde>
+			<aciklama>Özürlülerin eğitimleri, meslekleri ve günlük yaşamlarına ilişkin araç-gereç ve bilgisayar programları</aciklama>
+		</iadeHakkiDoguranIslem>
+	</iadeHakkiDoguranIslemler>
+	<digerIslemler>
+		<digerIslem>
+			<kod>501</kod>
+			<ad>Türkiye'de İkamet Etmeyen Yolculara Yap. Teslim.(43 GT.)</ad>
+		</digerIslem>
+		<digerIslem>
+			<kod>502</kod>
+			<ad>Türkiye'de İkamet Etmeyenlere Döviz Karşılığı Yap. Tes.(61 GT.)</ad>
+		</digerIslem>
+		<digerIslem>
+			<kod>550</kod>
+			<ad>Diğerleri</ad>
+		</digerIslem>
+	</digerIslemler>
+	<ulusalGuvenlikKuruluslari>
+		<ulusalGuvenlikKurulusu>
+			<vkno>6210076890</vkno>
+			<ad>Milli Savunma Bakanlığı</ad>
+		</ulusalGuvenlikKurulusu>
+		<ulusalGuvenlikKurulusu>
+			<vkno>4840090087</vkno>
+			<ad>Jandarma Genel Komutanlığı</ad>
+		</ulusalGuvenlikKurulusu>
+		<ulusalGuvenlikKurulusu>
+			<vkno>7390288454</vkno>
+			<ad>Sahil Güvenlik Komutanlığı</ad>
+		</ulusalGuvenlikKurulusu>
+		<ulusalGuvenlikKurulusu>
+			<vkno>7530058568</vkno>
+			<ad>Savunma Sanayi Müsteşarlığı</ad>
+		</ulusalGuvenlikKurulusu>
+		<ulusalGuvenlikKurulusu>
+			<vkno>6210038489</vkno>
+			<ad>Milli İstihbarat Teşkilatı Müsteşarlığı</ad>
+		</ulusalGuvenlikKurulusu>
+		<ulusalGuvenlikKurulusu>
+			<vkno>4690061691</vkno>
+			<ad>Emniyet Genel Müdürlüğü</ad>
+		</ulusalGuvenlikKurulusu>
+		<ulusalGuvenlikKurulusu>
+			<vkno>1460293101</vkno>
+			<ad>Gümrük Muhafaza Genel Müdürlüğü</ad>
+		</ulusalGuvenlikKurulusu>
+	</ulusalGuvenlikKuruluslari>
+	<olcuBirimleri>
+		<olcuBirimi>
+			<kod>101</kod>
+			<ad>Adet</ad>
+		</olcuBirimi>
+		<olcuBirimi>
+			<kod>102</kod>
+			<ad>Ton</ad>
+		</olcuBirimi>
+		<olcuBirimi>
+			<kod>103</kod>
+			<ad>Kg</ad>
+		</olcuBirimi>
+		<olcuBirimi>
+			<kod>104</kod>
+			<ad>M2</ad>
+		</olcuBirimi>
+		<olcuBirimi>
+			<kod>105</kod>
+			<ad>Diğer</ad>
+		</olcuBirimi>
+	</olcuBirimleri>
+	<kismiTevkifatUygulananIslemTurleri>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>601</kod>
+			<ad>YAPIM İŞLERİ İLE BU İŞLERLE BİRLİKTE İFA EDİLEN MÜHENDİSLİK-MİMARLIK VE ETÜT-PROJE HİZMETLERİ [GT 117-Bölüm (3.2.1)]</ad>
+			<oran>2/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>602</kod>
+			<ad>ETÜT, PLAN-PROJE, DANIŞMANLIK, DENETİM VE BENZERİ HİZMETLER[GT 117-Bölüm (3.2.2)]</ad>
+			<oran>9/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>603</kod>
+			<ad>MAKİNE, TEÇHİZAT, DEMİRBAŞ VE TAŞITLARA AİT TADİL, BAKIM VE ONARIM HİZMETLERİ [GT 117-Bölüm (3.2.3)]</ad>
+			<oran>5/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>604</kod>
+			<ad>YEMEK SERVİS HİZMETİ [GT 117-Bölüm (3.2.4)]</ad>
+			<oran>5/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>605</kod>
+			<ad>ORGANİZASYON HİZMETİ [GT 117-Bölüm (3.2.4)]</ad>
+			<oran>5/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>606</kod>
+			<ad>İŞGÜCÜ TEMİN HİZMETLERİ  [GT 117-Bölüm (3.2.5)]</ad>
+			<oran>9/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>607</kod>
+			<ad>ÖZEL GÜVENLİK HİZMETİ [GT 117-Bölüm (3.2.5)]</ad>
+			<oran>9/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>608</kod>
+			<ad>YAPI DENETİM HİZMETLERİ [GT 117-Bölüm (3.2.6)]</ad>
+			<oran>9/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>609</kod>
+			<ad>FASON OLARAK YAPTIRILAN TEKSTİL VE KONFEKSİYON İŞLERİ, ÇANTA VE AYAKKABI DİKİM İŞLERİ VE BU İŞLERE ARACILIK HİZMETLERİ [GT 117-Bölüm (3.2.7)]</ad>
+			<oran>5/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>610</kod>
+			<ad>TURİSTİK MAĞAZALARA VERİLEN MÜŞTERİ BULMA / GÖTÜRME HİZMETLERİ [GT 117-Bölüm (3.2.8)]</ad>
+			<oran>9/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>611</kod>
+			<ad>SPOR KULÜPLERİNİN YAYIN, REKLÂM VE İSİM HAKKI GELİRLERİNE KONU İŞLEMLERİ [GT 117-Bölüm (3.2.9)]</ad>
+			<oran>9/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>612</kod>
+			<ad>TEMİZLİK HİZMETİ [GT 117-Bölüm (3.2.10)]</ad>
+			<oran>7/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>613</kod>
+			<ad>ÇEVRE VE BAHÇE BAKIM HİZMETLERİ [GT 117-Bölüm (3.2.10)]</ad>
+			<oran>7/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>614</kod>
+			<ad>SERVİS TAŞIMACILIĞI HİZMETİ [GT 117-Bölüm (3.2.11)]</ad>
+			<oran>5/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>615</kod>
+			<ad>HER TÜRLÜ BASKI VE BASIM HİZMETLERİ [GT 117-Bölüm (3.2.12)]</ad>
+			<oran>5/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>616</kod>
+			<ad>5018 SAYILI KANUNA EKLİ CETVELLERDEKİ İDARE, KURUM VE KURUŞLARA YAPILAN DİĞER HİZMETLER [GT 117-Bölüm (3.2.13)]</ad>
+			<oran>5/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>617</kod>
+			<ad>HURDA METALDEN ELDE EDİLEN KÜLÇE TESLİMLERİ [GT 117-Bölüm (3.3.1)]</ad>
+			<oran>7/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>618</kod>
+			<ad>HURDA METALDEN ELDE EDİLENLER DIŞINDAKİ BAKIR, ÇİNKO, ALÜMİNYUM VE KURŞUN KÜLÇE TESLİMİ [GT 117-Bölüm (3.3.1)]</ad>
+			<oran>7/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>619</kod>
+			<ad>BAKIR, ÇİNKO, ALÜMİNYUM VE KURŞUN ÜRÜNLERİNİN TESLİMİ [GT 117-Bölüm (3.3.2)]</ad>
+			<oran>5/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>620</kod>
+			<ad>İSTİSNADAN VAZGEÇENLERİN HURDA VE ATIK TESLİMİ [GT 117-Bölüm (3.3.3)]</ad>
+			<oran>5/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>621</kod>
+			<ad>METAL, PLASTİK, LASTİK, KAUÇUK, KÂĞIT VE CAM HURDA VE ATIKLARDAN ELDE EDİLEN HAMMADDE TESLİMİ [GT 117-Bölüm (3.3.4)]</ad>
+			<oran>9/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>622</kod>
+			<ad>PAMUK, TİFTİK, YÜN VE YAPAĞI İLE HAM POST VE DERİ TESLİMLERİ [GT 117-Bölüm (3.3.5)]</ad>
+			<oran>9/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+		<kismiTevkifatUygulananIslemTuru>
+			<kod>623</kod>
+			<ad>AĞAÇ VE ORMAN ÜRÜNLERİ TESLİMİ [GT 117-Bölüm (3.3.6)]</ad>
+			<oran>5/10</oran>
+		</kismiTevkifatUygulananIslemTuru>
+	</kismiTevkifatUygulananIslemTurleri>
+	<ihracKayitliTeslimlerIslemTurleri>
+		<ihracKayitliTeslimlerIslemTuru>
+			<kod>701</kod>
+			<madde>11/1-c</madde>
+			<ad>İHRACATI YAPILACAK NİHAİ ÜRÜNLERİN KANUNUN 11/1-c MADDESİ KAPSAMINDA TESLİMİ</ad>
+		</ihracKayitliTeslimlerIslemTuru>
+		<ihracKayitliTeslimlerIslemTuru>
+			<kod>702</kod>
+			<madde>Geçici 17</madde>
+			<ad>DAHİLDE İŞLEME VEYA GEÇİCİ KABUL REJİMLERİ KAPSAMINDA İHRACATI YAPILACAK ÜRÜNÜN İMALİNDE KULLANILACAK MALLARIN DİİB VEYA GKİB SAHİPLERİNE KANUNUN GEÇİCİ 17 NCİ MADDESİ KAPSAMINDA TESLİMİ</ad>
+		</ihracKayitliTeslimlerIslemTuru>
+	</ihracKayitliTeslimlerIslemTurleri>
+</kodlar>

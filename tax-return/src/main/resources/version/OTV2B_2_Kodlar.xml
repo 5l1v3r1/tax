@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: GTIP 		GTIPKodlari/data/kod
+	Ref: IST_IT		istisnaKodlari/vergidairesi/vdkod
+	Ref: IND_IN 	indirimKodlari/data/kod
+-->
+<GTIPKodlari>
+<data>
+	<kod>8701.20</kod>
+	<malAdi>Yarı römorkler için çekiciler</malAdi>
+</data>
+<data>
+	<kod>87.02</kod>
+	<malAdi>10 veya daha fazla kişi taşımaya mahsus (sürücü dahil) motorlu taşıtlar </malAdi>
+</data>
+<data>
+	<kod>87.03</kod>
+	<malAdi>Binek otomobilleri ve esas itibariyle insan taşımak üzere imal edilmiş diğer motorlu taşıtlar [Yalnız binek otomobilleri, steyşın vagonlar, yarış arabaları, arazi taşıtları, jipler, vb., (Para arabaları dahil), motorlu karavanlar, elektrik, gaz, güneş enerjili vb. motorlu taşıtlar.]</malAdi>
+</data>
+<data>
+	<kod>8703.10.11.00.00</kod>
+	<malAdi>Özellikle kar üzerinde hareket etmek için dizayn edilmiş sıkıştırma ateşlemeli içten yanmalı pistonlu motorlu olanlar (dizel veya yarı dizel) veya kıvılcım ateşlemeli içten yanmalı pistonlu motorlu taşıtlar</malAdi>
+</data>
+<data>
+	<kod>8703.10.18.00.00</kod>
+	<malAdi>Diğerleri  (Golf arabaları vb. taşıtlar)</malAdi>
+</data>
+<data>
+	<kod>87.04</kod>
+	<malAdi>Eşya taşımaya mahsus motorlu taşıtlar(Yalnız kayıt ve tescile tabi olanlar )</malAdi>
+</data>
+<data>
+	<kod>87.05</kod>
+	<malAdi>Özel amaçlı motorlu taşıtlar (insan veya eşya taşımak üzere özel olarak yapılmış olanlar hariç) (Örneğin; kurtarıcılar, vinçli taşıtlar, itfaiye taşıtları, beton karıştırıcı ile mücehhez taşıtlar, yol süpürmeye mahsus arabalar, tohum, gübre, zift, su ve benzerlerini püskürten arabalar, seyyar atölyeler, seyyar radyoloji üniteleri) [(Yalnız kayıt ve tescile tabi olanlar)(İtfaiye taşıtları hariç)]</malAdi>
+</data>
+<data>
+	<kod>87.09</kod>
+	<malAdi>Fabrika, antrepo, liman veya hava limanlarında kısa mesafelerde eşya taşımaya mahsus, kaldırma tertibatı ile donatılmamış kendinden hareketli yük arabaları; demiryolu istasyon platformlarında kullanılan türde çekiciler; bu taşıtların aksam ve parçaları</malAdi>
+</data>
+<data>
+	<kod>87.11</kod>
+	<malAdi>Motosikletler (mopedler dahil) ve bir yardımcı motoru bulunan tekerlekli taşıtlar (sepetli olsun olmasın) ; sepetler   (sepetler hariç) (Sadece elektrik motorlu olanlar hariç)</malAdi>
+</data>
+<data>
+	<kod>8711.90.00.00.00</kod>
+	<malAdi>Diğerleri (Sadece elektrik motorlu olanlar)</malAdi>
+</data>
+<data>
+	<kod>88.02</kod>
+	<malAdi>Diğer hava taşıtları (helikopterler, uçaklar gibi); uzay araçları (uydular dahil), uzay araçlarını fırlatıcı araçlar ve yörünge-altı araçları  [(Yalnız helikopterler ve uçaklar)</malAdi>
+</data>
+<data>
+	<kod>8901.10.10.00.11</kod>
+	<malAdi>18 Gros tonilatoyu geçmeyen gezinti gemileri(Denizde seyretmeye mahsus olanlar)</malAdi>
+</data>
+<data>
+	<kod>8901.10.90.00.11</kod>
+	<malAdi>Yolcu ve gezinti gemileri(Denizde seyretmeye mahsus olmayanlar)</malAdi>
+</data>
+<data>
+	<kod>89.03</kod>
+	<malAdi>Yatlar ve diğer eğlence ve spor tekneleri; kürekli kayıklar ve kanolar</malAdi>
+</data>
+</GTIPKodlari>
+<istisnaKodlari>
+	<data>
+		<kod>101</kod>
+		<ad>İhracat İstisnası</ad>
+	</data>
+	<data>
+		<kod>102</kod>
+		<ad>Diplomatik İstisna</ad>
+	</data>
+	<data>
+		<kod>105</kod>
+		<ad>Uluslararası Anlaşmadan Doğan İstisna</ad>
+	</data>
+	<data>
+		<kod>107</kod>
+		<ad>T.H.K İstisnası</ad>
+	</data>
+</istisnaKodlari>
+<indirimKodlari>
+	<data>
+		<kod>301</kod>
+		<ad>Satıştan İade</ad>
+	</data>
+	<data>
+		<kod>302</kod>
+		<ad>İşlemi Gerçekleşmeyen</ad>
+	</data>
+	<data>
+		<kod>303</kod>
+		<ad>Aynı Listedeki Malın İmalatta Kullanılması</ad>
+	</data>
+</indirimKodlari>
+</kodlar>

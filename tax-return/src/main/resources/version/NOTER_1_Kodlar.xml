@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: YO_OT odemeTurleri/odemeTuru/kod
+-->
+<odemeTurleri>
+	<odemeTuru><kod>4063</kod><aciklama>4063 Harç</aciklama></odemeTuru>
+	<odemeTuru><kod>1046</kod><aciklama>1046 Tevk. Damga V.</aciklama></odemeTuru>
+	<odemeTuru><kod>9070</kod><aciklama>9070 Değerli Kağıt Bedeli</aciklama></odemeTuru>
+</odemeTurleri>
+
+</kodlar>

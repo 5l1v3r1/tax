@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref:	GMSIIB_TUR 			gayrimenkulTurleri/gayrimenkulTuru/kod
+	Ref:	IND_TUR				indirimler/indirim/kod
+-->
+	<gayrimenkulTurleri>
+		<gayrimenkulTuru>
+	     		<kod>1</kod>
+	         	<aciklama>Mesken</aciklama>
+		</gayrimenkulTuru>
+		<gayrimenkulTuru>
+	     		<kod>2</kod>
+	         	<aciklama>İşyeri</aciklama>
+		</gayrimenkulTuru>
+		<gayrimenkulTuru>
+	     		<kod>3</kod>
+	         	<aciklama>Diğer</aciklama>
+		</gayrimenkulTuru>
+		<gayrimenkulTuru>
+	     		<kod>4</kod>
+	         	<aciklama>Hak</aciklama>
+		</gayrimenkulTuru>
+	</gayrimenkulTurleri>
+	<indirimler>
+		<indirim>
+	     		<kod>101</kod>
+	         	<aciklama>Mahsup Edilecek Geçmiş Yıl Zararları Toplamı</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>106</kod>
+	         	<aciklama>Bireysel Emeklilik Katkı Payı</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>107</kod>
+	         	<aciklama>Şahıs Sigorta Pirimi</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>103</kod>
+	         	<aciklama>Eğitim ve Sağlık Harcamaları</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>108</kod>
+	         	<aciklama>Bağış Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>109</kod>
+	         	<aciklama>Eğitim ve Sağlık Tesisleri ile Dini Tesislere İlişkin Bağış Yardım</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>110</kod>
+	         	<aciklama>Gıda Bankacılığı Kapsamında Bağış ve Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>111</kod>
+	         	<aciklama>Kültür ve Turizm Amaçlı Bağış ve Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>112</kod>
+	         	<aciklama>Sponsorluk Harcamaları</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>113</kod>
+	         	<aciklama>B.K.K. Uyarınca Başbakanlık Aracılığıyla Yapılan Bağış ve Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>114</kod>
+	         	<aciklama>Türkiye Kızılay Derneği ile Türkiye Yeşilay Cemiyetine Yapılan Nakdi Bağış ve Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>115</kod>
+	         	<aciklama>Bireysel Katılım Yatırımcısı İndirimi</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>105</kod>
+	         	<aciklama>Diğer İndirimler</aciklama>
+		</indirim>
+	</indirimler>
+	<dummyLookupData>
+	</dummyLookupData>
+</kodlar>

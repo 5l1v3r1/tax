@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: TT_TT tuketimTurleri/tuketimTuru/kod
+-->
+<tuketimTurleri>
+	<tuketimTuru>
+		<kod>101</kod>
+		<aciklama>İmal ve İstihsal, Taşıma, Yükleme, Boşaltma, Soğutma, Telli ve Telsiz Telgraf ve Telefon Müraselesi(Haberleşme) İşlerinde tüketilen Elektrik</aciklama>
+	</tuketimTuru>
+	<tuketimTuru>
+		<kod>102</kod>
+		<aciklama>Yukarıdaki Sütunda Belirtilen Hallerin Dışında Kalan Maksatlar İçin Tüketilen Elektrik</aciklama>
+	</tuketimTuru>
+	<tuketimTuru>
+		<kod>103</kod>
+		<aciklama>Tüketilen Havagazı</aciklama>
+	</tuketimTuru>
+</tuketimTurleri>
+
+</kodlar>

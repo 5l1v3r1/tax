@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<hesaplar>
+		<hesap><kodu>100</kodu><adi>KASA</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>101</kodu><adi>ALINAN ÇEKLER</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>102</kodu><adi>BANKALAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>103</kodu><adi>VERİLEN ÇEKLER VE ÖDEME EMİRLERİ (-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>108</kodu><adi>DİĞER HAZIR DEĞERLER</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>110</kodu><adi>HİSSE SENETLERİ</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>111</kodu><adi>ÖZEL KESİM TAHVİL, SENET VE BONOLARI </adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>112</kodu><adi>KAMU KESİMİ TAHVİL, SENET VE BONOLARI</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>118</kodu><adi>DİĞER MENKUL KIYMETLER</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>119</kodu><adi>MENKUL KIY.DEĞER DÜŞ.KAR.(-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>120</kodu><adi>ALICILAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>121</kodu><adi>ALACAK SENETLERİ</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>122</kodu><adi>ALACAK SENETLERİ REESKONTU (-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>124</kodu><adi>KAZANILMAMIŞ FİN.KİRA.FZ.GL(-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>126</kodu><adi>VERİLEN DEPOZİTO VE TEMİNATLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>127</kodu><adi>DİĞER TİCARİ ALACAKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>128</kodu><adi>ŞÜPHELİ TİCARİ ALACAKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>129</kodu><adi>ŞÜPHELİ TİCARİ ALACAKLAR KARŞILIĞI (-) </adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>131</kodu><adi>ORTAKLARDAN ALACAKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>132</kodu><adi>İŞTİRAKLERDEN ALACAKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>133</kodu><adi>BAĞLI ORTAKLIKLARDAN ALACAKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>135</kodu><adi>PERSONELDEN ALACAKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>136</kodu><adi>DİĞER ÇEŞİTLİ ALACAKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>137</kodu><adi>DİĞER ALACAK SNT.REESKONTU (-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>138</kodu><adi>ŞÜPHELİ DİĞER ALACAKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>139</kodu><adi>ŞÜPHELİ DİĞER ALACAK.KARŞ.(-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>150</kodu><adi>İLK MADDE VE MALZEME</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>151</kodu><adi>YARI MAMULLER - ÜRETİM</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>152</kodu><adi>MAMULLER</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>153</kodu><adi>TİCARİ MALLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>157</kodu><adi>DİĞER STOKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>158</kodu><adi>STOK DEĞER DÜŞÜKLÜĞÜ KARŞ.(-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>159</kodu><adi>VERİLEN SİPARİŞ AVANSLARI</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>170</kodu><adi>YILLARA YAY. INS.VE ON.MALIYET</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>171</kodu><adi>YILLARA YAY. INS.VE ON.MALIYET</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>172</kodu><adi>YILLARA YAY. INS.VE ON.MALIYET</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>173</kodu><adi>YILLARA YAY. INS.VE ON.MALIYET</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>174</kodu><adi>YILLARA YAY. INS.VE ON.MALIYET</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>175</kodu><adi>YILLARA YAY. INS.VE ON.MALIYET</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>176</kodu><adi>YILLARA YAY. INS.VE ON.MALIYET</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>177</kodu><adi>YILLARA YAY. INS.VE ON.MALIYET</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>178</kodu><adi>YILLARA YAY.İNŞ.ENF.DÜZELT.HES</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>179</kodu><adi>TAŞERONLARA VERİLEN AVANSLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>180</kodu><adi>GELECEK AYLARA AİT GİDERLER</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>181</kodu><adi>GELİR TAHAKKUKLARI</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>190</kodu><adi>DEVREDEN KATMA DEĞER VERGİSİ</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>191</kodu><adi>İNDİRİLECEK KDV</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>192</kodu><adi>DİĞER KDV</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>193</kodu><adi>PEŞİN ÖDENEN VERGİLER VE FONLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>195</kodu><adi>İŞ AVANSLARI</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>196</kodu><adi>PERSONEL AVANSLARI</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>197</kodu><adi>SAYIM VE TESELLÜM NOKSANLARI</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>198</kodu><adi>DİĞER ÇEŞİTLİ DÖNEN VARLIKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>199</kodu><adi>DİĞER DÖNEN VARLIKLAR KRŞ. (-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>220</kodu><adi>ALICILAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>221</kodu><adi>ALACAK SENETLERİ</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>222</kodu><adi>ALACAK SENETLERİ REESKONTU (-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>224</kodu><adi>KAZANILMAMIŞ FİN.KİRA.FZ.GL(-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>226</kodu><adi>VERİLEN DEPOZİTO VE TEMİNATLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>229</kodu><adi>ŞÜPHELİ TİCARİ ALACAKLAR KARŞILIĞI(-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>231</kodu><adi>ORTAKLARDAN ALACAKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>232</kodu><adi>İŞTİRAKLERDEN ALACAKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>233</kodu><adi>BAĞLI ORTAKLIKLARDAN ALACAKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>235</kodu><adi>PERSONELDEN ALACAKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>236</kodu><adi>DİĞER ÇEŞİTLİ ALACAKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>237</kodu><adi>DİĞER ALACAK SNT.REESKONTU (-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>239</kodu><adi>ŞÜPHELİ DİĞER ALACAK.KARŞ. (-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>240</kodu><adi>BAĞLI MENKUL KIYMETLER</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>241</kodu><adi>BAĞLI MEN.KIY.DEĞ. DÜŞ.KAR.(-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>242</kodu><adi>İŞTİRAKLER</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>243</kodu><adi>İŞTİRAKLERE SERM.TAAHHÜT. (-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>244</kodu><adi>İŞT.SERM.PAY.DEĞ.DÜŞÜK.KRŞ.(-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>245</kodu><adi>BAĞLI ORTAKLIKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>246</kodu><adi>BAĞLI ORTAK.SER.TAAHHUTLERİ(-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>247</kodu><adi>BAĞ.ORT.SER.PAY.DEĞ.DÜŞ.KRŞ(-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>248</kodu><adi>DİĞER MALİ DURAN VARLIKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>249</kodu><adi>DĞR.MALİ DURAN VARLIK.KRŞ. (-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>250</kodu><adi>ARAZİ VE ARSALAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>251</kodu><adi>YERALTI VE YERÜSTÜ DÜZENLERİ</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>252</kodu><adi>BİNALAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>253</kodu><adi>TESİS MAKİNE VE CİHAZLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>254</kodu><adi>TAŞITLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>255</kodu><adi>DEMİRBAŞLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>256</kodu><adi>DİĞER MADDİ DURAN VARLIKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>257</kodu><adi>BİRİKMİŞ AMORTİSMANLAR (-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>258</kodu><adi>YAPILMAKTA OLAN YATIRIMLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>259</kodu><adi>VERİLEN AVANSLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>260</kodu><adi>HAKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>261</kodu><adi>ŞEREFİYE</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>262</kodu><adi>KURULUŞ VE ÖRGÜTLENME GIDER.</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>263</kodu><adi>ARAŞTIRMA VE GELİŞTİRME GIDER.</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>264</kodu><adi>ÖZEL MALİYETLER</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>267</kodu><adi>DİĞER.MADDİ OLM. DURAN VARLIK.</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>268</kodu><adi>BİRİKMİŞ AMORTİSMANLAR (-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>269</kodu><adi>VERİLEN AVANSLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>271</kodu><adi>ARAMA GİDERLERİ</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>272</kodu><adi>HAZIRLIK VE GELİŞTİRME GİDER.</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>277</kodu><adi>DİĞER ÖZEL TÜKENMEYE TABİ VAR.</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>278</kodu><adi>BİRİKMİŞ TÜKENME PAYLARI</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>279</kodu><adi>VERİLEN AVANSLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>280</kodu><adi>GELECEK YILLARA AİT GİDERLER</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>281</kodu><adi>GELİR TAAHHUKLARI</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>291</kodu><adi>GELECEK YILLARDA İNDİRİLE. KDV</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>292</kodu><adi>DİĞER KDV</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>293</kodu><adi>GELECEK YILLAR İHTİYACI STOK.</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>294</kodu><adi>ELD.ÇIK.STOK.VE MAD.DURAN VAR.</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>295</kodu><adi>PEŞİN ÖDENEN VERGİLER VE FONLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>297</kodu><adi>DİĞER ÇEŞİTLİ DURAN VARLIKLAR</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>298</kodu><adi>STOK DEĞER DÜŞÜKLÜĞÜ KARŞ. (-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>299</kodu><adi>BİRİKMİŞ AMORTİSMANLAR (-)</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>300</kodu><adi>BANKA KREDİLERİ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>301</kodu><adi>FİNANSAL KİRALAMA İŞL.BORÇLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>302</kodu><adi>ERTELEN.FİN.KİRA.BORÇ.MAL. (-)</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>303</kodu><adi>UZUN VAD.KRD.ANAP.TAKS.VE FAİZ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>304</kodu><adi>TAHVİL ANAP.BORÇ TAK.VE FAİZ.</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>305</kodu><adi>ÇIKARILMIŞ BONOLAR VE SENETLER</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>306</kodu><adi>ÇIKARILMIŞ DİĞER MENKUL KIYM.</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>308</kodu><adi>MENKUL KIYMETLER İHRAÇ FARKLARI (-)</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>309</kodu><adi>DİĞER MALİ BORÇLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>320</kodu><adi>SATICILAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>321</kodu><adi>BORÇ SENETLERİ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>322</kodu><adi>BORÇ SENETLERİ REESKONTU (-)</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>326</kodu><adi>ALINAN DEPOZİTO VE TEMİNATLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>329</kodu><adi>DİĞER TİCARİ BORÇLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>331</kodu><adi>ORTAKLARA BORÇLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>332</kodu><adi>İŞTİRAKLERE BORÇLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>333</kodu><adi>BAĞLI ORTAKLIKLARA BORÇLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>335</kodu><adi>PERSONELE BORÇLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>336</kodu><adi>DİĞER ÇEŞİTLİ BORÇLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>337</kodu><adi>DİĞER BORÇ.SENET.REESKONTU (-)</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>340</kodu><adi>ALINAN SİPARİŞ AVANSLARI</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>349</kodu><adi>ALINAN DİĞER AVANSLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>350</kodu><adi>YILLARA YAY.İNŞ.ve ONR.HAKEDİŞ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>351</kodu><adi>YILLARA YAY.İNŞ.ve ONR.HAKEDİŞ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>352</kodu><adi>YILLARA YAY.İNŞ.ve ONR.HAKEDİŞ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>353</kodu><adi>YILLARA YAY.İNŞ.ve ONR.HAKEDİŞ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>354</kodu><adi>YILLARA YAY.İNŞ.ve ONR.HAKEDİŞ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>355</kodu><adi>YILLARA YAY.İNŞ.ve ONR.HAKEDİŞ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>356</kodu><adi>YILLARA YAY.İNŞ.ve ONR.HAKEDİŞ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>357</kodu><adi>YILLARA YAY.İNŞ.ve ONR.HAKEDİŞ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>358</kodu><adi>YILLARA YAY.İNŞ.ENF.DÜZELT.HES</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>360</kodu><adi>ÖDENECEK VERGİ VE FONLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>361</kodu><adi>ÖDENECEK SOS. GÜV. KESİNTİLERİ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>368</kodu><adi>VD.GEÇ.ER.VEYA TK.VR.VE DĞ.YÜK</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>369</kodu><adi>ÖDENECEK DİĞER YÜKÜMLÜLÜKLER</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>370</kodu><adi>DÖN.KARI VER.VE DİĞ.YAS.YÜK.KARŞ.</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>371</kodu><adi>DÖN.KAR.PEŞ.ÖD.VER.VE DİĞ YÜK (-)</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>372</kodu><adi>KIDEM TAZMİNATI KARŞILIĞI</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>373</kodu><adi>MALİYET GİDERLERİ KARŞILIĞI</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>379</kodu><adi>DİĞER BORÇ VE GİDER KARŞILIKLARI</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>380</kodu><adi>GELECEK AYLARA AİT GELİRLER</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>381</kodu><adi>GİDER TAHAKKUKLARI</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>391</kodu><adi>HESAPLANAN KDV</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>392</kodu><adi>DİĞER KDV</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>393</kodu><adi>MERKEZ VE ŞUBELER CARİ HESABI</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>397</kodu><adi>SAYIM VE TESELLÜM FAZLALARI</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>399</kodu><adi>DİĞER ÇEŞİTLİ YAB. KAYNAKLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>400</kodu><adi>BANKA KREDİLERİ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>401</kodu><adi>FİNANSAL KİRALAMA İŞL.BORÇLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>402</kodu><adi>ERTELEN.FİN.KİRA.BORÇ.MAL. (-)</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>405</kodu><adi>ÇIKARILMIŞ TAHVİLLER</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>407</kodu><adi>ÇIKARILMIŞ DĞR.MENKUL KIYMET.</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>408</kodu><adi>MENKUL KIYMET.İHRAÇ FARKI (-)</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>409</kodu><adi>DİĞER MALİ BORÇLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>420</kodu><adi>SATICILAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>421</kodu><adi>BORÇ SENETLERİ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>422</kodu><adi>BORÇ SENETLERİ REESKONTU (-)</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>426</kodu><adi>ALINAN DEPOZİTO VE TEMİNATLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>429</kodu><adi>DİĞER TİCARİ BORÇLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>431</kodu><adi>ORTAKLARA BORÇLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>432</kodu><adi>İŞTİRAKLERE BORÇLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>433</kodu><adi>BAĞLI ORTAKLIKLARA BORÇLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>436</kodu><adi>DİĞER ÇEŞİTLİ BORÇLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>437</kodu><adi>DİĞER BORÇ SENETLERİ REES. (-)</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>438</kodu><adi>KAMUYA OL.ERT.VEYA TAKSIT.BORÇ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>440</kodu><adi>ALINAN SİPARİŞ AVANSLARI</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>449</kodu><adi>ALINAN DİĞER AVANSLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>472</kodu><adi>KIDEM TAZMİNATI KARŞILIĞI</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>479</kodu><adi>DİĞER BORÇ VE GİDER KARŞILIK.</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>480</kodu><adi>GELECEK YILLARA AİT GELİRLER</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>481</kodu><adi>GİDER TAHAKKUKLARI</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>492</kodu><adi>GEL.YIL.ERT.VEYA TERKİN ED.KDV</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>493</kodu><adi>TESİSE KATILMA PAYLARI</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>499</kodu><adi>Dİ.ÇEŞ.UZUN VAD.YAB.KAYNAKLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>500</kodu><adi>SERMAYE</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>501</kodu><adi>ÖDENMEMİŞ SERMAYE (-)</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>502</kodu><adi>SERMAYE DÜZELT.OLUMLU FARKLARI</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>503</kodu><adi>SERMAYE DÜZELT.OLUMSUZ FARKLARI (-)</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>520</kodu><adi>HİSSE SENETLERİ İHRAÇ PRİMLERİ </adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>521</kodu><adi>HİSSE SENEDİ İPTAL KARLARI</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>522</kodu><adi>M.D.V.YENİDEN DEĞERLEME ARTIŞ.</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>523</kodu><adi>İŞTİRAKLER YENİDEN DEĞER.ART.</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>529</kodu><adi>DİĞER SERMAYE YEDEKLERİ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>540</kodu><adi>YASAL YEDEKLER</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>541</kodu><adi>STATÜ YEDEKLERİ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>542</kodu><adi>OLAĞANÜSTÜ YEDEKLER</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>548</kodu><adi>DİĞER KAR YEDEKLERİ</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>549</kodu><adi>ÖZEL FONLAR</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>570</kodu><adi>GEÇMİŞ YILLAR KARLARI</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>580</kodu><adi>GEÇMİŞ YILLAR ZARARLARI (-)</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>590</kodu><adi>DÖNEM NET KARI</adi><borcKalani>x</borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>591</kodu><adi>DÖNEM NET ZARARI (-)</adi><borcKalani></borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>600</kodu><adi>YURT İÇİ SATIŞLAR</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>601</kodu><adi>YURT DIŞI SATIŞLAR</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>602</kodu><adi>DİĞER GELİRLER</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>610</kodu><adi>SATIŞTAN İADELER (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>611</kodu><adi>SATIŞ İSKONTOLARI (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>612</kodu><adi>DİĞER İNDİRİMLER (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>620</kodu><adi>SATILAN MAMÜLLER MALİYETİ (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>621</kodu><adi>SATILAN TİC.MALLAR MALİYETİ(-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>622</kodu><adi>SATILAN HİZMET MALİYETİ (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>623</kodu><adi>DİĞER SATIŞLARIN MALİYETİ (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>630</kodu><adi>ARAŞTIRMA VE GELİŞTİRME GİD(-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>631</kodu><adi>PAZARLAMA SAT.VE DAĞ.GİD. (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>632</kodu><adi>GENEL YÖNETİM GİDERLERİ (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>640</kodu><adi>İŞTİRAKLERDEN TEMETTÜ GELİR.</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>641</kodu><adi>BAĞLI ORT.TEMETTÜ GELİRLERİ</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>642</kodu><adi>FAİZ GELİRLERİ</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>643</kodu><adi>KOMİSYON GELİRLERİ</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>644</kodu><adi>KONUSU KALMAYAN KARŞILIKLAR</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>645</kodu><adi>MENKUL KIYMET SATIŞ KARLARI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>646</kodu><adi>KAMBİYO KARLARI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>647</kodu><adi>REESKONT FAİZ GELİRLERİ</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>648</kodu><adi>ENFLASYON DÜZELTMESİ KARLARI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>649</kodu><adi>DİĞER OLAĞAN GELİR VE KARLAR</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>653</kodu><adi>KOMİSYON GİDERLERİ (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>654</kodu><adi>KARŞILIK GİDERLERİ (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>655</kodu><adi>MENKUL KIYMET SATIŞ ZARAR (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>656</kodu><adi>KAMBİYO ZARARLARI (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>657</kodu><adi>REESKONT FAİZ GİDERLERİ (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>658</kodu><adi>ENFLASYON DÜZELT.ZARARLARI (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>659</kodu><adi>DİĞER GİDER VE ZARARLAR (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>660</kodu><adi>KISA VADELİ BORÇLANMA GİD. (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>661</kodu><adi>UZUN VADELİ BORÇLANMA GİD. (-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>671</kodu><adi>ÖNCEKİ DÖNEM GELİR VE KARLARI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>679</kodu><adi>DİĞ.OLAĞANDIŞI GELİR VE KARLAR</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>680</kodu><adi>ÇALIŞMAYAN KISIM GİD.VE ZAR(-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>681</kodu><adi>ÖNCEKİ DÖN.GİD.VE ZARARLARI(-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>689</kodu><adi>DİĞER O.DIŞI GİD.VE ZARAR.(-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>690</kodu><adi>DÖNEM KARI VEYA ZARARI</adi><borcKalani></borcKalani><alacakKalani></alacakKalani></hesap>
+		<hesap><kodu>691</kodu><adi>D.K.VER.VE DİĞ.YAS.YÜK.KAR.(-)</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>692</kodu><adi>DÖNEM NET KARI VEYA ZARARI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>697</kodu><adi>YILLARA YAY.İNŞ.ENF.DÜZELT.HES</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>698</kodu><adi>ENFLASYON DÜZELTME HESABI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>700</kodu><adi>MALİYET MUHASEBESİ BAĞLANTI HS</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>701</kodu><adi>MALİYET MUHASEBESİ YANSITMA HS</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>710</kodu><adi>DİREKT İLK MADDE VE MALZEME GD</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>711</kodu><adi>DİREKT İLK MAD.VE MAL.YANS.</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>712</kodu><adi>DİREKT İLK MAD.VE MAL.FİYAT FARKI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>713</kodu><adi>DİREKT İLK MAD.VE MAL.MİK.FAR.</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>720</kodu><adi>DİREKT İŞÇİLİK GİDERLERİ</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>721</kodu><adi>DİREKT İŞÇİLİK GİD.YANSIT.HES.</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>722</kodu><adi>DİREKT İŞÇİLİK ÜCRET FARKLARI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>723</kodu><adi>DİREKT İŞÇİLİK SÜRE (ZAMAN) FARKLARI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>730</kodu><adi>GENEL ÜRETİM GİDERLERİ</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>731</kodu><adi>GENEL ÜRETİM GİD.YANSITMA HES.</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>732</kodu><adi>GENEL ÜRETİM GİD.BÜTÇE FARK.</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>733</kodu><adi>GENEL ÜRETİM GİDERLERİ VER.FRK</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>734</kodu><adi>GENEL ÜRETİM GİD.KAPASİTE FRK.</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>740</kodu><adi>HİZMET ÜRETİM MALİYETİ</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>741</kodu><adi>HİZMET ÜRETİM MAL.YAN.HES.</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>742</kodu><adi>HİZMET ÜRET.MAL.FARK HESAPLARI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>750</kodu><adi>ARAŞTIRMA VE GELİŞTİRME GİDER.</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>751</kodu><adi>ARAŞ.VE GELİŞ.GİD.YANS.HESABI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>752</kodu><adi>ARAŞ.VE GELİŞ.GİDER FARKLARI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>760</kodu><adi>PAZARLAMA SATIŞ VE DAĞITIM GİDERLERİ</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>761</kodu><adi>PAZARLAMA SAT.VE DAĞ.GİD.YANSITMA HS</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>762</kodu><adi>PAZARLAMA SAT.VE DAĞ.GİD.FARK HESABI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>770</kodu><adi>GENEL YÖNETİM GİDERLERİ</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>771</kodu><adi>GEN.YÖN.GİD.YANSITMA HESABI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>772</kodu><adi>GENEL YÖNETİM GİD.FARKLARI HS.</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>780</kodu><adi>FİNANSMAN GİDERLERİ</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>781</kodu><adi>FİNANSMAN GİDERLERİ YANSITMA HESABI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>782</kodu><adi>FİNANSMAN GİDERLERİ FARK HESABI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>790</kodu><adi>İLK MADDE VE MALZEME GİDERLERİ</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>791</kodu><adi>İŞÇİ ÜCRET VE GİDERLERİ</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>792</kodu><adi>MEMUR ÜCRET VE GİDERLERİ</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>793</kodu><adi>DIŞ. SAĞL. FAYDA VE HİZMETLER</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>794</kodu><adi>ÇEŞİTLİ GİDERLER</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>795</kodu><adi>VERGİ RESİM VE HARÇLAR</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>796</kodu><adi>AMORTİSMANLAR VE TÜKENME PAYL.</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>797</kodu><adi>FİNANSMAN GİDERLERİ</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>798</kodu><adi>GİDER ÇEŞİTLERİ YANSITMA HES.</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+		<hesap><kodu>799</kodu><adi>ÜRETİM MALİYET HESABI</adi><borcKalani>x</borcKalani><alacakKalani>x</alacakKalani></hesap>
+	</hesaplar>
+</kodlar>

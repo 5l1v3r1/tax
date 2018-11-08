@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref:	GMSIIB_TUR 			gayrimenkulTurleri/gayrimenkulTuru/kod
+	Ref:	IND_TUR				indirimler/indirim/kod
+-->
+	<kistDonemVerNedenleri> 
+		<kistDonemVerNeden>
+			<kod>10</kod>
+			<aciklama>Vefat (Ölüm)</aciklama>
+		</kistDonemVerNeden>
+	</kistDonemVerNedenleri>
+	<gayrimenkulTurleri>
+		<gayrimenkulTuru>
+	     		<kod>1</kod>
+	         	<aciklama>Mesken</aciklama>
+		</gayrimenkulTuru>
+		<gayrimenkulTuru>
+	     		<kod>2</kod>
+	         	<aciklama>İşyeri</aciklama>
+		</gayrimenkulTuru>
+		<gayrimenkulTuru>
+	     		<kod>3</kod>
+	         	<aciklama>Diğer (Arazi dahil)</aciklama>
+		</gayrimenkulTuru>
+		<gayrimenkulTuru>
+	     		<kod>4</kod>
+	         	<aciklama>Hak</aciklama>
+		</gayrimenkulTuru>
+	</gayrimenkulTurleri>
+	<ucretKaynaklari>
+		<ucretKaynak>
+			<kod>101</kod>
+			<aciklama>Ücret (İşverene tabi ve belirli bir işyerine bağlı olarak çalışanlara hizmet karşılığı verilen para ve ayınlar ile sağlanan ve para ile temsil edilebilen menfaatler dolayısıyla elde edilen ücret)</aciklama>
+		</ucretKaynak>
+		<ucretKaynak>
+			<kod>102</kod>
+			<aciklama>23 üncü maddenin 11 numaralı bendine göre istisna dışında kalan emeklilik, maluliyet, dul ve yetim aylıkları dolayısıyla elde edilen ücret</aciklama>
+		</ucretKaynak>
+		<ucretKaynak>
+			<kod>103</kod>
+			<aciklama>Evvelce yapılmış ve gelecekte yapılacak hizmetler karşılığında elde edilen ücret</aciklama>
+		</ucretKaynak>
+		<ucretKaynak>
+			<kod>104</kod>
+			<aciklama>TBMM, İl Genel Meclisi ve Belediye Meclisi üyeliği ile özel kanunlarına veya idari kararlara göre kurulan daimi veya geçici bütün komisyon üyeliğinden elde edilen ücret</aciklama>
+		</ucretKaynak>
+		<ucretKaynak>
+			<kod>105</kod>
+			<aciklama>Tevkifata tabi olmayan ücret</aciklama>
+		</ucretKaynak>
+		<ucretKaynak>
+			<kod>106</kod>
+			<aciklama>Yönetim ve denetim kurulu başkanlığı ve üyeliği ile tasfiye memurluğundan elde edilen ücret</aciklama>
+		</ucretKaynak>
+		<ucretKaynak>
+			<kod>107</kod>
+			<aciklama>Bilirkişilik, resmi arabuluculuk, eksperlik, spor hakemliği ve her türlü yarışma jürisi üyeliğinden elde edilen ücret</aciklama>
+		</ucretKaynak>
+		<ucretKaynak>
+			<kod>108</kod>
+			<aciklama>Yukarıda belirtilenler dışında elde edilen ücretler</aciklama>
+		</ucretKaynak>
+	</ucretKaynaklari>
+	<dkiKazancTurleri>
+		<dkiKazanc>
+			<kod>101</kod>
+			<aciklama>M.80.1 - İvazsız olarak iktisap edilenler ile tam mükellef kurumlara ait olan ve iki yıldan fazla süreyle elde tutulan hisse senetleri hariç, menkul kıymetlerin veya diğer sermaye piyasası araçlarının elden çıkarılmasından sağlanan kazançlar.</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>102</kod>
+			<aciklama>M.80.2 - 70 inci maddenin birinci fıkrasının (5) numaralı bendinde yazılı hakların (ihtira beratları hariç) elden</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>103</kod>
+			<aciklama>M.80.3 - Telif haklarının ve ihtira beratlarının müellifleri, mucitleri ve bunların kanunî mirasçıları dışında kalan kimseler tarafından elden çıkarılmasından doğan kazançlar.</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>	
+			<kod>104</kod>
+			<aciklama>M.80.4 -  Ortaklık haklarının veya hisselerinin elden çıkarılmasından doğan kazançlar.</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>105</kod>
+			<aciklama>M.80.5 - Faaliyeti durdurulan bir işletmenin kısmen veya tamamen elden çıkarılmasından doğan kazançlar.</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>106</kod>
+			<aciklama>M.80.6 - İktisap şekli ne olursa olsun (ivazsız olarak iktisap edilenler hariç) 70 inci maddenin birinci fıkrasının (1), (2), (4) ve (7) numaralı bentlerinde yazılı mal (gerçek usulde vergiye tâbi çiftçilerin ziraî istihsalde kullandıkları gayrimenkuller</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>107</kod>
+			<aciklama>M.82.1 - Arızî olarak ticarî muamelelerin icrasından veya bu nitelikteki muamelelere tavassuttan elde edilen kazançlar.</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>108</kod>
+			<aciklama>M.82.2.1- Ticarî veya ziraî bir işletmenin faaliyeti ile serbest meslek faaliyetinin durdurulması veya terk edilmesi karşılığında elde edilen hâsılat.</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>109</kod>
+			<aciklama>M.82.2.2 - Henüz başlamamış olan ticarî, ziraî veya meslekî bir faaliyete hiç girişilmemesi ile ihale, artırma ve eksiltmelere iştirak edilmemesi karşılığında elde edilen hasılat.</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>110</kod>
+			<aciklama>M.82.3 - Gayrimenkullerin tahliyesi veya kiracılık hakkının devri karşılığında alınan tazminatlar ile peştemallıklar (kiracıya ait tesisat ve malların tahliye ve devri sırasında kiralayan veya yeni kiracıya devrinde doğan kazançlar dahil).</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>111</kod>
+			<aciklama>M.82.4 -  Arızî olarak yapılan serbest meslek faaliyetleri dolayısıyla tahsil edilen hâsılat.</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>112</kod>
+			<aciklama>M.82.5 - Gerçek usulde vergiye tâbi mükelleflerin terk ettikleri işleri ile ilgili olarak sonradan elde ettikleri kazançlar (zarar yazılan değersiz alacaklarla, karşılık ayrılan şüpheli alacakların tahsili dahil).</aciklama>
+		</dkiKazanc>
+		<dkiKazanc>
+			<kod>113</kod>
+			<aciklama>M.82.6 - Dar mükellefiyete tâbi olanların 45 inci maddede yazılı işleri arızî olarak yapmalarından elde ettikleri kazançlar.</aciklama>
+		</dkiKazanc>
+	</dkiKazancTurleri>
+	<dkiGayrimenkulTurleri>
+		<dkiGayrimenkulTur>
+			<kod>101</kod>
+			<aciklama>M.70.1. Arazi</aciklama>
+		</dkiGayrimenkulTur>
+		<dkiGayrimenkulTur>
+			<kod>102</kod>
+			<aciklama>M.70.1. Bina</aciklama>
+		</dkiGayrimenkulTur>
+		<dkiGayrimenkulTur>
+			<kod>103</kod>
+			<aciklama>M.70.2. Voli mahalleri ve dalyanlar</aciklama>
+		</dkiGayrimenkulTur>
+		<dkiGayrimenkulTur>
+			<kod>104</kod>
+			<aciklama>M.70.4. Gayrimenkul olarak tescil edilen haklar</aciklama>
+		</dkiGayrimenkulTur>
+		<dkiGayrimenkulTur>
+			<kod>105</kod>
+			<aciklama>M.70.7. Gemi ve gemi payları</aciklama>
+		</dkiGayrimenkulTur>
+		<dkiGayrimenkulTur>
+			<kod>106</kod>
+			<aciklama>M.70.7. Motorlu tahmil ve tahliye vasıtaları</aciklama>
+		</dkiGayrimenkulTur>
+		<dkiGayrimenkulTur>
+			<kod>107</kod>
+			<aciklama>M.70.1. Diğer gruplara girmeyen</aciklama>
+		</dkiGayrimenkulTur>
+	</dkiGayrimenkulTurleri>
+	<msiIratTurleri>
+		<msiIratTur>
+			<kod>602</kod>
+			<aciklama>602. Devlet tahvili ve Hazine bonosu faizleri</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>603</kod>
+			<aciklama>603. Diğer her türlü tahvil ve bonosu faizleri</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>604</kod>
+			<aciklama>604. Toplu Konut İdaresi ve Özelleştirme İdaresince çıkarılan menkul kıymetlerden sağlanan faiz gelirleri</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>606</kod>
+			<aciklama>606. Hisse senedi kar payları (temettü gelirleri)</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>607</kod>
+			<aciklama>607. İştirak hisselerinden doğan kazançlar</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>608</kod>
+			<aciklama>608. Kurumların idare meclisi başkan ve üyelerine verilen kar payları</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>610</kod>
+			<aciklama>610. Menkul kıymetler yatırım fonlarının katılma belgelerine ödenen kar payları</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>611</kod>
+			<aciklama>611. Menkul kıymetler yatırım ortaklıklarından sağlanan kar payları</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>612</kod>
+			<aciklama>612. Gayrimenkul yatırım fon ve ortaklıklarından sağlanan kar payları</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>613</kod>
+			<aciklama>613. Risk sermayesi yatırım fon ve ortaklıklarından sağlanan kar payları</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>615</kod>
+			<aciklama>615. Kıyı bankacılığından (off-shore bankacılık) elde edilen faiz gelirleri</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>616</kod>
+			<aciklama>616. Eurobond faiz gelirleri</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>617</kod>
+			<aciklama>617. Alacak faizleri</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>618</kod>
+			<aciklama>618. Hisse senetleri ve tahvillerin vadesi gelmemiş kuponlarının satışından elde edilen bedeller</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>619</kod>
+			<aciklama>619. İştirak hisselerinin sahibi adına henüz tahakkuk etmemiş kar paylarının devir ve temliki karşılığında alınan para ve ayınlar</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>620</kod>
+			<aciklama>620. Her çeşit senetlerin ıskonto edilmesi karşılığında alınan ıskonto bedelleri</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>622</kod>
+			<aciklama>622. Yurt dışından elde edilen diğer menkul sermaye iratları</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>623</kod>
+			<aciklama>623. Diğer (Yukarıda sayılanların dışında kalan menkul sermaye iratları)</aciklama>
+		</msiIratTur>
+		<msiIratTur>
+			<kod>624</kod>
+			<aciklama>624. Yurtdışında ihraç edilen her türlü tahvil ve bono faizleri (Kira sertifikaları dahil - Eurobond faizleri hariç)</aciklama>
+		</msiIratTur>
+	</msiIratTurleri>
+	<indirimler>
+		<indirim>
+	     		<kod>101</kod>
+	         	<aciklama>Mahsup Edilecek Geçmiş Yıl Zararları Toplamı</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>103</kod>
+	         	<aciklama>Şahıs Sigorta Primleri</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>105</kod>
+	         	<aciklama>Eğitim ve Sağlık Harcamaları</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>107</kod>
+	         	<aciklama>Bağış Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>108</kod>
+	         	<aciklama>Eğitim ve Sağlık Tesisleri ile Dini Tesislere İlişkin Bağış ve Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>109</kod>
+	         	<aciklama>Gıda Bankacılığı Kapsamındaki Bağış ve Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>110</kod>
+	         	<aciklama>Kültür ve Turizm Amaçlı Bağış ve Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>111</kod>
+	         	<aciklama>Sponsorluk Harcamaları</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>112</kod>
+	         	<aciklama>Başbakanlıkça veya Bakanlar Kurulunca Başlatılan Yardım Kampanyalarına Yapılan Bağışlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>113</kod>
+	         	<aciklama>Türkiye Kızılay Derneği ile Türkiye Yeşilay Cemiyetine Yapılan Nakdi Bağış ve Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>114</kod>
+	         	<aciklama>Bireysel Katılım Yatırımcısı İndirimi</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>115</kod>
+	         	<aciklama>Expo 2016 Antalya Ajansına Yapılan Bağış ve Yardımlar ile Sponsorluk Harcamaları</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>116</kod>
+	         	<aciklama>Diğer İndirimler</aciklama>
+		</indirim>
+	</indirimler>
+	<gercekGiderler>
+		<gercekGider>
+	     		<kod>100</kod>
+	         	<aciklama>Kiraya veren tarafından ödenen aydınlatma, ısıtma, su ve asansör giderleri (74-1)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>101</kod>
+	         	<aciklama>Kiraya Verilen Malların İdaresi İçin Yapılan İdare Giderleri (74-2)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>102</kod>
+	         	<aciklama>Kiraya Verilen Mal ve Haklara Müteallik Sigorta Giderleri (74-3)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>103</kod>
+	         	<aciklama>Kiraya Verilen Mal ve Haklara İlişkin Borç Faizleri (74-4)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>104</kod>
+	         	<aciklama>Konut Olarak Kiraya Verilen Bir Adet Gayrimenkulün İktisap Bedelinin % 5'i (74-4)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>105</kod>
+	         	<aciklama>Kiraya verilen mal ve haklar için ödenen vergi, resim, harç ve şerefiyeler vb.(74-5)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>106</kod>
+	         	<aciklama>Kiraya Verilen Mal ve Haklar İçin Ayrılan Amortismanlar (74-6)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>107</kod>
+	         	<aciklama>Kiraya Verenin Yaptığı Onarım Giderleri (74-7)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>108</kod>
+	         	<aciklama>Kiraya Verilen Mal ve Haklara Ait Bakım ve İdame Giderleri (74-8)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>109</kod>
+	         	<aciklama>Kiraladıkları Mal ve Hakları Kiraya Verenlerin Ödedikleri Kiralar (74-9)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>110</kod>
+	         	<aciklama>Kiraladıkları Mal ve Hakları Kiraya Verenlerin Diğer Gerçek Giderleri (74-9)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>111</kod>
+	         	<aciklama>Sahibi Bulundukları Konutları Kiraya Verenlerin Oturdukları Konut Kira Bedeli (74-10)</aciklama>
+		</gercekGider>
+		<gercekGider>
+	     		<kod>112</kod>
+	         	<aciklama>Mukavelenameye Kanuna veya İlama İstinaden Ödenen Zarar ve Tazminatlar (74-11)</aciklama>
+		</gercekGider>
+	</gercekGiderler>
+	<kesintiTurleri>
+		<kesintiTur>
+	     		<kod>1</kod>
+	         	<aciklama>GMSİ</aciklama>
+		</kesintiTur>
+		<kesintiTur>
+	     		<kod>2</kod>
+	         	<aciklama>ÜCRET</aciklama>
+		</kesintiTur>
+		<kesintiTur>
+	     		<kod>3</kod>
+	         	<aciklama>MSİ</aciklama>
+		</kesintiTur>
+		<kesintiTur>
+	     		<kod>4</kod>
+	         	<aciklama>DKİ</aciklama>
+		</kesintiTur>
+	</kesintiTurleri>
+	<konutTurleri>
+		<konutTuru>
+			<kod>100</kod>
+			<aciklama>ÖZEL MÜLK</aciklama>
+		</konutTuru>
+		<konutTuru>
+			<kod>101</kod>
+			<aciklama>KAMU LOJMANI</aciklama>
+		</konutTuru>
+		<konutTuru>
+			<kod>102</kod>
+			<aciklama>ÜNİVERSİTE LOJMANI</aciklama>
+		</konutTuru>
+		<konutTuru>
+			<kod>103</kod>
+			<aciklama>BELEDİYE LOJMANI</aciklama>
+		</konutTuru>
+		<konutTuru>
+			<kod>104</kod>
+			<aciklama>İL ÖZEL İDARESİ LOJMANI</aciklama>
+		</konutTuru>
+		<konutTuru>
+			<kod>105</kod>
+			<aciklama>DİĞER LOJMAN</aciklama>
+		</konutTuru>	
+	</konutTurleri>
+	<dummyLookupData>
+	</dummyLookupData>
+</kodlar>

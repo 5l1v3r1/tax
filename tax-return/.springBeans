@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.9.4.201804120850-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>java:com.softactive.taxreturn.manager.CriteriumParser</config>
+	</configs>
+	<autoconfigs>
+		<config>java:com.softactive.spring.SecSecurityConfig</config>
+		<config>java:com.softactive.taxreturn.page.TaxRiskFactorBean</config>
+		<config>java:com.softactive.taxreturn.page.TaxCriteriaBean</config>
+		<config>java:com.softactive.taxreturn.page.TaxSubjectBean</config>
+		<config>java:com.softactive.taxreturn.manager.TaxReturnSubjectHandler</config>
+		<config>java:com.softactive.security.CustomAuthenticationFailureHandler</config>
+		<config>java:com.softactive.security.google2fa.CustomWebAuthenticationDetailsSource</config>
+		<config>java:com.softactive.security.AuthenticationSuccessEventListener</config>
+		<config>java:com.softactive.security.LoggedUser</config>
+		<config>java:com.softactive.taxreturn.manager.TaxReturnRiskFactorGenerator</config>
+		<config>java:com.softactive.security.MyLogoutSuccessHandler</config>
+		<config>java:com.softactive.spring.ServiceConfig</config>
+		<config>java:com.softactive.taxreturn.manager.TaxReturnSubjectVersionHandler</config>
+		<config>java:com.softactive.taxreturn.page.TaxReturnBean</config>
+		<config>java:com.softactive.utils.DataServiceUtils</config>
+		<config>java:com.softactive.spring.CaptchaConfig</config>
+		<config>java:com.softactive.spring.AppConfig</config>
+		<config>java:com.softactive.TaxApp</config>
+		<config>java:com.softactive.spring.MvcConfig</config>
+		<config>java:com.softactive.taxreturn.manager.TaxPriceHandler</config>
+		<config>java:com.softactive.security.MyCustomLoginAuthenticationSuccessHandler</config>
+		<config>java:com.softactive.spring.SetupDataLoader</config>
+		<config>java:com.softactive.registration.listener.RegistrationListener</config>
+		<config>java:com.softactive.captcha.CaptchaSettings</config>
+		<config>java:com.softactive.security.AuthenticationFailureListener</config>
+		<config>java:com.softactive.spring.SpringTaskConfig</config>
+		<config>java:com.softactive.taxreturn.manager.TaxReturnHandler</config>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>

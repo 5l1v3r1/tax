@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: OAB_TK		odemeturkodlari/odemeturkodu/turkodu
+-->
+	<odemeturkodlari>
+		<odemeturkodu>
+			<turkodu>032</turkodu>
+			<grup>Yıllara Yaygın İnşaat</grup>
+			<aciklama>Birden Fazla Takvim Yılına Yaygın İnşaat ve Onarım İşleri İle Uğraşan Kurumlara Yapılan Hakediş Ödemeleri (KVK Md. 15/1-a)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>042</turkodu>
+			<grup>Kira Ödemeleri</grup>
+			<aciklama>Kooperatiflere Ait Taşınmazların Kiralanması Karşılığı Yapılan Ödemeler (KVK Md. 15/1-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>052</turkodu>
+			<grup>Yatırım Fonu veya Ort. Kazançları </grup>
+			<aciklama>Men. Kıy. Yatırım Fonu ile Ort. Portföy Kazançları (GVK Geç. Md. 67/8)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>053</turkodu>
+			<grup>Yatırım Fonu veya Ort. Kazançları </grup>
+			<aciklama>Altın ve Kıymetli Madenlere Dayalı Yatırım Fonu veya Ort. Portföy Kazançları (KVK Md. 15/3)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>054</turkodu>
+			<grup>Yatırım Fonu veya Ort. Kazançları </grup>
+			<aciklama>Girişim Sermayesi Yatırım Fonu veya Ort. Kazançları (KVK Md. 15/3)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>055</turkodu>
+			<grup>Yatırım Fonu veya Ort. Kazançları </grup>
+			<aciklama>Gayrimenkul Yatırım Fonu veya Ort. Kazançları (KVK Md. 15/3)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>056</turkodu>
+			<grup>Yatırım Fonu veya Ort. Kazançları </grup>
+			<aciklama>Konut Finansmanı Fonu ile Varlık Finansmanı Fonu Kazançları (GVK Geç. Md. 67/8) </aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>065</turkodu>
+			<grup>Kurumların Dağıttıkları Kar Payları</grup>
+			<aciklama>Vergiden Muaf Olan Kurumlara Dağıtılan 75 inci Maddenin (1), (2) ve (3) Numaralı Bentlerinde Sayılan Kar Payları (KVK Md. 15/2)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>071</turkodu>
+			<grup>Yatırım İndirimi</grup>
+			<aciklama>Yatırım İndiriminden Yararlanan Kazançlar (GVK Geç. Md. 61)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>083</turkodu>
+			<grup>Her Nevi Tahvil Faizleri</grup>
+			<aciklama>Her Nevi Tahvil ve Hazine Bonosu Faizleri ile Toplu Konut İdaresi ve Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerden Sağlanan Gelirler (KVK Md.15/1-c)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>101</turkodu>
+			<grup>Mevduat Faizleri</grup>
+			<aciklama>TL Mevduat Hesaplarına Yürütülen Faizler (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>102</turkodu>
+			<grup>Mevduat Faizleri</grup>
+			<aciklama>Döviz Tevdiat Hesaplarına Yürütülen Faizler ile Katılım Bankalarınca Döviz Katılma Hesaplarına Ödenen Kar Payları (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>111</turkodu>
+			<grup>Faizsiz Olarak Kredi Verenlere Ödenen Kar Payları</grup>
+			<aciklama>Faizsiz Olarak Kredi Verenlere Ödenen Kar Payları ile Kar ve Zarar Ortaklığı Belgesi ve Katılım Bankalarınca Kar ve Zarara Katılma Hesabı Karşılığında Ödenen Kar Payları (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>121</turkodu>
+			<grup>Repo</grup>
+			<aciklama>Repo Gelirleri (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>221</turkodu>
+			<grup>KVK 30 ÖDM -Yıllara Yaygın İnşaat</grup>
+			<aciklama>Dar Mükellef Kurumlara Birden Fazla Takvim Yılına Yaygın İnşaat ve Onarım İşleri İle İlgili Olarak Yapılan Hakediş Ödemeleri (KVK Md. 30/1-a)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>231</turkodu>
+			<grup>KVK 30 ÖDM - Serbest Meslek</grup>
+			<aciklama>Petrol Arama Faaliyetleri İçin Yapılan Serbest Meslek Kazancı Ödemeleri (KVK Md. 30/1-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>232</turkodu>
+			<grup>KVK 30 ÖDM - Serbest Meslek</grup>
+			<aciklama>Diğer Serbest Meslek Kazancı Ödemeleri (KVK Md. 30/1-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>241</turkodu>
+			<grup>KVK 30 ÖDM - Gayrimenkul Sermaye İratları</grup>
+			<aciklama>Finansal Kiralama Kapsamındaki Gayrimenkul Sermaye İratları (KVK Md. 30/1-c)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>242</turkodu>
+			<grup>KVK 30 ÖDM - Gayrimenkul Sermaye İratları</grup>
+			<aciklama>Diğer Gayrimenkul Sermaye İratları (KVK Md. 30/1-c</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>251</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Her Nevi Tahvil ve Hazine Bonosu Faizleri ile Toplu Konut İdaresi ve Kamu Ortaklığı İdaresi ile Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerden Sağlanan Gelirler (GVK Geç. Md. 67/2)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>252</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Her Nevi Tahvil ve Hazine Bonosu Faizleri ile Toplu Konut İdaresi ve Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerden Sağlanan Gelirler (KVK  Md. 30/1-ç)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>253</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Mevduat Faizleri (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>254</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Faizsiz Olarak Kredi Verenlere Ödenen Kar Payları ile Kar ve Zarar Ortaklığı Belgesi ve Katılım Bankalarınca Kar ve Zarara Katılma Hesabı Karşılığında Ödenen Kar Payları (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>256</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>GVK'nun 75/10 uncu Maddesinde Yazılı Menkul Sermaye İratları (KVK Md. 30/1-ç)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>257</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Repo Gelirleri (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>258</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Diğer Menkul Sermaye İratları</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>262</turkodu>
+			<grup>Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>2009/14593 Sayılı Bakanlar Kurulu Kararı Madde 1/(5-a)' ya Göre Ödenecek Alacak Faizleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>263</turkodu>
+			<grup>Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>2009/14593 Sayılı Bakanlar Kurulu Kararı Madde 1/(5-b)' ye Göre Ödenecek Alacak Faizleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>264</turkodu>
+			<grup>Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>2009/14593 Sayılı Bakanlar Kurulu Kararı Madde 1/(5-c)' ye Göre Ödenecek Vade Farkları</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>265</turkodu>
+			<grup>Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>2009/14593 Sayılı Bakanlar Kurulu Kararı Madde 1/(5/ç)' ye Göre Ödenecek Diğer Alacak Faizleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>271</turkodu>
+			<grup>KVK 30 ÖDM - Kurumların Dağıttıkları Kar Payları</grup>
+			<aciklama>Tam Mükellef Kurumlar Tarafından, Dar Mükellef Kurumlara veya Kurumlar Vergisinden Muaf Olan Dar Mükelleflere Dağıtılan GVK' nun 75 inci Maddesinin (1), (2) ve (3) Numaralı Bentlerinde Sayılan Kar Payları (KVK Md. 30/3)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>272</turkodu>
+			<grup>KVK 30 ÖDM - Kurumların Dağıttıkları Kar Payları</grup>
+			<aciklama>Dar Mükellef Kurumlarca Ana Merkeze Aktarılan Tutarlar (KVK Md. 30/6)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>281</turkodu>
+			<grup>KVK 30 ÖDM - Diğer Ödemeler</grup>
+			<aciklama>Gayrimaddi Hakların Satışı, Devir ve Temliki Karşılığında Ödenen Bedeller (KVK Md. 30/2)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>282</turkodu>
+			<grup>KVK 30 ÖDM - Diğer Ödemeler</grup>
+			<aciklama>Yetkili Makamların İzni İle Açılan Sergi ve Panayırlarda Yapılan Ticari Faaliyetlerden Elde Edilen Kazançlar (KVK Md. 30/5)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>283</turkodu>
+			<grup>KVK 30 ÖDM - Diğer Ödemeler</grup>
+			<aciklama>Bakanlar Kurulunca İlan Edilen Ülkelerde Yerleşik Olanlara Veya Faaliyet Gösterenlere Yapılan Ödemeler (KVK Md. 30/7)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>284</turkodu>
+			<grup></grup>
+			<aciklama>Diğerleri</aciklama>
+		</odemeturkodu>
+	</odemeturkodlari>
+</kodlar>

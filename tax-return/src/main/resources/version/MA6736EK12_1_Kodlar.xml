@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<bentOranlar>
+		<data><bent>0</bent><aciklama>(a/i) alt bendine göre yapılan ödemeler</aciklama><oran>0.25</oran></data>
+		<data><bent>1</bent><aciklama>(a/ii) alt bendine göre yapılan ödemeler</aciklama><oran>0.50</oran></data>
+		<data><bent>2</bent><aciklama>(b/i) alt bendine göre yapılan ödemeler</aciklama><oran>0.50</oran></data>
+		<data><bent>3</bent><aciklama>(b/ii) alt bendine göre yapılan ödemeler</aciklama><oran>1.00</oran></data>
+		<data><bent>4</bent><aciklama>(c/i) alt bendine göre yapılan ödemeler</aciklama><oran>0.50</oran></data>
+		<data><bent>5</bent><aciklama>(c/ii) alt bendine göre yapılan ödemeler</aciklama><oran>1.00</oran></data>
+	</bentOranlar>
+	<asgariMatrahlar>
+		<data><yil>2011</yil><asgariMatrah>14000.00</asgariMatrah><oran>2</oran></data>
+		<data><yil>2012</yil><asgariMatrah>14820.00</asgariMatrah><oran>2</oran></data>
+		<data><yil>2013</yil><asgariMatrah>15740.00</asgariMatrah><oran>2</oran></data>
+		<data><yil>2014</yil><asgariMatrah>16740.00</asgariMatrah><oran>2</oran></data>
+		<data><yil>2015</yil><asgariMatrah>18970.00</asgariMatrah><oran>2</oran></data>
+	</asgariMatrahlar>
+</kodlar>

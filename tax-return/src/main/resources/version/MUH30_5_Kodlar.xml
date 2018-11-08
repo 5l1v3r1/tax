@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: OAB_TK		odemeturkodlari/odemeturkodu/turkodu
+-->
+	<odemeturkodlari>
+		<odemeturkodu>
+			<turkodu>011</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>Asgari Ücretli (GVK Md. 94/1)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>012</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>Diğer Ücretler ile Ücret Sayılan Ödemeler (GVK Md. 94/1)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>013</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>Kıdem Tazminatı</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>014</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>Huzur Hakkı</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>015</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>İhbar Tazminatı</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>016</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>Yeraltı Maden İşçileri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>017</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>4691 Sayılı Kanun Kapsamı</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>018</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>Döner Sermaye/Performans/Ek Ders Odemesi/Ek ödeme/Diğer</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>019</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>Gemi Çalışanları/Dar Mükellef Kurumların İrtibat Buroları/Apartman Kapıcıları</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>020</turkodu>
+			<grup>Ücret</grup>
+			<aciklama>4691 sayılı kanun kapsamında çalışan işverenler/Muhtarlar/Elçiliklerde Çalışan Personel/GVK23/11 Kapsamında Çalışanlar/Diğer</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>021</turkodu>
+			<grup>Serbest Meslek</grup>
+			<aciklama>18 inci Madde Kapsamına Giren Ödemeler (GVK Md. 94/2-a)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>022</turkodu>
+			<grup>Serbest Meslek</grup>
+			<aciklama>Diğer Serbest Meslek Kazancı Ödemeleri (GVK Md. 94/2-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>023</turkodu>
+			<grup>Serbest Meslek</grup>
+			<aciklama>Sinai Mülkiyet Hakkı (KVK Md.5/b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>031</turkodu>
+			<grup>Yıllara Yaygın İnşaat</grup>
+			<aciklama>Birden Fazla Takvim Yılına Yaygın İnşaat ve Onarım İşleri Dolayısıyla Yapılan Hakediş Ödemeleri (GVK Md. 94/3)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>032</turkodu>
+			<grup>Yıllara Yaygın İnşaat</grup>
+			<aciklama>Birden Fazla Takvim Yılına Yaygın İnşaat ve Onarım İşleri İle Uğraşan Kurumlara Yapılan Hakediş Ödemeleri (KVK Md. 15/1-a)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>041</turkodu>
+			<grup>Kira</grup>
+			<aciklama>70 inci Maddede Yazılı Mal ve Hakların Kiralanması Karşılığı Yapılan Ödemeler (GVK Md. 94/5)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>042</turkodu>
+			<grup>Kira</grup>
+			<aciklama>Kooperatiflere Ait Taşınmazların Kiralanması Karşılığı Yapılan Ödemeler (KVK Md. 15/1-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>043</turkodu>
+			<grup>Kira</grup>
+			<aciklama>Sinai Mülkiyet Hakkı (KVK Md .5/b) kiralaması</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>052</turkodu>
+			<grup>Yatırım Fonu veya Ort. Kazançları</grup>
+			<aciklama>Men. Kıy. Yatırım Fonu ile Ort. Portföy Kazançları (GVK Geç. Md. 67/8)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>053</turkodu>
+			<grup>Yatırım Fonu veya Ort. Kazançları</grup>
+			<aciklama>Altın ve Kıymetli Madenlere Dayalı Yatırım Fonu veya Ort. Portföy Kazançları (KVK Md. 15/3)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>054</turkodu>
+			<grup>Yatırım Fonu veya Ort. Kazançları</grup>
+			<aciklama>Girişim Sermayesi Yatırım Fonu veya Ort. Kazançları (KVK Md. 15/3)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>055</turkodu>
+			<grup>Yatırım Fonu veya Ort. Kazançları</grup>
+			<aciklama>Gayrimenkul Yatırım Fonu veya Ort. Kazançları (KVK Md. 15/3)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>056</turkodu>
+			<grup>Yatırım Fonu veya Ort. KazançlarıYatırım Fonu veya Ort. Kazançları</grup>
+			<aciklama>Konut Finansmanı Fonu ile Varlık Finansmanı Fonu Kazançları (GVK Geç. Md. 67/8)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>061</turkodu>
+			<grup>Kurumların Dağıttıkları Kar Payları</grup>
+			<aciklama>Tam Mükellef Kurumlar Tarafından, Tam Mükellef Gerçek Kişilere, Gelir ve Kurumlar Vergisi Mükellefi Olmayanlara ve Gelir Vergisinden Muaf Olanlara Dağıtılan 75 inci Maddenin (1), (2) ve (3) Numaralı Bentlerinde Sayılan Kar Payları (GVK Md. 94/6-b-i)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>062</turkodu>
+			<grup>Kurumların Dağıttıkları Kar Payları</grup>
+			<aciklama>Tam Mükellef Kurumlar Tarafından Dar Mükellef Gerçek Kişilere ve Gelir Vergisinden Muaf Olan Dar Mükelleflere Dağıtılan 75 inci Maddenin (1), (2) ve (3) Numaralı Bentlerinde Sayılan Kar Payları (GVK Md. 94/6-b-ii)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>065</turkodu>
+			<grup>Kurumların Dağıttıkları Kar Payları</grup>
+			<aciklama>Vergiden Muaf Olan Kurumlara Dağıtılan 75 inci Maddenin (1), (2) ve (3) Numaralı Bentlerinde Sayılan Kar Payları (KVK Md. 15/2)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>071</turkodu>
+			<grup>Yatırım İndirimi</grup>
+			<aciklama>Yatırım İndiriminden Yararlanan Kazançlar (GVK Geç. Md. 61)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>081</turkodu>
+			<grup>Her Nevi Tahvil Faizleri</grup>
+			<aciklama>Her Nevi Tahvil ve Hazine Bonosu Faizleri ile Toplu Konut İdaresi ve Kamu Ortaklığı İdaresi ile Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerden Sağlanan Gelirler (GVK Md. 94/7)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>082</turkodu>
+			<grup>Her Nevi Tahvil Faizleri</grup>
+			<aciklama>Her Nevi Tahvil ve Hazine Bonosu Faizleri ile Toplu Konut İdaresi ve Kamu Ortaklığı İdaresi ile Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerden Sağlanan Gelirler (GVK Geç. Md. 67/2)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>083</turkodu>
+			<grup>Her Nevi Tahvil Faizleri</grup>
+			<aciklama>Her Nevi Tahvil ve Hazine Bonosu Faizleri ile Toplu Konut İdaresi ve Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerden Sağlanan Gelirler (KVK Md.15/1-c)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>091</turkodu>
+			<grup>Zirai Mahsuller ve Hizmetler</grup>
+			<aciklama>Ticaret Borsalarında Tescil Ettirilerek Satın Alınan Hayvanlar ve Bunların Mahsulleri ile Kara ve Su Avcılığı Mahsulleri İçin Yapılan Ödemeler (GVK Md. 94/11-a-i)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>092</turkodu>
+			<grup>Zirai Mahsuller ve Hizmetler</grup>
+			<aciklama>Ticaret Borsalarında Tescil Ettirilmeksizin Satın Alınan Hayvanlar ve Bunların Mahsulleri ile Kara ve Su Avcılığı Mahsulleri İçin Yapılan Ödemeler (GVK Md. 94/11-a-ii)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>093</turkodu>
+			<grup>Zirai Mahsuller ve Hizmetler</grup>
+			<aciklama>Ticaret Borsalarında Tescil Ettirilerek SatınAlınan Diğer Zirai Mahsuller İçin Yapılan Ödemeler (GVK Md. 94/11-b-i) (**)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>094</turkodu>
+			<grup>Zirai Mahsuller ve Hizmetler</grup>
+			<aciklama>Ticaret Borsalarında Tescil Ettirilmeksizin Satın Alınan Diğer Zirai Mahsuller İçin Yapılan Ödemeler (GVK Md. 94/11-b-ii)  (***)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>095</turkodu>
+			<grup>Zirai Mahsuller ve Hizmetler</grup>
+			<aciklama>Zirai Faaliyet Kapsamında İfa Edilen Orman İdaresine veya Orman İdaresine Karşı Taahütte Bulunan Kurumlara Yapılan Ödemeler (GVK Md. 94/11-c-i)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>096</turkodu>
+			<grup>Zirai Mahsuller ve Hizmetler</grup>
+			<aciklama>Zirai Faaliyet Kapsamında İfa Edilen Diğer Hizmetler İçin Yapılan Ödemeler (GVK Md. 94/11-c-ii)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>097</turkodu>
+			<grup>Zirai Mahsuller ve Hizmetler</grup>
+			<aciklama>Destek Ödemeleri (GVK Md.94/11-aii; bii)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>101</turkodu>
+			<grup>Mevduat Faizleri</grup>
+			<aciklama>TL Mevduat Hesaplarına Yürütülen Faizler (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>102</turkodu>
+			<grup>Mevduat Faizleri</grup>
+			<aciklama>Döviz Tevdiat Hesaplarına Yürütülen Faizler ile Katılım Bankalarınca Döviz Katılma Hesaplarına Ödenen Kar Payları (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>103</turkodu>
+			<grup>Mevduat Faizleri</grup>
+			<aciklama>Aralık Ayında Tahakkuk Ettirilen Mevduat Faizleri (GVK Geçici Md. 67/4 ve Md. 98)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>111</turkodu>
+			<grup>Faizsiz Olarak Kredi Verenlere Ödenen Kar Payları</grup>
+			<aciklama>Faizsiz Olarak Kredi Verenlere Ödenen Kar Payları ile Kar ve Zarar Ortaklığı Belgesi ve Katılım Bankalarınca Kar ve Zarara Katılma Hesabı Karşılığında Ödenen Kar Payları (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>121</turkodu>
+			<grup>Repo</grup>
+			<aciklama>Repo Gelirleri (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>131</turkodu>
+			<grup>Bireysel Emeklilik Sistemi ve Diğer Şahıs Sigorta Şirketleri Tarafından Yapılan Ödemeler</grup>
+			<aciklama>GVK' nın 75/15 inci Maddesinin (a) Alt Bendinde Yer Alan Ödemeler (GVK Md. 94/15-a)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>132</turkodu>
+			<grup>Bireysel Emeklilik Sistemi ve Diğer Şahıs Sigorta Şirketleri Tarafından Yapılan Ödemeler</grup>
+			<aciklama>GVK' nın 75/15 inci Maddesinin (b) Alt Bendinde Yer Alan Ödemeler (GVK Md. 94/15-b</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>134</turkodu>
+			<grup>Bireysel Emeklilik Sistemi ve Diğer Şahıs Sigorta Şirketleri Tarafından Yapılan Ödemeler</grup>
+			<aciklama>GVK' nın 75/16 inci Maddesinin (a) Alt Bendinde Yer Alan Ödemeler (GVK Md. 94/16-a)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>135</turkodu>
+			<grup>Bireysel Emeklilik Sistemi ve Diğer Şahıs Sigorta Şirketleri Tarafından Yapılan Ödemeler</grup>
+			<aciklama>GVK' nın 75/16 inci Maddesinin (b) Alt Bendinde Yer Alan Ödemeler (GVK Md. 94/16-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>136</turkodu>
+			<grup>Bireysel Emeklilik Sistemi ve Diğer Şahıs Sigorta Şirketleri Tarafından Yapılan Ödemeler</grup>
+			<aciklama>GVK' nın 75/16 inci Maddesinin (c) Alt Bendinde Yer Alan Ödemeler (GVK Md. 94/16-c)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>141</turkodu>
+			<grup>Diğer Ödemeler</grup>
+			<aciklama>Telif ve Patent Hakları Satışı Dolayısıyla Dar Mükellefiyete Tabi Olanlara Yapılan Ödemeler (GVK Md. 94/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>142</turkodu>
+			<grup>Diğer Ödemeler</grup>
+			<aciklama>Milli Piyango İdaresince Çıkarılan Biletleri Satanlar İle Diğer Kişilerce Çıkartılan Bu Nitelikteki Biletleri Satanlara Yapılan Komisyon, Prim vb. Ödemeler (GVK Md. 94/10-a)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>143</turkodu>
+			<grup>Diğer Ödemeler</grup>
+			<aciklama>4077 s. Kanuna Göre Kapı Kapı Dolaşmak Suretiyle Tüketiciye Satanlara Yapılan Komisyon, Prim vb. Ödemeler (GVK Md. 94/10-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>144</turkodu>
+			<grup>Diğer Ödemeler</grup>
+			<aciklama>PTT Acenteliği Yapanlara Bu Faaliyetleri Nedeniyle Ödenen Komisyon Bedeli (GVK Md. 94/12)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>145</turkodu>
+			<grup>Diğer Ödemeler</grup>
+			<aciklama>Esnaf Muaflığından Yararlananlara Mal ve Hizmet Alımları Karşılığında Yapılan Ödemeler (GVK Md. 94-13/a,c,d)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>146</turkodu>
+			<grup>Diğer Ödemeler</grup>
+			<aciklama>Esnaf Muaflığından Yararlananlara Hurda Mal Alımları Karşılığında Yapılan Ödemeler (GVK Md. 94/13-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>151</turkodu>
+			<grup></grup>
+			<aciklama>Diğerleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>221</turkodu>
+			<grup>KVK 30 ÖDM -Yıllara Yaygın İnşaat</grup>
+			<aciklama>Dar Mükellef Kurumlara Birden Fazla Takvim Yılına Yaygın İnşaat ve Onarım İşleri İle İlgili Olarak Yapılan Hakediş Ödemeleri (KVK Md. 30/1-a)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>231</turkodu>
+			<grup>KVK 30 ÖDM - Serbest Meslek</grup>
+			<aciklama>Petrol Arama Faaliyetleri İçin Yapılan Serbest Meslek Kazancı Ödemeleri (KVK Md. 30/1-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>232</turkodu>
+			<grup>KVK 30 ÖDM - Serbest Meslek</grup>
+			<aciklama>Diğer Serbest Meslek Kazancı Ödemeleri (KVK Md. 30/1-b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>233</turkodu>
+			<grup>KVK 30 ÖDM - Serbest Meslek</grup>
+			<aciklama>KVK 30 /smk Sinai Mülkiyet Hakkı (KVK Md.5/b)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>241</turkodu>
+			<grup>KVK 30 ÖDM - Gayrimenkul Sermaye İratları</grup>
+			<aciklama>Finansal Kiralama Kapsamındaki Gayrimenkul Sermaye İratları (KVK Md. 30/1-c)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>242</turkodu>
+			<grup>KVK 30 ÖDM - Gayrimenkul Sermaye İratları</grup>
+			<aciklama>Diğer Gayrimenkul Sermaye İratları (KVK Md. 30/1-c)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>243</turkodu>
+			<grup>KVK 30 ÖDM - Gayrimenkul Sermaye İratları</grup>
+			<aciklama>KVK 30 /  Sinai Mülkiyet Hakkı (KVK Md.5/b) kiralaması</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>251</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Her Nevi Tahvil ve Hazine Bonosu Faizleri ile Toplu Konut İdaresi ve Kamu Ortaklığı İdaresi ile Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerden Sağlanan Gelirler (GVK Geç. Md. 67/2)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>252</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Her Nevi Tahvil ve Hazine Bonosu Faizleri ile Toplu Konut İdaresi ve Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerden Sağlanan Gelirler (KVK  Md. 30/1-ç)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>253</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Mevduat Faizleri (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>254</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Faizsiz Olarak Kredi Verenlere Ödenen Kar Payları ile Kar ve Zarar Ortaklığı Belgesi ve Katılım Bankalarınca Kar ve Zarara Katılma Hesabı Karşılığında Ödenen Kar Payları (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>256</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>GVK' nun 75/10 uncu Maddesinde Yazılı Menkul Sermaye İratları (KVK Md. 30/1-ç)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>257</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Repo Gelirleri (GVK Geç. Md. 67/4)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>258</turkodu>
+			<grup>KVK 30 ÖDM - Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>Diğer Menkul Sermaye İratları</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>262</turkodu>
+			<grup>Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>2009/14593 Sayılı Bakanlar Kurulu Kararı Madde 1/(5-a)' ya Göre Ödenecek Alacak Faizleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>263</turkodu>
+			<grup>Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>2009/14593 Sayılı Bakanlar Kurulu Kararı Madde 1/(5-b)' ye Göre Ödenecek Alacak Faizleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>264</turkodu>
+			<grup>Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>2009/14593 Sayılı Bakanlar Kurulu Kararı Madde 1/(5-c)' ye Göre Ödenecek Vade Farkları</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>265</turkodu>
+			<grup>Kar Payları Hariç Menkul Sermaye İratları</grup>
+			<aciklama>2009/14593 Sayılı Bakanlar Kurulu Kararı Madde 1/(5/ç)' ye Göre Ödenecek Diğer Alacak Faizleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>271</turkodu>
+			<grup>KVK 30 ÖDM - Kurumların Dağıttıkları Kar Payları</grup>
+			<aciklama>Tam Mükellef Kurumlar Tarafından, Dar Mükellef Kurumlara veya Kurumlar Vergisinden Muaf Olan Dar Mükelleflere Dağıtılan GVK' nun 75 inci Maddesinin (1), (2) ve (3) Numaralı Bentlerinde Sayılan Kar Payları (KVK Md. 30/3)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>272</turkodu>
+			<grup>KVK 30 ÖDM - Kurumların Dağıttıkları Kar Payları</grup>
+			<aciklama>Dar Mükellef Kurumlarca Ana Merkeze Aktarılan Tutarlar (KVK Md. 30/6) </aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>281</turkodu>
+			<grup>KVK 30 ÖDM - Diğer Ödemeler</grup>
+			<aciklama>Gayrimaddi Hakların Satışı, Devir ve Temliki Karşılığında Ödenen Bedeller (KVK Md. 30/2)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>282</turkodu>
+			<grup>KVK 30 ÖDM - Diğer Ödemeler</grup>
+			<aciklama>Yetkili Makamların İzni İle Açılan Sergi ve Panayırlarda Yapılan Ticari Faaliyetlerden Elde Edilen Kazançlar (KVK Md. 30/5)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>283</turkodu>
+			<grup>KVK 30 ÖDM - Diğer Ödemeler</grup>
+			<aciklama>Bakanlar Kurulunca İlan Edilen Ülkelerde Yerleşik Olanlara Veya Faaliyet Gösterenlere Yapılan Ödemeler (KVK Md. 30/7)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>284</turkodu>
+			<grup></grup>
+			<aciklama>Diğerleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>301</turkodu>
+			<grup>Damga Vergisi Kanununa göre yapılan ödemelerle ilgili kağıtlar</grup>
+			<aciklama>Resmi daireler tarafından yapılan mal ve hizmet alımlarına ilişkin ödemeler (avans olarak yapılanlar dahil) nedeniyle, kişiler tarafından resmi dairelere verilen ve belli parayı ihtiva eden makbuz ve ibra senetleri ile bu ödemelerin resmi daireler nam ve hesabına, kişiler adına açılmış veya açılacak hesaplara nakledilmesini veya emir ve havalelerine tediyesini temin eden kağıtlar</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>302</turkodu>
+			<grup>Damga Vergisi Kanununa göre yapılan ödemelerle ilgili kağıtlar</grup>
+			<aciklama>Maaş, ücret, gündelik, huzur hakkı, aidat, ihtisas zammı, ikramiye, yemek ve mesken bedeli, harcırah, tazminat ve benzeri her ne adla olursa olsun hizmet karşılığı alınan paralar (avans olarak ödenenler dahil) için verilen makbuzlar ile bu paraların nakden ödenmeyerek kişiler adına açılmış veya açılacak cari hesaplara nakledildiği veya emir ve havalelerine tediye olunduğu takdirde nakli veya tediyeyi temin eden kağıtlar</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>303</turkodu>
+			<grup>Damga Vergisi Kanununa göre yapılan ödemelerle ilgili kağıtlar</grup>
+			<aciklama>Ödünç alınan paralar için verilen makbuzlar veya bu mahiyetteki senetler</aciklama>
+		</odemeturkodu>
+	</odemeturkodlari>
+	<ulkekodlari>
+		<ulke>
+			<kod>013</kod>
+			<ad>ABD MINOR OUTLYING ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>457</kod>
+			<ad>ABD VİRJİN ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>660</kod>
+			<ad>AFGANİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>004</kod>
+			<ad>ALMANYA</ad>
+		</ulke>
+		<ulke>
+			<kod>400</kod>
+			<ad>AMERİKA BİRLEŞİK DEV</ad>
+		</ulke>
+		<ulke>
+			<kod>830</kod>
+			<ad>AMERİKA SAMOASI</ad>
+		</ulke>
+		<ulke>
+			<kod>808</kod>
+			<ad>AMERİKAN OKYANUSYASI</ad>
+		</ulke>
+		<ulke>
+			<kod>043</kod>
+			<ad>ANDORRA</ad>
+		</ulke>
+		<ulke>
+			<kod>330</kod>
+			<ad>ANGOLA</ad>
+		</ulke>
+		<ulke>
+			<kod>446</kod>
+			<ad>ANGUILLA</ad>
+		</ulke>
+		<ulke>
+			<kod>891</kod>
+			<ad>ANTARTİKA</ad>
+		</ulke>
+		<ulke>
+			<kod>459</kod>
+			<ad>ANTIGUA VE BERMUDA</ad>
+		</ulke>
+		<ulke>
+			<kod>528</kod>
+			<ad>ARJANTİN</ad>
+		</ulke>
+		<ulke>
+			<kod>070</kod>
+			<ad>ARNAVUTLUK</ad>
+		</ulke>
+		<ulke>
+			<kod>474</kod>
+			<ad>ARUBA</ad>
+		</ulke>
+		<ulke>
+			<kod>800</kod>
+			<ad>AVUSTRALYA</ad>
+		</ulke>
+		<ulke>
+			<kod>802</kod>
+			<ad>AVUSTRALYA OKYANUSU</ad>
+		</ulke>
+		<ulke>
+			<kod>038</kod>
+			<ad>AVUSTURYA</ad>
+		</ulke>
+		<ulke>
+			<kod>078</kod>
+			<ad>AZERBEYCAN-NAHÇIVAN</ad>
+		</ulke>
+		<ulke>
+			<kod>453</kod>
+			<ad>BAHAMA</ad>
+		</ulke>
+		<ulke>
+			<kod>640</kod>
+			<ad>BAHREYN</ad>
+		</ulke>
+		<ulke>
+			<kod>666</kod>
+			<ad>BANGLADEŞ</ad>
+		</ulke>
+		<ulke>
+			<kod>469</kod>
+			<ad>BARBADOS</ad>
+		</ulke>
+		<ulke>
+			<kod>819</kod>
+			<ad>BATI SAMAO</ad>
+		</ulke>
+		<ulke>
+			<kod>002</kod>
+			<ad>BELÇİKA</ad>
+		</ulke>
+		<ulke>
+			<kod>421</kod>
+			<ad>BELİZE</ad>
+		</ulke>
+		<ulke>
+			<kod>284</kod>
+			<ad>BENİN</ad>
+		</ulke>
+		<ulke>
+			<kod>413</kod>
+			<ad>BERMUDA</ad>
+		</ulke>
+		<ulke>
+			<kod>073</kod>
+			<ad>BEYAZ RUSYA</ad>
+		</ulke>
+		<ulke>
+			<kod>675</kod>
+			<ad>BHUTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>958</kod>
+			<ad>BİLİNEMEYEN ÜLKE VE TOPRAKLAR</ad>
+		</ulke>
+		<ulke>
+			<kod>647</kod>
+			<ad>BİRLEŞİK ARAP EMİRLİ</ad>
+		</ulke>
+		<ulke>
+			<kod>006</kod>
+			<ad>BİRLEŞİK KRALLIK (İngiltere, Galler, İskoçya, Kuzey İrlanda)</ad>
+		</ulke>
+		<ulke>
+			<kod>901</kod>
+			<ad>BİSMARK ARCHİPELAGO</ad>
+		</ulke>
+		<ulke>
+			<kod>516</kod>
+			<ad>BOLİVYA</ad>
+		</ulke>
+		<ulke>
+			<kod>093</kod>
+			<ad>BOSNA-HERSEK</ad>
+		</ulke>
+		<ulke>
+			<kod>391</kod>
+			<ad>BOSTVANA</ad>
+		</ulke>
+		<ulke>
+			<kod>892</kod>
+			<ad>BOUVET ADASI</ad>
+		</ulke>
+		<ulke>
+			<kod>508</kod>
+			<ad>BREZİLYA</ad>
+		</ulke>
+		<ulke>
+			<kod>703</kod>
+			<ad>BRUNEİ</ad>
+		</ulke>
+		<ulke>
+			<kod>068</kod>
+			<ad>BULGARİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>236</kod>
+			<ad>BURKİNA FASO</ad>
+		</ulke>
+		<ulke>
+			<kod>676</kod>
+			<ad>BURMA</ad>
+		</ulke>
+		<ulke>
+			<kod>328</kod>
+			<ad>BURUNDİ</ad>
+		</ulke>
+		<ulke>
+			<kod>247</kod>
+			<ad>CAPE VERDE</ad>
+		</ulke>
+		<ulke>
+			<kod>463</kod>
+			<ad>CAYMAN ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>044</kod>
+			<ad>CEBELİ TARIK</ad>
+		</ulke>
+		<ulke>
+			<kod>022</kod>
+			<ad>CEUTA VE MELİLLA</ad>
+		</ulke>
+		<ulke>
+			<kod>208</kod>
+			<ad>CEZAYİR</ad>
+		</ulke>
+		<ulke>
+			<kod>834</kod>
+			<ad>CHRISTMAS ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>338</kod>
+			<ad>CİBUTİ</ad>
+		</ulke>
+		<ulke>
+			<kod>182</kod>
+			<ad>COOK ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>244</kod>
+			<ad>ÇAD</ad>
+		</ulke>
+		<ulke>
+			<kod>084</kod>
+			<ad>ÇEÇEN CUMHURİYETİ</ad>
+		</ulke>
+		<ulke>
+			<kod>062</kod>
+			<ad>ÇEK CUMHURİYETİ</ad>
+		</ulke>
+		<ulke>
+			<kod>720</kod>
+			<ad>ÇİN HALK CUMHURİYETİ</ad>
+		</ulke>
+		<ulke>
+			<kod>085</kod>
+			<ad>DAĞISTAN CUMHURİYETİ</ad>
+		</ulke>
+		<ulke>
+			<kod>008</kod>
+			<ad>DANİMARKA</ad>
+		</ulke>
+		<ulke>
+			<kod>626</kod>
+			<ad>DOĞU TİMOR</ad>
+		</ulke>
+		<ulke>
+			<kod>460</kod>
+			<ad>DOMİNİKA</ad>
+		</ulke>
+		<ulke>
+			<kod>456</kod>
+			<ad>DOMİNİK CUMHURİYETİ</ad>
+		</ulke>
+		<ulke>
+			<kod>648</kod>
+			<ad>DUBAİ</ad>
+		</ulke>
+		<ulke>
+			<kod>500</kod>
+			<ad>EKVATOR</ad>
+		</ulke>
+		<ulke>
+			<kod>310</kod>
+			<ad>EKVATOR GİNESİ</ad>
+		</ulke>
+		<ulke>
+			<kod>428</kod>
+			<ad>EL SALVADOR</ad>
+		</ulke>
+		<ulke>
+			<kod>700</kod>
+			<ad>ENDONEZYA</ad>
+		</ulke>
+		<ulke>
+			<kod>336</kod>
+			<ad>ERİTRE</ad>
+		</ulke>
+		<ulke>
+			<kod>077</kod>
+			<ad>ERMENİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>053</kod>
+			<ad>ESTONYA</ad>
+		</ulke>
+		<ulke>
+			<kod>334</kod>
+			<ad>ETİYOPYA</ad>
+		</ulke>
+		<ulke>
+			<kod>529</kod>
+			<ad>FALKLAND ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>025</kod>
+			<ad>FAROE ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>204</kod>
+			<ad>FAS</ad>
+		</ulke>
+		<ulke>
+			<kod>815</kod>
+			<ad>FİJİ</ad>
+		</ulke>
+		<ulke>
+			<kod>272</kod>
+			<ad>FİLDİŞİ SAHİLİ</ad>
+		</ulke>
+		<ulke>
+			<kod>708</kod>
+			<ad>FİLİPİNLER</ad>
+		</ulke>
+		<ulke>
+			<kod>032</kod>
+			<ad>FİNLANDİYA</ad>
+		</ulke>
+		<ulke>
+			<kod>001</kod>
+			<ad>FRANSA</ad>
+		</ulke>
+		<ulke>
+			<kod>496</kod>
+			<ad>FRANSIZ GUYANASI</ad>
+		</ulke>
+		<ulke>
+			<kod>822</kod>
+			<ad>FRANSIZ POLİNEZYASI</ad>
+		</ulke>
+		<ulke>
+			<kod>314</kod>
+			<ad>GABON</ad>
+		</ulke>
+		<ulke>
+			<kod>252</kod>
+			<ad>GAMBİYA</ad>
+		</ulke>
+		<ulke>
+			<kod>276</kod>
+			<ad>GANA</ad>
+		</ulke>
+		<ulke>
+			<kod>260</kod>
+			<ad>GİNE</ad>
+		</ulke>
+		<ulke>
+			<kod>257</kod>
+			<ad>GİNE-BİSSAU</ad>
+		</ulke>
+		<ulke>
+			<kod>473</kod>
+			<ad>GRENADA</ad>
+		</ulke>
+		<ulke>
+			<kod>406</kod>
+			<ad>GRÖNLAND</ad>
+		</ulke>
+		<ulke>
+			<kod>458</kod>
+			<ad>GUADELUP</ad>
+		</ulke>
+		<ulke>
+			<kod>831</kod>
+			<ad>GUAM</ad>
+		</ulke>
+		<ulke>
+			<kod>416</kod>
+			<ad>GUATEMALA</ad>
+		</ulke>
+		<ulke>
+			<kod>488</kod>
+			<ad>GUYANA</ad>
+		</ulke>
+		<ulke>
+			<kod>390</kod>
+			<ad>GÜNEY AFRİKA CUMHURİ</ad>
+		</ulke>
+		<ulke>
+			<kod>029</kod>
+			<ad>GÜNEY FRANSIZ TOPRAKLARI</ad>
+		</ulke>
+		<ulke>
+			<kod>893</kod>
+			<ad>GÜNEY GEORGIA VE GÜNEY SANDWICH ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>728</kod>
+			<ad>GÜNEY KORE CUMHURİYE</ad>
+		</ulke>
+		<ulke>
+			<kod>656</kod>
+			<ad>GÜNEY YEMEN</ad>
+		</ulke>
+		<ulke>
+			<kod>076</kod>
+			<ad>GÜRCİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>452</kod>
+			<ad>HAİTİ</ad>
+		</ulke>
+		<ulke>
+			<kod>835</kod>
+			<ad>HEARD ADALARI VE MC DONALD ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>664</kod>
+			<ad>HİNDİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>092</kod>
+			<ad>HIRVATİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>003</kod>
+			<ad>HOLLANDA</ad>
+		</ulke>
+		<ulke>
+			<kod>478</kod>
+			<ad>HOLLANDA ANTİLLERİ</ad>
+		</ulke>
+		<ulke>
+			<kod>424</kod>
+			<ad>HONDURAS</ad>
+		</ulke>
+		<ulke>
+			<kod>740</kod>
+			<ad>HONG KONG</ad>
+		</ulke>
+		<ulke>
+			<kod>357</kod>
+			<ad>İNGİLİZ HİNT OKY.TOP</ad>
+		</ulke>
+		<ulke>
+			<kod>461</kod>
+			<ad>İNGİLİZ VİRJİN ADALA</ad>
+		</ulke>
+		<ulke>
+			<kod>006</kod>
+			<ad>İNGİLTERE</ad>
+		</ulke>
+		<ulke>
+			<kod>612</kod>
+			<ad>IRAK</ad>
+		</ulke>
+		<ulke>
+			<kod>616</kod>
+			<ad>İRAN</ad>
+		</ulke>
+		<ulke>
+			<kod>007</kod>
+			<ad>İRLANDA</ad>
+		</ulke>
+		<ulke>
+			<kod>011</kod>
+			<ad>İSPANYA</ad>
+		</ulke>
+		<ulke>
+			<kod>624</kod>
+			<ad>İSRAİL</ad>
+		</ulke>
+		<ulke>
+			<kod>030</kod>
+			<ad>İSVEÇ</ad>
+		</ulke>
+		<ulke>
+			<kod>036</kod>
+			<ad>İSVİÇRE</ad>
+		</ulke>
+		<ulke>
+			<kod>625</kod>
+			<ad>İŞGAL ALTINDAKİ FİLİSTİN TOPRAĞI(GAZZE)</ad>
+		</ulke>
+		<ulke>
+			<kod>005</kod>
+			<ad>İTALYA</ad>
+		</ulke>
+		<ulke>
+			<kod>024</kod>
+			<ad>İZLANDA</ad>
+		</ulke>
+		<ulke>
+			<kod>464</kod>
+			<ad>JAMAİKA</ad>
+		</ulke>
+		<ulke>
+			<kod>732</kod>
+			<ad>JAPONYA</ad>
+		</ulke>
+		<ulke>
+			<kod>696</kod>
+			<ad>KAMBOÇYA</ad>
+		</ulke>
+		<ulke>
+			<kod>302</kod>
+			<ad>KAMERUN</ad>
+		</ulke>
+		<ulke>
+			<kod>404</kod>
+			<ad>KANADA</ad>
+		</ulke>
+		<ulke>
+			<kod>021</kod>
+			<ad>KANARYA ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>097</kod>
+			<ad>KARADAĞ</ad>
+		</ulke>
+		<ulke>
+			<kod>644</kod>
+			<ad>KATAR</ad>
+		</ulke>
+		<ulke>
+			<kod>079</kod>
+			<ad>KAZAKİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>346</kod>
+			<ad>KENYA</ad>
+		</ulke>
+		<ulke>
+			<kod>600</kod>
+			<ad>KIBRIS RUM KESİMİ</ad>
+		</ulke>
+		<ulke>
+			<kod>083</kod>
+			<ad>KIRGIZİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>812</kod>
+			<ad>KİRİBATİ</ad>
+		</ulke>
+		<ulke>
+			<kod>833</kod>
+			<ad>KOKOS ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>480</kod>
+			<ad>KOLOMBİYA</ad>
+		</ulke>
+		<ulke>
+			<kod>375</kod>
+			<ad>KOMORO ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>318</kod>
+			<ad>KONGO</ad>
+		</ulke>
+		<ulke>
+			<kod>095</kod>
+			<ad>KOSOVA</ad>
+		</ulke>
+		<ulke>
+			<kod>436</kod>
+			<ad>KOSTA RİKA</ad>
+		</ulke>
+		<ulke>
+			<kod>890</kod>
+			<ad>KUTUP BÖLGELERİ</ad>
+		</ulke>
+		<ulke>
+			<kod>636</kod>
+			<ad>KUVEYT</ad>
+		</ulke>
+		<ulke>
+			<kod>601</kod>
+			<ad>KUZEY KIBRIS TÜRK CU</ad>
+		</ulke>
+		<ulke>
+			<kod>724</kod>
+			<ad>KUZEY KORE DEMOKRATİ</ad>
+		</ulke>
+		<ulke>
+			<kod>820</kod>
+			<ad>KUZEY MARİANA ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>652</kod>
+			<ad>KUZEY YEMEN</ad>
+		</ulke>
+		<ulke>
+			<kod>448</kod>
+			<ad>KÜBA</ad>
+		</ulke>
+		<ulke>
+			<kod>684</kod>
+			<ad>LAOS</ad>
+		</ulke>
+		<ulke>
+			<kod>395</kod>
+			<ad>LESOTHO</ad>
+		</ulke>
+		<ulke>
+			<kod>054</kod>
+			<ad>LETONYA</ad>
+		</ulke>
+		<ulke>
+			<kod>268</kod>
+			<ad>LİBERYA</ad>
+		</ulke>
+		<ulke>
+			<kod>216</kod>
+			<ad>LİBYA</ad>
+		</ulke>
+		<ulke>
+			<kod>438</kod>
+			<ad>LIESHTENSTEIN</ad>
+		</ulke>
+		<ulke>
+			<kod>055</kod>
+			<ad>LİTVANYA</ad>
+		</ulke>
+		<ulke>
+			<kod>604</kod>
+			<ad>LÜBNAN</ad>
+		</ulke>
+		<ulke>
+			<kod>012</kod>
+			<ad>LÜKSEMBURG</ad>
+		</ulke>
+		<ulke>
+			<kod>064</kod>
+			<ad>MACARİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>370</kod>
+			<ad>MADAGASKAR</ad>
+		</ulke>
+		<ulke>
+			<kod>743</kod>
+			<ad>MAKAO</ad>
+		</ulke>
+		<ulke>
+			<kod>096</kod>
+			<ad>MAKEDONYA</ad>
+		</ulke>
+		<ulke>
+			<kod>386</kod>
+			<ad>MALAVİ</ad>
+		</ulke>
+		<ulke>
+			<kod>667</kod>
+			<ad>MALDİV ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>701</kod>
+			<ad>MALEZYA</ad>
+		</ulke>
+		<ulke>
+			<kod>232</kod>
+			<ad>MALİ</ad>
+		</ulke>
+		<ulke>
+			<kod>046</kod>
+			<ad>MALTA</ad>
+		</ulke>
+		<ulke>
+			<kod>824</kod>
+			<ad>MARSHALL ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>462</kod>
+			<ad>MARTİNİK</ad>
+		</ulke>
+		<ulke>
+			<kod>373</kod>
+			<ad>MAURİTİUS</ad>
+		</ulke>
+		<ulke>
+			<kod>377</kod>
+			<ad>MAYOTTE</ad>
+		</ulke>
+		<ulke>
+			<kod>412</kod>
+			<ad>MEKSİKA</ad>
+		</ulke>
+		<ulke>
+			<kod>306</kod>
+			<ad>ORTA AFRİKA CUMHURİYETİ</ad>
+		</ulke>
+		<ulke>
+			<kod>220</kod>
+			<ad>MISIR</ad>
+		</ulke>
+		<ulke>
+			<kod>823</kod>
+			<ad>MİKRONEZYA</ad>
+		</ulke>
+		<ulke>
+			<kod>716</kod>
+			<ad>MOĞOLİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>074</kod>
+			<ad>MOLDAVYA</ad>
+		</ulke>
+		<ulke>
+			<kod>493</kod>
+			<ad>MONACO</ad>
+		</ulke>
+		<ulke>
+			<kod>470</kod>
+			<ad>MONTSERRAT</ad>
+		</ulke>
+		<ulke>
+			<kod>228</kod>
+			<ad>MORİTANYA</ad>
+		</ulke>
+		<ulke>
+			<kod>366</kod>
+			<ad>MOZAMBİK</ad>
+		</ulke>
+		<ulke>
+			<kod>104</kod>
+			<ad>MYANMAR</ad>
+		</ulke>
+		<ulke>
+			<kod>389</kod>
+			<ad>NAMİBYA</ad>
+		</ulke>
+		<ulke>
+			<kod>803</kod>
+			<ad>NAURU</ad>
+		</ulke>
+		<ulke>
+			<kod>672</kod>
+			<ad>NEPAL</ad>
+		</ulke>
+		<ulke>
+			<kod>240</kod>
+			<ad>NİJER</ad>
+		</ulke>
+		<ulke>
+			<kod>288</kod>
+			<ad>NİJERYA</ad>
+		</ulke>
+		<ulke>
+			<kod>432</kod>
+			<ad>NİKARAGUA</ad>
+		</ulke>
+		<ulke>
+			<kod>838</kod>
+			<ad>NİUE</ad>
+		</ulke>
+		<ulke>
+			<kod>836</kod>
+			<ad>NORFOLK ADASI</ad>
+		</ulke>
+		<ulke>
+			<kod>028</kod>
+			<ad>NORVEÇ</ad>
+		</ulke>
+		<ulke>
+			<kod>081</kod>
+			<ad>ÖZBEKİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>662</kod>
+			<ad>PAKİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>825</kod>
+			<ad>PALAU</ad>
+		</ulke>
+		<ulke>
+			<kod>442</kod>
+			<ad>PANAMA</ad>
+		</ulke>
+		<ulke>
+			<kod>801</kod>
+			<ad>PAPUA YENİ GİNE</ad>
+		</ulke>
+		<ulke>
+			<kod>520</kod>
+			<ad>PARAGUAY</ad>
+		</ulke>
+		<ulke>
+			<kod>504</kod>
+			<ad>PERU</ad>
+		</ulke>
+		<ulke>
+			<kod>813</kod>
+			<ad>PİTCAİRN</ad>
+		</ulke>
+		<ulke>
+			<kod>060</kod>
+			<ad>POLONYA</ad>
+		</ulke>
+		<ulke>
+			<kod>010</kod>
+			<ad>PORTEKİZ</ad>
+		</ulke>
+		<ulke>
+			<kod>372</kod>
+			<ad>REUNİON</ad>
+		</ulke>
+		<ulke>
+			<kod>066</kod>
+			<ad>ROMANYA</ad>
+		</ulke>
+		<ulke>
+			<kod>324</kod>
+			<ad>RUANDA</ad>
+		</ulke>
+		<ulke>
+			<kod>075</kod>
+			<ad>RUSYA FEDERASYONU</ad>
+		</ulke>
+		<ulke>
+			<kod>674</kod>
+			<ad>SAN MARİNO</ad>
+		</ulke>
+		<ulke>
+			<kod>311</kod>
+			<ad>SAO TOME AND PRINCIP</ad>
+		</ulke>
+		<ulke>
+			<kod>248</kod>
+			<ad>SENEGAL</ad>
+		</ulke>
+		<ulke>
+			<kod>021</kod>
+			<ad>SEPTE(Ceuta)</ad>
+		</ulke>
+		<ulke>
+			<kod>960</kod>
+			<ad>SERBEST BÖLGE (BA-BS'de Kullanılan)</ad>
+		</ulke>
+		<ulke>
+			<kod>355</kod>
+			<ad>SEYŞEL ADALARI VE BA</ad>
+		</ulke>
+		<ulke>
+			<kod>264</kod>
+			<ad>SIERRA LEONE</ad>
+		</ulke>
+		<ulke>
+			<kod>098</kod>
+			<ad>SIRBİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>706</kod>
+			<ad>SİNGAPUR</ad>
+		</ulke>
+		<ulke>
+			<kod>094</kod>
+			<ad>YUGOSLAVYA(SIRBİSTAN VE KARADAĞ)</ad>
+		</ulke>
+		<ulke>
+			<kod>063</kod>
+			<ad>SLOVAKYA</ad>
+		</ulke>
+		<ulke>
+			<kod>091</kod>
+			<ad>SLOVENYA</ad>
+		</ulke>
+		<ulke>
+			<kod>806</kod>
+			<ad>SOLOMON ADALARI</ad>
+		</ulke>
+		<ulke>
+			<kod>342</kod>
+			<ad>SOMALİ</ad>
+		</ulke>
+		<ulke>
+			<kod>669</kod>
+			<ad>SRİ LANKA</ad>
+		</ulke>
+		<ulke>
+			<kod>449</kod>
+			<ad>ST. KİTTS ve NEVİS</ad>
+		</ulke>
+		<ulke>
+			<kod>329</kod>
+			<ad>ST. HELENA VE BAĞLAN</ad>
+		</ulke>
+		<ulke>
+			<kod>465</kod>
+			<ad>ST. LUCİA</ad>
+		</ulke>
+		<ulke>
+			<kod>408</kod>
+			<ad>ST. PİERRE VE MİQUEL</ad>
+		</ulke>
+		<ulke>
+			<kod>467</kod>
+			<ad>ST VİNCENT VE GRENADİNLER</ad>
+		</ulke>
+		<ulke>
+			<kod>224</kod>
+			<ad>SUDAN</ad>
+		</ulke>
+		<ulke>
+			<kod>492</kod>
+			<ad>SURİNAM</ad>
+		</ulke>
+		<ulke>
+			<kod>608</kod>
+			<ad>SURİYE</ad>
+		</ulke>
+		<ulke>
+			<kod>632</kod>
+			<ad>SUUDİ ARABİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>393</kod>
+			<ad>SVAZİLAND</ad>
+		</ulke>
+		<ulke>
+			<kod>512</kod>
+			<ad>ŞİLİ</ad>
+		</ulke>
+		<ulke>
+			<kod>082</kod>
+			<ad>TACİKİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>352</kod>
+			<ad>Tanzanya (Birleşik Cum.)</ad>
+		</ulke>
+		<ulke>
+			<kod>086</kod>
+			<ad>TATARİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>680</kod>
+			<ad>TAYLAND</ad>
+		</ulke>
+		<ulke>
+			<kod>736</kod>
+			<ad>TAYVAN</ad>
+		</ulke>
+		<ulke>
+			<kod>280</kod>
+			<ad>TOGO</ad>
+		</ulke>
+		<ulke>
+			<kod>839</kod>
+			<ad>TOKELAU</ad>
+		</ulke>
+		<ulke>
+			<kod>817</kod>
+			<ad>TONGA</ad>
+		</ulke>
+		<ulke>
+			<kod>472</kod>
+			<ad>TRİNİDAD VE TOBAGO</ad>
+		</ulke>
+		<ulke>
+			<kod>212</kod>
+			<ad>TUNUS</ad>
+		</ulke>
+		<ulke>
+			<kod>454</kod>
+			<ad>TURKS VE CAİCOS ADAS</ad>
+		</ulke>
+		<ulke>
+			<kod>807</kod>
+			<ad>TUVALU</ad>
+		</ulke>
+		<ulke>
+			<kod>052</kod>
+			<ad>TÜRKİYE</ad>
+		</ulke>
+		<ulke>
+			<kod>080</kod>
+			<ad>TÜRKMENİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>350</kod>
+			<ad>UGANDA</ad>
+		</ulke>
+		<ulke>
+			<kod>072</kod>
+			<ad>UKRAYNA</ad>
+		</ulke>
+		<ulke>
+			<kod>649</kod>
+			<ad>UMMAN</ad>
+		</ulke>
+		<ulke>
+			<kod>524</kod>
+			<ad>URUGUAY</ad>
+		</ulke>
+		<ulke>
+			<kod>628</kod>
+			<ad>ÜRDÜN</ad>
+		</ulke>
+		<ulke>
+			<kod>816</kod>
+			<ad>VANUATU</ad>
+		</ulke>
+		<ulke>
+			<kod>045</kod>
+			<ad>VATİKAN</ad>
+		</ulke>
+		<ulke>
+			<kod>484</kod>
+			<ad>VENEZUELLA</ad>
+		</ulke>
+		<ulke>
+			<kod>690</kod>
+			<ad>VİETNAM</ad>
+		</ulke>
+		<ulke>
+			<kod>811</kod>
+			<ad>WALLİS VE FUTUNA ADA</ad>
+		</ulke>
+		<ulke>
+			<kod>087</kod>
+			<ad>YAKUTİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>653</kod>
+			<ad>YEMEN</ad>
+		</ulke>
+		<ulke>
+			<kod>809</kod>
+			<ad>YENİ KALODENYA VE BA</ad>
+		</ulke>
+		<ulke>
+			<kod>804</kod>
+			<ad>YENİ ZELANDA</ad>
+		</ulke>
+		<ulke>
+			<kod>814</kod>
+			<ad>YENİ ZELANDA OKYANUS</ad>
+		</ulke>
+		<ulke>
+			<kod>048</kod>
+			<ad>YUGOSLAVYA</ad>
+		</ulke>
+		<ulke>
+			<kod>009</kod>
+			<ad>YUNANİSTAN</ad>
+		</ulke>
+		<ulke>
+			<kod>322</kod>
+			<ad>Kongo (Demokratik Cum.) Eski Zaire</ad>
+		</ulke>
+		<ulke>
+			<kod>378</kod>
+			<ad>ZAMBİA</ad>
+		</ulke>
+		<ulke>
+			<kod>382</kod>
+			<ad>ZİMBABVE</ad>
+		</ulke>
+	</ulkekodlari>
+	<isyeriSubeTurleri>
+		<data>
+			<kod>1</kod>
+			<aciklama>Merkez</aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>Mükellefiyetsiz Şube</aciklama>
+		</data>
+	</isyeriSubeTurleri>
+	<mulkiyetTurleri>
+		<data>
+			<kod>0</kod>
+			<aciklama>Kira</aciklama>
+		</data>
+		<data>
+			<kod>1</kod>
+			<aciklama>Mal Sahibi</aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>Diğer</aciklama>
+		</data>
+	</mulkiyetTurleri>
+	<aitOlduguDonemTip>
+		<data>
+			<kod>0</kod>
+			<aciklama>Aylık</aciklama>
+		</data>
+		<data>
+			<kod>1</kod>
+			<aciklama>1. Ay</aciklama>
+		</data>
+		<data>
+			<kod>2</kod>
+			<aciklama>2. Ay</aciklama>
+		</data>
+		<data>
+			<kod>3</kod>
+			<aciklama>3. Ay</aciklama>
+		</data>
+	</aitOlduguDonemTip>
+</kodlar>

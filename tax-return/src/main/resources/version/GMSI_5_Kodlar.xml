@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref:	GMSIIB_TUR 			gayrimenkulTurleri/gayrimenkulTuru/kod
+	Ref:	IND_TUR				indirimler/indirim/kod
+-->
+	<gayrimenkulTurleri>
+		<gayrimenkulTuru>
+	     		<kod>1</kod>
+	         	<aciklama>Mesken</aciklama>
+		</gayrimenkulTuru>
+		<gayrimenkulTuru>
+	     		<kod>2</kod>
+	         	<aciklama>İşyeri</aciklama>
+		</gayrimenkulTuru>
+		<gayrimenkulTuru>
+	     		<kod>3</kod>
+	         	<aciklama>Diğer</aciklama>
+		</gayrimenkulTuru>
+	</gayrimenkulTurleri>
+	<indirimler>
+		<indirim>
+	     		<kod>101</kod>
+	         	<aciklama>Mahsup Edilecek Geçmiş Yıl Zararları Toplamı</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>106</kod>
+	         	<aciklama>Bireysel Emeklilik Katkı Payı</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>107</kod>
+	         	<aciklama>Şahıs Sigorta Pirimi</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>103</kod>
+	         	<aciklama>Eğitim ve Sağlık Harcamaları</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>104</kod>
+	         	<aciklama>Okul, Yurt ve Sağlık Tesisleri İçin Yapılan Bağış ve Yardımlar</aciklama>
+		</indirim>
+		<indirim>
+	     		<kod>105</kod>
+	         	<aciklama>Diğer Bağış ve Yardımlar</aciklama>
+		</indirim>
+	</indirimler>
+</kodlar>

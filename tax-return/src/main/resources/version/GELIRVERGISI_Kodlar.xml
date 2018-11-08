@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="ISO-8859-9"?>
+<kodlar>
+
+	<ucretDisiGelirVergisiBilgileri>
+		<!-- // 2004 yili icinde elde edilen gelirlere ait vergi dilimleri, YTL cinsinden. -->
+		<ucretDisiGelirVergisi yil="2004">
+			<dilim alt=     "0" 	ust=  "6000" 	oran="0.20" />
+			<dilim alt=  "6000" 	ust= "14000" 	oran="0.25" />
+			<dilim alt= "14000" 	ust= "28000" 	oran="0.30" />
+			<dilim alt= "28000" 	ust= "70000" 	oran="0.35" />
+			<dilim alt= "70000" 	ust="140000" 	oran="0.40" />
+			<dilim alt="140000" 	ust="0" 		oran="0.45" />
+		</ucretDisiGelirVergisi>
+
+		<!-- // 2005 yili icinde elde edilen gelirlere ait vergi dilimleri, YTL cinsinden. -->
+		<ucretDisiGelirVergisi yil="2005">
+			<dilim alt=    "0" 	ust= "6600" 	oran="0.20" />
+			<dilim alt= "6600" 	ust="15000" 	oran="0.25" />
+			<dilim alt="15000" 	ust="30000" 	oran="0.30" />
+			<dilim alt="30000" 	ust="78000" 	oran="0.35" />
+			<dilim alt="78000" 	ust="0" 		oran="0.40" />
+		</ucretDisiGelirVergisi>
+
+		<!-- // 2006 yili icinde elde edilen gelirlere ait vergi dilimleri, YTL cinsinden. -->
+		<ucretDisiGelirVergisi yil="2006">
+			<dilim alt=    "0" 	ust= "7000" 	oran="0.15" />
+			<dilim alt= "7000" 	ust="18000" 	oran="0.20" />
+			<dilim alt="18000" 	ust="40000" 	oran="0.27" />
+			<dilim alt="40000" 	ust="0" 	oran="0.35" />
+		</ucretDisiGelirVergisi>
+
+		<!-- // 2007 yili icinde elde edilen gelirlere ait vergi dilimleri, YTL cinsinden. -->
+		<ucretDisiGelirVergisi yil="2007">
+			<dilim alt=    "0" 	ust= "7500" 	oran="0.15" />
+			<dilim alt= "7500" 	ust="19000" 	oran="0.20" />
+			<dilim alt="19000" 	ust="43000" 	oran="0.27" />
+			<dilim alt="43000" 	ust="0" 	oran="0.35" />
+		</ucretDisiGelirVergisi>
+		<!-- // 2008 yili icinde elde edilen gelirlere ait vergi dilimleri, YTL cinsinden. -->
+		<ucretDisiGelirVergisi yil="2008">
+			<dilim alt=    "0" 	ust= "7800" 	oran="0.15" />
+			<dilim alt= "7800" 	ust="19800" 	oran="0.20" />
+			<dilim alt="19800" 	ust="44700" 	oran="0.27" />
+			<dilim alt="44700" 	ust="0" 	oran="0.35" />
+		</ucretDisiGelirVergisi>
+		<ucretDisiGelirVergisi yil="2009">
+			<dilim alt=    "0" 	ust= "8700" 	oran="0.15" />
+			<dilim alt= "8700" 	ust="22000" 	oran="0.20" />
+			<dilim alt="22000" 	ust="50000" 	oran="0.27" />
+			<dilim alt="50000" 	ust="0" 	oran="0.35" />
+		</ucretDisiGelirVergisi>
+		<ucretDisiGelirVergisi yil="2010">
+			<dilim alt=    "0" 	ust= "8800" 	oran="0.15" />
+			<dilim alt= "8800" 	ust="22000" 	oran="0.20" />
+			<dilim alt="22000" 	ust="50000" 	oran="0.27" />
+			<dilim alt="50000" 	ust="0" 	oran="0.35" />
+		</ucretDisiGelirVergisi>
+		<ucretDisiGelirVergisi yil="2011">
+			<dilim alt=    "0" 	ust= "9400" 	oran="0.15" />
+			<dilim alt= "9400" 	ust="23000" 	oran="0.20" />
+			<dilim alt="23000" 	ust="53000" 	oran="0.27" />
+			<dilim alt="53000" 	ust="0" 	oran="0.35" />
+		</ucretDisiGelirVergisi>
+		<ucretDisiGelirVergisi yil="2012">
+			<dilim alt=    "0" 	ust= "10000" 	oran="0.15" />
+			<dilim alt= "10000" 	ust="25000" 	oran="0.20" />
+			<dilim alt="25000" 	ust="58000" 	oran="0.27" />
+			<dilim alt="58000" 	ust="0" 	oran="0.35" />
+		</ucretDisiGelirVergisi>
+		<ucretDisiGelirVergisi yil="2013">
+			<dilim alt=    "0" 	ust= "10700" 	oran="0.15" />
+			<dilim alt= "10700" 	ust="26000" 	oran="0.20" />
+			<dilim alt="26000" 	ust="60000" 	oran="0.27" />
+			<dilim alt="60000" 	ust="0" 	oran="0.35" />
+		</ucretDisiGelirVergisi>
+		<ucretDisiGelirVergisi yil="2014">
+			<dilim alt=    "0" 	ust= "11000" 	oran="0.15" />
+			<dilim alt= "11000" 	ust="27000" 	oran="0.20" />
+			<dilim alt="27000" 	ust="60000" 	oran="0.27" />
+			<dilim alt="60000" 	ust="0" 	oran="0.35" />
+		</ucretDisiGelirVergisi>
+		<ucretDisiGelirVergisi yil="2015">
+			<dilim alt="0"	ust= "12000"	oran="0.15" />
+			<dilim alt="12000"	ust="29000"	oran="0.20" />
+			<dilim alt="29000"	ust="66000"	oran="0.27" />
+			<dilim alt="66000"	ust="0"	oran="0.35" />
+		</ucretDisiGelirVergisi>
+		<ucretDisiGelirVergisi yil="2016">			
+			<dilim alt=    "0" 	ust= "12600" 	oran="0.15" />
+			<dilim alt= "12600" 	ust="30000" 	oran="0.20" />
+			<dilim alt="30000" 	ust="69000" 	oran="0.27" />
+			<dilim alt="69000" 	ust="0" 	oran="0.35" />
+		</ucretDisiGelirVergisi>				
+		<ucretDisiGelirVergisi yil="2017">			
+			<dilim alt=    "0" 	ust= "13000" 	oran="0.15" />
+			<dilim alt= "13000" 	ust="30000" 	oran="0.20" />
+			<dilim alt="30000" 	ust="70000" 	oran="0.27" />
+			<dilim alt="70000" 	ust="0" 	oran="0.35" />
+		</ucretDisiGelirVergisi>	
+		<ucretDisiGelirVergisi yil="2018">			
+			<dilim alt=    "0" 	ust= "14800" 	oran="0.15" />
+			<dilim alt= "14800" 	ust="34000" 	oran="0.20" />
+			<dilim alt="34000" 	ust="80000" 	oran="0.27" />
+			<dilim alt="80000" 	ust="0" 	oran="0.35" />
+		</ucretDisiGelirVergisi>
+	</ucretDisiGelirVergisiBilgileri>
+
+	<ucretliGelirVergisiBilgileri>
+		<!-- // 2004 yili icinde elde edilen gelirlere ait vergi dilimleri, YTL cinsinden. -->
+		<ucretliGelirVergisi yil="2004">
+			<dilim alt=     "0" 	ust=  "6000"	oran="0.15" />
+			<dilim alt=  "6000" 	ust= "14000" 	oran="0.20" />
+			<dilim alt= "14000" 	ust= "28000" 	oran="0.25" />
+			<dilim alt= "28000" 	ust= "70000" 	oran="0.30" />
+			<dilim alt= "70000" 	ust="140000" 	oran="0.35" />
+			<dilim alt="140000" 	ust="0" 		oran="0.40" />
+		</ucretliGelirVergisi>
+
+		<!-- // 2005 yili icinde elde edilen gelirlere ait vergi dilimleri, YTL cinsinden. -->
+		<ucretliGelirVergisi yil="2005">
+			<dilim alt=    "0" 	ust= "6600" 	oran="0.15" />
+			<dilim alt= "6600" 	ust="15000" 	oran="0.20" />
+			<dilim alt="15000" 	ust="30000" 	oran="0.25" />
+			<dilim alt="30000" 	ust="78000" 	oran="0.30" />
+			<dilim alt="78000" 	ust="0" 		oran="0.35" />
+		</ucretliGelirVergisi>
+
+		<!-- // 2006 yili icinde elde edilen gelirlere ait vergi dilimleri, YTL cinsinden. -->
+		<ucretliGelirVergisi yil="2006">
+			<dilim alt=    "0" 	ust= "7000" 	oran="0.15" />
+			<dilim alt= "7000" 	ust="18000" 	oran="0.20" />
+			<dilim alt="18000" 	ust="40000" 	oran="0.27" />
+			<dilim alt="40000" 	ust="0" 	oran="0.35" />
+		</ucretliGelirVergisi>
+
+		<!-- // 2007 yili icinde elde edilen gelirlere ait vergi dilimleri, YTL cinsinden. -->
+		<ucretliGelirVergisi yil="2007">
+			<dilim alt=    "0" 	ust= "7500" 	oran="0.15" />
+			<dilim alt= "7500" 	ust="19000" 	oran="0.20" />
+			<dilim alt="19000" 	ust="43000" 	oran="0.27" />
+			<dilim alt="43000" 	ust="0" 	oran="0.35" />
+		</ucretliGelirVergisi>
+		
+		<!-- // 2008 yili icinde elde edilen gelirlere ait vergi dilimleri, YTL cinsinden. -->
+		<ucretliGelirVergisi yil="2008">
+			<dilim alt=    "0" 	ust= "7800" 	oran="0.15" />
+			<dilim alt= "7800" 	ust="19800" 	oran="0.20" />
+			<dilim alt="19800" 	ust="44700" 	oran="0.27" />
+			<dilim alt="44700" 	ust="0" 	oran="0.35" />
+		</ucretliGelirVergisi>
+
+		<!-- // 2009 yili icinde elde edilen gelirlere ait vergi dilimleri, YTL cinsinden. -->
+		<ucretliGelirVergisi yil="2009">
+			<dilim alt=    "0" 	ust= "7800" 	oran="0.15" />
+			<dilim alt= "7800" 	ust="19800" 	oran="0.20" />
+			<dilim alt="19800" 	ust="44700" 	oran="0.27" />
+			<dilim alt="44700" 	ust="0" 	oran="0.35" />
+		</ucretliGelirVergisi>
+
+		<!-- // 2010 yili icinde elde edilen gelirlere ait vergi dilimleri, YTL cinsinden. -->
+		<ucretliGelirVergisi yil="2010">
+			<dilim alt=    "0" 	ust= "7800" 	oran="0.15" />
+			<dilim alt= "7800" 	ust="19800" 	oran="0.20" />
+			<dilim alt="19800" 	ust="44700" 	oran="0.27" />
+			<dilim alt="44700" 	ust="0" 	oran="0.35" />
+		</ucretliGelirVergisi>
+
+		<!-- // 2011 yili icinde elde edilen gelirlere ait vergi dilimleri, YTL cinsinden. -->
+		<ucretliGelirVergisi yil="2011">
+			<dilim alt=    "0" 	ust= "7800" 	oran="0.15" />
+			<dilim alt= "7800" 	ust="19800" 	oran="0.20" />
+			<dilim alt="19800" 	ust="44700" 	oran="0.27" />
+			<dilim alt="44700" 	ust="0" 	oran="0.35" />
+		</ucretliGelirVergisi>
+		
+		<!-- // 2012 yili icinde elde edilen gelirlere ait vergi dilimleri, YTL cinsinden. -->
+		<ucretliGelirVergisi yil="2012">
+			<dilim alt=    "0" 	ust= "10000" 	oran="0.15" />
+			<dilim alt= "10000" 	ust="25000" 	oran="0.20" />
+			<dilim alt="25000" 	ust="88000" 	oran="0.27" />
+			<dilim alt="88000" 	ust="0" 	oran="0.35" />
+		</ucretliGelirVergisi>
+		
+		<!-- // 2013 yili icinde elde edilen gelirlere ait vergi dilimleri, YTL cinsinden. -->
+		<ucretliGelirVergisi yil="2013">
+			<dilim alt=    "0" 	ust= "10700" 	oran="0.15" />
+			<dilim alt= "10700" 	ust="26000" 	oran="0.20" />
+			<dilim alt="26000" 	ust="94000" 	oran="0.27" />
+			<dilim alt="94000" 	ust="0" 	oran="0.35" />
+		</ucretliGelirVergisi>
+		<ucretliGelirVergisi yil="2014">
+			<dilim alt=    "0" 	ust= "11000" 	oran="0.15" />
+			<dilim alt= "11000" 	ust="27000" 	oran="0.20" />
+			<dilim alt="27000" 	ust="97000" 	oran="0.27" />
+			<dilim alt="97000" 	ust="0" 	oran="0.35" />
+		</ucretliGelirVergisi>
+		<ucretliGelirVergisi yil="2015">
+			<dilim alt="0"	ust="12000"	oran="0.15" />
+			<dilim alt="12000"	ust="29000"	oran="0.20" />
+			<dilim alt="29000"	ust="106000"	oran="0.27" />
+			<dilim alt="106000"	ust="0"	oran="0.35" />
+		</ucretliGelirVergisi>
+		<ucretliGelirVergisi yil="2016">			
+			<dilim alt=    "0" 	ust= "12600" 	oran="0.15" />
+			<dilim alt= "12600" 	ust="30000" 	oran="0.20" />
+			<dilim alt="30000" 	ust="110000" 	oran="0.27" />
+			<dilim alt="110000" 	ust="0" 	oran="0.35" />
+		</ucretliGelirVergisi>	
+		<ucretliGelirVergisi yil="2017">			
+			<dilim alt=    "0" 	ust= "13000" 	oran="0.15" />
+			<dilim alt= "13000" 	ust="30000" 	oran="0.20" />
+			<dilim alt="30000" 	ust="110000" 	oran="0.27" />
+			<dilim alt="110000" 	ust="0" 	oran="0.35" />
+		</ucretliGelirVergisi>
+		<ucretliGelirVergisi yil="2018">			
+			<dilim alt=    "0" 	ust= "14800" 	oran="0.15" />
+			<dilim alt= "14800" 	ust="34000" 	oran="0.20" />
+			<dilim alt="34000" 	ust="120000" 	oran="0.27" />
+			<dilim alt="120000" 	ust="0" 	oran="0.35" />
+		</ucretliGelirVergisi>	
+	</ucretliGelirVergisiBilgileri>
+
+	<damgaVergisiBilgileri>
+		<!-- // 2005 yili icinde verilen beyannamelere ait damga vergisi tutarlari, YTL cinsinden. -->
+		<damgaVergisi yil="2005" kod="GMSI" 		degeri="18" />
+		<damgaVergisi yil="2005" kod="BASIT" 		degeri="18" />
+		<damgaVergisi yil="2005" kod="BASIT_IHO" 		degeri="7" />
+
+		<damgaVergisi yil="2005" kod="GELIR" 		degeri="18" />
+		<damgaVergisi yil="2005" kod="GELIR_BIL" 		degeri="14" />
+		<damgaVergisi yil="2005" kod="GELIR_AGT" 		degeri="7" />
+		<damgaVergisi yil="2005" kod="GELIR_IHO" 		degeri="7" />
+		<damgaVergisi yil="2005" kod="GELIR_SM" 		degeri="7" />
+
+		<damgaVergisi yil="2005" kod="KURUMLAR" 		degeri="24" />
+		<damgaVergisi yil="2005" kod="KURUMLAR_EK_IHO" 	degeri="7" />
+		<damgaVergisi yil="2005" kod="KURUMLAR_EK_BIL" 	degeri="14" />
+		<damgaVergisi yil="2005" kod="KURUMLAR_EK_AGT" 	degeri="7" />
+
+		<damgaVergisi yil="2005" kod="GGECICI" 		degeri="12" />
+		<damgaVergisi yil="2005" kod="GGECICI_EK_IHO" 	degeri="7" />
+		<damgaVergisi yil="2005" kod="GGECICI_EK_SM" 	degeri="7" />
+		<damgaVergisi yil="2005" kod="GGECICI_EK_GT" 	degeri="7" />
+
+		<damgaVergisi yil="2005" kod="KGECICI" 		degeri="12" />
+		<damgaVergisi yil="2005" kod="KGECICI_EK_IHO" 	degeri="7" />
+		<damgaVergisi yil="2005" kod="KGECICI_EK_GT" 	degeri="7" />
+		<damgaVergisi yil="2005" kod="KGECICI_EK_DMUK" 	degeri="7" />
+
+		<!-- // 2006 yili icinde verilen beyannamelere ait damga vergisi tutarlari, YTL cinsinden. -->
+		<damgaVergisi yil="2006" kod="GMSI" 		degeri="19.7" />
+		<damgaVergisi yil="2006" kod="BASIT" 		degeri="19.7" />
+		<damgaVergisi yil="2006" kod="BASIT_IHO" 		degeri="7.6" />
+
+		<damgaVergisi yil="2006" kod="GELIR" 		degeri="19.7" />
+		<damgaVergisi yil="2006" kod="GELIR_BIL" 		degeri="15.3" />
+		<damgaVergisi yil="2006" kod="GELIR_AGT" 		degeri="7.6" />
+		<damgaVergisi yil="2006" kod="GELIR_IHO" 		degeri="7.6" />
+		<damgaVergisi yil="2006" kod="GELIR_SM" 		degeri="7.6" />
+
+		<damgaVergisi yil="2006" kod="KURUMLAR" 		degeri="26.3" />
+		<damgaVergisi yil="2006" kod="KURUMLAR_EK_IHO" 	degeri="7.6" />
+		<damgaVergisi yil="2006" kod="KURUMLAR_EK_BIL" 	degeri="15.3" />
+		<damgaVergisi yil="2006" kod="KURUMLAR_EK_AGT" 	degeri="7.6" />
+		<damgaVergisi yil="2006" kod="KURUMLAR_EK_DMUK" degeri="7.6" />
+
+
+		<damgaVergisi yil="2006" kod="GGECICI" 		degeri="13.1" />
+		<damgaVergisi yil="2006" kod="GGECICI_EK_IHO" 	degeri="7.6" />
+		<damgaVergisi yil="2006" kod="GGECICI_EK_SM" 	degeri="7.6" />
+		<damgaVergisi yil="2006" kod="GGECICI_EK_GT" 	degeri="7.6" />
+
+		<damgaVergisi yil="2006" kod="KGECICI" 		degeri="13.1" />
+		<damgaVergisi yil="2006" kod="KGECICI_EK_IHO" 	degeri="7.6" />
+		<damgaVergisi yil="2006" kod="KGECICI_EK_GT" 	degeri="7.6" />
+		<damgaVergisi yil="2006" kod="KGECICI_EK_DMUK" 	degeri="7.6" />
+
+		<!-- // 2007 yili icinde verilen beyannamelere ait damga vergisi tutarlari, YTL cinsinden. -->
+		<damgaVergisi yil="2007" kod="GMSI" 		degeri="21.2" />
+		<damgaVergisi yil="2007" kod="BASIT" 		degeri="21.2" />
+		<damgaVergisi yil="2007" kod="BASIT_IHO" 		degeri="8.1" />
+
+		<damgaVergisi yil="2007" kod="GELIR" 		degeri="21.20" />
+		<damgaVergisi yil="2007" kod="GELIR_BIL" 		degeri="16.4" />
+		<damgaVergisi yil="2007" kod="GELIR_AGT" 		degeri="8.1" />
+		<damgaVergisi yil="2007" kod="GELIR_IHO" 		degeri="8.1" />
+		<damgaVergisi yil="2007" kod="GELIR_SM" 		degeri="8.1" />
+
+		<damgaVergisi yil="2007" kod="KURUMLAR" 		degeri="28.3" />
+		<damgaVergisi yil="2007" kod="KURUMLAR_EK_IHO" 	degeri="8.1" />
+		<damgaVergisi yil="2007" kod="KURUMLAR_EK_BIL" 	degeri="16.4" />
+		<damgaVergisi yil="2007" kod="KURUMLAR_EK_AGT" 	degeri="8.1" />
+		<damgaVergisi yil="2007" kod="KURUMLAR_EK_DMUK" degeri="8.1" />
+
+
+		<damgaVergisi yil="2007" kod="GGECICI" 		degeri="14.1" />
+		<damgaVergisi yil="2007" kod="GGECICI_EK_IHO" 	degeri="8.1" />
+		<damgaVergisi yil="2007" kod="GGECICI_EK_SM" 	degeri="8.1" />
+		<damgaVergisi yil="2007" kod="GGECICI_EK_GT" 	degeri="8.1" />
+
+		<damgaVergisi yil="2007" kod="KGECICI" 		degeri="14.1" />
+		<damgaVergisi yil="2007" kod="KGECICI_EK_IHO" 	degeri="8.1" />
+		<damgaVergisi yil="2007" kod="KGECICI_EK_GT" 	degeri="8.1" />
+		<damgaVergisi yil="2007" kod="KGECICI_EK_DMUK" 	degeri="8.1" />
+
+		<!-- // 2008 yili icinde verilen beyannamelere ait damga vergisi tutarlari, YTL cinsinden. -->
+		<damgaVergisi yil="2008" kod="GMSI" 		degeri="22.7" />
+		<damgaVergisi yil="2008" kod="BASIT" 		degeri="22.7" />
+		<damgaVergisi yil="2008" kod="BASIT_IHO" 	degeri="8.6" />
+
+		<damgaVergisi yil="2008" kod="GELIR" 		degeri="22.70" />
+		<damgaVergisi yil="2008" kod="GELIR_BIL" 	degeri="17.5" />
+		<damgaVergisi yil="2008" kod="GELIR_AGT" 	degeri="8.6" />
+		<damgaVergisi yil="2008" kod="GELIR_IHO" 	degeri="8.6" />
+		<damgaVergisi yil="2008" kod="GELIR_SM" 	degeri="8.6" />
+
+		<damgaVergisi yil="2008" kod="KURUMLAR" 	degeri="30.3" />
+		<damgaVergisi yil="2008" kod="KURUMLAR_EK_IHO" 	degeri="8.6" />
+		<damgaVergisi yil="2008" kod="KURUMLAR_EK_BIL" 	degeri="17.5" />
+		<damgaVergisi yil="2008" kod="KURUMLAR_EK_AGT" 	degeri="8.6" />
+		<damgaVergisi yil="2008" kod="KURUMLAR_EK_DMUK" degeri="8.6" />
+
+
+		<damgaVergisi yil="2008" kod="GGECICI" 		degeri="15.1" />
+		<damgaVergisi yil="2008" kod="GGECICI_EK_IHO" 	degeri="8.6" />
+		<damgaVergisi yil="2008" kod="GGECICI_EK_SM" 	degeri="8.6" />
+		<damgaVergisi yil="2008" kod="GGECICI_EK_GT" 	degeri="8.6" />
+
+		<damgaVergisi yil="2008" kod="KGECICI" 		degeri="15.1" />
+		<damgaVergisi yil="2008" kod="KGECICI_EK_IHO" 	degeri="8.6" />
+		<damgaVergisi yil="2008" kod="KGECICI_EK_GT" 	degeri="8.6" />
+		<damgaVergisi yil="2008" kod="KGECICI_EK_DMUK" 	degeri="8.6" />
+
+		<!-- // 2009 yili icinde verilen beyannamelere ait damga vergisi tutarlari, YTL cinsinden. -->
+		<damgaVergisi yil="2009" kod="GMSI" 		degeri="25.40" />
+		<damgaVergisi yil="2009" kod="BASIT" 		degeri="25.40" />
+		<damgaVergisi yil="2009" kod="BASIT_IHO" 	degeri="9.6" />
+
+		<damgaVergisi yil="2009" kod="GELIR" 		degeri="25.40" />
+		<damgaVergisi yil="2009" kod="GELIR_BIL" 	degeri="19.6" />
+		<damgaVergisi yil="2009" kod="GELIR_AGT" 	degeri="9.6" />
+		<damgaVergisi yil="2009" kod="GELIR_IHO" 	degeri="9.6" />
+		<damgaVergisi yil="2009" kod="GELIR_SM" 	degeri="9.6" />
+
+		<damgaVergisi yil="2009" kod="KURUMLAR" 	degeri="33.9" />
+		<damgaVergisi yil="2009" kod="KURUMLAR_EK_IHO" 	degeri="9.6" />
+		<damgaVergisi yil="2009" kod="KURUMLAR_EK_BIL" 	degeri="19.6" />
+		<damgaVergisi yil="2009" kod="KURUMLAR_EK_AGT" 	degeri="9.6" />
+		<damgaVergisi yil="2009" kod="KURUMLAR_EK_DMUK" degeri="9.6" />
+
+
+		<damgaVergisi yil="2009" kod="GGECICI" 		degeri="16.9" />
+		<damgaVergisi yil="2009" kod="GGECICI_EK_IHO" 	degeri="9.6" />
+		<damgaVergisi yil="2009" kod="GGECICI_EK_SM" 	degeri="9.6" />
+		<damgaVergisi yil="2009" kod="GGECICI_EK_GT" 	degeri="9.6" />
+
+		<damgaVergisi yil="2009" kod="KGECICI" 		degeri="16.9" />
+		<damgaVergisi yil="2009" kod="KGECICI_EK_IHO" 	degeri="9.6" />
+		<damgaVergisi yil="2009" kod="KGECICI_EK_GT" 	degeri="9.6" />
+		<damgaVergisi yil="2009" kod="KGECICI_EK_DMUK" 	degeri="9.6" />
+
+		<!-- // 2010 yili icinde verilen beyannamelere ait damga vergisi tutarlari, YTL cinsinden. -->
+		<damgaVergisi yil="2010" kod="GMSI" 		degeri="27.90" />
+		<damgaVergisi yil="2010" kod="BASIT" 		degeri="27.90" />
+		<damgaVergisi yil="2010" kod="BASIT_IHO" 	degeri="10.55" />
+
+		<damgaVergisi yil="2010" kod="GELIR" 		degeri="27.90" />
+		<damgaVergisi yil="2010" kod="GELIR_BIL" 	degeri="21.55" />
+		<damgaVergisi yil="2010" kod="GELIR_AGT" 	degeri="10.55" />
+		<damgaVergisi yil="2010" kod="GELIR_IHO" 	degeri="10.55" />
+		<damgaVergisi yil="2010" kod="GELIR_SM" 	degeri="10.55" />
+
+		<damgaVergisi yil="2010" kod="KURUMLAR" 	degeri="37.25" />
+		<damgaVergisi yil="2010" kod="KURUMLAR_EK_IHO" 	degeri="10.55" />
+		<damgaVergisi yil="2010" kod="KURUMLAR_EK_BIL" 	degeri="21.55" />
+		<damgaVergisi yil="2010" kod="KURUMLAR_EK_AGT" 	degeri="10.55" />
+		<damgaVergisi yil="2010" kod="KURUMLAR_EK_DMUK" degeri="10.55" />
+
+
+		<damgaVergisi yil="2010" kod="GGECICI" 		degeri="18.55" />
+		<damgaVergisi yil="2010" kod="GGECICI_EK_IHO" 	degeri="10.55" />
+		<damgaVergisi yil="2010" kod="GGECICI_EK_SM" 	degeri="10.55" />
+		<damgaVergisi yil="2010" kod="GGECICI_EK_GT" 	degeri="10.55" />
+
+		<damgaVergisi yil="2010" kod="KGECICI" 		degeri="18.55" />
+		<damgaVergisi yil="2010" kod="KGECICI_EK_IHO" 	degeri="10.55" />
+		<damgaVergisi yil="2010" kod="KGECICI_EK_GT" 	degeri="10.55" />
+		<damgaVergisi yil="2010" kod="KGECICI_EK_DMUK" 	degeri="10.55" />
+
+		<!-- // 2011 yili icinde verilen beyannamelere ait damga vergisi tutarlari, YTL cinsinden. -->
+		<damgaVergisi yil="2011" kod="GMSI" 		degeri="30.00" />
+		<damgaVergisi yil="2011" kod="BASIT" 		degeri="30.00" />
+		<damgaVergisi yil="2011" kod="BASIT_IHO" 	degeri="11.30" />
+
+		<damgaVergisi yil="2011" kod="GELIR" 		degeri="30.00" />
+		<damgaVergisi yil="2011" kod="GELIR_BIL" 	degeri="23.20" />
+		<damgaVergisi yil="2011" kod="GELIR_AGT" 	degeri="11.30" />
+		<damgaVergisi yil="2011" kod="GELIR_IHO" 	degeri="11.30" />
+		<damgaVergisi yil="2011" kod="GELIR_SM" 	degeri="11.30" />
+
+		<damgaVergisi yil="2011" kod="KURUMLAR" 	degeri="40.10" />
+		<damgaVergisi yil="2011" kod="KURUMLAR_EK_IHO" 	degeri="11.30" />
+		<damgaVergisi yil="2011" kod="KURUMLAR_EK_BIL" 	degeri="23.20" />
+		<damgaVergisi yil="2011" kod="KURUMLAR_EK_AGT" 	degeri="11.30" />
+		<damgaVergisi yil="2011" kod="KURUMLAR_EK_DMUK" degeri="11.30" />
+
+
+		<damgaVergisi yil="2011" kod="GGECICI" 		degeri="19.90" />
+		<damgaVergisi yil="2011" kod="GGECICI_EK_IHO" 	degeri="11.30" />
+		<damgaVergisi yil="2011" kod="GGECICI_EK_SM" 	degeri="11.30" />
+		<damgaVergisi yil="2011" kod="GGECICI_EK_GT" 	degeri="11.30" />
+
+		<damgaVergisi yil="2011" kod="KGECICI" 		degeri="19.90" />
+		<damgaVergisi yil="2011" kod="KGECICI_EK_IHO" 	degeri="11.30" />
+		<damgaVergisi yil="2011" kod="KGECICI_EK_GT" 	degeri="11.30" />
+		<damgaVergisi yil="2011" kod="KGECICI_EK_DMUK" 	degeri="11.30" />
+
+		<!-- // 2012 yili icinde verilen beyannamelere ait damga vergisi tutarlari, TL cinsinden. -->
+		<damgaVergisi yil="2012" kod="GMSI" 		degeri="34.50" />
+		<damgaVergisi yil="2012" kod="BASIT" 		degeri="34.50" />
+		<damgaVergisi yil="2012" kod="BASIT_IHO" 	degeri="12.95" />
+
+		<damgaVergisi yil="2012" kod="GELIR" 		degeri="34.50" />
+		<damgaVergisi yil="2012" kod="GELIR_BIL" 	degeri="26.65" />
+		<damgaVergisi yil="2012" kod="GELIR_AGT" 	degeri="12.95" />
+		<damgaVergisi yil="2012" kod="GELIR_IHO" 	degeri="12.95" />
+		<damgaVergisi yil="2012" kod="GELIR_SM" 	degeri="12.95" />
+
+		<damgaVergisi yil="2012" kod="KURUMLAR" 	degeri="46.10" />
+		<damgaVergisi yil="2012" kod="KURUMLAR_EK_IHO" 	degeri="12.95" />
+		<damgaVergisi yil="2012" kod="KURUMLAR_EK_BIL" 	degeri="26.65" />
+		<damgaVergisi yil="2012" kod="KURUMLAR_EK_AGT" 	degeri="12.95" />
+		<damgaVergisi yil="2012" kod="KURUMLAR_EK_DMUK" degeri="12.95" />
+
+
+		<damgaVergisi yil="2012" kod="GGECICI" 		degeri="22.85" />
+		<damgaVergisi yil="2012" kod="GGECICI_EK_IHO" 	degeri="12.95" />
+		<damgaVergisi yil="2012" kod="GGECICI_EK_SM" 	degeri="12.95" />
+		<damgaVergisi yil="2012" kod="GGECICI_EK_GT" 	degeri="12.95" />
+
+		<damgaVergisi yil="2012" kod="KGECICI" 		degeri="22.85" />
+		<damgaVergisi yil="2012" kod="KGECICI_EK_IHO" 	degeri="12.95" />
+		<damgaVergisi yil="2012" kod="KGECICI_EK_GT" 	degeri="12.95" />
+		<damgaVergisi yil="2012" kod="KGECICI_EK_DMUK" 	degeri="12.95" />	
+		
+		<!-- // 2013 yili icinde verilen beyannamelere ait damga vergisi tutarlari, TL cinsinden. -->
+		<damgaVergisi yil="2013" kod="GMSI" 		degeri="39.65" />
+		<damgaVergisi yil="2013" kod="BASIT" 		degeri="39.65" />
+		<damgaVergisi yil="2013" kod="BASIT_IHO" 	degeri="14.85" />
+
+		<damgaVergisi yil="2013" kod="GELIR" 		degeri="39.65" />
+		<damgaVergisi yil="2013" kod="GELIR_BIL" 	degeri="30.60" />
+		<damgaVergisi yil="2013" kod="GELIR_AGT" 	degeri="14.85" />
+		<damgaVergisi yil="2013" kod="GELIR_IHO" 	degeri="14.85" />
+		<damgaVergisi yil="2013" kod="GELIR_SM" 	degeri="14.85" />
+
+		<damgaVergisi yil="2013" kod="KURUMLAR" 	degeri="53.00" />
+		<damgaVergisi yil="2013" kod="KURUMLAR_EK_IHO" 	degeri="14.85" />
+		<damgaVergisi yil="2013" kod="KURUMLAR_EK_BIL" 	degeri="30.60" />
+		<damgaVergisi yil="2013" kod="KURUMLAR_EK_AGT" 	degeri="14.85" />
+		<damgaVergisi yil="2013" kod="KURUMLAR_EK_DMUK" degeri="14.85" />
+		
+		<damgaVergisi yil="2013" kod="GGECICI" 		degeri="26.25" />
+		<damgaVergisi yil="2013" kod="GGECICI_EK_IHO" 	degeri="14.85" />
+		<damgaVergisi yil="2013" kod="GGECICI_EK_SM" 	degeri="14.85" />
+		<damgaVergisi yil="2013" kod="GGECICI_EK_GT" 	degeri="14.85" />
+
+		<damgaVergisi yil="2013" kod="KGECICI" 		degeri="26.25" />
+		<damgaVergisi yil="2013" kod="KGECICI_EK_IHO" 	degeri="14.85" />
+		<damgaVergisi yil="2013" kod="KGECICI_EK_GT" 	degeri="14.85" />
+		<damgaVergisi yil="2013" kod="KGECICI_EK_DMUK" 	degeri="14.85" />
+			
+		<damgaVergisi yil="2014" kod="GMSI" 		degeri="41.20" />
+		<damgaVergisi yil="2014" kod="BASIT" 		degeri="41.20" />
+		<damgaVergisi yil="2014" kod="BASIT_IHO" 	degeri="15.40" />
+
+		<damgaVergisi yil="2014" kod="GELIR" 		degeri="41.20" />
+		<damgaVergisi yil="2014" kod="GELIR_BIL" 	degeri="31.80" />
+		<damgaVergisi yil="2014" kod="GELIR_AGT" 	degeri="15.40" />
+		<damgaVergisi yil="2014" kod="GELIR_IHO" 	degeri="15.40" />
+		<damgaVergisi yil="2014" kod="GELIR_SM" 	degeri="15.40" />
+
+		<damgaVergisi yil="2014" kod="KURUMLAR" 	degeri="55.00" />
+		<damgaVergisi yil="2014" kod="KURUMLAR_EK_IHO" 	degeri="15.40" />
+		<damgaVergisi yil="2014" kod="KURUMLAR_EK_BIL" 	degeri="31.80" />
+		<damgaVergisi yil="2014" kod="KURUMLAR_EK_AGT" 	degeri="15.40" />
+		<damgaVergisi yil="2014" kod="KURUMLAR_EK_DMUK" degeri="15.40" />
+		
+		<damgaVergisi yil="2014" kod="GGECICI" 		degeri="27.20" />
+		<damgaVergisi yil="2014" kod="GGECICI_EK_IHO" 	degeri="15.40" />
+		<damgaVergisi yil="2014" kod="GGECICI_EK_SM" 	degeri="15.40" />
+		<damgaVergisi yil="2014" kod="GGECICI_EK_GT" 	degeri="15.40" />
+
+		<damgaVergisi yil="2014" kod="KGECICI" 		degeri="27.20" />
+		<damgaVergisi yil="2014" kod="KGECICI_EK_IHO" 	degeri="15.40" />
+		<damgaVergisi yil="2014" kod="KGECICI_EK_GT" 	degeri="15.40" />
+		<damgaVergisi yil="2014" kod="KGECICI_EK_DMUK" 	degeri="15.40" />
+		
+		<damgaVergisi yil="2015" kod="GMSI" 		degeri="45.30" />
+		<damgaVergisi yil="2015" kod="BASIT" 		degeri="45.30" />
+		<damgaVergisi yil="2015" kod="BASIT_IHO" 	degeri="16.90" />
+
+		<damgaVergisi yil="2015" kod="GELIR" 		degeri="45.30" />
+		<damgaVergisi yil="2015" kod="GELIR_BIL" 	degeri="35.00" />
+		<damgaVergisi yil="2015" kod="GELIR_AGT" 	degeri="16.90" />
+		<damgaVergisi yil="2015" kod="GELIR_IHO" 	degeri="16.90" />
+		<damgaVergisi yil="2015" kod="GELIR_SM" 	degeri="16.90" />
+
+		<damgaVergisi yil="2015" kod="KURUMLAR" 	degeri="60.50" />
+		<damgaVergisi yil="2015" kod="KURUMLAR_EK_IHO" 	degeri="16.90" />
+		<damgaVergisi yil="2015" kod="KURUMLAR_EK_BIL" 	degeri="35.00" />
+		<damgaVergisi yil="2015" kod="KURUMLAR_EK_AGT" 	degeri="16.90" />
+		<damgaVergisi yil="2015" kod="KURUMLAR_EK_DMUK" degeri="16.90" />
+
+		<damgaVergisi yil="2015" kod="GGECICI" 		degeri="29.90" />
+		<damgaVergisi yil="2015" kod="GGECICI_EK_IHO" 	degeri="16.90" />
+		<damgaVergisi yil="2015" kod="GGECICI_EK_SM" 	degeri="16.90" />
+		<damgaVergisi yil="2015" kod="GGECICI_EK_GT" 	degeri="16.90" />
+
+		<damgaVergisi yil="2015" kod="KGECICI" 		degeri="29.90" />
+		<damgaVergisi yil="2015" kod="KGECICI_EK_IHO" 	degeri="16.90" />
+		<damgaVergisi yil="2015" kod="KGECICI_EK_GT" 	degeri="16.90" />
+		<damgaVergisi yil="2015" kod="KGECICI_EK_DMUK" 	degeri="16.90" />
+		
+		<damgaVergisi yil="2016" kod="GMSI" 		degeri="47.80" />
+		<damgaVergisi yil="2016" kod="BASIT" 		degeri="47.80"/>
+		<damgaVergisi yil="2016" kod="BASIT_IHO" 	degeri="17.80" />	
+				
+		<damgaVergisi yil="2016" kod="GELIR" 		degeri="47.80" />
+		<damgaVergisi yil="2016" kod="GELIR_BIL" 	degeri="36.90" />	
+		<damgaVergisi yil="2016" kod="GELIR_AGT" 	degeri="17.80" />	
+		<damgaVergisi yil="2016" kod="GELIR_IHO" 	degeri="17.80" />	
+		<damgaVergisi yil="2016" kod="GELIR_SM" 	degeri="17.80" />	
+				
+		<damgaVergisi yil="2016" kod="KURUMLAR" 	degeri="63.80" />	
+		<damgaVergisi yil="2016" kod="KURUMLAR_EK_IHO" 	degeri="17.80" />	
+		<damgaVergisi yil="2016" kod="KURUMLAR_EK_BIL" 	degeri="36.90" />	
+		<damgaVergisi yil="2016" kod="KURUMLAR_EK_AGT" 	degeri="17.80" />	
+		<damgaVergisi yil="2016" kod="KURUMLAR_EK_DMUK" degeri="17.80" />		
+				
+		<damgaVergisi yil="2016" kod="GGECICI" 		degeri="31.50" />
+		<damgaVergisi yil="2016" kod="GGECICI_EK_IHO" 	degeri="17.80" />	
+		<damgaVergisi yil="2016" kod="GGECICI_EK_SM" 	degeri="17.80" />	
+		<damgaVergisi yil="2016" kod="GGECICI_EK_GT" 	degeri="17.80" />	
+				
+		<damgaVergisi yil="2016" kod="KGECICI" 		degeri="31.50" />
+		<damgaVergisi yil="2016" kod="KGECICI_EK_IHO" 	degeri="17.80" />	
+		<damgaVergisi yil="2016" kod="KGECICI_EK_GT" 	degeri="17.80" />	
+		<damgaVergisi yil="2016" kod="KGECICI_EK_DMUK" 	degeri="17.80" />	
+		
+		<damgaVergisi yil="2017" kod="GMSI" 		degeri="51.40" />
+		<damgaVergisi yil="2017" kod="BASIT" 		degeri="51.40"/>
+		<damgaVergisi yil="2017" kod="BASIT_IHO" 	degeri="19.10" />
+
+		<damgaVergisi yil="2017" kod="GELIR" 		degeri="51.40" />
+		<damgaVergisi yil="2017" kod="GELIR_BIL" 	degeri="39.70" />	
+		<damgaVergisi yil="2017" kod="GELIR_AGT" 	degeri="19.10" />	
+		<damgaVergisi yil="2017" kod="GELIR_IHO" 	degeri="19.10" />	
+		<damgaVergisi yil="2017" kod="GELIR_SM" 	degeri="19.10" />
+
+		<damgaVergisi yil="2017" kod="KURUMLAR" 	degeri="68.60" />	
+		<damgaVergisi yil="2017" kod="KURUMLAR_EK_IHO" 	degeri="19.10" />	
+		<damgaVergisi yil="2017" kod="KURUMLAR_EK_BIL" 	degeri="39.70" />	
+		<damgaVergisi yil="2017" kod="KURUMLAR_EK_AGT" 	degeri="19.10" />	
+		<damgaVergisi yil="2017" kod="KURUMLAR_EK_DMUK" degeri="19.10" />
+
+		<damgaVergisi yil="2017" kod="GGECICI" 		degeri="33.90" />
+		<damgaVergisi yil="2017" kod="GGECICI_EK_IHO" 	degeri="19.10" />	
+		<damgaVergisi yil="2017" kod="GGECICI_EK_SM" 	degeri="19.10" />	
+		<damgaVergisi yil="2017" kod="GGECICI_EK_GT" 	degeri="19.10" />
+
+		<damgaVergisi yil="2017" kod="KGECICI" 		degeri="33.90" />
+		<damgaVergisi yil="2017" kod="KGECICI_EK_IHO" 	degeri="19.10" />	
+		<damgaVergisi yil="2017" kod="KGECICI_EK_GT" 	degeri="19.10" />	
+		<damgaVergisi yil="2017" kod="KGECICI_EK_DMUK" 	degeri="19.10" />
+		
+		<damgaVergisi yil="2018" kod="GMSI" 		degeri="58.80" />
+		<damgaVergisi yil="2018" kod="BASIT" 		degeri="58.80"/>
+		<damgaVergisi yil="2018" kod="BASIT_IHO" 	degeri="21.80" />
+
+		<damgaVergisi yil="2018" kod="GELIR" 		degeri="58.80" />
+		<damgaVergisi yil="2018" kod="GELIR_BIL" 	degeri="45.40" />	
+		<damgaVergisi yil="2018" kod="GELIR_AGT" 	degeri="21.80" />	
+		<damgaVergisi yil="2018" kod="GELIR_IHO" 	degeri="21.80" />	
+		<damgaVergisi yil="2018" kod="GELIR_SM" 	degeri="21.80" />
+
+		<damgaVergisi yil="2018" kod="KURUMLAR" 	degeri="78.50" />	
+		<damgaVergisi yil="2018" kod="KURUMLAR_EK_IHO" 	degeri="21.80" />	
+		<damgaVergisi yil="2018" kod="KURUMLAR_EK_BIL" 	degeri="45.40" />	
+		<damgaVergisi yil="2018" kod="KURUMLAR_EK_AGT" 	degeri="21.80" />	
+		<damgaVergisi yil="2018" kod="KURUMLAR_EK_DMUK" degeri="21.80" />
+
+		<damgaVergisi yil="2018" kod="GGECICI" 		degeri="38.80" />
+		<damgaVergisi yil="2018" kod="GGECICI_EK_IHO" 	degeri="21.80" />	
+		<damgaVergisi yil="2018" kod="GGECICI_EK_SM" 	degeri="21.80" />	
+		<damgaVergisi yil="2018" kod="GGECICI_EK_GT" 	degeri="21.80" />
+
+		<damgaVergisi yil="2018" kod="KGECICI" 		degeri="38.80" />
+		<damgaVergisi yil="2018" kod="KGECICI_EK_IHO" 	degeri="21.80" />	
+		<damgaVergisi yil="2018" kod="KGECICI_EK_GT" 	degeri="21.80" />	
+		<damgaVergisi yil="2018" kod="KGECICI_EK_DMUK" 	degeri="21.80" />
+		
+		<damgaVergisi yil="2018" kod="GGECICI" 		degeri="38.80" />
+		<damgaVergisi yil="2018" kod="GGECICI_EK_IHO" 	degeri="21.80" />	
+		<damgaVergisi yil="2018" kod="GGECICI_EK_SM" 	degeri="21.80" />	
+		<damgaVergisi yil="2018" kod="GGECICI_EK_GT" 	degeri="21.80" />
+
+		<damgaVergisi yil="2018" kod="KGECICI" 		degeri="38.80" />
+		<damgaVergisi yil="2018" kod="KGECICI_EK_IHO" 	degeri="21.80" />	
+		<damgaVergisi yil="2018" kod="KGECICI_EK_GT" 	degeri="21.80" />	
+		<damgaVergisi yil="2018" kod="KGECICI_EK_DMUK" 	degeri="21.80" />
+		
+		
+		
+		
+	</damgaVergisiBilgileri>
+
+	<vergidenIstisnaEdilenTutarBilgileri>
+		<!-- // 2004 yili icinde elde edilen gelirlere ait mesken icin Vergiden İstisna Edilen Tutar bilgileri, YTL cinsinden. -->
+		<vergidenIstisnaEdilenTutar yil="2004" 		degeri="1800" />
+		<vergidenIstisnaEdilenTutar yil="2005" 		degeri="2000" />
+		<vergidenIstisnaEdilenTutar yil="2006" 		degeri="2200" />
+		<vergidenIstisnaEdilenTutar yil="2007" 		degeri="2300" />
+		<vergidenIstisnaEdilenTutar yil="2008" 		degeri="2400" />
+		<vergidenIstisnaEdilenTutar yil="2009" 		degeri="2600" />
+		<vergidenIstisnaEdilenTutar yil="2010" 		degeri="2600" />
+		<vergidenIstisnaEdilenTutar yil="2011" 		degeri="2800" />
+		<vergidenIstisnaEdilenTutar yil="2012" 		degeri="3000" />
+		<vergidenIstisnaEdilenTutar yil="2013" 		degeri="3200" />
+		<vergidenIstisnaEdilenTutar yil="2014" 		degeri="3300" />
+		<vergidenIstisnaEdilenTutar yil="2015" 		degeri="3600" />
+		<vergidenIstisnaEdilenTutar yil="2016" 		degeri="3800" />
+		<vergidenIstisnaEdilenTutar yil="2017" 		degeri="3900" />
+		<vergidenIstisnaEdilenTutar yil="2018" 		degeri="4400" />
+	</vergidenIstisnaEdilenTutarBilgileri>
+
+	<kurumlarVergisiOranlari>
+		<donem yil="2004">
+			<vergiOrani bitisAyi="01" degeri="0.33" degeriYI="0.33"/>
+			<vergiOrani bitisAyi="02" degeri="0.33" degeriYI="0.33"/>
+			<vergiOrani bitisAyi="03" degeri="0.33" degeriYI="0.33"/>
+			<vergiOrani bitisAyi="04" degeri="0.33" degeriYI="0.33"/>
+			<vergiOrani bitisAyi="05" degeri="0.33" degeriYI="0.33"/>
+			<vergiOrani bitisAyi="06" degeri="0.33" degeriYI="0.33"/>
+			<vergiOrani bitisAyi="07" degeri="0.33" degeriYI="0.33"/>
+			<vergiOrani bitisAyi="08" degeri="0.33" degeriYI="0.33"/>
+			<vergiOrani bitisAyi="09" degeri="0.33" degeriYI="0.33"/>
+			<vergiOrani bitisAyi="10" degeri="0.33" degeriYI="0.33"/>
+			<vergiOrani bitisAyi="11" degeri="0.33" degeriYI="0.33"/>
+			<vergiOrani bitisAyi="12" degeri="0.33" degeriYI="0.33"/>
+		</donem>
+		<donem yil="2005">
+			<vergiOrani bitisAyi="01" degeri="0.30" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="02" degeri="0.30" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="03" degeri="0.30" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="04" degeri="0.30" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="05" degeri="0.30" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="06" degeri="0.30" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="07" degeri="0.30" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="08" degeri="0.30" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="09" degeri="0.30" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="10" degeri="0.30" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="11" degeri="0.30" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="12" degeri="0.30" degeriYI="0.30"/>
+		</donem>
+		<donem yil="2006">
+			<vergiOrani bitisAyi="01" degeri="0.30" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="02" degeri="0.30" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="03" degeri="0.27" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="04" degeri="0.26" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="05" degeri="0.25" degeriYI="0.30"/>	
+			<vergiOrani bitisAyi="06" degeri="0.25" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="07" degeri="0.24" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="08" degeri="0.23" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="09" degeri="0.22" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="10" degeri="0.21" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="11" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="12" degeri="0.20" degeriYI="0.30"/>
+		</donem>
+		<donem yil="2007">
+			<vergiOrani bitisAyi="01" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="02" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="03" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="04" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="05" degeri="0.20" degeriYI="0.30"/>	
+			<vergiOrani bitisAyi="06" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="07" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="08" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="09" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="10" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="11" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="12" degeri="0.20" degeriYI="0.30"/>
+		</donem>
+		<donem yil="2008">
+			<vergiOrani bitisAyi="01" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="02" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="03" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="04" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="05" degeri="0.20" degeriYI="0.30"/>	
+			<vergiOrani bitisAyi="06" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="07" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="08" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="09" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="10" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="11" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="12" degeri="0.20" degeriYI="0.30"/>
+		</donem>
+		<donem yil="2009">
+			<vergiOrani bitisAyi="01" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="02" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="03" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="04" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="05" degeri="0.20" degeriYI="0.30"/>	
+			<vergiOrani bitisAyi="06" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="07" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="08" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="09" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="10" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="11" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="12" degeri="0.20" degeriYI="0.30"/>
+		</donem>
+		<donem yil="2010">
+			<vergiOrani bitisAyi="01" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="02" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="03" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="04" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="05" degeri="0.20" degeriYI="0.30"/>	
+			<vergiOrani bitisAyi="06" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="07" degeri="0.20" degeriYI="0.30"/>
+			<vergiOrani bitisAyi="08" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="09" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="10" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="11" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="12" degeri="0.20" degeriYI="0.20"/>
+		</donem>
+		<donem yil="2011">
+			<vergiOrani bitisAyi="01" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="02" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="03" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="04" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="05" degeri="0.20" degeriYI="0.20"/>	
+			<vergiOrani bitisAyi="06" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="07" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="08" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="09" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="10" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="11" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="12" degeri="0.20" degeriYI="0.20"/>
+		</donem>
+		<donem yil="2012">
+			<vergiOrani bitisAyi="01" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="02" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="03" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="04" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="05" degeri="0.20" degeriYI="0.20"/>	
+			<vergiOrani bitisAyi="06" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="07" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="08" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="09" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="10" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="11" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="12" degeri="0.20" degeriYI="0.20"/>
+		</donem>
+		<donem yil="2013">
+			<vergiOrani bitisAyi="01" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="02" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="03" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="04" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="05" degeri="0.20" degeriYI="0.20"/>	
+			<vergiOrani bitisAyi="06" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="07" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="08" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="09" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="10" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="11" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="12" degeri="0.20" degeriYI="0.20"/>
+		</donem>
+		<donem yil="2014">
+			<vergiOrani bitisAyi="01" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="02" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="03" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="04" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="05" degeri="0.20" degeriYI="0.20"/>	
+			<vergiOrani bitisAyi="06" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="07" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="08" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="09" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="10" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="11" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="12" degeri="0.20" degeriYI="0.20"/>
+		</donem>
+		<donem yil="2015">
+			<vergiOrani bitisAyi="01" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="02" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="03" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="04" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="05" degeri="0.20" degeriYI="0.20"/>	
+			<vergiOrani bitisAyi="06" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="07" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="08" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="09" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="10" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="11" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="12" degeri="0.20" degeriYI="0.20"/>
+		</donem>
+		<donem yil="2016">
+			<vergiOrani bitisAyi="01" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="02" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="03" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="04" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="05" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="06" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="07" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="08" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="09" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="10" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="11" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="12" degeri="0.20" degeriYI="0.20"/>
+		</donem>
+		<donem yil="2017">
+			<vergiOrani bitisAyi="01" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="02" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="03" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="04" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="05" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="06" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="07" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="08" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="09" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="10" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="11" degeri="0.20" degeriYI="0.20"/>
+			<vergiOrani bitisAyi="12" degeri="0.20" degeriYI="0.20"/>
+		</donem>
+		<donem yil="2018">
+			<vergiOrani bitisAyi="01" degeri="0.22" degeriYI="0.22"/>
+			<vergiOrani bitisAyi="02" degeri="0.22" degeriYI="0.22"/>
+			<vergiOrani bitisAyi="03" degeri="0.22" degeriYI="0.22"/>
+			<vergiOrani bitisAyi="04" degeri="0.22" degeriYI="0.22"/>
+			<vergiOrani bitisAyi="05" degeri="0.22" degeriYI="0.22"/>
+			<vergiOrani bitisAyi="06" degeri="0.22" degeriYI="0.22"/>
+			<vergiOrani bitisAyi="07" degeri="0.22" degeriYI="0.22"/>
+			<vergiOrani bitisAyi="08" degeri="0.22" degeriYI="0.22"/>
+			<vergiOrani bitisAyi="09" degeri="0.22" degeriYI="0.22"/>
+			<vergiOrani bitisAyi="10" degeri="0.22" degeriYI="0.22"/>
+			<vergiOrani bitisAyi="11" degeri="0.22" degeriYI="0.22"/>
+			<vergiOrani bitisAyi="12" degeri="0.22" degeriYI="0.22"/>
+		</donem>	
+		
+	</kurumlarVergisiOranlari>
+
+
+	<!--kurumGeciciVergiOranlari>
+		<vergiOrani yil="2005" kod="KGECICI" 		degeri="0.30" />
+		<vergiOrani yil="2006" kod="KGECICI" 		degeri="0.30" />
+		<vergiOrani yil="2007" kod="KGECICI" 		degeri="0.30" />
+		<vergiOrani yil="2008" kod="KGECICI" 		degeri="0.30" />
+	</kurumGeciciVergiOranlari-->
+
+	<kurumGeciciVergiOranlari>
+		<donem yil="2005">
+			<vergiOrani bitisAyi="01" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.30" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="02" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.30" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="03" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.30" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="04" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.30" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="05" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.30" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="06" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.30" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="07" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.30" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="08" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.30" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="09" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.30" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="10" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.30" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="11" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.30" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="12" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.30" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+		</donem>
+		<donem yil="2006">
+			<vergiOrani bitisAyi="01" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.30" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="02" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.30" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="03" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.30" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="04" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.30" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="05" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.25" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="06" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.25" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="07" degeri1="0.30" degeri2="0.30" degeri3="0.30" degeri4="0.24" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="08" degeri1="0.30" degeri2="0.30" degeri3="0.23" degeri4="0.23" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="09" degeri1="0.30" degeri2="0.30" degeri3="0.22" degeri4="0.22" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="10" degeri1="0.30" degeri2="0.30" degeri3="0.21" degeri4="0.21" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="11" degeri1="0.30" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="12" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+		</donem>
+		<donem yil="2007">
+			<vergiOrani bitisAyi="01" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="02" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="03" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="04" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="05" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="06" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="07" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="08" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="09" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="10" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="11" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="12" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+		</donem>
+		<donem yil="2008">
+			<vergiOrani bitisAyi="01" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="02" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="03" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="04" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="05" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="06" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="07" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="08" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="09" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="10" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="11" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="12" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+		</donem>
+		<donem yil="2009">
+			<vergiOrani bitisAyi="01" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="02" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="03" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="04" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="05" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="06" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="07" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="08" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="09" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="10" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="11" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="12" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+		</donem>
+		<donem yil="2010">
+			<vergiOrani bitisAyi="01" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="02" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="03" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="04" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="05" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="06" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="07" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.30"/>
+			<vergiOrani bitisAyi="08" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="09" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="10" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.30" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="11" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="12" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.20" degeri4YI="0.20"/>
+		</donem>
+		<donem yil="2011">
+			<vergiOrani bitisAyi="01" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="02" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="03" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="04" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="05" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="06" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="07" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="08" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="09" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="10" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="11" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="12" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+		</donem>
+		<donem yil="2012">
+			<vergiOrani bitisAyi="01" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.30" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="02" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="03" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="04" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.30" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="05" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="06" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="07" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="08" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="09" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="10" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="11" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="12" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+		</donem>
+		<donem yil="2013">
+			<vergiOrani bitisAyi="01" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="02" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="03" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="04" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="05" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="06" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="07" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="08" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="09" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="10" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="11" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="12" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+		</donem>
+		<donem yil="2014">
+			<vergiOrani bitisAyi="01" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="02" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="03" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="04" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="05" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="06" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="07" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="08" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="09" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="10" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="11" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="12" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+		</donem>
+		<donem yil="2015">
+			<vergiOrani bitisAyi="01" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="02" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="03" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="04" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="05" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="06" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="07" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="08" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="09" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="10" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="11" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+			<vergiOrani bitisAyi="12" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>
+		</donem>
+		<donem yil="2016">	
+			<vergiOrani bitisAyi="01" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="02" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="03" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="04" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="05" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="06" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="07" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="08" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="09" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="10" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="11" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="12" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+		</donem>
+		<donem yil="2017">	
+			<vergiOrani bitisAyi="01" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="02" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="03" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="04" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="05" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="06" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="07" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="08" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="09" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="10" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="11" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+			<vergiOrani bitisAyi="12" degeri1="0.20" degeri2="0.20" degeri3="0.20" degeri4="0.20" degeri1YI="0.20" degeri2YI="0.20" degeri3YI="0.20" degeri4YI="0.20"/>		
+		</donem>
+		<donem yil="2018">	
+			<vergiOrani bitisAyi="01" degeri1="0.22" degeri2="0.22" degeri3="0.22" degeri4="0.22" degeri1YI="0.22" degeri2YI="0.22" degeri3YI="0.22" degeri4YI="0.22"/>		
+			<vergiOrani bitisAyi="02" degeri1="0.22" degeri2="0.22" degeri3="0.22" degeri4="0.22" degeri1YI="0.22" degeri2YI="0.22" degeri3YI="0.22" degeri4YI="0.22"/>		
+			<vergiOrani bitisAyi="03" degeri1="0.22" degeri2="0.22" degeri3="0.22" degeri4="0.22" degeri1YI="0.22" degeri2YI="0.22" degeri3YI="0.22" degeri4YI="0.22"/>		
+			<vergiOrani bitisAyi="04" degeri1="0.22" degeri2="0.22" degeri3="0.22" degeri4="0.22" degeri1YI="0.22" degeri2YI="0.22" degeri3YI="0.22" degeri4YI="0.22"/>		
+			<vergiOrani bitisAyi="05" degeri1="0.22" degeri2="0.22" degeri3="0.22" degeri4="0.22" degeri1YI="0.22" degeri2YI="0.22" degeri3YI="0.22" degeri4YI="0.22"/>		
+			<vergiOrani bitisAyi="06" degeri1="0.22" degeri2="0.22" degeri3="0.22" degeri4="0.22" degeri1YI="0.22" degeri2YI="0.22" degeri3YI="0.22" degeri4YI="0.22"/>		
+			<vergiOrani bitisAyi="07" degeri1="0.22" degeri2="0.22" degeri3="0.22" degeri4="0.22" degeri1YI="0.22" degeri2YI="0.22" degeri3YI="0.22" degeri4YI="0.22"/>		
+			<vergiOrani bitisAyi="08" degeri1="0.22" degeri2="0.22" degeri3="0.22" degeri4="0.22" degeri1YI="0.22" degeri2YI="0.22" degeri3YI="0.22" degeri4YI="0.22"/>		
+			<vergiOrani bitisAyi="09" degeri1="0.22" degeri2="0.22" degeri3="0.22" degeri4="0.22" degeri1YI="0.22" degeri2YI="0.22" degeri3YI="0.22" degeri4YI="0.22"/>		
+			<vergiOrani bitisAyi="10" degeri1="0.22" degeri2="0.22" degeri3="0.22" degeri4="0.22" degeri1YI="0.22" degeri2YI="0.22" degeri3YI="0.22" degeri4YI="0.22"/>		
+			<vergiOrani bitisAyi="11" degeri1="0.22" degeri2="0.22" degeri3="0.22" degeri4="0.22" degeri1YI="0.22" degeri2YI="0.22" degeri3YI="0.22" degeri4YI="0.22"/>		
+			<vergiOrani bitisAyi="12" degeri1="0.22" degeri2="0.22" degeri3="0.22" degeri4="0.22" degeri1YI="0.22" degeri2YI="0.22" degeri3YI="0.22" degeri4YI="0.22"/>		
+		</donem>
+
+		
+	</kurumGeciciVergiOranlari>
+
+	<bFormuAltLimitleri>
+		<altLimit yil="2018" kod="BFORMU" degeri="5000"/>
+		<altLimit yil="2017" kod="BFORMU" degeri="5000"/>
+		<altLimit yil="2016" kod="BFORMU" degeri="5000"/>
+		<altLimit yil="2015" kod="BFORMU" degeri="5000"/>
+		<altLimit yil="2014" kod="BFORMU"        		degeri="5000"/>
+		<altLimit yil="2013" kod="BFORMU"        		degeri="5000"/>
+		<altLimit yil="2012" kod="BFORMU"        		degeri="5000"/>
+		<altLimit yil="2011" kod="BFORMU"        		degeri="5000"/>
+		<altLimit yil="2010" kod="BFORMU"        		degeri="5000"/>
+		<altLimit yil="2009" kod="BFORMU"        		degeri="8000"/>
+		<altLimit yil="2008" kod="BFORMU"        		degeri="8000"/>
+		<altLimit yil="2007" kod="BFORMU"        		degeri="30000"/>
+		<altLimit yil="2006" kod="BFORMU" 			degeri="30000" />
+		<altLimit yil="2005" kod="BFORMU" 			degeri="30000" />
+		<altLimit yil="2004" kod="BFORMU" 			degeri="30000" />
+		<altLimit yil="2003" kod="BFORMU" 			degeri="30000" />
+	</bFormuAltLimitleri>
+
+	<mepKurumVergiOranlari>
+		<vergiOrani yil="2006" kod="MEPKURUM" 		degeri="0.30" />
+		<vergiOrani yil="2007" kod="MEPKURUM" 		degeri="0.30" />
+		<vergiOrani yil="2008" kod="MEPKURUM" 		degeri="0.30" />
+		<vergiOrani yil="2009" kod="MEPKURUM" 		degeri="0.30" />
+		<vergiOrani yil="2010" kod="MEPKURUM" 		degeri="0.30" />		
+		<vergiOrani yil="2011" kod="MEPKURUM" 		degeri="0.30" />
+		<vergiOrani yil="2012" kod="MEPKURUM" 		degeri="0.30" />
+		<vergiOrani yil="2013" kod="MEPKURUM"       degeri="0.30" />
+		<vergiOrani yil="2014" kod="MEPKURUM"       degeri="0.30" />
+		<vergiOrani yil="2015" kod="MEPKURUM"       degeri="0.30" />
+		<vergiOrani yil="2016" kod="MEPKURUM"       degeri="0.30" />
+		<vergiOrani yil="2017" kod="MEPKURUM"       degeri="0.30" />
+	</mepKurumVergiOranlari>
+
+	<yillikBrutAsgariUcretler>
+		<asgariUcret yil="2008" kod="ASGARIUCRET" degeri="7482.60" />
+		<asgariUcret yil="2009" kod="ASGARIUCRET" degeri="8154.00" />
+		<asgariUcret yil="2010" kod="ASGARIUCRET" degeri="8937.00" />
+		<asgariUcret yil="2011" kod="ASGARIUCRET" degeri="9801.00" />
+		<asgariUcret yil="2012" kod="ASGARIUCRET" degeri="10962.00" />
+		<asgariUcret yil="2013" kod="ASGARIUCRET" degeri="12000.60" />
+		<asgariUcret yil="2014" kod="ASGARIUCRET" degeri="13230.00" />
+		<asgariUcret yil="2015" kod="ASGARIUCRET" degeri="14850" />		
+		<asgariUcret yil="2016" kod="ASGARIUCRET" degeri="19764" />
+		<asgariUcret yil="2017" kod="ASGARIUCRET" degeri="21330" />
+		<asgariUcret yil="2018" kod="ASGARIUCRET" degeri="24354" />
+		
+	</yillikBrutAsgariUcretler>
+
+	<tevkifatliBeyanSinirlari>
+		<tevkifatliBeyanSiniri yil="2009" kod="TEVKIFATLIBEYANSINIRI" degeri="22000" />	
+		<tevkifatliBeyanSiniri yil="2010" kod="TEVKIFATLIBEYANSINIRI" degeri="22000" />
+		<tevkifatliBeyanSiniri yil="2011" kod="TEVKIFATLIBEYANSINIRI" degeri="23000" />
+		<tevkifatliBeyanSiniri yil="2012" kod="TEVKIFATLIBEYANSINIRI" degeri="25000" />
+		<tevkifatliBeyanSiniri yil="2013" kod="TEVKIFATLIBEYANSINIRI" degeri="26000" />
+		<tevkifatliBeyanSiniri yil="2014" kod="TEVKIFATLIBEYANSINIRI" degeri="27000" />
+		<tevkifatliBeyanSiniri yil="2015" kod="TEVKIFATLIBEYANSINIRI" degeri="29000" />
+		<tevkifatliBeyanSiniri yil="2016" kod="TEVKIFATLIBEYANSINIRI" degeri="30000" />	
+		<tevkifatliBeyanSiniri yil="2017" kod="TEVKIFATLIBEYANSINIRI" degeri="30000" />
+		<tevkifatliBeyanSiniri yil="2018" kod="TEVKIFATLIBEYANSINIRI" degeri="34000" />
+	</tevkifatliBeyanSinirlari>
+
+	<tevkifatsizBeyanSinirlari>
+		<tevkifatsizBeyanSiniri yil="2009" kod="TEVKIFATSIZBEYANSINIRI" degeri="1070" />	
+		<tevkifatsizBeyanSiniri yil="2010" kod="TEVKIFATSIZBEYANSINIRI" degeri="1090" />
+		<tevkifatsizBeyanSiniri yil="2011" kod="TEVKIFATSIZBEYANSINIRI" degeri="1170" />
+		<tevkifatsizBeyanSiniri yil="2012" kod="TEVKIFATSIZBEYANSINIRI" degeri="1290" />
+		<tevkifatsizBeyanSiniri yil="2013" kod="TEVKIFATSIZBEYANSINIRI" degeri="1390" />
+		<tevkifatsizBeyanSiniri yil="2014" kod="TEVKIFATSIZBEYANSINIRI" degeri="1400" />
+		<tevkifatsizBeyanSiniri yil="2015" kod="TEVKIFATSIZBEYANSINIRI" degeri="1500" />
+		<tevkifatsizBeyanSiniri yil="2016" kod="TEVKIFATSIZBEYANSINIRI" degeri="1580" />
+		<tevkifatsizBeyanSiniri yil="2017" kod="TEVKIFATSIZBEYANSINIRI" degeri="1600" />
+		<tevkifatsizBeyanSiniri yil="2018" kod="TEVKIFATSIZBEYANSINIRI" degeri="1800" />
+	</tevkifatsizBeyanSinirlari>
+
+	<ucretIndirimOranlari>
+		<ucretIndirimOrani yil="2010" kod="UCRETINDIRIMORANI" degeri="0.08" />
+		<ucretIndirimOrani yil="2011" kod="UCRETINDIRIMORANI" degeri="0.08" />
+		<ucretIndirimOrani yil="2012" kod="UCRETINDIRIMORANI" degeri="0.08" />
+		<ucretIndirimOrani yil="2013" kod="UCRETINDIRIMORANI" degeri="0.08" />
+		<ucretIndirimOrani yil="2014" kod="UCRETINDIRIMORANI" degeri="0.08" />
+		<ucretIndirimOrani yil="2015" kod="UCRETINDIRIMORANI" degeri="0.08" />
+		<ucretIndirimOrani yil="2016" kod="UCRETINDIRIMORANI" degeri="0.08" />
+		<ucretIndirimOrani yil="2017" kod="UCRETINDIRIMORANI" degeri="0.08" />
+		<ucretIndirimOrani yil="2018" kod="UCRETINDIRIMORANI" degeri="0.08" />
+	</ucretIndirimOranlari>
+	
+	<asgariUcretIndirimSinirlari>
+		<asgariUcretIndirimSiniri yil="2015" kod="GMSI_AGI_SINIR" degeri="1838.29" />
+		<asgariUcretIndirimSiniri yil="2016" kod="GMSI_AGI_SINIR" degeri="2519.91" />
+		<asgariUcretIndirimSiniri yil="2017" kod="GMSI_AGI_SINIR" degeri="2719.57" />
+		<asgariUcretIndirimSiniri yil="2018" kod="GMSI_AGI_SINIR" degeri="3105.14" />
+	</asgariUcretIndirimSinirlari>
+	
+	<ucretSinirlari>
+		<ucretSiniri yil="2015" kod="GMSI_UCRET_SINIR" degeri="29000" />
+		<ucretSiniri yil="2016" kod="GMSI_UCRET_SINIR" degeri="30000" />
+		<ucretSiniri yil="2017" kod="GMSI_UCRET_SINIR" degeri="30000" />
+		<ucretSiniri yil="2018" kod="GMSI_UCRET_SINIR" degeri="34000" />
+	</ucretSinirlari>
+	
+	<ureticiFiyatlariEndeksiBilgileri>
+		<donem yil="2009">
+			<ureticiFiyatlariEndeksi ay1="155.16" ay2="156.97" ay3="157.43" ay4="158.45" ay5="158.37" ay6="159.86" ay7="158.74" ay8="159.40" ay9="160.38" ay10="160.84" ay11="162.92" ay12="163.98" />
+		</donem>
+		<donem yil="2010">
+			<ureticiFiyatlariEndeksi ay1="164.94" ay2="167.68" ay3="170.94" ay4="174.96" ay5="172.95" ay6="172.08" ay7="171.81" ay8="173.79" ay9="174.67" ay10="176.78" ay11="176.23" ay12="178.54" />
+		</donem>
+		<donem yil="2011">
+			<ureticiFiyatlariEndeksi ay1="182.75" ay2="185.90" ay3="188.17" ay4="189.32" ay5="189.61" ay6="189.62" ay7="189.57" ay8="192.91" ay9="195.89" ay10="199.03" ay11="200.32" ay12="202.33" />
+		</donem>
+		<donem yil="2012">
+			<ureticiFiyatlariEndeksi ay1="203.10" ay2="202.91" ay3="203.64" ay4="203.81" ay5="204.89" ay6="201.83" ay7="201.20" ay8="201.71" ay9="203.79" ay10="204.15" ay11="207.54" ay12="207.29" />
+		</donem>
+		<donem yil="2013">
+			<ureticiFiyatlariEndeksi ay1="206.91" ay2="206.65" ay3="208.33" ay4="207.27" ay5="209.34" ay6="212.39" ay7="214.50" ay8="214.59" ay9="216.48" ay10="217.97" ay11="219.31" ay12="221.74" />
+		</donem>
+		<donem yil="2014">
+			<ureticiFiyatlariEndeksi ay1="229.10" ay2="232.27" ay3="233.98" ay4="234.18" ay5="232.96" ay6="233.09" ay7="234.79" ay8="235.78" ay9="237.79" ay10="239.97" ay11="237.65" ay12="235.84" />
+		</donem>
+		<donem yil="2015">
+			<ureticiFiyatlariEndeksi ay1="236.61" ay2="239.46" ay3="241.97" ay4="245.42" ay5="248.15" ay6="248.78" ay7="247.99" ay8="250.43" ay9="254.25" ay10="253.74" ay11="250.13" ay12="249.31" />
+		</donem>
+		<donem yil="2016">
+			<ureticiFiyatlariEndeksi ay1="250.67" ay2="250.16" ay3="251.17" ay4="252.47" ay5="256.21" ay6="257.27" ay7="257.81" ay8="258.01" ay9="258.77" ay10="260.94" ay11="266.16" ay12="274.09" />
+		</donem>
+		<donem yil="2017">
+			<ureticiFiyatlariEndeksi ay1="284.99" ay2="288.59" ay3="291.58" ay4="293.79" ay5="295.31" ay6="295.52" ay7="297.65" ay8="300.18" ay9="300.90" ay10="306.04" ay11="312.21" ay12="316.48" />
+		</donem>
+		<donem yil="2018">		
+			<ureticiFiyatlariEndeksi ay1="284.99" ay2="288.59" ay3="291.58" ay4="293.79" ay5="295.31" ay6="295.52" ay7="297.65" ay8="300.18" ay9="300.90" ay10="306.04" ay11="312.21" ay12="316.48" />
+		</donem>
+	</ureticiFiyatlariEndeksiBilgileri>
+	
+	<indirimliTarifeUygulanacakUstTutarlar>
+		<indirimliTarifeUygulanacakUstTutar yil="2010" kod="INDIRIMLITARIFEUYGULANACAKUSTTUTAR" degeri="26200" />
+		<indirimliTarifeUygulanacakUstTutar yil="2011" kod="INDIRIMLITARIFEUYGULANACAKUSTTUTAR" degeri="27000" />
+		<indirimliTarifeUygulanacakUstTutar yil="2012" kod="INDIRIMLITARIFEUYGULANACAKUSTTUTAR" degeri="30000" />
+		<indirimliTarifeUygulanacakUstTutar yil="2013" kod="INDIRIMLITARIFEUYGULANACAKUSTTUTAR" degeri="26000" />
+		<indirimliTarifeUygulanacakUstTutar yil="2014" kod="INDIRIMLITARIFEUYGULANACAKUSTTUTAR" degeri="37000" />
+		<indirimliTarifeUygulanacakUstTutar yil="2015" kod="INDIRIMLITARIFEUYGULANACAKUSTTUTAR" degeri="40000" />
+		<indirimliTarifeUygulanacakUstTutar yil="2016" kod="INDIRIMLITARIFEUYGULANACAKUSTTUTAR" degeri="41000" />
+		<indirimliTarifeUygulanacakUstTutar yil="2017" kod="INDIRIMLITARIFEUYGULANACAKUSTTUTAR" degeri="40000" />
+		<indirimliTarifeUygulanacakUstTutar yil="2018" kod="INDIRIMLITARIFEUYGULANACAKUSTTUTAR" degeri="40000" />
+	</indirimliTarifeUygulanacakUstTutarlar>
+	
+	<gelirVergisiUcretParametreleri>
+		<gelirVergisiUcretParametresi yil="2015" kod="GELIRVERGISIUCRETPARAMETRESI" degeri="3200" />
+		<gelirVergisiUcretParametresi yil="2016" kod="GELIRVERGISIUCRETPARAMETRESI" degeri="3280" />
+		<gelirVergisiUcretParametresi yil="2017" kod="GELIRVERGISIUCRETPARAMETRESI" degeri="3280" />
+	</gelirVergisiUcretParametreleri>
+
+	<gencGirisimciKazancIstisnasi>
+		<istisna yil="2018" degeri="75000" />
+		<istisna yil="2017" degeri="75000" />
+		<istisna yil="2016" degeri="75000" />
+		<istisna yil="2015" degeri="0" />
+		<istisna yil="2014" degeri="0" />
+		<istisna yil="2013" degeri="0" />
+		<istisna yil="2012" degeri="0" />
+		<istisna yil="2011" degeri="0" />
+	</gencGirisimciKazancIstisnasi>
+
+	<gencGirisimciKazancIndirimi>
+		<indirim yil="2018" degeri="9000" />
+		<indirim yil="2017" degeri="8000" />
+		<indirim yil="2016" degeri="8000" />
+		<indirim yil="2015" degeri="0" />
+		<indirim yil="2014" degeri="0" />
+		<indirim yil="2013" degeri="0" />
+		<indirim yil="2012" degeri="0" />
+		<indirim yil="2011" degeri="0" />
+	</gencGirisimciKazancIndirimi>
+
+</kodlar>

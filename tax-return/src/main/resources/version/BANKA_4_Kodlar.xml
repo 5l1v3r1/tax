@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: BMVB_APT bankaMuameleleri/paraTuru/kod
+-->
+<bankaMuameleleri>
+	<paraTuru>
+		<kod>101</kod>
+		<aciklama>Faiz</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>102</kod>
+		<aciklama>İskonto</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>103</kod>
+		<aciklama>Komisyon</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>104</kod>
+		<aciklama>Her Nevi Kiralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>105</kod>
+		<aciklama>Sigorta Komisyonları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>106</kod>
+		<aciklama>Hizmet Mukabili Sair Gelirler</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>107</kod>
+		<aciklama>Masraf Karşılığı</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>108</kod>
+		<aciklama>Esham ve Tahvilat Satış Farkları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>109</kod>
+		<aciklama>Esham ve Tahvilattan Faiz, İkramiye ve Temettü</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>110</kod>
+		<aciklama>Aciyo</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>111</kod>
+		<aciklama>Kliring ve Hususi Takas Farkları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>112</kod>
+		<aciklama>Kabarit Farkları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>113</kod>
+		<aciklama>Hususi Portföy Gelirleri</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>114</kod>
+		<aciklama>Dahili Kambiyo</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>115</kod>
+		<aciklama>Pul Bey'iyesi</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>116</kod>
+		<aciklama>Muhtelif Malzeme Satışları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>117</kod>
+		<aciklama>İştirak Gelirleri</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>118</kod>
+		<aciklama>Gayri Menkul Alım-Satım Farkları</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>119</kod>
+		<aciklama>Bankalararası Mevduat Muameleleri Sonucu Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>120</kod>
+		<aciklama>Bankalar ile 2499 Sayılı S.P.K.'na Göre Kurulan Aracı Kurumlar Arasındaki Borsa Para Piyasası İşlemleri Sonucu Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>121</kod>
+		<aciklama>Devlet Tahvili ve Hazine Bonoları ile Toplu Konut İdaresi, Kamu Ortaklığı İdaresi ve Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerin Geri Alım ve Satım Taahüdü İle İktisap Veya Elden Çıkarılması Sonucu Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>122</kod>
+		<aciklama>Devlet Tahvili ve Hazine Bonoları ile Toplu Konut İdaresi,Kamu Ortaklığı İdaresi ve Özelleştirme İdaresince Çıkarılan Menkul Kıymetlerin Vadesi Beklenilmeksizin Satışı Sonucu Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>126</kod>
+		<aciklama>2004/7131 Sayılı Karar Kapsamında,KOSGEB ile Banka Arasında Yapılacak Protokoller Çerçevesinde Kullandırılacak Krediler(Türkiye Halk Bankası A.Ş. Tarafından Kullandırılacak Krediler Hariç)Dolayısıyla Lehe Alınan Paralar </aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>127</kod>
+		<aciklama>2006/10506 Sayılı Karar Kapsamında;Bankaların,TMO Tarafından 2699 Sayılı Umumi Mağazalar Kanunu Hükümlerine Göre Düzenlenen Makbuz Senetlerini Teminat Olarak Gösteren Gerçek Veya Tüzel Kişilere Kullandıracağı Krediler Nedeniyle Lehe Aldıkları Paralar ile TMO'nun Bu Kararın 7nci Maddesi Kapsamında Yurt İçinden Kullanacağı Döviz ya da TL Cinsi Krediler Nedeniyle Bankaların Lehe Aldıkları Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>128</kod>
+		<aciklama>2006/10865 Sayılı Karar Kapsamında;Bankaların,TMO Tarafından 2699 sayılı Umumi Mağazalar Kanunu Hükümlerine Göre Düzenlenen Makbuz Senetlerini Teminat Olarak Gösteren Gerçek Veya Tüzel Kişilere Kullandıracağı Krediler Nedeniyle Lehe Aldıkları Paralar ile TMO'nun Bu Kararın 6ncı Maddesi Kapsamında Yurt İçinden Kullanacağı Döviz ya da TL Cinsi Krediler Nedeniyle Bankaların Lehe Aldıkları Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>129</kod>
+		<aciklama>Merkez Bankasınca İhraç Edilen Likidite  Senetlerinin Geri Alım Ve Satım Taahhüdü İle İktisap veya Elden Çıkarılması Karşılığında Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>130</kod>
+		<aciklama>Merkez Bankasınca İhraç Edilen Likidite  Senetlerinin Vadesi Beklenilmeksizin Satışı Nedeniyle Lehe Alınan Paralar</aciklama>
+	</paraTuru>
+	<paraTuru>
+		<kod>124</kod>
+		<aciklama>Müteferrik</aciklama>
+	</paraTuru>
+</bankaMuameleleri>
+</kodlar>

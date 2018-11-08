@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: BMVB_APT bankaMuameleleri/paraTuru/kod
+-->
+<dovizCinsleri>
+	<dovizCinsi>
+		<kod>101</kod>
+		<aciklama>Amerikan Doları</aciklama>
+	</dovizCinsi>
+	<dovizCinsi>
+		<kod>102</kod>
+		<aciklama>Avrupa Para Birimi</aciklama>
+	</dovizCinsi>
+	<dovizCinsi>
+		<kod>103</kod>
+		<aciklama>İsviçre Frangı</aciklama>
+	</dovizCinsi>
+	<dovizCinsi>
+		<kod>104</kod>
+		<aciklama>İngiliz Sterlini</aciklama>
+	</dovizCinsi>
+	<dovizCinsi>
+		<kod>105</kod>
+		<aciklama>Japon Yeni</aciklama>
+	</dovizCinsi>
+	<dovizCinsi>
+		<kod>106</kod>
+		<aciklama>S.Arabistan Riyali</aciklama>
+	</dovizCinsi>
+	<dovizCinsi>
+		<kod>107</kod>
+		<aciklama>Avustralya Doları</aciklama>
+	</dovizCinsi>
+	<dovizCinsi>
+		<kod>108</kod>
+		<aciklama>Kanada Doları</aciklama>
+	</dovizCinsi>
+	<dovizCinsi>
+		<kod>109</kod>
+		<aciklama>Diğer</aciklama>
+	</dovizCinsi>
+</dovizCinsleri>
+<altinlar>
+	<altin>
+		<kod>201</kod>
+		<aciklama>Külçe Altın</aciklama>
+	</altin>
+	<altin>
+		<kod>202</kod>
+		<aciklama>İşlenmiş Altın</aciklama>
+	</altin>
+</altinlar>
+<menkulKiymetlerVeDiger>
+	<menkulKiymet>
+		<kod>301</kod>
+		<aciklama>Devlet iç borçlanma senedi - Tahvil	 </aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>302</kod>
+		<aciklama>Devlet iç borçlanma senedi - Bono	 </aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>303</kod>
+		<aciklama>Eurobond</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>304</kod>
+		<aciklama>Özel sektör tahvili</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>305</kod>
+		<aciklama>Özel sektör bonosu</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>306</kod>
+		<aciklama>Banka bonosu</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>307</kod>
+		<aciklama>Kira sertifikası</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>308</kod>
+		<aciklama>Gayrimenkul sertifikası</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>309</kod>
+		<aciklama>Depo sertifikası</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>310</kod>
+		<aciklama>Varlığa dayalı menkul kıymet</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>311</kod>
+		<aciklama>İpoteğe dayalı menkul kıymet</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>312</kod>
+		<aciklama>Varlık teminatlı menkul kıymet</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>313</kod>
+		<aciklama>İpotek teminatlı menkul kıymet</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>314</kod>
+		<aciklama>Pay senedi (Hisse senetleri)</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>315</kod>
+		<aciklama>Varant</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>316</kod>
+		<aciklama>Sertifika</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>317</kod>
+		<aciklama>Borsa yatırım fonu</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>318</kod>
+		<aciklama>Menkul kıymet yatırım fonu</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>319</kod>
+		<aciklama>Gayrimenkul yatırım fonu</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>320</kod>
+		<aciklama>Girişim sermayesi yatırım fonu</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>321</kod>
+		<aciklama>Emeklilik yatırım fonu</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>322</kod>
+		<aciklama>Vadeli işlem sözleşmeleri</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>323</kod>
+		<aciklama>Opsiyon sözleşmeleri</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>324</kod>
+		<aciklama>Swap</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>325</kod>
+		<aciklama>Diğer Menkul Kıymetler</aciklama>
+	</menkulKiymet>
+	<menkulKiymet>
+		<kod>326</kod>
+		<aciklama>Diğer Sermaye Piyasası Araçları</aciklama>
+	</menkulKiymet>
+</menkulKiymetlerVeDiger>
+<tasinmazlar>
+	<tasinmaz>
+		<kod>401</kod>
+		<aciklama>Arsa</aciklama>
+	</tasinmaz>
+	<tasinmaz>
+		<kod>402</kod>
+		<aciklama>Arazi</aciklama>
+	</tasinmaz>
+	<tasinmaz>
+		<kod>403</kod>
+		<aciklama>Bina</aciklama>
+	</tasinmaz>
+	<tasinmaz>
+		<kod>404</kod>
+		<aciklama>Haklar</aciklama>
+	</tasinmaz>
+</tasinmazlar>
+</kodlar>

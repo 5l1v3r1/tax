@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: IND indirimler/indirim/kod
+-->
+	<indirimler>
+		<indirim>
+			<kod>101</kod>
+			<aciklama>Önceki Dönemden Devreden ÖİV</aciklama>
+		</indirim>
+		<indirim>
+			<kod>102</kod>
+			<aciklama>Bu Döneme Ait İndirilecek ÖİV</aciklama>
+		</indirim>
+	</indirimler>
+</kodlar>

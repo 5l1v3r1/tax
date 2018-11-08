@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref:	GMSIIB_TUR 			gayrimenkulTurleri/gayrimenkulTuru/kod
+	Ref:	IND_TUR				indirimler/indirim/kod
+-->
+	<gayrimenkulTurleri>
+		<gayrimenkulTuru>
+	     		<kod>1</kod>
+	         	<aciklama>Mesken</aciklama>
+		</gayrimenkulTuru>
+		<gayrimenkulTuru>
+	     		<kod>2</kod>
+	         	<aciklama>İşyeri</aciklama>
+		</gayrimenkulTuru>
+		<gayrimenkulTuru>
+	     		<kod>3</kod>
+	         	<aciklama>Diğer</aciklama>
+		</gayrimenkulTuru>
+		<gayrimenkulTuru>
+	     		<kod>4</kod>
+	         	<aciklama>Hak</aciklama>
+		</gayrimenkulTuru>
+	</gayrimenkulTurleri>
+	<dummyLookupData>
+	</dummyLookupData>
+</kodlar>

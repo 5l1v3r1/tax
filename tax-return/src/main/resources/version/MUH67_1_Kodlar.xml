@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: BMVB_APT bankaMuameleleri/paraTuru/kod
+-->
+<tevkifatYapilanlar>
+	<tevkifatYapilan>
+		<kod>1</kod>
+		<ad>Tam Mükellef Gerçek Kişi</ad>
+	</tevkifatYapilan>
+              <tevkifatYapilan>
+		<kod>2</kod>
+		<ad>Dar Mükellef Gerçek Kişi</ad>
+	</tevkifatYapilan>
+             <tevkifatYapilan>
+		<kod>3</kod>
+		<ad>Tam Mükellef Kurum</ad>
+	</tevkifatYapilan>
+      <tevkifatYapilan>
+		<kod>4</kod>
+		<ad>Dar Mükellef Kurum</ad>
+	</tevkifatYapilan>
+	<tevkifatYapilan>
+		<kod>5</kod>
+		<ad>Diğer</ad>
+	</tevkifatYapilan>
+</tevkifatYapilanlar>
+</kodlar>

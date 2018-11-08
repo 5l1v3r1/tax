@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+<!--
+	Ref: OAB_TK		odemeturkodlari/odemeturkodu/turkodu
+-->
+	<odemeturkodlari>
+		<odemeturkodu>
+			<turkodu>201</turkodu>
+			<grup>Kurumlar Vergisi Kanununun 24. Maddesine Göre Yapılan Ödemeler</grup>
+			<aciklama>Ücret</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>202</turkodu>
+			<grup>Kurumlar Vergisi Kanununun 24. Maddesine Göre Yapılan Ödemeler</grup>
+			<aciklama>Petrol Arama Faaliyetleri İçin Yapılan Serbest Meslek Kazancı Ödemeleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>203</turkodu>
+			<grup>Kurumlar Vergisi Kanununun 24. Maddesine Göre Yapılan Ödemeler</grup>
+			<aciklama>Diğer Serbest Meslek Kazancı Ödemeleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>204</turkodu>
+			<grup>Kurumlar Vergisi Kanununun 24. Maddesine Göre Yapılan Ödemeler</grup>
+			<aciklama>Finansal Kiralama Kapsamındaki Gayrımenkul Sermaye İratları</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>205</turkodu>
+			<grup>Kurumlar Vergisi Kanununun 24. Maddesine Göre Yapılan Ödemeler</grup>
+			<aciklama>Diğer Gayrimenkul Sermaye İratları</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>206</turkodu>
+			<grup>Kurumlar Vergisi Kanununun 24. Maddesine Göre Yapılan Ödemeler</grup>
+			<aciklama>Her Nevi Tahvil Faizleri ve Hazine Bonosu Faizleri ile Toplu Konut İdaresi ve Kamu Ortaklığı İdaresi ile Özelleştirme İdaresince Çıkartılan Menkul Kıymetlerden Sağlanan Gelirler</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>207</turkodu>
+			<grup>Kurumlar Vergisi Kanununun 24. Maddesine Göre Yapılan Ödemeler</grup>
+			<aciklama>Mevduat Faizleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>208</turkodu>
+			<grup>Kurumlar Vergisi Kanununun 24. Maddesine Göre Yapılan Ödemeler</grup>
+			<aciklama>Faizsiz Olarak Kredi Verenlere Ödenen Kar Payları İle Kar Zarar Ortaklığı Belgesi ve Özel Finans Kurumlarınca Kar ve Zarara Katılma Hesabı Karşılığında Ödenen Kar Payları</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>209</turkodu>
+			<grup>Kurumlar Vergisi Kanununun 24. Maddesine Göre Yapılan Ödemeler</grup>
+			<aciklama>Her Nevi Alacak Faizleri</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>210</turkodu>
+			<grup>Kurumlar Vergisi Kanununun 24. Maddesine Göre Yapılan Ödemeler</grup>
+			<aciklama>GVKnun 75/10 Maddesinde Yazılı Menkul Sermaye İratları</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>211</turkodu>
+			<grup>Kurumlar Vergisi Kanununun 24. Maddesine Göre Yapılan Ödemeler</grup>
+			<aciklama>Gayri Maddi Hakların Satışı, Devir ve Temliki Karşılığı Alınan Bedeller</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>212</turkodu>
+			<grup>Kurumlar Vergisi Kanununun 24. Maddesine Göre Yapılan Ödemeler</grup>
+			<aciklama>Menkul Kıymetlerin Geri Alım-Satım Taahhütü ile İktisap veya Elden Çıkarılması Karşılığında Sağlanan Menfaatler (Repo Gelirleri)</aciklama>
+		</odemeturkodu>
+		<odemeturkodu>
+			<turkodu>213</turkodu>
+			<grup>Kurumlar Vergisi Kanununun 24. Maddesine Göre Yapılan Ödemeler</grup>
+			<aciklama>Diğer Ödemeler</aciklama>
+		</odemeturkodu>
+	</odemeturkodlari>
+</kodlar>

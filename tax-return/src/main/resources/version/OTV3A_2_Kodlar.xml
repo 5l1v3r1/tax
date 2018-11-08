@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-9"?>
+<kodlar>
+<!--
+	Ref : GTIP		GTIPKodlari/data/kod
+	Ref : IST		istisnaKodlari/data/kod
+	Ref : IND		indirimKodlari/data/kod
+-->
+<GTIPKodlari>
+<data>
+	<kod>2203.00</kod>
+	<malAdi>Malttan üretilen biralar</malAdi>
+</data>
+<data>
+	<kod>22.04</kod>
+	<malAdi>Taze üzüm şarabı (Kuvvetlendirilmiş şaraplar dahil); üzüm şırası (20.09 pozisyonunda yer alanlar hariç) (Köpüklü şaraplar ve diğer üzüm şıraları hariç)</malAdi>
+</data>
+<data>
+	<kod>2204.10</kod>
+	<malAdi>Köpüklü şaraplar</malAdi>
+</data>
+<data>
+	<kod>22.05</kod>
+	<malAdi>Vermut ve diğer taze üzüm şarapları (bitkiler veya kokulu maddelerle aromalandırılmış)(2205.10.10.00.00,2205.10.90.00.12 hariç)</malAdi>
+</data>
+<data>
+	<kod>2205.10.10.00.00</kod>
+	<malAdi>Alkol derecesi hacim itibariyle % 18 veya daha az olanlar</malAdi>
+</data>
+<data>
+	<kod>2206.00</kod>
+	<malAdi>Fermente edilmiş diğer içkiler(elma şarabı,armut şarabı,bal şarabı gibi), tarifenin başka yerinde belirtilmeyen veya yer almayan fermente edilmiş içkilerin karışımları ve fermente edilmiş içkilerle alkolsüz içkilerin karışımları</malAdi>
+</data>
+<data>
+	<kod>2205.10.90.00.12</kod>
+	<malAdi>Alkol derecesi hacim itibariyle % 22'den fazla olanlar</malAdi>
+</data>
+<data>
+	<kod>2207.20</kod>
+	<malAdi>Alkol derecesi ne olursa olsun tağyir(denatüre) edilmiş etil alkol ve damıtım yoluyla elde edilen diğer alkollü içkiler (Alkol derecesi ne olursa olsun tağyir(denatüre) edilmiş etil alkol hariç)</malAdi>
+</data>
+<data>
+	<kod>22.08</kod>
+	<malAdi>Alkol derecesi hacim itibariyle % 80'den az olan tağyir(denatüre) edilmemiş etil alkol;damıtım yoluyla elde edilen  alkollü içkiler, likörler ve diğer alkollü içecekler(2208.90.91;2208.90.99 Alkol derecesi hacim itibariyle %80'den az olan tağyir(deantüre) edilmemiş etil alkol hariç)(2208.20,2208.50,2208.60,2208.70 ve 2208.90 hariç)</malAdi>
+</data>
+<data>
+	<kod>2208.20</kod>
+	<malAdi>Üzüm şarabı veya üzüm cibresinin damıtılması yolu ile elde edilen alkollü içkiler</malAdi>
+</data>
+<data>
+	<kod>2208.30</kod>
+	<malAdi>Viskiler</malAdi>
+</data>
+<data>
+	<kod>2208.40</kod>
+	<malAdi>Rom ve tafia</malAdi>
+</data>
+<data>
+	<kod>2208.50</kod>
+	<malAdi>Cin ve Geneva</malAdi>
+</data>
+<data>
+	<kod>2208.60</kod>
+	<malAdi>Votka (2208.60.91.00.00, 2208.60.99.00.00 hariç)</malAdi>
+</data>
+<data>
+	<kod>2208.60.91.00.00</kod>
+	<malAdi>Muhtevası 2 litreyi geçmeyen kaplarda olanlar(Alkol derecesi hacim itibariyle %45.4'den fazla olanlar)</malAdi>
+</data>
+<data>
+	<kod>2208.60.99.00.00</kod>
+	<malAdi>Muhtevası 2 litreyi geçen kaplarda olanlar (Alkol derecesi hacim itibariyle %45.4'den fazla olanlar)</malAdi>
+</data>
+<data>
+	<kod>2208.70</kod>
+	<malAdi>Likörler</malAdi>
+</data>
+<data>
+	<kod>2208.90</kod>
+	<malAdi>Diğerleri (2208.90.48.00.11, 2208.90.71.00.11 hariç)</malAdi>
+</data>
+<data>
+	<kod>2208.90.48.00.11</kod>
+	<malAdi>Rakı</malAdi>
+</data>
+<data>
+	<kod>2208.90.71.00.11</kod>
+	<malAdi>Rakı</malAdi>
+</data>
+</GTIPKodlari>
+<istisnaKodlari>
+	<data>
+		<kod>101</kod>
+		<ad>İhracat İstisnası</ad>
+	</data>
+	<data>
+		<kod>102</kod>
+		<ad>Diplomatik İstisna</ad>
+	</data>
+	<data>
+		<kod>105</kod>
+		<ad>Uluslararası Anlaşmadan Doğan İstisna</ad>
+	</data>
+</istisnaKodlari>
+<indirimKodlari>
+	<data>
+		<kod>301</kod>
+		<ad>Satıştan İade</ad>
+	</data>
+	<data>
+		<kod>302</kod>
+		<ad>İşlemi Gerçekleşmeyen</ad>
+	</data>
+	<data>
+		<kod>303</kod>
+		<ad>Aynı Listedeki Malın İmalatta Kullanılması</ad>
+	</data>
+</indirimKodlari>
+</kodlar>

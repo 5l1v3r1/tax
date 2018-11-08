@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<kodlar>
+	<asgariMatrahlar>
+		<data><yil>2006</yil><matrah>19110</matrah><artirimOrani>30</artirimOrani></data>
+		<data><yil>2007</yil><matrah>20650</matrah><artirimOrani>25</artirimOrani></data>
+		<data><yil>2008</yil><matrah>22440</matrah><artirimOrani>20</artirimOrani></data>
+		<data><yil>2009</yil><matrah>24460</matrah><artirimOrani>15</artirimOrani></data>
+	</asgariMatrahlar>
+	<vergiOranlari>
+		<data><kod>15</kod><deger>15</deger></data>
+		<data><kod>20</kod><deger>20</deger></data>
+	</vergiOranlari>
+
+</kodlar>

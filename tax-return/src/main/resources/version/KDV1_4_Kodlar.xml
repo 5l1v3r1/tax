@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<!--
+	Ref : TUI_O		oranlar/oran/oran
+	Ref : TUI_TO	tevkifatOranlari/tevkifatOrani/tevkifatOrani
+	Ref : IND		indirimler/indirim/kod
+	Ref : KIST		kismiistisnalar/kismiistisna/kod
+	Ref : TIST		tamistisnalar/tamistisna/kod
+	Ref : DIADE		digeriadeler/digeriade/kod
+	Ref : IHDI		iadeHakkiDoguranIslemler/iadeHakkiDoguranIslem/kod
+	Ref : IKDV		indirilecekKDVListesi/indirilecekKDV/kod
+	Ref : DISL		digerIslemler/digerIslem/kod
+
+
+-->
+<kodlar>
+	<oranlar>
+		<oran>
+			<oran>1</oran>
+		</oran>
+		<oran>
+			<oran>8</oran>
+		</oran>
+		<oran>
+			<oran>18</oran>
+		</oran>
+	</oranlar>
+	<tevkifatOranlari>
+		<tevkifatOrani>
+			<tevkifatOrani>1/3</tevkifatOrani>
+		</tevkifatOrani>
+		<tevkifatOrani>
+			<tevkifatOrani>2/3</tevkifatOrani>
+		</tevkifatOrani>
+		<tevkifatOrani>
+			<tevkifatOrani>1/2</tevkifatOrani>
+		</tevkifatOrani>
+		<tevkifatOrani>
+			<tevkifatOrani>9/10</tevkifatOrani>
+		</tevkifatOrani>
+		 <tevkifatOrani>
+			<tevkifatOrani>1/6</tevkifatOrani>
+		</tevkifatOrani>
+		 <tevkifatOrani>
+			<tevkifatOrani>4/5</tevkifatOrani>
+		</tevkifatOrani>		
+	</tevkifatOranlari>		
+	<indirimler>
+		<indirim>
+			<kod>101</kod>
+			<ad>Önceki Dönemden Devreden KDV</ad>
+		</indirim>
+		<indirim>
+			<kod>102</kod>
+			<ad>Bu Döneme Ait İndirilecek KDV</ad>
+		</indirim>
+		<indirim>
+			<kod>103</kod>
+			<ad>Mal İadeleri veya Gerçekleşmeyen İşlemler Nedeniyle Düzeltilecek KDV</ad>
+		</indirim>
+		<indirim>
+			<kod>104</kod>
+			<ad>43. No.'lu KDV Genel Tebliği Kapsamındaki Teslimlerle İlgili Düzeltilecek KDV</ad>
+		</indirim>
+		<indirim>
+			<kod>105</kod>
+			<ad>61 No'lu KDV Genel Tebliği Kapsamındaki Teslimlerle İlgili Düzeltilecek KDV</ad>
+		</indirim>
+	</indirimler>
+	<kismiistisnalar>
+		<kismiistisna>
+			<kod>201</kod>
+			<madde>17/1</madde>
+			<aciklama>Kültür ve Eğitim Amacı Taşıyan İşlemler</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>202</kod>
+			<madde>17/2-a</madde>
+			<aciklama>Sağlık,Çevre ve Sosyal Yardım Amaçlı İşlemler</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>203</kod>
+			<madde>17/2-b</madde>
+			<aciklama>Eğitim ve Sosyal Yardım Amaçlı Bedelsiz Teslimler</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>204</kod>
+			<madde>17/2-c</madde>
+			<aciklama>Yabancı Diplomatik Organ ve Hayır Kurumlarının Bağışlarıyla İlgili Mal ve Hizmet Alışları</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>205</kod>
+			<madde>17/2-d</madde>
+			<aciklama>Taşınmaz Kültür Varlıklarına İlişkin Teslimler ve Mimarlık Hizmetleri</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>206</kod>
+			<madde>17/2-e</madde>
+			<aciklama>Mesleki Kuruluşların İşlemleri</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>207</kod>
+			<madde>17/3</madde>
+			<aciklama>Askeri Fabrika, Tersane ve Atölyelerin İşlemleri</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>208</kod>
+			<madde>17/4-c</madde>
+			<aciklama>Birleşme,Devir,Dönüşüm ve Bölünme İşlemleri</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>209</kod>
+			<madde>17/4-e</madde>
+			<aciklama>Banka ve Sigorta Muameleleri Vergisi Kapsamına Giren İşlemler</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>210</kod>
+			<madde>17/4-g</madde>
+			<aciklama>Kıymetli Taş ve Madenlerin,Kıymetli Kağıtların,Hurda ve Atık Malların Teslimi</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>211</kod>
+			<madde>17/4-h</madde>
+			<aciklama>Zirai Amaçlı veya Köy Tüzel Kişilerince Yapılan İçme Suyu Teslimleri</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>212</kod>
+			<madde>17/4-i</madde>
+			<aciklama>Serbest Bölgelerde Verilen Hizmetler</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>213</kod>
+			<madde>17/4-j</madde>
+			<aciklama>Boru Hattı İle Yapılan Petrol ve Gaz Taşımacılığı</aciklama>	
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>214</kod>
+			<madde>17/4-k</madde>
+			<aciklama>Sanayi Bölgelerindeki Arsa ve İşyeri Teslimleri ile Konut Yapı Kooperaftiflerinin Üyelerine Konut Teslimleri</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>215</kod>
+			<madde>17/4-l</madde>
+			<aciklama>Varlık Yönetim Şirketlerinin İşlemleri</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>216</kod>
+			<madde>17/4-m</madde>
+			<aciklama>Tasarruf Mevduatı Sigorta Fonunun İşlemleri</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>217</kod>
+			<madde>17/4-n</madde>
+			<aciklama>Basın-Yayın ve Enformasyon Genel Müdürlüğüne Verilen Haber Hizmetleri</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>218</kod>
+			<madde>17/4-o</madde>
+			<aciklama>Gümrük Antrepoları,Geçici Depolama Yerleri,Gümrüklü Sahalar ve Vergisiz Satış Yapılan Mağazalarla İlgili Hizmetler</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>219</kod>
+			<madde>17/4-p</madde>
+			<aciklama>Hazine ve Arsa Ofisi Genel Müdrülüğünün İşlemleri</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>220</kod>
+			<madde>geçici 10</madde>
+			<aciklama>Kurumlar Vergisi Kanununun Geçici 28 ve 29. Maddeleri Kapsamındaki Teslimler</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>221</kod>
+			<madde>geçici 15</madde>
+			<aciklama>Konut Yapı Kooperatifleri, Belediyeler ve Sosyal Güvenlik Kuruluşlarına Verilen İnşaat Taahhüt Hizmeti</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>222</kod>
+			<madde>geçici 19</madde>
+			<aciklama>Uluslararası Anlaşmalar Çerçevesinde Türkiye'de Yapılan Toplantılarla İlgili Teslim ve Hizmetler</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>223</kod>
+			<madde>geçici 20/1</madde>
+			<aciklama>Teknoloji Geliştirme Bölgelerinde Yapılan İşlemler</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>224</kod>
+			<madde>geçici 21</madde>
+			<aciklama>Karayolları ve Orman Genel Müdürlüklerinin Taşınmaz Teslimleri</aciklama>		
+		</kismiistisna>
+		<kismiistisna>
+			 <kod>250</kod>
+			<madde/>
+			<aciklama>Diğerleri</aciklama>		
+		</kismiistisna>
+	</kismiistisnalar>
+	<tamistisnalar>
+		<tamistisna>
+			 <kod>301</kod>
+			<madde>11/1-a(1)</madde>
+			<aciklama>Mal İhracı</aciklama>
+		</tamistisna>
+		<tamistisna>
+			 <kod>302</kod>
+			<madde>11/1-a(2)</madde><aciklama>Hizmet İhracı</aciklama>
+		</tamistisna>
+		<tamistisna>
+			 <kod>303</kod>
+			<madde>11/1-a(3)</madde><aciklama>Roaming Hizmetleri</aciklama>
+		</tamistisna>
+		<tamistisna>
+			 <kod>304</kod>
+			<madde>13/a</madde>
+			<aciklama>Deniz, Hava ve Demiryolu Taşıma Araçlarının Teslimi ile İnşa,Tadil,Bakım ve Onarımları</aciklama>
+		</tamistisna>
+		<tamistisna>
+			 <kod>305</kod>
+			<madde>13/b</madde>
+			<aciklama>Deniz ve Hava Taşıma Araçları İçin Liman ve Hava Meydanlarında Yapılan Hizmetler</aciklama>
+		</tamistisna>
+		<tamistisna>
+			 <kod>306</kod>
+			<madde>13/c(1)</madde><aciklama>Petrol Aramaları</aciklama>
+		</tamistisna>
+		<tamistisna>
+			 <kod>307</kod>
+			<madde>13/c(2)</madde>
+			<aciklama>Kıymetli Madenlerin Arama,Zenginleştirme ve Rafinaj Faaliyetleri</aciklama>
+		</tamistisna>
+		<tamistisna>
+			 <kod>308</kod>
+			<madde>13/d</madde><aciklama>Teşvikli Yatırım Mallarının Teslimi</aciklama>
+		</tamistisna>
+		<tamistisna>
+			 <kod>309</kod>
+			<madde>13/e</madde>
+			<aciklama>Liman ve Hava Meydanlarının İnşası, Yenilenmesi ve Genişletilmesi</aciklama>
+		</tamistisna>
+		<tamistisna>
+			 <kod>310</kod>
+			<madde>13/f</madde>
+			<aciklama>Ulusal Güvenlik Amaçlı Teslim ve Hizmetler</aciklama>
+		</tamistisna>
+		<tamistisna>
+			 <kod>311</kod>
+			<madde>14</madde><aciklama>Uluslararası Taşımacılık</aciklama>
+		</tamistisna>
+		<tamistisna>
+			 <kod>312</kod>
+			<madde>15/a</madde><aciklama>Diplomatik Organ ve Misyonlara Yapılan Teslim ve Hizmetler</aciklama>
+		</tamistisna>
+		<tamistisna>
+			 <kod>313</kod>
+			<madde>15/b</madde><aciklama>Uluslararası Kuruluşlara Yapılan Teslim ve Hizmetler</aciklama>
+		</tamistisna>
+		<tamistisna>
+			 <kod>350</kod>
+			 <madde/>
+			<aciklama>Diğerleri</aciklama>
+		</tamistisna>
+	</tamistisnalar>
+	<digeriadeler>
+		<digeriade>
+			 <kod>401</kod>
+			<madde>8/2</madde><aciklama>Fazla ve Yersiz Ödenen Vergiler</aciklama>
+		</digeriade>
+		<digeriade>
+			 <kod>402</kod>
+			<madde>9/1</madde>
+			<aciklama>Kısmi Tevkifat Uygulanan İşlemlerde Alıcı Tarafından Beyan Edilecek KDV</aciklama>
+		</digeriade>
+		<digeriade>
+			 <kod>403</kod>
+			<madde>11/1-a</madde>
+			<aciklama>61 No.lu KDV Genel Tebliği Kapsamındaki Satışlarla İlgili Yüklenilen KDV</aciklama>
+		</digeriade>
+		<digeriade>
+			 <kod>404</kod>
+			<madde>11/1-b</madde>
+			<aciklama>Vergisi Bu Dönemde Alıcıya İade Edilen 43 No.'lu KDV Genel Tebliği Kapsamındaki Satışlarla İlgili  Yüklenilen KDV</aciklama>
+		</digeriade>	
+		<digeriade>
+			 <kod>405</kod>
+			<madde>11/1-c ve Geçici 17</madde>
+			<aciklama>İhracatı Bu Dönemde Gerçekleşen İndirimli Orana Tabi Malların İhraç Kaydıyla Teslimleri ile İlgili Yüklenilen KDV Farkı</aciklama>
+		</digeriade>
+		<digeriade>
+			 <kod>406</kod>
+			<madde>29/2</madde>
+			<aciklama>İndirimli Orana Tabi İşlemler</aciklama>
+		</digeriade>
+		<digeriade>
+			 <kod>407</kod>
+			<madde>11/1-a</madde>
+			<aciklama>61 No.lu KDV Genel Tebliği Kapsamındaki Teslimlerle İlgili Düzeltilecek KDV</aciklama>
+		</digeriade>		
+		<digeriade>
+			 <kod>408</kod>
+			<madde>11/1-b</madde>
+			<aciklama>43 No.lu KDV Genel Tebliği Kapsamındaki Teslimlerle İlgili Olup Bu Dönemde Alıcıya İade Edilen KDV</aciklama>
+		</digeriade>		
+		<digeriade>
+			 <kod>450</kod>
+			 <madde/>
+			<aciklama>Diğerleri</aciklama>
+		</digeriade>
+	</digeriadeler>
+	<iadeHakkiDoguranIslemler>	
+		<iadeHakkiDoguranIslem>
+			 <kod>301</kod>
+			<madde>11/1-a(1)</madde>
+			<aciklama>Mal İhracı</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>302</kod>
+			<madde>11/1-a(2)</madde><aciklama>Hizmet İhracı</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>303</kod>
+			<madde>11/1-a(3)</madde><aciklama>Roaming Hizmetleri</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>304</kod>
+			<madde>13/a</madde>
+			<aciklama>Deniz, Hava ve Demiryolu Taşıma Araçlarının Teslimi ile İnşa,Tadil,Bakım ve Onarımları</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>305</kod>
+			<madde>13/b</madde>
+			<aciklama>Deniz ve Hava Taşıma Araçları İçin Liman ve Hava Meydanlarında Yapılan Hizmetler</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>306</kod>
+			<madde>13/c(1)</madde><aciklama>Petrol Aramaları</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>307</kod>
+			<madde>13/c(2)</madde>
+			<aciklama>Kıymetli Taşların Arama,Zenginleştirme ve Rafinaj Faaliyetleri</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>308</kod>
+			<madde>13/d</madde><aciklama>Teşvikli Yatırım Mallarının Teslimi</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>309</kod>
+			<madde>13/e</madde>
+			<aciklama>Liman ve Hava Meydanlarının İnşası, Yenilenmesi ve Genişletilmesi</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>310</kod>
+			<madde>13/f</madde>
+			<aciklama>Ulusal Güvenlik Amaçlı Teslim ve Hizmetler</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>311</kod>
+			<madde>14</madde><aciklama>Uluslararası Taşımacılık</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>312</kod>
+			<madde>15/a</madde><aciklama>Diplomatik Organ ve Misyonlara Yapılan Teslim ve Hizmetler</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>313</kod>
+			<madde>15/b</madde><aciklama>Uluslararası Kuruluşlara Yapılan Teslim ve Hizmetler</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>401</kod>
+			<madde>8/2</madde><aciklama>Fazla ve Yersiz Ödenen Vergiler</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>402</kod>
+			<madde>9/2</madde>
+			<aciklama>Kısmi Tevkifat Uygulanan İşlemlerde Alıcı Tarafından Beyan Edilecek KDV</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>403</kod>
+			<madde>11/1-a</madde>
+			<aciklama>61 No.lu KDV Genel Tebliği Kapsamındaki Satışlarla İlgili Yüklenilen KDV</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>404</kod>
+			<madde>11/1-b</madde>
+			<aciklama>Vergisi Bu Dönemde Alıcıya İade Edilen 43 No.'lu KDV Genel Tebliği Kapsamındaki Satışlarla İlgili  Yüklenilen KDV</aciklama>
+		</iadeHakkiDoguranIslem>	
+		<iadeHakkiDoguranIslem>
+			 <kod>405</kod>
+			<madde>11/1-c ve Geçici 17</madde>
+			<aciklama>İhracatı Bu Dönemde Gerçekleşen İndirimli Orana Tabi Malların İhraç Kaydıyla Teslimleri ile İlgili Yüklenilen KDV Farkı</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>406</kod>
+			<madde>29/2</madde>
+			<aciklama>İndirimli Orana Tabi İşlemler</aciklama>
+		</iadeHakkiDoguranIslem>
+		<iadeHakkiDoguranIslem>
+			 <kod>407</kod>
+			<madde>11/1-a</madde>
+			<aciklama>61 No.lu KDV Genel Tebliği Kapsamındaki Teslimlerle İlgili Düzeltilecek KDV</aciklama>
+		</iadeHakkiDoguranIslem>		
+		<iadeHakkiDoguranIslem>
+			 <kod>408</kod>
+			<madde>11/1-b</madde>
+			<aciklama>43 No.lu KDV Genel Tebliği Kapsamındaki Teslimlerle İlgili Olup Bu Dönemde Alıcıya İade Edilen KDV</aciklama>
+		</iadeHakkiDoguranIslem>		
+		<iadeHakkiDoguranIslem>
+			 <kod>450</kod>
+			 <madde/>
+			<aciklama>Diğerleri</aciklama>
+		</iadeHakkiDoguranIslem>
+	</iadeHakkiDoguranIslemler>	
+	<indirilecekKDVListesi>	
+		<indirilecekKDV>
+			 <kod>301</kod>
+			<madde>11/1-a(1)</madde>
+			<aciklama>Mal İhracı</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>302</kod>
+			<madde>11/1-a(2)</madde><aciklama>Hizmet İhracı</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>303</kod>
+			<madde>11/1-a(3)</madde><aciklama>Roaming Hizmetleri</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>304</kod>
+			<madde>13/a</madde>
+			<aciklama>Deniz, Hava ve Demiryolu Taşıma Araçlarının Teslimi ile İnşa,Tadil,Bakım ve Onarımları</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>305</kod>
+			<madde>13/b</madde>
+			<aciklama>Deniz ve Hava Taşıma Araçları İçin Liman ve Hava Meydanlarında Yapılan Hizmetler</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>306</kod>
+			<madde>13/c(1)</madde><aciklama>Petrol Aramaları</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>307</kod>
+			<madde>13/c(2)</madde>
+			<aciklama>Kıymetli Taşların Arama,Zenginleştirme ve Rafinaj Faaliyetleri</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>308</kod>
+			<madde>13/d</madde><aciklama>Teşvikli Yatırım Mallarının Teslimi</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>309</kod>
+			<madde>13/e</madde>
+			<aciklama>Liman ve Hava Meydanlarının İnşası, Yenilenmesi ve Genişletilmesi</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>310</kod>
+			<madde>13/f</madde>
+			<aciklama>Ulusal Güvenlik Amaçlı Teslim ve Hizmetler</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>311</kod>
+			<madde>14</madde><aciklama>Uluslararası Taşımacılık</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>312</kod>
+			<madde>15/a</madde><aciklama>Diplomatik Organ ve Misyonlara Yapılan Teslim ve Hizmetler</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>313</kod>
+			<madde>15/b</madde><aciklama>Uluslararası Kuruluşlara Yapılan Teslim ve Hizmetler</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>401</kod>
+			<madde>8/2</madde><aciklama>Fazla ve Yersiz Ödenen Vergiler</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>402</kod>
+			<madde>9/2</madde>
+			<aciklama>Kısmi Tevkifat Uygulanan İşlemlerde Alıcı Tarafından Beyan Edilecek KDV</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>403</kod>
+			<madde>11/1-a</madde>
+			<aciklama>61 No.lu KDV Genel Tebliği Kapsamındaki Satışlarla İlgili Yüklenilen KDV</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>404</kod>
+			<madde>11/1-b</madde>
+			<aciklama>Vergisi Bu Dönemde Alıcıya İade Edilen 43 No.'lu KDV Genel Tebliği Kapsamındaki Satışlarla İlgili  Yüklenilen KDV</aciklama>
+		</indirilecekKDV>	
+		<indirilecekKDV>
+			 <kod>405</kod>
+			<madde>11/1-c ve Geçici 17</madde>
+			<aciklama>İhracatı Bu Dönemde Gerçekleşen İndirimli Orana Tabi Malların İhraç Kaydıyla Teslimleri ile İlgili Yüklenilen KDV Farkı</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>406</kod>
+			<madde>29/2</madde>
+			<aciklama>İndirimli Orana Tabi İşlemler</aciklama>
+		</indirilecekKDV>
+		<indirilecekKDV>
+			 <kod>407</kod>
+			<madde>11/1-a</madde>
+			<aciklama>61 No.lu KDV Genel Tebliği Kapsamındaki Teslimlerle İlgili Düzeltilecek KDV</aciklama>
+		</indirilecekKDV>		
+		<indirilecekKDV>
+			 <kod>408</kod>
+			<madde>11/1-b</madde>
+			<aciklama>43 No.lu KDV Genel Tebliği Kapsamındaki Teslimlerle İlgili Olup Bu Dönemde Alıcıya İade Edilen KDV</aciklama>
+		</indirilecekKDV>		
+		<indirilecekKDV>
+			 <kod>450</kod>
+			 <madde/>
+			<aciklama>Diğerleri</aciklama>
+		</indirilecekKDV>
+	</indirilecekKDVListesi>
+	<digerIslemler>
+		<digerIslem>
+			<kod>501</kod>
+			<ad>43. No'lu KDV Genel Tebliği Kapsamındaki İşlemler</ad>
+		</digerIslem>
+		<digerIslem>
+			<kod>502</kod>
+			<ad>61 No.'lu KDV Genel Tebliği Kapsamındaki İşlemler</ad>
+		</digerIslem>
+		<digerIslem>
+			<kod>550</kod>
+			<ad>Diğerleri</ad>
+		</digerIslem>
+	</digerIslemler>	
+</kodlar>
